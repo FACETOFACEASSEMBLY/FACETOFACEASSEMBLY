@@ -1,13 +1,14 @@
+<!-- FILE: about.html -->
 <!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>About — Face to Face Assembly</title>
+  <title>About Us - Face to Face Assembly</title>
   <link rel="stylesheet" href="assets/styles.css">
 </head>
 <body>
-  <header class="site-header small">
+  <header class="site-header">
     <div class="container nav-wrap">
       <a class="brand" href="index.html">Face to Face Assembly</a>
       <nav class="main-nav">
@@ -25,46 +26,79 @@
     </div>
   </header>
 
-  <main class="container">
-    <section class="about-intro">
-      <h1>About Face to Face Assembly</h1>
-      <p>Face to Face Assembly (also known as Face to Face Christian Assembly) is a church located in Sapele, Delta State. We are on a mission "to usher as many souls as possible into God's Kingdom through the Media, Prayer, Internet, and Mission Trips." Founded to serve the community, we emphasise charity and reaching out to the poor.</p>
+  <main>
+    <!-- Hero Section (smaller than home page) -->
+    <section class="hero hero-about">
+      <img src="pexels-jibarofoto-2014775.jpg" alt="About Face to Face Assembly" class="big-image">
+      <div class="hero-overlay"></div>
+      <div class="hero-content">
+        <h1>About Face to Face Assembly</h1>
+        <p>Learn more about our mission, vision, and the people behind the work of God in Sapele.</p>
+      </div>
     </section>
 
-    <section class="founder">
-      <h2>General Overseer</h2>
-      <div class="founder-grid">
-        <div class="founder-image"> <!-- Add pastor image at assets/happy-overah.jpg -->
-          <img class="happy-round" src="happy overah profile picture.jpg" alt="Pastor Happy Overah (General Overseer)" onerror="this.style.opacity=.08; this.nextElementSibling.style.display='block'">
-          <div class="image-note" style="display:none;"></div>
-        </div>
-        <div class="founder-text">
+    <section class="about-intro container">
+      <p>
+        Face to Face Assembly, Sapele, is a Christian ministry devoted to transforming lives through faith, education, and compassion. Our work spans outreach programs, orphanage support, free education for children, and building a strong spiritual community.
+      </p>
+    </section>
+
+    <section class="founder container">
+      <h2>Our Founder</h2>
+      <div class="founder-card">
+        <img src="happy overah profile picture.jpg" alt="Pastor Happy Overah">
+        <div class="founder-info">
           <h3>Pastor Happy Overah</h3>
-          <p><strong>General Overseer</strong> — Pastor Happy Overah leads Face to Face Assembly with a deep commitment to charity, community service and evangelism. Under his leadership the church has initiated projects such as the Jesus The Son of God Educational Center (a free school) and Ebenezer Orphanage Home.</p>
-          <p>(If you want more biographical details, place them here. You asked I look up additional details — be sure to verify any personal history before publishing.)</p>
+          <p>
+            General Overseer of Face to Face Assembly, Pastor Overah has been committed to serving God faithfully for decades. His vision is to build a ministry that brings hope to the less privileged and strengthens the faith of believers through teaching and outreach.
+          </p>
         </div>
       </div>
     </section>
 
-    <section class="mission">
-      <h2>Vision & Mission</h2>
-      <p>We believe Christianity is a communal call to help the helpless. Our mission includes education for poor children, care for motherless homes, and regular outreach that demonstrates God's love in practical ways.</p>
+    <section class="mission container">
+      <h2>Our Mission & Vision</h2>
+      <div class="mission-grid">
+        <div class="mission-card">
+          <h3>Mission</h3>
+          <p>To preach the Gospel of Jesus Christ and extend God’s love through charitable works, free education, and outreach programs.</p>
+        </div>
+        <div class="mission-card">
+          <h3>Vision</h3>
+          <p>To see a community where faith thrives and no child is denied the opportunity of education or care due to poverty.</p>
+        </div>
+      </div>
     </section>
 
+    <section class="timeline container">
+      <h2>Our Journey</h2>
+      <div class="timeline-item">
+        <span class="timeline-date">2005</span>
+        <p class="text-about">Face to Face Assembly was founded with the aim of spreading the Gospel and supporting the Sapele community.</p>
+      </div>
+      <div class="timeline-item">
+        <span class="timeline-date">2012</span>
+        <p class="text-about">Jesus The Son of God Educational Center was established as a free school for children from disadvantaged homes.</p>
+      </div>
+      <div class="timeline-item">
+        <span class="timeline-date">2019</span>
+        <p class="text-about">We expanded our orphanage support program to reach multiple homes in Delta State.</p>
+      </div>
+    </section>
   </main>
 
-  <footer class="site-footer small new-footer">
+  <footer class="site-footer">
     <div class="container footer-grid">
       <div>
         <h3>Face to Face Assembly</h3>
-        <p>52 Sapele‑Warri Road, Sapele, Delta State</p>
+        <p>52 Sapele-Warri Road, Sapele, Delta State</p>
         <p>Phone: +2348033884008</p>
         <p>General Overseer: <strong>Pastor Happy Overah</strong></p>
       </div>
       <div>
         <h4>Quick Links</h4>
         <ul>
-          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
           <li><a href="ministries.html">Ministries</a></li>
           <li><a href="news.html">News</a></li>
           <li><a href="contact.html">Contact</a></li>
@@ -73,10 +107,16 @@
       <div>
         <h4>Follow</h4>
         <p>Connect with us on social media</p>
+        <div class="socials">
+          <a href="#">Facebook</a> | <a href="#">YouTube</a>
+        </div>
       </div>
     </div>
-    <div class="container copyright">&copy; <span id="year2"></span> Face to Face Assembly - Sapele. All rights reserved.</div>
+    <div class="container copyright">&copy; 
+      <span id="year"></span> Face to Face Assembly - Sapele. All rights reserved.
+    </div>
   </footer>
+
   <script src="assets/script.js"></script>
 </body>
 </html>
