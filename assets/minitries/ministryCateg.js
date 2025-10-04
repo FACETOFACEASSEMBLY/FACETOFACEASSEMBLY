@@ -1,13 +1,22 @@
 export const ministryCateg = [{
-    header: 'Education — Jesus The Son of God Educational Center',
-    description: 'A free school established to give poor children access to basic education. Volunteers and donations support teachers, books and uniforms.'
+    header: 'Face to Face Assenbly SALUBI',
+    description: 'Pastor Mike Sunday, Resident Pastor The Resident Pastor in Salubi Branch/Odebala connection centre.'
 }, {
-    header: 'Orphanage Support — Ebenezer Orphanage Home',
-    description: 'We support Ebenezer Orphanage Home and other motherless homes through feeding programs, supplies and regular visits.'
+    header: 'Face to Face Assembly AJOGODO',
+    description: 'Pastor Opiepie Esther, Assistant Resident Pastor The Assistant Resident Pastor in Ajaogodo Branch & Ijere Conection Centre'
 },{
-    header: 'Feeding & Outreach',
+    header: 'Face to Face Assembly VITAFOAM',
     description: 'Regular community feeding initiatives at Testimony Motherless Baby Home and Alfa and Omega Motherless Home, Sapele.'
 }, {
-    header: 'Media & Evangelism',
-    description: 'Media-based outreach, prayer meetings and mission trips to spread the gospel and help communities in need.'
+    header: 'Face to Face Assembly SHELL ROAD',
+    description: 'Pastor Kogoro E. Omonigho,  Resident Pastor The Resident Pastor in Shell Road Branch.'
+}, {
+    header: 'Face to Face Assembly MOSOGAR',
+    description: 'Pastor Alfred Akpeki, Resident Pastor The Resident Pastor in Mosogar 2/Orhiaki Branch.'
+}, {
+    header: 'Face to Face Assembly JESSE',
+    description: 'Pastor Latibor Nwasami, Resident Pastor The Resident Pastor in Jesse branch.'
+}, {
+    header: 'Face to Face Assembly UGBEYIYI',
+    description: 'Pastor Juliet Okolie, Resident Pastor The Resident Pastor in Ugbeyiyi Branch.'
 }]
