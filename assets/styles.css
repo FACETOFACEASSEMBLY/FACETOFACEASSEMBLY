@@ -200,10 +200,23 @@ body::before{
 
 
 @media (max-width:920px){
-  .nav-wrap{ padding:0.45rem 0; }
-  .brand{ font-size:1.1rem }
-  .hero { min-height: 520px; background-position: center 35%; }
-  .hero-text { padding: 1rem; }
+  .nav-wrap{
+     padding:0.45rem 0;
+     }
+  .brand{ 
+    font-size:1.1rem;
+  }
+  .hero {
+     min-height: 520px; 
+     background-position: center 35%; 
+    }
+  .hero-text {
+     padding: 1rem;
+     }
+  .highlights {
+    grid-template-columns: repeat(auto-fit, minmax(20px, 1fr));
+    gap:0.6rem;
+  }
 }
 
 /*for my highlight cards for the church*/
