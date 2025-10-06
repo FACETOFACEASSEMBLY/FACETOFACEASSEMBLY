@@ -251,7 +251,7 @@ body::before{
 
 
 .card{
-  background: linear-gradient(180deg,#fff,#91cdd1);
+  background: linear-gradient(180deg,#fff,#91cdd162);
   border-radius: var(--card-radius);
   padding:1.25rem;
   text-align:center;
@@ -278,7 +278,7 @@ body::before{
 .cta.container{
   margin-top: 1.5rem;
   padding: 1.6rem;
-  background: linear-gradient(180deg, rgba(179,0,0,0.06), rgba(169, 219, 228, 0.678));
+  background: linear-gradient(180deg,#fff,#91cdd134);
   border-radius: 12px;
 }
 .cta h2{
@@ -307,7 +307,7 @@ body::before{
   margin-top: 0.9rem;
 }
 .news-card{
-  background: linear-gradient(180deg,#e9f1ef,rgba(169, 219, 228, 0.678));
+  background: linear-gradient(180deg,#fff,#91cdd162);
   border-radius: 12px;
   padding: 1.1rem 1.15rem;
   box-shadow: 0 8px 20px rgba(0,0,0,0.06);
