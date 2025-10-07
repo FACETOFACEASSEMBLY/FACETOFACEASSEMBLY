@@ -24,7 +24,7 @@ html, body {
 
 main {
   flex: 1;
-  
+  background-color: black;
 }
 
 a { color: white; text-decoration: none; }
@@ -1164,5 +1164,6 @@ img {
 .frame-video {
   filter: invert(100%);
 }
+
 
 
