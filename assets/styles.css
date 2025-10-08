@@ -1176,15 +1176,18 @@ img {
   filter: invert(100%);
 }
 .email-style, .amount-style {
-  border-left:2px solid rgba(228, 78, 78, 0.411);
+  border-left:2px solid rgb(240, 72, 72);
   width: 70%;
   height: 90%;
+  font-size: 18px;
+  margin-bottom: 5px;
 }
 .display-style-money {
   color: white;
   font-size: 30px;
 }
 .button-pay {
+  margin-top: 20px;
   width: 30%;
   background: linear-gradient(180deg, rgba(179,0,0,0.05), rgba(223, 91, 91, 0.445));
   color: white;
