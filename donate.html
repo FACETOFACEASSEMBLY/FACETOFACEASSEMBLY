@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Donate — Face to Face Assembly</title>
   <link rel="stylesheet" href="assets/styles.css">
+  <script src="https://js.paystack.co/v2/inline.js"></script>
 </head>
 <body>
   <header class="site-header small">
@@ -66,11 +67,15 @@
   <div id="donateModal" class="modal">
     <div class="modal-content">
       <span class="close-btn">&times;</span>
-      <h2>Bank Transfer Details</h2>
-      <p><strong>Account Name:</strong> FACE TO FACE PROPHETIC HOLY GHOST</p>
-      <p><strong>Bank:</strong> Zenith Bank</p>
-      <p><strong>Account Number:</strong> 1015835852</p>
-      <p class="note">Thank you for your support. Every gift helps us reach more lives.</p>
+      
+      <input class="email-style" type="email" id="email" placeholder="Enter Your Email"/>
+      <input class="amount-style" type="number" id="amount" placeholder="Amount" oninput="updateDisplayAmount()">
+      <div class="display-style-money" id="displayAmount"></div>
+      <button
+      onclick="payWithPaystack()"
+       class="btn button-pay">
+        Pay Now
+      </button>
     </div>
   </div>
   <!-- End Donate Modal -->
@@ -94,5 +99,6 @@
   </footer>
 
   <script src="assets/script.js"></script>
+  <script src="assets/Payment Integration/payment.js"></script>
 </body>
 </html>
