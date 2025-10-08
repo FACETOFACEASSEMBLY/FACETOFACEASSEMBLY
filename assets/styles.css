@@ -912,7 +912,7 @@ a:focus, button:focus{ outline: 3px solid rgba(179,0,0,0.12); outline-offset: 3p
   position: fixed;
   z-index: 9999;
   left: 0;
-  top: 0;
+  top: 80%;
   width: 100%;
   height: 100%;
   overflow: auto;
@@ -930,8 +930,8 @@ a:focus, button:focus{ outline: 3px solid rgba(179,0,0,0.12); outline-offset: 3p
   box-shadow: 0 8px 30px rgba(0,0,0,0.2);
   animation: slideDown .35s ease-out;
   color: white;
-  position: absolute;
-  top: 70%;
+  border: 1px solid rgba(228, 78, 78, 0.411);
+  
 }
 
 .modal-content h2 {
@@ -1175,9 +1175,20 @@ img {
 .frame-video {
   filter: invert(100%);
 }
-
-
-
+.email-style, .amount-style {
+  border-left:2px solid rgba(228, 78, 78, 0.411);
+  width: 70%;
+  height: 90%;
+}
+.display-style-money {
+  color: white;
+  font-size: 30px;
+}
+.button-pay {
+  width: 30%;
+  background: linear-gradient(180deg, rgba(179,0,0,0.05), rgba(223, 91, 91, 0.445));
+  color: white;
+}
 
 
 
