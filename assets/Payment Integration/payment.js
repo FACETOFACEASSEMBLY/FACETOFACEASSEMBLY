@@ -39,4 +39,14 @@ function payWithPaystack() {
         onError: (error) => console.log('Error', error.message),
     });
 
+
+}
+
+function showThankYouPopup() {
+    const popup = document.getElementById("thankYouPopUp");
+    popup.classList.add("show");
+
+    setTimeout(() => {
+        popup.classList.remove("show");
+    }, 1500);
 }
