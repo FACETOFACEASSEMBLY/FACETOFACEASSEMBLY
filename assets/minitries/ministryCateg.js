@@ -1,6 +1,6 @@
 export const ministryCateg = [{
-    header: 'Face to Face Assenbly SALUBI',
-    description: 'Pastor Mike Sunday, Resident Pastor The Resident Pastor in Salubi Branch/Odebala connection centre.'
+    header: 'Face to Face Assembly SALUBI',
+    description: 'Pastor Mike Sunday, Resident Pastor The Resident Pastor in Salubi Branch and Odebala connection centre.'
 }, {
     header: 'Face to Face Assembly AJOGODO',
     description: 'Pastor Opiepie Esther, Assistant Resident Pastor The Assistant Resident Pastor in Ajaogodo Branch & Ijere Conection Centre'
@@ -12,10 +12,10 @@ export const ministryCateg = [{
     description: 'Pastor Kogoro E. Omonigho,  Resident Pastor The Resident Pastor in Shell Road Branch.'
 }, {
     header: 'Face to Face Assembly MOSOGAR',
-    description: 'Pastor Alfred Akpeki, Resident Pastor The Resident Pastor in Mosogar 2/Orhiaki Branch.'
+    description: 'Pastor Alfred Akpeki, Resident Pastor The Resident Pastor in Mosogar 2 and Orhiaki Branch.'
 }, {
     header: 'Face to Face Assembly JESSE',
-    description: 'Pastor Latibor Nwasami, Resident Pastor The Resident Pastor in Jesse branch.'
+    description: 'Pastor Latibor Uwasami, Resident Pastor The Resident Pastor in Jesse branch.'
 }, {
     header: 'Face to Face Assembly UGBEYIYI',
     description: 'Pastor Juliet Okolie, Resident Pastor The Resident Pastor in Ugbeyiyi Branch.'
