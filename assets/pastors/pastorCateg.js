@@ -24,7 +24,7 @@ export const pastorCateg = [{
     img: 'pastor images/pastor akpeki image.jpg',
     decription: 'The Assistant Resident Pastor in Oriaki Branch'
 }, {
-    name: 'Pastor Latibor Nwasami',
+    name: 'Pastor Latibor Uwasami',
     role: 'Resident Pastor',
     img: 'pastor images/pastor latibor image.jpg',
     decription: 'The Resident Pastor in Jesse branch'
@@ -104,3 +104,4 @@ export const pastorCateg = [{
     img: 'pastor images/pastor israel image.jpg',
     decription: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 }]
+
