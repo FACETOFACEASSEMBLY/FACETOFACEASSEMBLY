@@ -16,7 +16,7 @@ eventCateg.forEach((eventItem) => {
           <span class="month">${eventDATEMONTH}</span>
         </div>
         <div class="event-info">
-          <h3>Sunday ${eventHEADER}</h3>
+          <h3> ${eventHEADER}</h3>
           <p><strong>Time:</strong> ${eventTIME}</p>
           <p><strong>Venue:</strong> ${eventVENUE}</p>
         </div>
@@ -26,3 +26,4 @@ eventCateg.forEach((eventItem) => {
 });
   }
   runEvents();
+
