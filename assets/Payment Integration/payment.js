@@ -30,7 +30,7 @@ function payWithPaystack() {
         amount: amount * 100,
         onSuccess: (transanction) => {
             console.log('Success', transanction);
-            alert('Payment Successful');
+            showThankYouPopup();
             emailInput = '';
             amountInput = '';
             display = '';
@@ -50,4 +50,5 @@ function showThankYouPopup() {
         popup.classList.remove("show");
     }, 1500);
 }
+
 
