@@ -1,0 +1,13 @@
+# robots.txt for Face to Face Assembly, Sapele
+
+User-agent: *
+Allow: /
+
+# Disallow crawling of sensitive or unnecessary pages (uncomment if needed)
+# Disallow: /admin/
+# Disallow: /login/
+# Disallow: /tmp/
+# Disallow: /test/
+
+# Sitemap location
+Sitemap: https://facetofaceassembly.com/sitemap.xml
