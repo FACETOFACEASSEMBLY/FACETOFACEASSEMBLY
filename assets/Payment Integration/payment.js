@@ -43,10 +43,11 @@ function payWithPaystack() {
 }
 
 function showThankYouPopup() {
-    const popup = document.getElementById("thankYouPopUp");
+    const popup = document.getElementById("thankYouPopup");
     popup.classList.add("show");
 
     setTimeout(() => {
         popup.classList.remove("show");
     }, 1500);
 }
+
