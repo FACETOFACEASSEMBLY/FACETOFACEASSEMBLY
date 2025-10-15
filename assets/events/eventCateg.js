@@ -16,13 +16,13 @@ export const eventCateg = [{
     }
 },  {
     header: 'First Day of The Month Prayer',
-    time: '4:00 PM',
+    time: '5:00 AM Shell road - 6:00 AM Headquarters/Salubi/Vitafoam ',
     venue: 'Declare the month into your hands, and pray for the wellbeing of your family, Join us! and Pray',
-    date: {
-        day: 1,
+    date: {7
         month: 'NOV'
     }
 }]
+
 
 
 
