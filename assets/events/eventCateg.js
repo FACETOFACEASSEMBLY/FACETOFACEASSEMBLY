@@ -1,4 +1,12 @@
 export const eventCateg = [{
+    header: 'Sunday Worship Service',
+    time: '6:30 AM',
+    venue: 'Church Auditorium - Join us for worship, prayer, and a powerful word of God. All are welcome!',
+    date: {
+        day: 19,
+        month: 'OCT'
+    } 
+},{
     header: `Women's Prayer`,
     time: '5:00 PM',
     venue: 'Prayer Hall Every Monday - Bring your prayer Requests',
@@ -6,14 +14,6 @@ export const eventCateg = [{
         day: 20,
         month: 'OCT'
     }
-},{
-    header: 'Sunday Worship Service',
-    time: '6:30 AM',
-    venue: 'Church Auditorium Join us for worship, prayer, and a powerful word of God. All are welcome!',
-    date: {
-        day: 19,
-        month: 'OCT'
-    } 
 },  {
     header: 'First Day of The Month Prayer',
     time: '4:00 PM',
@@ -23,6 +23,7 @@ export const eventCateg = [{
         month: 'NOV'
     }
 }]
+
 
 
 
