@@ -1,7 +1,7 @@
 export const eventCateg = [{
     header: `Women's Prayer`,
     time: '5:00 PM',
-    venue: 'Prayer Hall Every Monday',
+    venue: 'Prayer Hall Every Monday - Bring your prayer Requests',
     date: {
         day: 13,
         month: 'OCT'
@@ -23,5 +23,6 @@ export const eventCateg = [{
         month: 'NOV'
     }
 }]
+
 
 
