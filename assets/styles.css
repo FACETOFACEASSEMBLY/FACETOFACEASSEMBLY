@@ -1274,5 +1274,8 @@ img {
 .facebook-vid {
   filter: invert(100%);
 }
+iframe {
+  filter: invert(100%);
+}
 
 
