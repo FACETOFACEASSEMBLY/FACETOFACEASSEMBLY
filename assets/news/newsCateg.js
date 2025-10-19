@@ -8,6 +8,9 @@ export const newsCateg = [{
     header: 'Alleluia coming up this December',
     description: 'A Vibrant community of faith, spreading love, hope, and the gospel of Christ, an event for worship and prayer',
     date: 'December 2025'
+}, {
+    id: '538989hj629dhbshsdsdfyeb8495jdj82hf',
+    header: 'Cancellation of Womens Prayer this Week',
+    description: 'On the 19th October, it was announced that doing this monday Womens prayer would be cancelled',
+    date: 'December 2025'
 }]
-
-
