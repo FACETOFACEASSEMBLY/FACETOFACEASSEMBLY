@@ -12,5 +12,6 @@ export const newsCateg = [{
     id: '538989hj629dhbshsdsdfyeb8495jdj82hf',
     header: 'Cancellation of Womens Prayer this Week',
     description: 'On the 19th October, it was announced that doing this monday Womens prayer would be cancelled',
-    date: 'December 2025'
+    date: 'October 2025'
 }]
+
