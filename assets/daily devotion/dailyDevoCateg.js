@@ -1,4 +1,22 @@
 export const dailyDevotionCateg = [{
+    date: 'MONDAY, 20TH OCTOBER 2025',
+    prayer: `<p>WHEN THE PAST SPEAKS IN THE FUTURE 
+
+“That thou writest bitter things against me, and makest me to possess the iniquities of my youth.” — Job 13:26
+
+Esau exchanged his birthright for a single meal, and later when he desired the blessing, it was no longer his. His past mistake stood before him in the future and spoke against him.  
+
+Many today suffer not because of what they do now, but because of what they did yesterday—wrong choices, careless words, or ungodly decisions. Job said the iniquities of his youth rose to confront him later in life.  
+
+Beloved, may your past mistakes not wait for you in the future. The blood of Jesus still speaks—better things than judgment. It speaks mercy, forgiveness, restoration, and peace. Take your past to Him, and every voice of error will be silenced.  
+
+<br>
+<br>
+PRAYER: <br>
+The blood of Jesus speaks better things for me. My past is forgiven, my present is redeemed, and my future is secured in Christ Jesus. Amen.</p>
+
+`
+}, {
     date: 'SUNDAY, 19TH OCTOBER 2025',
     prayer: `<p>THE BLESSINGS OF OBEDIENCE
 
@@ -11,21 +29,7 @@ Though obedience is not always easy, it always leads to blessings, favor, and di
 <br>
 <br>
 PRAYER: <br>
-My Father, My God, give me a heart that delights in obedience, that my life may attract Your favor and blessings, in Jesus’ Name, Amen.</p>
-`
-}, {
-    date: 'THURSDAY, 16TH OCTOBER 2025',
-    prayer: `<p>MOVE WITH SPEED
-
-“To obey is better than sacrifice.” — 1 Samuel 15:22
-
-When God gives an instruction, He expects immediate action. Delayed obedience is still disobedience, and it often leads to missed opportunities. Noah, Moses, and Esther succeeded because they acted without delay. Jesus also said, “What you do, do quickly” (John 13:27).
-
-Delay gives room for doubt and the enemy’s interference. True obedience requires speed, and it is the key to favor, breakthrough, and divine backing.
-<br>
-<br>
-PRAYER: <br>
-My Father, My God, I receive grace to be upright and make no more delay in my assignment, in Jesus’ Name, Amen.</p>`
+My Father, My God, give me a heart that delights in obedience, that my life may attract Your favor and blessings, in Jesus’ Name, Amen.</p>`
 }, {
     date: 'WEDNESDAY, 15TH OCTOBER 2025',
     prayer: `<p>THE EARTH WILL NOT RISE UP AGAINST ME
