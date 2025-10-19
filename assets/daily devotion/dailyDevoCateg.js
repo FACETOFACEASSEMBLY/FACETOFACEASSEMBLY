@@ -1,5 +1,20 @@
 export const dailyDevotionCateg = [{
-    date: 'FRIDAY, 17TH OCTOBER 2025',
+    date: 'SUNDAY, 19TH OCTOBER 2025',
+    prayer: `<p>THE BLESSINGS OF OBEDIENCE
+
+“A willing and obedient heart shall eat the good of the land.” — Isaiah 1:19
+
+Obedience is the key that unlocks divine promotion and favor. Abraham obeyed when called to leave his land, and later when asked to offer Isaac; his obedience opened the door to generational blessing (Genesis 22:1–17). Jesus also learned obedience through suffering, even unto death on the cross, and was highly exalted with a name above every other name (Philippians 2:1–10).  
+
+Though obedience is not always easy, it always leads to blessings, favor, and divine lifting. Every act of obedience positions you for greatness.
+
+<br>
+<br>
+PRAYER: <br>
+My Father, My God, give me a heart that delights in obedience, that my life may attract Your favor and blessings, in Jesus’ Name, Amen.</p>
+`
+}, {
+    date: 'THURSDAY, 16TH OCTOBER 2025',
     prayer: `<p>MOVE WITH SPEED
 
 “To obey is better than sacrifice.” — 1 Samuel 15:22
@@ -12,7 +27,7 @@ Delay gives room for doubt and the enemy’s interference. True obedience requir
 PRAYER: <br>
 My Father, My God, I receive grace to be upright and make no more delay in my assignment, in Jesus’ Name, Amen.</p>`
 }, {
-    date: 'THURSDAY, 16TH OCTOBER 2025',
+    date: 'WEDNESDAY, 15TH OCTOBER 2025',
     prayer: `<p>THE EARTH WILL NOT RISE UP AGAINST ME
 
 “The heaven shall reveal his iniquity; and the earth shall rise up against him.” — Job 20:27
@@ -24,19 +39,5 @@ Only the blood of Jesus silences the accusations of the earth. His blood speaks 
 <br>
             PRAYER <br>
 My Father, my God, by the blood of Jesus, let every iniquity written or speaking against me from the earth be blotted out. From today, let the earth help me, defend me, and favour me, in Jesus’ mighty name. Amen.
-</p>`
-}, {
-    date: 'WEDNESDAY, 15TH OCTOBER 2025',
-    prayer: `<p>HELPERS FROM THE FOUR GATES OF THE EARTH
-
-When God told Abraham to look north, south, east, and west, it was a sign that His help and blessing can come from every direction. God never runs out of channels to lift a man. He often uses human vessels—like Aaron and Hur for Moses, Joseph for nations, and Barnabas for Paul—to carry His help.
-
-Scripture reveals four major directions with gates (Ezekiel 48:30–35; Revelation 21:12–13), showing that divine help and favor can flow from every side. Just as God sent angels, ravens, and wise men in the past, He can stir hearts from unexpected places to favor you.
-
-Above all, Christ is the ultimate Gate (John 10:9). When you walk with Him, every gate will open, and every helper appointed to your destiny will locate you.
-<br>
-<br>
-PRAYER <br>
-My Father, my God, open to me and my family the four gates, and let helpers and Your blessings flow to us, in Jesus’ name. Amen.
 </p>`
 }]
