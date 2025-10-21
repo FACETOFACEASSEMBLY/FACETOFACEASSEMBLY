@@ -1,4 +1,28 @@
 export const dailyDevotionCateg = [{
+    date: 'WEDNESDAY, 22TH OCTOBER 2025',
+    prayer: `<p>ALWAYS GIVE THANKS TO GOD  
+
+“One major reason God created us is for us to praise Him always, no matter the circumstances.” — Isaiah 43:21-22  
+
+“These people have I formed for myself; they shall shew forth my praise.”  
+
+When Jesus faced scarcity, He didn’t first pray for supply — He gave thanks. Instantly, divine provision multiplied the five loaves and two fishes until twelve baskets overflowed (John 6:10-14). Gratitude opened the door to abundance.  
+
+If the Son of God could give thanks before the miracle, how much more should we? In Luke 17:15-17, only one out of ten lepers returned to give thanks — and he alone was made whole. Thanksgiving completes your miracle.  
+
+Even at Lazarus’ tomb, Jesus gave thanks (John 11:41-44), and life returned to what was dead. Whatever looks finished — your job, health, or peace — can rise again through thanksgiving.  
+
+Beloved, gratitude is not optional; it is the key that unlocks God’s presence and power. Give thanks always, and you will see His mighty hand at work in your life.  
+
+<br><br>
+PRAYER: <br>
+My Father, my God, give me the grace to thank You always, especially in situations that compel complaints. In Jesus’ Name. Amen.
+</p>
+
+
+
+`
+}, {
     date: 'TUESDAY, 21TH OCTOBER 2025',
     prayer: `<p>ESCAPE FROM DEATH BELONGS TO GOD  
 
@@ -13,10 +37,7 @@ So, do not fear what men can do. The keys of life and death are in God’s hands
 <br>
 <br>
 PRAYER: <br>
-My Father, my God, I thank You because You are the God of my salvation. Thank You for every time You have delivered me from death and danger. I trust You completely to keep me safe and preserve my life according to Your will. In Jesus’ name, Amen.</p>
-
-
-`
+My Father, my God, I thank You because You are the God of my salvation. Thank You for every time You have delivered me from death and danger. I trust You completely to keep me safe and preserve my life according to Your will. In Jesus’ name, Amen.</p>`
 }, {
     date: 'MONDAY, 20TH OCTOBER 2025',
     prayer: `<p>WHEN THE PAST SPEAKS IN THE FUTURE 
@@ -33,18 +54,4 @@ Beloved, may your past mistakes not wait for you in the future. The blood of Jes
 <br>
 PRAYER: <br>
 The blood of Jesus speaks better things for me. My past is forgiven, my present is redeemed, and my future is secured in Christ Jesus. Amen.</p>`
-}, {
-    date: 'SATURDAY, 19TH OCTOBER 2025',
-    prayer: `<p>THE BLESSINGS OF OBEDIENCE
-
-“A willing and obedient heart shall eat the good of the land.” — Isaiah 1:19
-
-Obedience is the key that unlocks divine promotion and favor. Abraham obeyed when called to leave his land, and later when asked to offer Isaac; his obedience opened the door to generational blessing (Genesis 22:1–17). Jesus also learned obedience through suffering, even unto death on the cross, and was highly exalted with a name above every other name (Philippians 2:1–10).  
-
-Though obedience is not always easy, it always leads to blessings, favor, and divine lifting. Every act of obedience positions you for greatness.
-
-<br>
-<br>
-PRAYER: <br>
-My Father, My God, give me a heart that delights in obedience, that my life may attract Your favor and blessings, in Jesus’ Name, Amen.</p>`
 }]
