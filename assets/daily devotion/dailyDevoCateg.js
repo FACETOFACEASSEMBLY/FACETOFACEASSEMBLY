@@ -1,4 +1,23 @@
 export const dailyDevotionCateg = [{
+    date: 'TUESDAY, 21TH OCTOBER 2025',
+    prayer: `<p>ESCAPE FROM DEATH BELONGS TO GOD  
+
+“Our God is a God of salvation, and escape from death belongs to the Lord GOD.” — Psalm 68:20  
+
+Every breath you take is proof that God alone has authority over life and death. No one escapes death by their own strength—it is the Lord who grants deliverance when destruction draws near.  
+
+When Israel stood before the Red Sea, God made a way. When Daniel was cast into the lions’ den, God shut their mouths. When Peter awaited execution, God sent an angel to free him. Each escape was divine mercy, not luck.  
+
+So, do not fear what men can do. The keys of life and death are in God’s hands. Walk in obedience and dwell in His presence, for your preservation is in Him. Every narrow escape is His reminder: “Your life is in My hands.”  
+
+<br>
+<br>
+PRAYER: <br>
+My Father, my God, I thank You because You are the God of my salvation. Thank You for every time You have delivered me from death and danger. I trust You completely to keep me safe and preserve my life according to Your will. In Jesus’ name, Amen.</p>
+
+
+`
+}, {
     date: 'MONDAY, 20TH OCTOBER 2025',
     prayer: `<p>WHEN THE PAST SPEAKS IN THE FUTURE 
 
@@ -13,11 +32,9 @@ Beloved, may your past mistakes not wait for you in the future. The blood of Jes
 <br>
 <br>
 PRAYER: <br>
-The blood of Jesus speaks better things for me. My past is forgiven, my present is redeemed, and my future is secured in Christ Jesus. Amen.</p>
-
-`
+The blood of Jesus speaks better things for me. My past is forgiven, my present is redeemed, and my future is secured in Christ Jesus. Amen.</p>`
 }, {
-    date: 'SUNDAY, 19TH OCTOBER 2025',
+    date: 'SATURDAY, 19TH OCTOBER 2025',
     prayer: `<p>THE BLESSINGS OF OBEDIENCE
 
 “A willing and obedient heart shall eat the good of the land.” — Isaiah 1:19
@@ -30,18 +47,4 @@ Though obedience is not always easy, it always leads to blessings, favor, and di
 <br>
 PRAYER: <br>
 My Father, My God, give me a heart that delights in obedience, that my life may attract Your favor and blessings, in Jesus’ Name, Amen.</p>`
-}, {
-    date: 'WEDNESDAY, 15TH OCTOBER 2025',
-    prayer: `<p>THE EARTH WILL NOT RISE UP AGAINST ME
-
-“The heaven shall reveal his iniquity; and the earth shall rise up against him.” — Job 20:27
-
-The earth is not just soil; it is a living witness. It records, speaks, and can rise in judgment when sin or blood cries out (Genesis 4:10; Jeremiah 22:29–30). While God desires the earth to bless and support His children (Psalm 67:5–6; Revelation 12:16), hidden iniquity can cause it to testify against us.
-
-Only the blood of Jesus silences the accusations of the earth. His blood speaks mercy, cleansing, and restoration (Matthew 26:28; Hebrews 12:24). Through Christ, the earth will no longer rise against you but will help, defend, and favour you.
-<br>
-<br>
-            PRAYER <br>
-My Father, my God, by the blood of Jesus, let every iniquity written or speaking against me from the earth be blotted out. From today, let the earth help me, defend me, and favour me, in Jesus’ mighty name. Amen.
-</p>`
 }]
