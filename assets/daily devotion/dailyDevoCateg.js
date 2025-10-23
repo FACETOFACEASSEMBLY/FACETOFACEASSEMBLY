@@ -1,4 +1,28 @@
 export const dailyDevotionCateg = [{
+    date: 'THURSDAY, 23TH OCTOBER 2025',
+    prayer: `<p>MOVE, YOUR NEXT LEVEL AWAITS YOU
+
+“Let us go over to the other side.” — Mark 4:35
+
+A man’s life is designed to move forward — from faith to faith, from grace to grace, and from glory to glory. Nothing about God is stagnant, and nothing about your destiny should be either.
+
+When Jesus said, “Let us go over to the other side,” it was an invitation to progress. The other side represents your next level and assignment. It may not look easy at first, but if you move, you will see God’s glory at the end (Deuteronomy 1:6; Exodus 14:15).
+
+Many fear the next step because of the storms ahead, yet storms are signs that the other side is worth it. When Jesus and His disciples faced a great storm, He arose and said, “Peace, be still,” and there was a great calm. Challenges only yield to those who confront them.
+
+If you refuse to face your Goliath, you remain where you are. But when you press through, heaven crowns your courage. “Run that you may obtain,” says 1 Corinthians 9:24. The crown belongs to movers, not settlers.
+
+Beloved, your next level awaits you. Move forward in faith. Break barriers, and embrace the glory on the other side.
+
+<br><br>
+PRAYER: <br>
+My Father, my God, give me victory over every obstacle and the boldness to move into my next level, in Jesus’ Name. Amen.</p>
+
+
+
+
+`
+}, {
     date: 'WEDNESDAY, 22TH OCTOBER 2025',
     prayer: `<p>ALWAYS GIVE THANKS TO GOD  
 
@@ -17,11 +41,7 @@ Beloved, gratitude is not optional; it is the key that unlocks God’s presence 
 <br><br>
 PRAYER: <br>
 My Father, my God, give me the grace to thank You always, especially in situations that compel complaints. In Jesus’ Name. Amen.
-</p>
-
-
-
-`
+</p>`
 }, {
     date: 'TUESDAY, 21TH OCTOBER 2025',
     prayer: `<p>ESCAPE FROM DEATH BELONGS TO GOD  
@@ -38,20 +58,4 @@ So, do not fear what men can do. The keys of life and death are in God’s hands
 <br>
 PRAYER: <br>
 My Father, my God, I thank You because You are the God of my salvation. Thank You for every time You have delivered me from death and danger. I trust You completely to keep me safe and preserve my life according to Your will. In Jesus’ name, Amen.</p>`
-}, {
-    date: 'MONDAY, 20TH OCTOBER 2025',
-    prayer: `<p>WHEN THE PAST SPEAKS IN THE FUTURE 
-
-“That thou writest bitter things against me, and makest me to possess the iniquities of my youth.” — Job 13:26
-
-Esau exchanged his birthright for a single meal, and later when he desired the blessing, it was no longer his. His past mistake stood before him in the future and spoke against him.  
-
-Many today suffer not because of what they do now, but because of what they did yesterday—wrong choices, careless words, or ungodly decisions. Job said the iniquities of his youth rose to confront him later in life.  
-
-Beloved, may your past mistakes not wait for you in the future. The blood of Jesus still speaks—better things than judgment. It speaks mercy, forgiveness, restoration, and peace. Take your past to Him, and every voice of error will be silenced.  
-
-<br>
-<br>
-PRAYER: <br>
-The blood of Jesus speaks better things for me. My past is forgiven, my present is redeemed, and my future is secured in Christ Jesus. Amen.</p>`
 }]
