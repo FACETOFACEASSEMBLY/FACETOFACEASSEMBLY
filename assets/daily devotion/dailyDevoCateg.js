@@ -1,5 +1,38 @@
 export const dailyDevotionCateg = [{
-    date: 'THURSDAY, 23TH OCTOBER 2025',
+    date: 'FRIDAY, 24TH OCTOBER 2025',
+    prayer: `<p>OVERCOMING THE SPIRIT OF STAGNATION  
+
+“Ye have dwelt long enough in this mount.” — Deuteronomy 1:6
+
+Stagnation is a state of motion without progress — staying too long in one place while life moves forward. It is an unseen force that keeps people circling the same mountain year after year. God told Israel to move because comfort had blinded them to their lack of growth.
+
+There is no stagnation in God’s creation. Rivers flow, trees grow, and stars shift — nothing stands still. When you refuse to move, life will move you. Growth is not optional; it is destiny’s demand.
+
+A woman once stayed in the same office for years, refusing to learn or grow. Another woman began as a cleaner but chose to develop herself. Years later, the cleaner became director while the other remained where she was. That is the tragedy of stagnation — it rewards comfort with decline.
+
+“The path of the just is as the shining light, that shineth more and more unto the perfect day.” — Proverbs 4:18
+
+To overcome stagnation:
+
+1. Declare light over darkness in Jesus’ name.
+2. Speak God’s Word: “I bear root downward and fruit upward.” — Isaiah 37:31
+3. Reject hindering spirits that keep you in one place (1 Thessalonians 2:18; Isaiah 57:14).
+4. Press forward like Paul: “I press toward the mark for the prize of the high calling of God.” — Philippians 3:14
+
+From today, every power that has tied you down is broken. Your life will move forward with speed and glory in Jesus’ name.
+
+<br>
+<br>
+PRAYER: <br>
+My Father, my God, in the name of Jesus, I break free from every spirit of stagnation. I declare progress, advancement, and increase in every area of my life. My light will shine brighter and brighter, in Jesus’ name. Amen.</p>
+
+
+
+
+
+`
+}, {
+    date: 'THURSDAY, 23RD OCTOBER 2025',
     prayer: `<p>MOVE, YOUR NEXT LEVEL AWAITS YOU
 
 “Let us go over to the other side.” — Mark 4:35
@@ -16,12 +49,7 @@ Beloved, your next level awaits you. Move forward in faith. Break barriers, and 
 
 <br><br>
 PRAYER: <br>
-My Father, my God, give me victory over every obstacle and the boldness to move into my next level, in Jesus’ Name. Amen.</p>
-
-
-
-
-`
+My Father, my God, give me victory over every obstacle and the boldness to move into my next level, in Jesus’ Name. Amen.</p>`
 }, {
     date: 'WEDNESDAY, 22TH OCTOBER 2025',
     prayer: `<p>ALWAYS GIVE THANKS TO GOD  
@@ -42,20 +70,4 @@ Beloved, gratitude is not optional; it is the key that unlocks God’s presence 
 PRAYER: <br>
 My Father, my God, give me the grace to thank You always, especially in situations that compel complaints. In Jesus’ Name. Amen.
 </p>`
-}, {
-    date: 'TUESDAY, 21TH OCTOBER 2025',
-    prayer: `<p>ESCAPE FROM DEATH BELONGS TO GOD  
-
-“Our God is a God of salvation, and escape from death belongs to the Lord GOD.” — Psalm 68:20  
-
-Every breath you take is proof that God alone has authority over life and death. No one escapes death by their own strength—it is the Lord who grants deliverance when destruction draws near.  
-
-When Israel stood before the Red Sea, God made a way. When Daniel was cast into the lions’ den, God shut their mouths. When Peter awaited execution, God sent an angel to free him. Each escape was divine mercy, not luck.  
-
-So, do not fear what men can do. The keys of life and death are in God’s hands. Walk in obedience and dwell in His presence, for your preservation is in Him. Every narrow escape is His reminder: “Your life is in My hands.”  
-
-<br>
-<br>
-PRAYER: <br>
-My Father, my God, I thank You because You are the God of my salvation. Thank You for every time You have delivered me from death and danger. I trust You completely to keep me safe and preserve my life according to Your will. In Jesus’ name, Amen.</p>`
 }]
