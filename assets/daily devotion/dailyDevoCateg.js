@@ -1,4 +1,35 @@
 export const dailyDevotionCateg = [{
+    date: 'SUNDAY, 26TH OCTOBER 2025',
+    prayer: `<p>THE PLANT GOD FAVOURS DOESN’T NEED WATER TO SURVIVE  
+
+“The plant God favours does not need water.” — Proverb  
+
+This means that when God decides to bless a person, that person will flourish even in hard conditions. When divine favour rests upon you, what others struggle to get will come to you with ease. — Psalm 1:3  
+
+A plant needs water to grow, but when God favours it, even if the rain delays, the plant will still blossom. The favour of God is a supernatural advantage. It opens doors that effort cannot open and attracts help where connections fail.  
+
+Joseph was a man that God favoured. He was sold into slavery, yet the Lord was with him, and he became a prosperous man in the house of his master. He was in a dry land, but his life was green. His favour spoke louder than his location.  
+
+Mary, the mother of Jesus, was also a woman favoured by God. The angel said to her, “Hail, thou that art highly favoured, the Lord is with thee.” She was not the richest or the most known woman, yet God chose her to carry the Messiah. That is what favour does — it picks ordinary people and gives them extraordinary assignments.  
+
+When God favours you, your background cannot stop your rising. People may not understand how you keep growing, succeeding, and shining even when things look hard — it is because heaven is watering you from above.  
+
+Divine favour breaks natural rules. Isaac sowed in a time of famine and reaped a hundredfold in the same year. That is what happens when God waters you Himself. It is not of him that wills or runs, but of God that shows mercy.  
+
+<br>
+<br>
+PRAYER: <br>
+My Father, my God, make me like a tree planted by the rivers of water. Let Your divine favour water my life and cause me to flourish in every season, in Jesus’ mighty name, Amen.</p>
+
+
+
+
+
+
+
+
+`
+}, {
     date: 'SATURDAY, 25TH OCTOBER 2025',
     prayer: `<p>OH LORD, FIGHT FOR ME, I WANT TO HOLD MY PEACE  
 
@@ -19,15 +50,7 @@ Declare with faith: Oh Lord, fight for me, I want to hold my peace. Let God aris
 <br>
 <br>
 PRAYER: <br>
-My Father, my God, I surrender every battle to You. Fight for me, Lord, and give me peace on every side. Arise and let all who trouble my destiny be confounded. I choose to rest in Your power, for the battle is Yours. In Jesus’ name, Amen.</p>
-
-
-
-
-
-
-
-`
+My Father, my God, I surrender every battle to You. Fight for me, Lord, and give me peace on every side. Arise and let all who trouble my destiny be confounded. I choose to rest in Your power, for the battle is Yours. In Jesus’ name, Amen.</p>`
 }, {
     date: 'FRIDAY, 24TH OCTOBER 2025',
     prayer: `<p>OVERCOMING THE SPIRIT OF STAGNATION  
@@ -55,23 +78,4 @@ From today, every power that has tied you down is broken. Your life will move fo
 <br>
 PRAYER: <br>
 My Father, my God, in the name of Jesus, I break free from every spirit of stagnation. I declare progress, advancement, and increase in every area of my life. My light will shine brighter and brighter, in Jesus’ name. Amen.</p>>`
-}, {
-    date: 'THURSDAY, 23TH OCTOBER 2025',
-    prayer: `<p>MOVE, YOUR NEXT LEVEL AWAITS YOU
-
-“Let us go over to the other side.” — Mark 4:35
-
-A man’s life is designed to move forward — from faith to faith, from grace to grace, and from glory to glory. Nothing about God is stagnant, and nothing about your destiny should be either.
-
-When Jesus said, “Let us go over to the other side,” it was an invitation to progress. The other side represents your next level and assignment. It may not look easy at first, but if you move, you will see God’s glory at the end (Deuteronomy 1:6; Exodus 14:15).
-
-Many fear the next step because of the storms ahead, yet storms are signs that the other side is worth it. When Jesus and His disciples faced a great storm, He arose and said, “Peace, be still,” and there was a great calm. Challenges only yield to those who confront them.
-
-If you refuse to face your Goliath, you remain where you are. But when you press through, heaven crowns your courage. “Run that you may obtain,” says 1 Corinthians 9:24. The crown belongs to movers, not settlers.
-
-Beloved, your next level awaits you. Move forward in faith. Break barriers, and embrace the glory on the other side.
-
-<br><br>
-PRAYER: <br>
-My Father, my God, give me victory over every obstacle and the boldness to move into my next level, in Jesus’ Name. Amen.</p>`
 }]
