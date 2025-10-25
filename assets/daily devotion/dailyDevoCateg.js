@@ -1,4 +1,34 @@
 export const dailyDevotionCateg = [{
+    date: 'SATURDAY, 25TH OCTOBER 2025',
+    prayer: `<p>OH LORD, FIGHT FOR ME, I WANT TO HOLD MY PEACE  
+
+“The LORD shall fight for you, and ye shall hold your peace.” — Exodus 14:14  
+
+Everyone has moments when the battles of life seem too fierce to fight. There are times when your strength fails, your wisdom is limited, and your resources are not enough. At such moments, God steps in as a Mighty Warrior. He doesn’t just assist you — He fights for you.  
+
+When Israel stood before the Red Sea with Pharaoh’s army behind them, they had no weapon, no strategy, and no escape route. Yet, God told Moses, “The LORD shall fight for you.” It wasn’t their strength that divided the Red Sea; it was God’s power that made a way where there was no way.  
+
+There are battles that belong to you, but there are also battles that belong to the Lord. The difference is in obedience and trust. When you trust God enough to stand still, He takes over. When you stop arguing, stop worrying, and stop fighting back in the flesh, you give room for God to manifest His power.  
+
+You don’t need to fight everyone who opposes you — let God handle them. You don’t need to defend yourself before those who lie against you — God is your defender. You don’t need to strive to prove your worth — the God who called you will vindicate you.  
+
+When God fights, He fights completely. He silences your accusers, confuses your enemies, and brings you out with victory that cannot be questioned.  
+
+Declare with faith: Oh Lord, fight for me, I want to hold my peace. Let God arise, and every opposition against your destiny will scatter.  
+
+<br>
+<br>
+PRAYER: <br>
+My Father, my God, I surrender every battle to You. Fight for me, Lord, and give me peace on every side. Arise and let all who trouble my destiny be confounded. I choose to rest in Your power, for the battle is Yours. In Jesus’ name, Amen.</p>
+
+
+
+
+
+
+
+`
+}, {
     date: 'FRIDAY, 24TH OCTOBER 2025',
     prayer: `<p>OVERCOMING THE SPIRIT OF STAGNATION  
 
@@ -24,15 +54,9 @@ From today, every power that has tied you down is broken. Your life will move fo
 <br>
 <br>
 PRAYER: <br>
-My Father, my God, in the name of Jesus, I break free from every spirit of stagnation. I declare progress, advancement, and increase in every area of my life. My light will shine brighter and brighter, in Jesus’ name. Amen.</p>
-
-
-
-
-
-`
+My Father, my God, in the name of Jesus, I break free from every spirit of stagnation. I declare progress, advancement, and increase in every area of my life. My light will shine brighter and brighter, in Jesus’ name. Amen.</p>>`
 }, {
-    date: 'THURSDAY, 23RD OCTOBER 2025',
+    date: 'THURSDAY, 23TH OCTOBER 2025',
     prayer: `<p>MOVE, YOUR NEXT LEVEL AWAITS YOU
 
 “Let us go over to the other side.” — Mark 4:35
@@ -50,24 +74,4 @@ Beloved, your next level awaits you. Move forward in faith. Break barriers, and 
 <br><br>
 PRAYER: <br>
 My Father, my God, give me victory over every obstacle and the boldness to move into my next level, in Jesus’ Name. Amen.</p>`
-}, {
-    date: 'WEDNESDAY, 22TH OCTOBER 2025',
-    prayer: `<p>ALWAYS GIVE THANKS TO GOD  
-
-“One major reason God created us is for us to praise Him always, no matter the circumstances.” — Isaiah 43:21-22  
-
-“These people have I formed for myself; they shall shew forth my praise.”  
-
-When Jesus faced scarcity, He didn’t first pray for supply — He gave thanks. Instantly, divine provision multiplied the five loaves and two fishes until twelve baskets overflowed (John 6:10-14). Gratitude opened the door to abundance.  
-
-If the Son of God could give thanks before the miracle, how much more should we? In Luke 17:15-17, only one out of ten lepers returned to give thanks — and he alone was made whole. Thanksgiving completes your miracle.  
-
-Even at Lazarus’ tomb, Jesus gave thanks (John 11:41-44), and life returned to what was dead. Whatever looks finished — your job, health, or peace — can rise again through thanksgiving.  
-
-Beloved, gratitude is not optional; it is the key that unlocks God’s presence and power. Give thanks always, and you will see His mighty hand at work in your life.  
-
-<br><br>
-PRAYER: <br>
-My Father, my God, give me the grace to thank You always, especially in situations that compel complaints. In Jesus’ Name. Amen.
-</p>`
 }]
