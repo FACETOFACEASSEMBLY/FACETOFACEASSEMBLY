@@ -109,17 +109,8 @@
   <p>Watch our Sunday live service directly from Facebook. Stay blessed and connected wherever you are!</p>
 
   <!-- Example Facebook Live Embed -->
-  <div class="fb-video-wrapper">
-    <iframe 
-      src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FYOUR_PAGE_NAME%2Fvideos%2FLIVE_VIDEO_ID%2F&show_text=false&width=500" 
-      width="100%" 
-      height="400" 
-      style="border:none;overflow:hidden" 
-      scrolling="no" 
-      frameborder="0" 
-      allowfullscreen="true" 
-      allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share">
-    </iframe>
+  <div id="link-js" class="fb-video-wrapper">
+    
   </div>
 </section>
 
@@ -143,6 +134,29 @@
   <script src="assets/script.js"></script>
   <script src="assets/Facebook/facebook.js" type="module"></script>
   <script src="assets/Facebook/facebookCateg.js" type="module"></script>
+  <script src="assets/live services/displayLive.js" type="module"></script>
+  <script src="assets/live services/displayLiveLink.js" type="module"></script>
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const iframe = document.getElementById('fb-live');
+      const fallback = document.getElementById('live-fallback');
+      
+      // Safety check to prevent null errors
+      if (!iframe || !fallback) return;
+
+      let loaded = false;
+
+      // When iframe successfully loads
+      iframe.onload = () => { loaded = true; };
+
+      // After 5 seconds, if not loaded, show the fallback
+      setTimeout(() => {
+        if (!loaded) {
+          iframe.style.display = 'none';
+          fallback.style.display = 'block';
+        }
+      }, 5000);
+    });
+  </script>
 </body>
 </html>
-
