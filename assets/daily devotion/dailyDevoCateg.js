@@ -1,6 +1,34 @@
 export const dailyDevotionCateg = [{
+    date: 'MONDAY, 27TH OCTOBER 2025',
+    prayer: `<p>**I WILL OVERTURN, OVERTURN, OVERTURN**  
+
+“I will overturn, overturn, overturn it: and it shall be no more, until he come whose right it is; and I will give it him.” — Ezekiel 21:27
+
+When God says, “I will overturn,” it is a promise of divine intervention. It means He will dismantle every order, power, or person standing in the way of His purpose. God’s overturning is not random; it is a deliberate act to restore what belongs to His chosen ones.
+
+Zephaniah 3:19 reveals the meaning behind this promise: “I will undo all that afflict thee.” The word “undo” carries the same power as “overturn.” God breaks the hold of the oppressor, silences the voice of affliction, and restores honour to those who have been shamed.
+
+When God begins to overturn, it may look like chaos, but it is divine construction in motion. He removes wrong people from right positions and replaces them with those He has chosen. He overturns delay, disappointment, and demonic influence until His will is fully accomplished.
+
+God’s overturning is His way of undoing affliction and restoring glory. When He begins to move, no force on earth or in hell can resist His hand. Wait for Him — He will not stop until He has placed you where you truly belong.
+
+<br>
+<br>
+PRAYER: <br>
+My Father, my God, overturn every affliction and opposition in my life. Replace shame with honour and cause me to rise where I have been cast down. Establish me in the place You have prepared for me, in Jesus’ mighty name, Amen.</p>
+
+
+
+
+
+
+
+
+
+`
+}, {
     date: 'SUNDAY, 26TH OCTOBER 2025',
-    prayer: `<p>THE PLANT GOD FAVOURS DOESN’T NEED WATER TO SURVIVE  
+    prayer: `THE PLANT GOD FAVOURS DOESN’T NEED WATER TO SURVIVE  
 
 “The plant God favours does not need water.” — Proverb  
 
@@ -19,16 +47,7 @@ Divine favour breaks natural rules. Isaac sowed in a time of famine and reaped a
 <br>
 <br>
 PRAYER: <br>
-My Father, my God, make me like a tree planted by the rivers of water. Let Your divine favour water my life and cause me to flourish in every season, in Jesus’ mighty name, Amen.</p>
-
-
-
-
-
-
-
-
-`
+My Father, my God, make me like a tree planted by the rivers of water. Let Your divine favour water my life and cause me to flourish in every season, in Jesus’ mighty name, Amen.</p>`
 }, {
     date: 'SATURDAY, 25TH OCTOBER 2025',
     prayer: `<p>OH LORD, FIGHT FOR ME, I WANT TO HOLD MY PEACE  
@@ -51,31 +70,4 @@ Declare with faith: Oh Lord, fight for me, I want to hold my peace. Let God aris
 <br>
 PRAYER: <br>
 My Father, my God, I surrender every battle to You. Fight for me, Lord, and give me peace on every side. Arise and let all who trouble my destiny be confounded. I choose to rest in Your power, for the battle is Yours. In Jesus’ name, Amen.</p>`
-}, {
-    date: 'FRIDAY, 24TH OCTOBER 2025',
-    prayer: `<p>OVERCOMING THE SPIRIT OF STAGNATION  
-
-“Ye have dwelt long enough in this mount.” — Deuteronomy 1:6
-
-Stagnation is a state of motion without progress — staying too long in one place while life moves forward. It is an unseen force that keeps people circling the same mountain year after year. God told Israel to move because comfort had blinded them to their lack of growth.
-
-There is no stagnation in God’s creation. Rivers flow, trees grow, and stars shift — nothing stands still. When you refuse to move, life will move you. Growth is not optional; it is destiny’s demand.
-
-A woman once stayed in the same office for years, refusing to learn or grow. Another woman began as a cleaner but chose to develop herself. Years later, the cleaner became director while the other remained where she was. That is the tragedy of stagnation — it rewards comfort with decline.
-
-“The path of the just is as the shining light, that shineth more and more unto the perfect day.” — Proverbs 4:18
-
-To overcome stagnation:
-
-1. Declare light over darkness in Jesus’ name.
-2. Speak God’s Word: “I bear root downward and fruit upward.” — Isaiah 37:31
-3. Reject hindering spirits that keep you in one place (1 Thessalonians 2:18; Isaiah 57:14).
-4. Press forward like Paul: “I press toward the mark for the prize of the high calling of God.” — Philippians 3:14
-
-From today, every power that has tied you down is broken. Your life will move forward with speed and glory in Jesus’ name.
-
-<br>
-<br>
-PRAYER: <br>
-My Father, my God, in the name of Jesus, I break free from every spirit of stagnation. I declare progress, advancement, and increase in every area of my life. My light will shine brighter and brighter, in Jesus’ name. Amen.</p>>`
 }]
