@@ -1,4 +1,37 @@
 export const dailyDevotionCateg = [{
+    date: 'TUESDAY, 28TH OCTOBER 2025',
+    prayer: `<p>**CONFIDENCE**  
+
+“**And this is the confidence that we have in Him, that, if we ask anything according to His will, He heareth us.**” — 1 John 5:14
+
+Confidence in God is the deep assurance that He is faithful, His promises are true, and He will never fail. Even in times of uncertainty, trials, or when we feel distant from Him, our trust in God must remain unshaken.
+
+Many people hesitate to approach God because of fear, guilt, or doubt. Yet, the Bible encourages us to come boldly before His throne. Confidence in God means knowing that He welcomes us, hears us, and cares for us. When we ask according to His will, He answers in alignment with His perfect plan for our lives.
+
+“**Cast not away therefore your confidence, which hath great recompence of reward.**” — Hebrews 10:35
+
+Sometimes, we pray and still worry about whether God will answer. But this scripture reassures us that He hears and responds — though not always in the way or time we expect. True confidence in God is trusting that His response is always the best for us.
+
+Shadrach, Meshach, and Abednego demonstrated this unwavering confidence when they faced the fiery furnace. They declared that even if God did not deliver them, they would still trust Him. That is the essence of faith — trusting in His sovereignty, not just His miracles.
+
+Confidence in God silences fear and strengthens faith. It turns worry into worship and doubt into assurance. Hold on to your confidence, for God never fails those who trust Him.
+
+<br>
+<br>
+**PRAYER:** <br>
+My Father, my God, I have confidence in You. Hear and answer me according to Your will. Strengthen my faith and let my trust in You never fade. In Jesus’ mighty name, Amen.</p>
+
+
+
+
+
+
+
+
+
+
+`
+}, {
     date: 'MONDAY, 27TH OCTOBER 2025',
     prayer: `<p>**I WILL OVERTURN, OVERTURN, OVERTURN**  
 
@@ -15,17 +48,7 @@ God’s overturning is His way of undoing affliction and restoring glory. When H
 <br>
 <br>
 PRAYER: <br>
-My Father, my God, overturn every affliction and opposition in my life. Replace shame with honour and cause me to rise where I have been cast down. Establish me in the place You have prepared for me, in Jesus’ mighty name, Amen.</p>
-
-
-
-
-
-
-
-
-
-`
+My Father, my God, overturn every affliction and opposition in my life. Replace shame with honour and cause me to rise where I have been cast down. Establish me in the place You have prepared for me, in Jesus’ mighty name, Amen.</p>`
 }, {
     date: 'SUNDAY, 26TH OCTOBER 2025',
     prayer: `THE PLANT GOD FAVOURS DOESN’T NEED WATER TO SURVIVE  
@@ -48,26 +71,4 @@ Divine favour breaks natural rules. Isaac sowed in a time of famine and reaped a
 <br>
 PRAYER: <br>
 My Father, my God, make me like a tree planted by the rivers of water. Let Your divine favour water my life and cause me to flourish in every season, in Jesus’ mighty name, Amen.</p>`
-}, {
-    date: 'SATURDAY, 25TH OCTOBER 2025',
-    prayer: `<p>OH LORD, FIGHT FOR ME, I WANT TO HOLD MY PEACE  
-
-“The LORD shall fight for you, and ye shall hold your peace.” — Exodus 14:14  
-
-Everyone has moments when the battles of life seem too fierce to fight. There are times when your strength fails, your wisdom is limited, and your resources are not enough. At such moments, God steps in as a Mighty Warrior. He doesn’t just assist you — He fights for you.  
-
-When Israel stood before the Red Sea with Pharaoh’s army behind them, they had no weapon, no strategy, and no escape route. Yet, God told Moses, “The LORD shall fight for you.” It wasn’t their strength that divided the Red Sea; it was God’s power that made a way where there was no way.  
-
-There are battles that belong to you, but there are also battles that belong to the Lord. The difference is in obedience and trust. When you trust God enough to stand still, He takes over. When you stop arguing, stop worrying, and stop fighting back in the flesh, you give room for God to manifest His power.  
-
-You don’t need to fight everyone who opposes you — let God handle them. You don’t need to defend yourself before those who lie against you — God is your defender. You don’t need to strive to prove your worth — the God who called you will vindicate you.  
-
-When God fights, He fights completely. He silences your accusers, confuses your enemies, and brings you out with victory that cannot be questioned.  
-
-Declare with faith: Oh Lord, fight for me, I want to hold my peace. Let God arise, and every opposition against your destiny will scatter.  
-
-<br>
-<br>
-PRAYER: <br>
-My Father, my God, I surrender every battle to You. Fight for me, Lord, and give me peace on every side. Arise and let all who trouble my destiny be confounded. I choose to rest in Your power, for the battle is Yours. In Jesus’ name, Amen.</p>`
 }]
