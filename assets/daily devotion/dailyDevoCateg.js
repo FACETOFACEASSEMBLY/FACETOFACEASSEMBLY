@@ -1,61 +1,74 @@
 export const dailyDevotionCateg = [{
-    date: 'THURSDAY, 23TH OCTOBER 2025',
-    prayer: `<p>MOVE, YOUR NEXT LEVEL AWAITS YOU
+    date: 'TUESDAY, 28TH OCTOBER 2025',
+    prayer: `<p>**CONFIDENCE**  
 
-“Let us go over to the other side.” — Mark 4:35
+“**And this is the confidence that we have in Him, that, if we ask anything according to His will, He heareth us.**” — 1 John 5:14
 
-A man’s life is designed to move forward — from faith to faith, from grace to grace, and from glory to glory. Nothing about God is stagnant, and nothing about your destiny should be either.
+Confidence in God is the deep assurance that He is faithful, His promises are true, and He will never fail. Even in times of uncertainty, trials, or when we feel distant from Him, our trust in God must remain unshaken.
 
-When Jesus said, “Let us go over to the other side,” it was an invitation to progress. The other side represents your next level and assignment. It may not look easy at first, but if you move, you will see God’s glory at the end (Deuteronomy 1:6; Exodus 14:15).
+Many people hesitate to approach God because of fear, guilt, or doubt. Yet, the Bible encourages us to come boldly before His throne. Confidence in God means knowing that He welcomes us, hears us, and cares for us. When we ask according to His will, He answers in alignment with His perfect plan for our lives.
 
-Many fear the next step because of the storms ahead, yet storms are signs that the other side is worth it. When Jesus and His disciples faced a great storm, He arose and said, “Peace, be still,” and there was a great calm. Challenges only yield to those who confront them.
+“**Cast not away therefore your confidence, which hath great recompence of reward.**” — Hebrews 10:35
 
-If you refuse to face your Goliath, you remain where you are. But when you press through, heaven crowns your courage. “Run that you may obtain,” says 1 Corinthians 9:24. The crown belongs to movers, not settlers.
+Sometimes, we pray and still worry about whether God will answer. But this scripture reassures us that He hears and responds — though not always in the way or time we expect. True confidence in God is trusting that His response is always the best for us.
 
-Beloved, your next level awaits you. Move forward in faith. Break barriers, and embrace the glory on the other side.
+Shadrach, Meshach, and Abednego demonstrated this unwavering confidence when they faced the fiery furnace. They declared that even if God did not deliver them, they would still trust Him. That is the essence of faith — trusting in His sovereignty, not just His miracles.
 
-<br><br>
-PRAYER: <br>
-My Father, my God, give me victory over every obstacle and the boldness to move into my next level, in Jesus’ Name. Amen.</p>
+Confidence in God silences fear and strengthens faith. It turns worry into worship and doubt into assurance. Hold on to your confidence, for God never fails those who trust Him.
+
+<br>
+<br>
+**PRAYER:** <br>
+My Father, my God, I have confidence in You. Hear and answer me according to Your will. Strengthen my faith and let my trust in You never fade. In Jesus’ mighty name, Amen.</p>
+
+
+
+
+
+
 
 
 
 
 `
 }, {
-    date: 'WEDNESDAY, 22TH OCTOBER 2025',
-    prayer: `<p>ALWAYS GIVE THANKS TO GOD  
+    date: 'MONDAY, 27TH OCTOBER 2025',
+    prayer: `<p>**I WILL OVERTURN, OVERTURN, OVERTURN**  
 
-“One major reason God created us is for us to praise Him always, no matter the circumstances.” — Isaiah 43:21-22  
+“I will overturn, overturn, overturn it: and it shall be no more, until he come whose right it is; and I will give it him.” — Ezekiel 21:27
 
-“These people have I formed for myself; they shall shew forth my praise.”  
+When God says, “I will overturn,” it is a promise of divine intervention. It means He will dismantle every order, power, or person standing in the way of His purpose. God’s overturning is not random; it is a deliberate act to restore what belongs to His chosen ones.
 
-When Jesus faced scarcity, He didn’t first pray for supply — He gave thanks. Instantly, divine provision multiplied the five loaves and two fishes until twelve baskets overflowed (John 6:10-14). Gratitude opened the door to abundance.  
+Zephaniah 3:19 reveals the meaning behind this promise: “I will undo all that afflict thee.” The word “undo” carries the same power as “overturn.” God breaks the hold of the oppressor, silences the voice of affliction, and restores honour to those who have been shamed.
 
-If the Son of God could give thanks before the miracle, how much more should we? In Luke 17:15-17, only one out of ten lepers returned to give thanks — and he alone was made whole. Thanksgiving completes your miracle.  
+When God begins to overturn, it may look like chaos, but it is divine construction in motion. He removes wrong people from right positions and replaces them with those He has chosen. He overturns delay, disappointment, and demonic influence until His will is fully accomplished.
 
-Even at Lazarus’ tomb, Jesus gave thanks (John 11:41-44), and life returned to what was dead. Whatever looks finished — your job, health, or peace — can rise again through thanksgiving.  
+God’s overturning is His way of undoing affliction and restoring glory. When He begins to move, no force on earth or in hell can resist His hand. Wait for Him — He will not stop until He has placed you where you truly belong.
 
-Beloved, gratitude is not optional; it is the key that unlocks God’s presence and power. Give thanks always, and you will see His mighty hand at work in your life.  
-
-<br><br>
+<br>
+<br>
 PRAYER: <br>
-My Father, my God, give me the grace to thank You always, especially in situations that compel complaints. In Jesus’ Name. Amen.
-</p>`
+My Father, my God, overturn every affliction and opposition in my life. Replace shame with honour and cause me to rise where I have been cast down. Establish me in the place You have prepared for me, in Jesus’ mighty name, Amen.</p>`
 }, {
-    date: 'TUESDAY, 21TH OCTOBER 2025',
-    prayer: `<p>ESCAPE FROM DEATH BELONGS TO GOD  
+    date: 'SUNDAY, 26TH OCTOBER 2025',
+    prayer: `THE PLANT GOD FAVOURS DOESN’T NEED WATER TO SURVIVE  
 
-“Our God is a God of salvation, and escape from death belongs to the Lord GOD.” — Psalm 68:20  
+“The plant God favours does not need water.” — Proverb  
 
-Every breath you take is proof that God alone has authority over life and death. No one escapes death by their own strength—it is the Lord who grants deliverance when destruction draws near.  
+This means that when God decides to bless a person, that person will flourish even in hard conditions. When divine favour rests upon you, what others struggle to get will come to you with ease. — Psalm 1:3  
 
-When Israel stood before the Red Sea, God made a way. When Daniel was cast into the lions’ den, God shut their mouths. When Peter awaited execution, God sent an angel to free him. Each escape was divine mercy, not luck.  
+A plant needs water to grow, but when God favours it, even if the rain delays, the plant will still blossom. The favour of God is a supernatural advantage. It opens doors that effort cannot open and attracts help where connections fail.  
 
-So, do not fear what men can do. The keys of life and death are in God’s hands. Walk in obedience and dwell in His presence, for your preservation is in Him. Every narrow escape is His reminder: “Your life is in My hands.”  
+Joseph was a man that God favoured. He was sold into slavery, yet the Lord was with him, and he became a prosperous man in the house of his master. He was in a dry land, but his life was green. His favour spoke louder than his location.  
+
+Mary, the mother of Jesus, was also a woman favoured by God. The angel said to her, “Hail, thou that art highly favoured, the Lord is with thee.” She was not the richest or the most known woman, yet God chose her to carry the Messiah. That is what favour does — it picks ordinary people and gives them extraordinary assignments.  
+
+When God favours you, your background cannot stop your rising. People may not understand how you keep growing, succeeding, and shining even when things look hard — it is because heaven is watering you from above.  
+
+Divine favour breaks natural rules. Isaac sowed in a time of famine and reaped a hundredfold in the same year. That is what happens when God waters you Himself. It is not of him that wills or runs, but of God that shows mercy.  
 
 <br>
 <br>
 PRAYER: <br>
-My Father, my God, I thank You because You are the God of my salvation. Thank You for every time You have delivered me from death and danger. I trust You completely to keep me safe and preserve my life according to Your will. In Jesus’ name, Amen.</p>`
+My Father, my God, make me like a tree planted by the rivers of water. Let Your divine favour water my life and cause me to flourish in every season, in Jesus’ mighty name, Amen.</p>`
 }]
