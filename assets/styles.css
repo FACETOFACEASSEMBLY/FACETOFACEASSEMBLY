@@ -1359,7 +1359,8 @@ iframe {
 .podcast h3 {
   font-size: 1.1rem;
   margin-bottom: 0.6rem;
-  color: var(--red-strong);
+  color: rgb(53, 212, 218);
+  
 }
 
 .podcast audio {
@@ -1401,7 +1402,6 @@ iframe {
   height: 100%;
   border-radius: 50%;
 }
-
 
 
 
