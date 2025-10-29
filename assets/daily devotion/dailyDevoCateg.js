@@ -1,5 +1,5 @@
 export const dailyDevotionCateg = [{
-    date: 'TUESDAY, 28TH OCTOBER 2025',
+    date: 'WEDNESDAY, 29TH OCTOBER 2025',
     prayer: `<p>**FORBID SATAN TO ENTER YOU**  
 
 “**And after the sop Satan entered into him. Then said Jesus unto him, That thou doest, do quickly.**” — John 13:27
@@ -30,7 +30,7 @@ My Father, my God, I shut every door I may have unknowingly opened to the enemy.
 
 `
 }, {
-    date: 'MONDAY, 27TH OCTOBER 2025',
+    date: 'TUESDAY, 28TH OCTOBER 2025',
     prayer: `<p>**CONFIDENCE**  
 
 “**And this is the confidence that we have in Him, that, if we ask anything according to His will, He heareth us.**” — 1 John 5:14
@@ -52,7 +52,7 @@ Confidence in God silences fear and strengthens faith. It turns worry into worsh
 **PRAYER:** <br>
 My Father, my God, I have confidence in You. Hear and answer me according to Your will. Strengthen my faith and let my trust in You never fade. In Jesus’ mighty name, Amen.</p>`
 }, {
-    date: 'SUNDAY, 26TH OCTOBER 2025',
+    date: 'MONDAY, 27TH OCTOBER 2025',
     prayer: `<p>**I WILL OVERTURN, OVERTURN, OVERTURN**  
 
 “I will overturn, overturn, overturn it: and it shall be no more, until he come whose right it is; and I will give it him.” — Ezekiel 21:27
