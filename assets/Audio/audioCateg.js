@@ -10,4 +10,10 @@ export const audioCateg = [{
 }, {
     name: `Revealing Words`,
     audio: 'podcasts/teaching four.mp3'
+}, {
+    name: `Your day of celebration is coming`,
+    audio: 'podcasts/teaching five.mp3'
+}, {
+    name: `Say No to affliction and oppression`,
+    audio: 'podcasts/teaching six.mp3'
 }]
