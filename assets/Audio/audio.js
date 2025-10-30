@@ -5,15 +5,18 @@ let audioHTML = '';
 audioCateg.forEach((audioItem) => {
     const name = audioItem.name;
     const audio = audioItem.audio;
+    const latest = audioItem.new;
 
     audioHTML += `
         <article class="podcast">
-      <h3>${name}</h3>
-      <audio controls>
+    ${latest}
+    <h3>${name}</h3>
+    <audio controls>
         <source src="${audio}" type="audio/mpeg">
         Your browser does not support the audio element.
-      </audio>
-    </article>
+    </audio>
+</article>
+
     `;
     document.getElementById('podcast-js').innerHTML = audioHTML;
 });
