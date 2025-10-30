@@ -1,4 +1,45 @@
 export const dailyDevotionCateg = [{
+    date: 'THURSDAY, 30TH OCTOBER 2025',
+    prayer: `<p><strong>MY CASE IS DIFFERENT</strong><br><br>
+
+In a world filled with challenges, fear, and uncertainty, some people still rise, prosper, and remain unshaken — not because life is easier for them, but because their case is different.
+When you belong to God, you are not governed by the same conditions as the world. You operate under a higher covenant — one of favour, preservation, and supernatural lifting.
+
+“He shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper. The ungodly are not so, but are like the chaff which the wind driveth away.” — Psalm 1:3–4
+
+This is God’s assurance: even when the world collapses around you, He gives you a reason to rejoice. You are covered, favoured, and lifted.
+
+“When men are cast down, then thou shalt say, There is lifting up.” — Job 22:29
+
+In times of trouble, your confession must align with your covenant. You will not go down with the world because your destiny is anchored in Christ.
+
+I am not ordinary.
+I am rooted in God’s Word and covered by His covenant.
+When others are afraid, I will stand in faith.
+When others fall, I will rise.
+When there is casting down, I will declare lifting up!
+My case is different because the Lord is my portion.
+
+<br><br> <strong>PRAYER:</strong><br>
+My Father, my God, even in hard times, I will flourish because my roots are in You.
+Let Your favour speak for me when others struggle, and let my life become proof that Your covenant is sure.
+In Jesus’ mighty name, Amen.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
     date: 'WEDNESDAY, 29TH OCTOBER 2025',
     prayer: `<p>**FORBID SATAN TO ENTER YOU**  
 
@@ -16,19 +57,7 @@ If God uses you, He blesses you. But if Satan uses you, he destroys and dumps yo
 
 <br><br>
 **PRAYER:** <br>
-My Father, my God, I shut every door I may have unknowingly opened to the enemy. Let Your light expose every dark place in me. I reject anger, bitterness, and pride. I forbid Satan to enter me. Fill me with Your Spirit and keep my heart steadfast in Your truth, in Jesus’ name. Amen.</p>
-
-
-
-
-
-
-
-
-
-
-
-`
+My Father, my God, I shut every door I may have unknowingly opened to the enemy. Let Your light expose every dark place in me. I reject anger, bitterness, and pride. I forbid Satan to enter me. Fill me with Your Spirit and keep my heart steadfast in Your truth, in Jesus’ name. Amen.</p>`
 }, {
     date: 'TUESDAY, 28TH OCTOBER 2025',
     prayer: `<p>**CONFIDENCE**  
@@ -51,22 +80,4 @@ Confidence in God silences fear and strengthens faith. It turns worry into worsh
 <br>
 **PRAYER:** <br>
 My Father, my God, I have confidence in You. Hear and answer me according to Your will. Strengthen my faith and let my trust in You never fade. In Jesus’ mighty name, Amen.</p>`
-}, {
-    date: 'MONDAY, 27TH OCTOBER 2025',
-    prayer: `<p>**I WILL OVERTURN, OVERTURN, OVERTURN**  
-
-“I will overturn, overturn, overturn it: and it shall be no more, until he come whose right it is; and I will give it him.” — Ezekiel 21:27
-
-When God says, “I will overturn,” it is a promise of divine intervention. It means He will dismantle every order, power, or person standing in the way of His purpose. God’s overturning is not random; it is a deliberate act to restore what belongs to His chosen ones.
-
-Zephaniah 3:19 reveals the meaning behind this promise: “I will undo all that afflict thee.” The word “undo” carries the same power as “overturn.” God breaks the hold of the oppressor, silences the voice of affliction, and restores honour to those who have been shamed.
-
-When God begins to overturn, it may look like chaos, but it is divine construction in motion. He removes wrong people from right positions and replaces them with those He has chosen. He overturns delay, disappointment, and demonic influence until His will is fully accomplished.
-
-God’s overturning is His way of undoing affliction and restoring glory. When He begins to move, no force on earth or in hell can resist His hand. Wait for Him — He will not stop until He has placed you where you truly belong.
-
-<br>
-<br>
-PRAYER: <br>
-My Father, my God, overturn every affliction and opposition in my life. Replace shame with honour and cause me to rise where I have been cast down. Establish me in the place You have prepared for me, in Jesus’ mighty name, Amen.</p>`
 }]
