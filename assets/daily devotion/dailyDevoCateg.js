@@ -1,4 +1,48 @@
 export const dailyDevotionCateg = [{
+    date: 'FRIDAY, 31ST OCTOBER 2025',
+    prayer: `<p><strong>ALL-ROUND REST</strong><br><br>
+
+One of the greatest blessings God gives His children is not just victory — it is rest on every side.
+There is a level in God where battles cease, storms become still, and your soul finds peace in every area of life. This is called All-Round Rest.
+
+“But now the Lord my God hath given me rest on every side, so that there is neither adversary nor evil occurrence.” — 1 Kings 5:4
+
+Many people experience partial peace — financial rest but emotional turmoil, career success but trouble at home. But God’s plan is not partial peace; His promise is complete tranquility: rest in your body, peace in your mind, and joy in your heart.
+
+When Jesus said, “Come unto me, all ye that labour and are heavy laden, and I will give you rest” (Matthew 11:28), He meant total relief — rest from worry, fear, striving, and long-standing battles.
+
+All-round rest begins when you learn to trust God in everything.
+You stop fighting for yourself and allow His presence to fight for you.
+You stop carrying burdens only grace can handle.
+
+“And He said, My presence shall go with thee, and I will give thee rest.” — Exodus 33:14
+
+In His presence, fear melts away. Confusion ends. Burdens lift.
+When your heart truly rests in God, you begin to see His hand move in every direction — turning battles into blessings and struggles into testimonies.
+
+“And the land had rest round about.” — Joshua 21:44
+
+I pray for you this day: may the Lord give you rest from all your troubles in Jesus’ Name.
+
+<br><br><strong>PRAYER:</strong><br>
+My Father, my God, let Your presence go with me and give me all-round rest — in my health, my home, my finances, and my destiny.
+I refuse fear and struggle. I enter into Your divine rest, in Jesus’ mighty name, Amen.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
     date: 'THURSDAY, 30TH OCTOBER 2025',
     prayer: `<p><strong>MY CASE IS DIFFERENT</strong><br><br>
 
@@ -23,22 +67,7 @@ My case is different because the Lord is my portion.
 <br><br> <strong>PRAYER:</strong><br>
 My Father, my God, even in hard times, I will flourish because my roots are in You.
 Let Your favour speak for me when others struggle, and let my life become proof that Your covenant is sure.
-In Jesus’ mighty name, Amen.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-`
+In Jesus’ mighty name, Amen.</p>`
 }, {
     date: 'WEDNESDAY, 29TH OCTOBER 2025',
     prayer: `<p>**FORBID SATAN TO ENTER YOU**  
@@ -58,26 +87,4 @@ If God uses you, He blesses you. But if Satan uses you, he destroys and dumps yo
 <br><br>
 **PRAYER:** <br>
 My Father, my God, I shut every door I may have unknowingly opened to the enemy. Let Your light expose every dark place in me. I reject anger, bitterness, and pride. I forbid Satan to enter me. Fill me with Your Spirit and keep my heart steadfast in Your truth, in Jesus’ name. Amen.</p>`
-}, {
-    date: 'TUESDAY, 28TH OCTOBER 2025',
-    prayer: `<p>**CONFIDENCE**  
-
-“**And this is the confidence that we have in Him, that, if we ask anything according to His will, He heareth us.**” — 1 John 5:14
-
-Confidence in God is the deep assurance that He is faithful, His promises are true, and He will never fail. Even in times of uncertainty, trials, or when we feel distant from Him, our trust in God must remain unshaken.
-
-Many people hesitate to approach God because of fear, guilt, or doubt. Yet, the Bible encourages us to come boldly before His throne. Confidence in God means knowing that He welcomes us, hears us, and cares for us. When we ask according to His will, He answers in alignment with His perfect plan for our lives.
-
-“**Cast not away therefore your confidence, which hath great recompence of reward.**” — Hebrews 10:35
-
-Sometimes, we pray and still worry about whether God will answer. But this scripture reassures us that He hears and responds — though not always in the way or time we expect. True confidence in God is trusting that His response is always the best for us.
-
-Shadrach, Meshach, and Abednego demonstrated this unwavering confidence when they faced the fiery furnace. They declared that even if God did not deliver them, they would still trust Him. That is the essence of faith — trusting in His sovereignty, not just His miracles.
-
-Confidence in God silences fear and strengthens faith. It turns worry into worship and doubt into assurance. Hold on to your confidence, for God never fails those who trust Him.
-
-<br>
-<br>
-**PRAYER:** <br>
-My Father, my God, I have confidence in You. Hear and answer me according to Your will. Strengthen my faith and let my trust in You never fade. In Jesus’ mighty name, Amen.</p>`
 }]
