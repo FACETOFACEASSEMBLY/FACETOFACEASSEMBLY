@@ -1427,6 +1427,21 @@ iframe {
   filter: invert(100%);
 }
 
+.live-wrapper {
+  background: linear-gradient(180deg,#e1f5f3d0,#91cdd18e);
+  padding: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 8px 22px rgba(0,0,0,0.06);
+  margin-top: 1.5rem;
+  text-align: center;
+}
+
+.live-fallback h3 {
+  color: black;
+  margin-top: 2rem;
+  font-size: 1.2rem;
+}
+
 
 
 
