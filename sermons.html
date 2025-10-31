@@ -65,7 +65,7 @@
   <h2>Listen to Our Podcasts</h2>
   <p class="podcast-intro">Catch up with our latest sermons and teachings in audio format anytime, anywhere.</p>
   
-  <div id="podcast-js" class="podcast-list">
+  <div  id="podcast-js" class="podcast-list">
     <!-- <article class="podcast">
       <h3>''but' of a man</h3>
       <audio controls>
@@ -104,13 +104,27 @@
 
   </main>
   <!-- Facebook Live Section -->
-<section class="facebook-live container">
-  <h2>Join Our Live Service</h2>
-  <p>Watch our  live service directly from the Website. Stay blessed and connected wherever you are!</p>
+<section class="live-service container">
+  <h2 class="change-text">Live Service</h2>
+  <p>Watch our services live when streaming is available.</p>
 
-  <!-- Example Facebook Live Embed -->
-  <div id="link-js" class="fb-video-wrapper">
-    
+  <div id="liveWrapper" class="live-wrapper">
+      <iframe 
+        id="liveFrame"
+        src="https://www.facebook.com/plugins/video.php?href=YOUR_FACEBOOK_LIVE_LINK_HERE&show_text=false&autoplay=true"
+        width="100%"
+        height="450"
+        style="border:none;overflow:hidden"
+        scrolling="no"
+        frameborder="0"
+        allowfullscreen="true"
+        allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share">
+      </iframe>
+
+      <!-- ✅ Fallback message -->
+      <div id="liveFallback" class="live-fallback" style="display: none;">
+        <h3>Live service will be open on Sundays.</h3>
+      </div>
   </div>
 </section>
 
@@ -137,27 +151,24 @@
   <script src="assets/live services/displayLive.js" type="module"></script>
   <script src="assets/live services/displayLiveLink.js" type="module"></script>
   <script>
-    document.addEventListener("DOMContentLoaded", () => {
-      const iframe = document.getElementById('fb-live');
-      const fallback = document.getElementById('live-fallback');
-      
-      // Safety check to prevent null errors
-      if (!iframe || !fallback) return;
+  const frame = document.getElementById("liveFrame");
+  const fallback = document.getElementById("liveFallback");
 
-      let loaded = false;
+  // If iframe fails to load after 5 seconds → show fallback
+  setTimeout(() => {
+    if (!frame.contentWindow || frame.contentWindow.length === 0) {
+      frame.style.display = "none";
+      fallback.style.display = "block";
+    }
+  }, 5000);
 
-      // When iframe successfully loads
-      iframe.onload = () => { loaded = true; };
+  // Additional error handling
+  frame.onerror = function () {
+    frame.style.display = "none";
+    fallback.style.display = "block";
+  };
+</script>
 
-      // After 5 seconds, if not loaded, show the fallback
-      setTimeout(() => {
-        if (!loaded) {
-          iframe.style.display = 'none';
-          fallback.style.display = 'block';
-        }
-      }, 5000);
-    });
-  </script>
   <script src="/assets/Audio/audio.js" type="module"></script>
   <script src="/assets/Audio/audioCateg.js" type="module"></script>
 </body>
