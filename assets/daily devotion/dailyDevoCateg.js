@@ -1,5 +1,32 @@
 export const dailyDevotionCateg = [{
-    date: 'FRIDAY, 31ST OCTOBER 2025',
+    date: 'SATURDAY, 1ST NOVEMBER 2025',
+    prayer: `<p><strong>WELCOME TO THE MONTH OF NOVEMBER</strong><br><br>
+
+“Behold, I will do a new thing; now it shall spring forth; shall ye not know it? I will even make a way in the wilderness and rivers in the desert.” — Isaiah 43:19<br><br>
+
+Welcome to the month of November — a month of new beginnings and fresh grace.  
+God is reminding you that He is not done with you yet. The mistakes of October are behind you; the mercy of November is before you.<br><br>
+
+This is the month to rise again, to dream again, and to believe again.  
+Every closed door and every silent season is being turned into an open testimony.  
+For it is written, “The steadfast love of the Lord never ceases; His mercies are new every morning.” — Lamentations 3:22–23<br><br>
+
+Walk into this month with faith.  
+The same God who kept you until now will carry you through.  
+You are not forgotten — you are chosen for a new thing.<br><br>
+
+This November, I will see the hand of God.  
+What was impossible last month will become possible this month.  
+Do a new thing in my life, Lord — open doors, restore joy, and perfect all that concerns me.  
+This month, I walk in favour, peace, and supernatural breakthrough.<br><br>
+
+<strong>PRAYER:</strong><br>
+My Father, my God, thank You for bringing me into November.  
+I receive Your new mercies, fresh grace, and divine strength.  
+Do a new thing in my life and let this month be filled with testimonies, in Jesus’ mighty name, Amen.</p>
+`
+}, {
+    date: 'SUNDAY, 31ST OCTOBER 2025',
     prayer: `<p><strong>ALL-ROUND REST</strong><br><br>
 
 One of the greatest blessings God gives His children is not just victory — it is rest on every side.
@@ -26,22 +53,7 @@ I pray for you this day: may the Lord give you rest from all your troubles in Je
 
 <br><br><strong>PRAYER:</strong><br>
 My Father, my God, let Your presence go with me and give me all-round rest — in my health, my home, my finances, and my destiny.
-I refuse fear and struggle. I enter into Your divine rest, in Jesus’ mighty name, Amen.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-`
+I refuse fear and struggle. I enter into Your divine rest, in Jesus’ mighty name, Amen.</p>`
 }, {
     date: 'THURSDAY, 30TH OCTOBER 2025',
     prayer: `<p><strong>MY CASE IS DIFFERENT</strong><br><br>
@@ -68,23 +80,4 @@ My case is different because the Lord is my portion.
 My Father, my God, even in hard times, I will flourish because my roots are in You.
 Let Your favour speak for me when others struggle, and let my life become proof that Your covenant is sure.
 In Jesus’ mighty name, Amen.</p>`
-}, {
-    date: 'WEDNESDAY, 29TH OCTOBER 2025',
-    prayer: `<p>**FORBID SATAN TO ENTER YOU**  
-
-“**And after the sop Satan entered into him. Then said Jesus unto him, That thou doest, do quickly.**” — John 13:27
-
-When Satan entered Judas, everything about his destiny changed. A man who once walked with Jesus became the instrument of betrayal. Judas did not begin as a traitor; he began as a disciple. But along the journey, he opened a small door — a door of greed, offense, and pride — and Satan entered.
-
-Satan never forces his way into a person’s life; he gains access through sin and weakness. When anger lingers, when jealousy grows, when offense is nurtured, Satan waits patiently at the door. He looks for opportunities through thoughts, emotions, and choices. That is why Paul warned, “**Neither give place to the devil**” (Ephesians 4:27).
-
-You must actively forbid Satan from entering you. Guard your heart with diligence. Pay attention to the thoughts you allow, the emotions you entertain, and the attitudes you permit. Bitterness, envy, and unforgiveness are open doors that give darkness legal access.
-
-When Satan enters, he does not come to visit; he comes to kill, steal, and destroy. Judas lost his peace, purpose, and even his life. But when you shut every door against the enemy, you preserve your destiny and protect your walk with God.
-
-If God uses you, He blesses you. But if Satan uses you, he destroys and dumps you. I pray for you and your household today — Satan will find no space, no opening, and no foothold in your life, in Jesus’ mighty name. Amen.
-
-<br><br>
-**PRAYER:** <br>
-My Father, my God, I shut every door I may have unknowingly opened to the enemy. Let Your light expose every dark place in me. I reject anger, bitterness, and pride. I forbid Satan to enter me. Fill me with Your Spirit and keep my heart steadfast in Your truth, in Jesus’ name. Amen.</p>`
 }]
