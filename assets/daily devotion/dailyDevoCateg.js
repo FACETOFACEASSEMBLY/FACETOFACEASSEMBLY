@@ -1,5 +1,26 @@
 export const dailyDevotionCateg = [{
-    date: 'SATURDAY, 1ST NOVEMBER 2025',
+    date: 'SUNDAY, 2ND NOVEMBER 2025',
+    prayer: `<p><strong>EVERYTHING IS A SEED</strong><br><br>
+
+Life is a field, and each day you are planting something through your words, thoughts, and actions. The law of seedtime and harvest is unchangeable; it is divine and impartial. — Genesis 8:22<br><br>
+
+Everything you do is a seed.  
+Every prayer you whisper, every thanksgiving you give, every act of kindness or giving — they are seeds. When you study, meditate, or serve, you are sowing into your spiritual garden. Likewise, when you gossip, lie, or harbor malice, you are also sowing — only that these are seeds that bear bitter fruit.<br><br>
+
+“Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap.” — Galatians 6:7<br><br>
+
+If you sow peace, you will reap peace. If you sow love, joy will find its way back to you. But if you sow bitterness, deceit, or envy, the harvest will come in that same measure.  
+The beautiful thing is that you get to choose your seeds. Every choice is a seed for tomorrow’s harvest.<br><br>
+
+So ask yourself today: *What kind of field am I growing?*  
+Your future is hidden in your present sowing. Be intentional — sow good words, good deeds, and a good heart. Even when no one notices, heaven records.<br><br>
+
+<strong>PRAYER:</strong><br>
+My Father, my God, help me to remember that every word, thought, and action is a seed. Give me wisdom to sow righteousness, peace, and love, so that my harvest may glorify You. Amen.</p>
+
+`
+}, {
+    date: 'SATURDAY, 1ST OCTOBER 2025',
     prayer: `<p><strong>WELCOME TO THE MONTH OF NOVEMBER</strong><br><br>
 
 “Behold, I will do a new thing; now it shall spring forth; shall ye not know it? I will even make a way in the wilderness and rivers in the desert.” — Isaiah 43:19<br><br>
@@ -23,10 +44,9 @@ This month, I walk in favour, peace, and supernatural breakthrough.<br><br>
 <strong>PRAYER:</strong><br>
 My Father, my God, thank You for bringing me into November.  
 I receive Your new mercies, fresh grace, and divine strength.  
-Do a new thing in my life and let this month be filled with testimonies, in Jesus’ mighty name, Amen.</p>
-`
+Do a new thing in my life and let this month be filled with testimonies, in Jesus’ mighty name, Amen.</p>`
 }, {
-    date: 'SUNDAY, 31ST OCTOBER 2025',
+    date: 'FRIDAY, 31ST OCTOBER 2025',
     prayer: `<p><strong>ALL-ROUND REST</strong><br><br>
 
 One of the greatest blessings God gives His children is not just victory — it is rest on every side.
@@ -54,30 +74,4 @@ I pray for you this day: may the Lord give you rest from all your troubles in Je
 <br><br><strong>PRAYER:</strong><br>
 My Father, my God, let Your presence go with me and give me all-round rest — in my health, my home, my finances, and my destiny.
 I refuse fear and struggle. I enter into Your divine rest, in Jesus’ mighty name, Amen.</p>`
-}, {
-    date: 'THURSDAY, 30TH OCTOBER 2025',
-    prayer: `<p><strong>MY CASE IS DIFFERENT</strong><br><br>
-
-In a world filled with challenges, fear, and uncertainty, some people still rise, prosper, and remain unshaken — not because life is easier for them, but because their case is different.
-When you belong to God, you are not governed by the same conditions as the world. You operate under a higher covenant — one of favour, preservation, and supernatural lifting.
-
-“He shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper. The ungodly are not so, but are like the chaff which the wind driveth away.” — Psalm 1:3–4
-
-This is God’s assurance: even when the world collapses around you, He gives you a reason to rejoice. You are covered, favoured, and lifted.
-
-“When men are cast down, then thou shalt say, There is lifting up.” — Job 22:29
-
-In times of trouble, your confession must align with your covenant. You will not go down with the world because your destiny is anchored in Christ.
-
-I am not ordinary.
-I am rooted in God’s Word and covered by His covenant.
-When others are afraid, I will stand in faith.
-When others fall, I will rise.
-When there is casting down, I will declare lifting up!
-My case is different because the Lord is my portion.
-
-<br><br> <strong>PRAYER:</strong><br>
-My Father, my God, even in hard times, I will flourish because my roots are in You.
-Let Your favour speak for me when others struggle, and let my life become proof that Your covenant is sure.
-In Jesus’ mighty name, Amen.</p>`
 }]
