@@ -1,5 +1,15 @@
 export const liveLink = [{
-    link: `<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fweb.facebook.com%2Fhappy.word.52%2Fvideos%2F1377281367365213%2F&show_text=false&width=267&t=0" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+    link: `<iframe 
+        id="liveFrame"
+        src="https://www.facebook.com/plugins/video.php?href=YOUR_FACEBOOK_LIVE_LINK_HERE&show_text=false&autoplay=true"
+        width="100%"
+        height="450"
+        style="border:none;overflow:hidden"
+        scrolling="no"
+        frameborder="0"
+        allowfullscreen="true"
+        allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share">
+      </iframe>
 
 
 
@@ -8,6 +18,5 @@ export const liveLink = [{
         <h3>Live service will be open on Sundays.</h3>
       </div>`
 }]
-
 
 
