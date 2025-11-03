@@ -1,4 +1,47 @@
 export const dailyDevotionCateg = [{
+    date: 'MONDAY, 3RD NOVEMBER 2025',
+    prayer: `<p><strong>THE POWER THAT CAN KILL THE BODY</strong><br><br>
+
+Every child of God carries divine power. Jesus didn’t give power only to His apostles — He gave it to everyone who believes in His name. The problem is never the absence of power, but the lack of understanding of how to use it.<br><br>
+
+When you walk in divine authority, fear loses its grip. The enemy may roar, but he cannot harm you, for the Word says, “Nothing shall by any means hurt you.” — Luke 10:19<br><br>
+
+However, Jesus spoke of another kind of power — the power that can harm the body.  
+“Fear not them which kill the body, but are not able to kill the soul.” — Matthew 10:28<br><br>
+
+This kind of danger can even come from people close to you. Jesus revealed this in verse 36: “A man’s foes shall be they of his own household.”  
+Yet even this power is limited. It cannot touch your soul, and it cannot operate unless God permits it.<br><br>
+
+When Satan attacked Job, God declared, “You may touch everything he has, but spare his life.” — Job 2:6  
+This means the enemy only functions under divine permission. God remains the ultimate authority over both body and soul.<br><br>
+
+<strong>How to Overcome the Power That Kills the Body</strong><br><br>
+
+<strong>1. Use the Sword of the Spirit</strong><br>
+The Word of God is your weapon of victory. Ephesians 6:17 calls it “the sword of the Spirit.”<br><br>
+
+<strong>2. Discipline Your Body</strong><br>
+Paul said, “I keep under my body, and bring it into subjection.” — 1 Corinthians 9:27  
+Taking care of your body is part of spiritual wisdom.<br>
+Eat healthy. Rest well. Exercise regularly.  
+Avoid sin and harmful habits.  
+Keep your body pure — it is God’s temple.<br><br>
+
+<strong>3. Be Prayerful</strong><br>
+Prayer keeps your spirit active and your authority sharp.<br><br>
+
+<strong>4. Be a True Disciple of Jesus</strong><br>
+Walking closely with Christ keeps you under divine covering.<br><br>
+
+<strong>PRAYER:</strong><br>
+My Father, my God, thank You for giving me power through Christ Jesus.  
+Help me to use this power wisely and walk in spiritual authority.  
+Deliver me from every power that seeks to harm my body.  
+In Jesus’ name, Amen.</p>
+
+
+`
+}, {
     date: 'SUNDAY, 2ND NOVEMBER 2025',
     prayer: `<p><strong>EVERYTHING IS A SEED</strong><br><br>
 
@@ -16,11 +59,9 @@ So ask yourself today: *What kind of field am I growing?*
 Your future is hidden in your present sowing. Be intentional — sow good words, good deeds, and a good heart. Even when no one notices, heaven records.<br><br>
 
 <strong>PRAYER:</strong><br>
-My Father, my God, help me to remember that every word, thought, and action is a seed. Give me wisdom to sow righteousness, peace, and love, so that my harvest may glorify You. Amen.</p>
-
-`
+My Father, my God, help me to remember that every word, thought, and action is a seed. Give me wisdom to sow righteousness, peace, and love, so that my harvest may glorify You. Amen.</p>`
 }, {
-    date: 'SATURDAY, 1ST OCTOBER 2025',
+    date: 'SATURDAY, 1ST NOVEMBER 2025',
     prayer: `<p><strong>WELCOME TO THE MONTH OF NOVEMBER</strong><br><br>
 
 “Behold, I will do a new thing; now it shall spring forth; shall ye not know it? I will even make a way in the wilderness and rivers in the desert.” — Isaiah 43:19<br><br>
@@ -45,33 +86,4 @@ This month, I walk in favour, peace, and supernatural breakthrough.<br><br>
 My Father, my God, thank You for bringing me into November.  
 I receive Your new mercies, fresh grace, and divine strength.  
 Do a new thing in my life and let this month be filled with testimonies, in Jesus’ mighty name, Amen.</p>`
-}, {
-    date: 'FRIDAY, 31ST OCTOBER 2025',
-    prayer: `<p><strong>ALL-ROUND REST</strong><br><br>
-
-One of the greatest blessings God gives His children is not just victory — it is rest on every side.
-There is a level in God where battles cease, storms become still, and your soul finds peace in every area of life. This is called All-Round Rest.
-
-“But now the Lord my God hath given me rest on every side, so that there is neither adversary nor evil occurrence.” — 1 Kings 5:4
-
-Many people experience partial peace — financial rest but emotional turmoil, career success but trouble at home. But God’s plan is not partial peace; His promise is complete tranquility: rest in your body, peace in your mind, and joy in your heart.
-
-When Jesus said, “Come unto me, all ye that labour and are heavy laden, and I will give you rest” (Matthew 11:28), He meant total relief — rest from worry, fear, striving, and long-standing battles.
-
-All-round rest begins when you learn to trust God in everything.
-You stop fighting for yourself and allow His presence to fight for you.
-You stop carrying burdens only grace can handle.
-
-“And He said, My presence shall go with thee, and I will give thee rest.” — Exodus 33:14
-
-In His presence, fear melts away. Confusion ends. Burdens lift.
-When your heart truly rests in God, you begin to see His hand move in every direction — turning battles into blessings and struggles into testimonies.
-
-“And the land had rest round about.” — Joshua 21:44
-
-I pray for you this day: may the Lord give you rest from all your troubles in Jesus’ Name.
-
-<br><br><strong>PRAYER:</strong><br>
-My Father, my God, let Your presence go with me and give me all-round rest — in my health, my home, my finances, and my destiny.
-I refuse fear and struggle. I enter into Your divine rest, in Jesus’ mighty name, Amen.</p>`
 }]
