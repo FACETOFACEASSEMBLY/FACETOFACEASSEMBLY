@@ -38,4 +38,12 @@ export const eventCateg = [{
         day: 8,
         month: 'NOV'
     }
+}, {
+    header: `Sunday Service`,
+    time: '6:30 AM - 8:30 AM | 8:30 AM - 10:30 AM ',
+    venue: 'Headquarters Saturday - Bring your prayer Requests',
+    date: {
+        day: 9,
+        month: 'NOV'
+    }
 }]
