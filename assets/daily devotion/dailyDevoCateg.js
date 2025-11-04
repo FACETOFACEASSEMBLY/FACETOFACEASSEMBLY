@@ -1,4 +1,37 @@
 export const dailyDevotionCateg = [{
+    date: 'TUESDAY, 4TH NOVEMBER 2025',
+    prayer: `<p><strong>BE TEACHABLE, THE SECRET TO LASTING GROWTH</strong><br><br>
+
+“The way of a fool is right in his own eyes, but a wise man listens to counsel.” — Proverbs 12:15<br><br>
+
+Arrogance closes doors that humility could easily open.  
+The unteachable heart says, “I already know,” but the teachable heart says, “Lord, show me more.”<br><br>
+
+No matter how gifted a person is, an unteachable spirit will eventually lead to a fall, because pride blinds a man from the truth that could save him.  
+The moment you stop learning, you start declining.  
+The moment you stop listening, you start losing.<br><br>
+
+Even Jesus, the Son of God, learned obedience through the things He suffered — Hebrews 5:8.  
+If the Son of God could be taught, who are we to act like we cannot be corrected?  
+Luke 2:46 shows Him sitting among teachers, listening and asking questions — the posture of a teachable spirit.<br><br>
+
+Sometimes, God sends truth through uncomfortable voices — a mentor, a friend, a sermon, or even a rebuke.  
+The humble do not reject correction; they extract wisdom from it.  
+To the teachable, every lesson, every failure, and every conversation becomes a classroom for growth.<br><br>
+
+A teachable spirit is a magnet for divine wisdom.  
+Stay low, stay learning, and watch how high God lifts you.<br><br>
+
+<strong>PRAYER:</strong><br>
+My Father, my God, break every pride that keeps me from learning.  
+Give me a heart that listens, a spirit that yields, and a mind open to truth.  
+Teach me through Your Word, Your Spirit, and the people You send my way.  
+In Jesus’ name, Amen.</p>
+
+
+
+`
+}, {
     date: 'MONDAY, 3RD NOVEMBER 2025',
     prayer: `<p><strong>THE POWER THAT CAN KILL THE BODY</strong><br><br>
 
@@ -37,10 +70,7 @@ Walking closely with Christ keeps you under divine covering.<br><br>
 My Father, my God, thank You for giving me power through Christ Jesus.  
 Help me to use this power wisely and walk in spiritual authority.  
 Deliver me from every power that seeks to harm my body.  
-In Jesus’ name, Amen.</p>
-
-
-`
+In Jesus’ name, Amen.</p>`
 }, {
     date: 'SUNDAY, 2ND NOVEMBER 2025',
     prayer: `<p><strong>EVERYTHING IS A SEED</strong><br><br>
@@ -60,30 +90,4 @@ Your future is hidden in your present sowing. Be intentional — sow good words,
 
 <strong>PRAYER:</strong><br>
 My Father, my God, help me to remember that every word, thought, and action is a seed. Give me wisdom to sow righteousness, peace, and love, so that my harvest may glorify You. Amen.</p>`
-}, {
-    date: 'SATURDAY, 1ST NOVEMBER 2025',
-    prayer: `<p><strong>WELCOME TO THE MONTH OF NOVEMBER</strong><br><br>
-
-“Behold, I will do a new thing; now it shall spring forth; shall ye not know it? I will even make a way in the wilderness and rivers in the desert.” — Isaiah 43:19<br><br>
-
-Welcome to the month of November — a month of new beginnings and fresh grace.  
-God is reminding you that He is not done with you yet. The mistakes of October are behind you; the mercy of November is before you.<br><br>
-
-This is the month to rise again, to dream again, and to believe again.  
-Every closed door and every silent season is being turned into an open testimony.  
-For it is written, “The steadfast love of the Lord never ceases; His mercies are new every morning.” — Lamentations 3:22–23<br><br>
-
-Walk into this month with faith.  
-The same God who kept you until now will carry you through.  
-You are not forgotten — you are chosen for a new thing.<br><br>
-
-This November, I will see the hand of God.  
-What was impossible last month will become possible this month.  
-Do a new thing in my life, Lord — open doors, restore joy, and perfect all that concerns me.  
-This month, I walk in favour, peace, and supernatural breakthrough.<br><br>
-
-<strong>PRAYER:</strong><br>
-My Father, my God, thank You for bringing me into November.  
-I receive Your new mercies, fresh grace, and divine strength.  
-Do a new thing in my life and let this month be filled with testimonies, in Jesus’ mighty name, Amen.</p>`
 }]
