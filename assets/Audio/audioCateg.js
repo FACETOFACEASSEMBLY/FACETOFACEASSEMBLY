@@ -49,5 +49,9 @@ export const audioCateg = [{
 }, {
     name: `Empowered of the Spirit of God`,
     audio: 'podcasts/teaching thirteen.mp3',
+    new: `<span style = "display: none; class="new-badge"></span>`
+}, {
+    name: `Life is impactful`,
+    audio: 'podcasts/teaching fourteen.mp3',
     new: `<span class="new-badge">NEW</span>`
 }]
