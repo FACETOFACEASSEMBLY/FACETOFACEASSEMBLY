@@ -81,19 +81,28 @@
 
   <!-- ✅ Donate Modal -->
   <div id="donateModal" class="modal">
-    <div class="modal-content">
-      <span class="close-btn">&times;</span>
-      
+  <div class="modal-content donate-styled-box">
+    <span class="close-btn">&times;</span>
+
+    <h2 class="donate-title">Make a Donation</h2>
+    <p class="donate-sub">Your gift makes a difference🙏</p>
+
+    <div class="form-group">
+      <label>Email Address</label>
       <input class="email-style" type="email" id="email" placeholder="Enter Your Email"/>
-      <input class="amount-style" type="number" id="amount" placeholder="Amount" oninput="updateDisplayAmount()">
-      <div class="display-style-money" id="displayAmount"></div>
-      <button
-      onclick="payWithPaystack()"
-       class="btn button-pay">
-        Pay Now
-      </button>
     </div>
+
+    <div class="form-group">
+      <label>Donation Amount</label>
+      <input class="amount-style" type="number" id="amount" placeholder="Amount" oninput="updateDisplayAmount()"/>
+      <div class="display-style-money" id="displayAmount"></div>
+    </div>
+
+    <button onclick="payWithPaystack()" class="btn button-pay donate-pay-btn">
+      Pay Now
+    </button>
   </div>
+</div>
   <!-- End Donate Modal -->
 
   <footer class="site-footer small new-footer">
@@ -118,6 +127,7 @@
   <script src="assets/Payment Integration/payment.js"></script>
 </body>
 </html>
+
 
 
 
