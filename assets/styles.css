@@ -1441,7 +1441,125 @@ iframe {
   margin-top: 2rem;
   font-size: 1.2rem;
 }
+/* ======== DONATE MODAL REDESIGN ======== */
 
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 9999;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.55);
+  backdrop-filter: blur(4px);
+  padding-top: 60px;
+}
 
+.modal-content.donate-styled-box {
+  background: #ffffff;
+  margin: auto;
+  padding: 35px 30px;
+  border-radius: 18px;
+  width: 90%;
+  max-width: 420px;
+  box-shadow: 0 10px 35px rgba(0, 0, 0, 0.18);
+  position: relative;
+  animation: showModal 0.3s ease-out;
+}
 
+@keyframes showModal {
+  from { transform: translateY(40px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
 
+/* Close Button */
+.close-btn {
+  position: absolute;
+  right: 18px;
+  top: 18px;
+  font-size: 26px;
+  cursor: pointer;
+  color: #333;
+}
+.close-btn:hover {
+  color: #d40000;
+}
+
+/* Titles */
+.donate-title {
+  text-align: center;
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 5px;
+  color: #222;
+}
+
+.donate-sub {
+  text-align: center;
+  font-size: 14px;
+  color: #777;
+  margin-bottom: 25px;
+}
+
+/* Form Groups */
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  font-size: 14px;
+  font-weight: 600;
+  margin-bottom: 6px;
+  color: #333;
+}
+
+/* Input Styles (your existing classes kept) */
+.email-style,
+.amount-style {
+  width: 100%;
+  padding: 13px 15px;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+  font-size: 15px;
+  outline: none;
+  transition: all 0.2s ease;
+  background: #fafafa;
+}
+
+.email-style:focus,
+.amount-style:focus {
+  border-color: #0077ff;
+  box-shadow: 0 0 0 2px rgba(0, 119, 255, 0.15);
+  background: #fff;
+}
+
+/* Display Amount */
+.display-style-money {
+  margin-top: 8px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #0077ff;
+}
+
+/* Pay Button */
+.donate-pay-btn {
+  width: 100%;
+  background: #0077ff;
+  color: white;
+  padding: 14px 0;
+  border-radius: 12px;
+  font-size: 16px;
+  font-weight: 600;
+  border: none;
+  cursor: pointer;
+  transition: 0.25s;
+  margin-top: 10px;
+}
+
+.donate-pay-btn:hover {
+  background: #005fcc;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(0, 119, 255, 0.25);
+}
