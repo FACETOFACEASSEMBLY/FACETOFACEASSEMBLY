@@ -1563,3 +1563,33 @@ iframe {
   transform: translateY(-2px);
   box-shadow: 0 8px 20px rgba(0, 119, 255, 0.25);
 }
+
+.scrolling-notice {
+  width: 100%;
+  overflow: hidden;
+  background: #970000; 
+  background: linear-gradient(180deg,#fff,#91cdd162);
+  padding: 12px 0;
+  margin: 40px 0 20px;
+  filter: invert(100%);
+}
+
+.scrolling-notice p {
+  display: inline-block;
+  white-space: nowrap;
+  color: black;
+  font-weight: bold;
+  font-size: 1.1rem;
+  animation: scrollText 12s linear infinite;
+  letter-spacing: 1px;
+}
+
+@keyframes scrollText {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
+
