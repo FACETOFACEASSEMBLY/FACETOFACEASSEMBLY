@@ -1,5 +1,42 @@
 export const dailyDevotionCateg = [{
-    date: 'TUESDAY, 4TH NOVEMBER 2025',
+    date: 'SATURDAY, 8TH NOVEMBER 2025',
+    prayer: `<p><strong>WHEN MERCY SEEMS FAR AWAY</strong><br><br>
+
+“Let there be none to extend mercy unto him: neither let there be any to favour his fatherless children.” — <strong>Psalms 109:12</strong><br><br>
+
+Mercy is the blanket that softens the blows of life. But when mercy departs, help becomes scarce, doors begin to close, and favor suddenly disappears. Even those who try to help find themselves dragged into unnecessary battles. This is the painful reality when sin, hypocrisy, evil, or foolishness pushes the mercy of God away.<br><br>
+
+When a person walks in deceit, rebellion, or double-mindedness, the covering of mercy begins to lift. <strong>Isaiah 9:17</strong> reveals that when people embrace evil and foolishness, the Lord takes no pleasure in showing compassion — not because He hates them, but because His holiness cannot dwell with sin.<br><br>
+
+If your life has become unusually hard…  
+If favor seems to have dried up…  
+If helpers suddenly vanish…  
+It may be a sign that mercy has been driven far.<br><br>
+
+But hear this loud and clear: <strong>the Blood of Jesus speaks a better word.</strong><br><br>
+
+Child of God, whatever has pushed mercy away — sin, hidden hypocrisy, foolish actions, ancestral curses — by the Blood of Jesus Christ, let it be broken right now!<br><br>
+
+The Blood of Jesus restores the mercy of God upon your life!  
+Where rejection existed, receive divine favor.  
+Where doors were closed, let mercy reopen them.  
+Where helpers disappeared, let God raise new ones for you.<br><br>
+
+Every curse that drove mercy away is destroyed by the Blood of Jesus!  
+From today, let mercy locate you.  
+Let mercy speak louder than judgment.  
+Let God’s compassion rebuild everything sin attempted to destroy.<br><br>
+
+<strong>PRAYER:</strong><br>
+My Father, my God, I come before You in humility. If there is anything I have done — in word, thought, or action — that has pushed Your mercy away, I repent today.  
+Show me mercy, in Jesus’ name. Amen.</p>
+
+
+
+
+`
+}, {
+    date: 'MONDAY, 3RD NOVEMBER 2025',
     prayer: `<p><strong>BE TEACHABLE, THE SECRET TO LASTING GROWTH</strong><br><br>
 
 “The way of a fool is right in his own eyes, but a wise man listens to counsel.” — Proverbs 12:15<br><br>
@@ -26,13 +63,9 @@ Stay low, stay learning, and watch how high God lifts you.<br><br>
 My Father, my God, break every pride that keeps me from learning.  
 Give me a heart that listens, a spirit that yields, and a mind open to truth.  
 Teach me through Your Word, Your Spirit, and the people You send my way.  
-In Jesus’ name, Amen.</p>
-
-
-
-`
+In Jesus’ name, Amen.</p>`
 }, {
-    date: 'MONDAY, 3RD NOVEMBER 2025',
+    date: 'SUNDAY, 2ND NOVEMBER 2025',
     prayer: `<p><strong>THE POWER THAT CAN KILL THE BODY</strong><br><br>
 
 Every child of God carries divine power. Jesus didn’t give power only to His apostles — He gave it to everyone who believes in His name. The problem is never the absence of power, but the lack of understanding of how to use it.<br><br>
@@ -71,23 +104,4 @@ My Father, my God, thank You for giving me power through Christ Jesus.
 Help me to use this power wisely and walk in spiritual authority.  
 Deliver me from every power that seeks to harm my body.  
 In Jesus’ name, Amen.</p>`
-}, {
-    date: 'SUNDAY, 2ND NOVEMBER 2025',
-    prayer: `<p><strong>EVERYTHING IS A SEED</strong><br><br>
-
-Life is a field, and each day you are planting something through your words, thoughts, and actions. The law of seedtime and harvest is unchangeable; it is divine and impartial. — Genesis 8:22<br><br>
-
-Everything you do is a seed.  
-Every prayer you whisper, every thanksgiving you give, every act of kindness or giving — they are seeds. When you study, meditate, or serve, you are sowing into your spiritual garden. Likewise, when you gossip, lie, or harbor malice, you are also sowing — only that these are seeds that bear bitter fruit.<br><br>
-
-“Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap.” — Galatians 6:7<br><br>
-
-If you sow peace, you will reap peace. If you sow love, joy will find its way back to you. But if you sow bitterness, deceit, or envy, the harvest will come in that same measure.  
-The beautiful thing is that you get to choose your seeds. Every choice is a seed for tomorrow’s harvest.<br><br>
-
-So ask yourself today: *What kind of field am I growing?*  
-Your future is hidden in your present sowing. Be intentional — sow good words, good deeds, and a good heart. Even when no one notices, heaven records.<br><br>
-
-<strong>PRAYER:</strong><br>
-My Father, my God, help me to remember that every word, thought, and action is a seed. Give me wisdom to sow righteousness, peace, and love, so that my harvest may glorify You. Amen.</p>`
 }]
