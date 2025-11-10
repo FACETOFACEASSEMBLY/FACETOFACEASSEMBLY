@@ -57,13 +57,17 @@ export const audioCateg = [{
 }, {
     name: `Try and see things as God sees things`,
     audio: 'podcasts/teaching new one.mp3',
-    new: `<span class="new-badge">NEW</span>`
+    new: `<span style = "display: none; class="new-badge"></span>`
 }, {
     name: `Breaking every curse in your life`,
     audio: 'podcasts/teaching new two.mp3',
-    new: `<span class="new-badge">NEW</span>`
+    new: `<span style = "display: none; class="new-badge"></span>`
 }, {
     name: `Teaching concerning Jealousy`,
     audio: 'podcasts/teaching new three.mp3',
+    new: `<span style = "display: none; class="new-badge"></span>`
+}, {
+    name: `Commanding your Day`,
+    audio: 'podcasts/teaching new four.mp3',
     new: `<span class="new-badge">NEW</span>`
 }]
