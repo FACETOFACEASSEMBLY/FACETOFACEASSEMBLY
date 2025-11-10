@@ -1,7 +1,39 @@
 export const dailyDevotionCateg = [{
-    date: 'SUNDAY, 9TH NOVEMBER 2025',
+    date: 'MONDAY, 10TH NOVEMBER 2025',
     prayer: `
-<p><strong>LIVING TO FULFIL SCRIPTURE</strong><br><br>
+<p><strong>CROWN MY YEAR WITH THY GOODNESS</strong><br><br>
+
+“Thou crownest the year with thy goodness; and thy paths drop fatness.” — <strong>Psalm 65:11</strong><br><br>
+
+There is something glorious about how God finishes what He begins. The Psalmist declares that the Lord crowns the year with His goodness. The word “crownest” means to encircle, complete, and beautify — like a King placing a shining crown upon the head of the year.<br><br>
+
+No matter how the months have passed — whether with joy or sorrow, victories or challenges — God’s goodness has the final say. He does not end your year in dryness but in fatness: prosperity, fruitfulness, and divine satisfaction. His paths are never barren; they “drop fatness,” meaning abundance follows Him everywhere.<br><br>
+
+You may look around and see little, but heaven sees fullness. You may think time has run out, but God can do in one week what men could not do in years. He crowns your year, perfects it, beautifies it, and seals it with favor.<br><br>
+
+Lift your eyes and believe! The same God who began the year with mercy will end it with miracles. Even in the final days, He brings divine surprises, opens new doors, restores lost opportunities, and overflows your life with blessings that testify of His goodness.<br><br>
+
+When God crowns your year, no sorrow shall conclude your story. Every hidden seed of faith you planted shall spring forth in this season. His goodness will rewrite the ending of your year with joy, peace, and answered prayers.<br><br>
+
+<strong>I decree and declare:</strong><br>
+This year shall end in glory for me.<br>
+The Lord shall crown my year with His goodness, and my paths shall drop fatness.<br>
+My days shall overflow with divine favor, peace, and abundance.<br>
+The crown of goodness is upon my head, and my year shall end with praise.<br>
+In Jesus’ mighty name, Amen!<br><br>
+
+<strong>PRAYER:</strong><br>
+My Father, my God, crown my year with Your goodness. Let the remaining days of this year drop favor and fatness. In Jesus’ name, Amen.</p>
+
+
+
+
+
+
+`
+}, {
+    date: 'SUNDAY, 9TH NOVEMBER 2025',
+    prayer: `<p><strong>LIVING TO FULFIL SCRIPTURE</strong><br><br>
 
 Everything about Jesus was written long before He came to earth.
 Every detail of His life — from His birth in Bethlehem to His resurrection — was a fulfilment of prophecy.<br><br>
@@ -49,13 +81,7 @@ You are the vessel chosen to prove that God’s Word never fails.<br><br>
 
 <strong>PRAYER:</strong><br>
 My Father, my God, help me to walk in Your will and fulfil every prophecy written concerning my life.
-In Jesus’ name, Amen.</p>
-
-
-
-
-
-`
+In Jesus’ name, Amen.</p>`
 }, {
     date: 'SATURDAY, 8TH NOVEMBER 2025',
     prayer: `<p><strong>WHEN MERCY SEEMS FAR AWAY</strong><br><br>
@@ -88,33 +114,4 @@ Let God’s compassion rebuild everything sin attempted to destroy.<br><br>
 <strong>PRAYER:</strong><br>
 My Father, my God, I come before You in humility. If there is anything I have done — in word, thought, or action — that has pushed Your mercy away, I repent today.  
 Show me mercy, in Jesus’ name. Amen.</p>`
-}, {
-    date: 'FRIDAY, 7TH NOVEMBER 2025',
-    prayer: `<p><strong>BE TEACHABLE, THE SECRET TO LASTING GROWTH</strong><br><br>
-
-“The way of a fool is right in his own eyes, but a wise man listens to counsel.” — Proverbs 12:15<br><br>
-
-Arrogance closes doors that humility could easily open.  
-The unteachable heart says, “I already know,” but the teachable heart says, “Lord, show me more.”<br><br>
-
-No matter how gifted a person is, an unteachable spirit will eventually lead to a fall, because pride blinds a man from the truth that could save him.  
-The moment you stop learning, you start declining.  
-The moment you stop listening, you start losing.<br><br>
-
-Even Jesus, the Son of God, learned obedience through the things He suffered — Hebrews 5:8.  
-If the Son of God could be taught, who are we to act like we cannot be corrected?  
-Luke 2:46 shows Him sitting among teachers, listening and asking questions — the posture of a teachable spirit.<br><br>
-
-Sometimes, God sends truth through uncomfortable voices — a mentor, a friend, a sermon, or even a rebuke.  
-The humble do not reject correction; they extract wisdom from it.  
-To the teachable, every lesson, every failure, and every conversation becomes a classroom for growth.<br><br>
-
-A teachable spirit is a magnet for divine wisdom.  
-Stay low, stay learning, and watch how high God lifts you.<br><br>
-
-<strong>PRAYER:</strong><br>
-My Father, my God, break every pride that keeps me from learning.  
-Give me a heart that listens, a spirit that yields, and a mind open to truth.  
-Teach me through Your Word, Your Spirit, and the people You send my way.  
-In Jesus’ name, Amen.</p>`
 }]
