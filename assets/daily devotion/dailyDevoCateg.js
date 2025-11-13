@@ -1,7 +1,47 @@
 export const dailyDevotionCateg = [{
-    date: 'WEDNESDAY, 12TH NOVEMBER 2025',
+    date: 'THURSDAY, 13TH NOVEMBER 2025',
     prayer: `
-<p><strong>COVER MY HEAD LORD</strong><br><br>
+<p><strong>THE SPIRIT OF EXCELLENCE</strong><br><br>
+
+“Then this Daniel was preferred above the presidents and princes, because an excellent spirit was in him…” — <strong>Daniel 6:3</strong><br><br>
+
+The Spirit of Excellence is the supernatural influence that makes a man stand out in all he does.  
+Excellence is not human effort alone; it is a divine imprint — God’s nature expressed through human vessels.  
+It is the grace that makes your words carry weight, your actions carry honor, and your results command respect.<br><br>
+
+Daniel did not rise because of background, education, or connections.  
+He rose because something rested upon him — the Excellent Spirit of God.  
+This Spirit made his thoughts sharper, his character stronger, and his performance greater than those around him.<br><br>
+
+Excellence begins in the spirit before it shows in your work.  
+It is cultivated through purity, discipline, prayer, and a heart that seeks to honor God in all things.  
+When the Spirit of Excellence rests upon you, you don’t chase distinction — distinction follows you.<br><br>
+
+This Spirit was the reason Daniel remained relevant through four different kings while others faded away.  
+When the Spirit of Excellence is upon you, you are needed where others are tolerated, valued where others are ignored, and remembered where others are forgotten.<br><br>
+
+Carry this Spirit into your work, your ministry, and your relationships.  
+Represent God with grace, dignity, and precision.  
+The world is waiting for the excellence that only the children of God can reveal.<br><br>
+
+<strong>PRAYER:</strong><br>
+My Father, my God, let the Spirit of Excellence rest upon me.  
+Sharpen my mind, strengthen my character, and beautify my work.  
+Let my life reflect Your glory, and let everything I do carry the mark of divine excellence.  
+In Jesus’ name, Amen.</p>
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'WEDNESDAY, 12TH NOVEMBER 2025',
+    prayer: `<p><strong>COVER MY HEAD LORD</strong><br><br>
 
 “O GOD the Lord, the strength of my salvation, thou hast covered my head in the day of battle.” — <strong>Psalm 140:7</strong><br><br>
 
@@ -31,16 +71,7 @@ Your head carries your destiny — ask God daily to cover it.<br><br>
 Never walk uncovered in the spirit. Every man and woman of destiny needs divine head covering, for that is where the oil rests and where protection begins.<br><br>
 
 <strong>PRAYER:</strong><br>
-My Father, my God, cover my head in the day of battle. Preserve the oil of my calling and shield me from every strike of the enemy. Let my head never lack Your protection, and let my crown never fall. In Jesus’ name, Amen.</p>
-
-
-
-
-
-
-
-
-`
+My Father, my God, cover my head in the day of battle. Preserve the oil of my calling and shield me from every strike of the enemy. Let my head never lack Your protection, and let my crown never fall. In Jesus’ name, Amen.</p>`
 }, {
     date: 'TUESDAY, 11TH NOVEMBER 2025',
     prayer: `<p><strong>GOD WORKS ACCORDING TO HIS NAME</strong><br><br>
@@ -67,55 +98,4 @@ May He appear to you today as the God Who Answers Prayer (<strong>Jeremiah 33:3<
 
 <strong>PRAYER:</strong><br>
 My Father, my God, appear to me as the Merciful God, in Jesus’ name. Amen.</p>`
-}, {
-    date: 'MONDAY, 10TH NOVEMBER 2025',
-    prayer: `<p><strong>LIVING TO FULFIL SCRIPTURE</strong><br><br>
-
-Everything about Jesus was written long before He came to earth.
-Every detail of His life — from His birth in Bethlehem to His resurrection — was a fulfilment of prophecy.<br><br>
-
-He was not searching for purpose; He was walking in what was written.
-The prophets spoke, and He lived to manifest their words.<br><br>
-
-Again and again, Jesus declared, “That the Scripture might be fulfilled,” showing that His steps were aligned with Heaven’s script.<br><br>
-
-When Judas betrayed Him — it fulfilled Scripture.
-When the soldiers cast lots for His robe — it fulfilled Scripture.
-When He said, “I thirst” — it fulfilled Scripture.
-When He bowed His head and gave up the ghost — it fulfilled all that was spoken concerning Him.<br><br>
-
-Jesus lived with one objective: to make sure the Word written about Him came to pass.<br><br>
-
-Child of God, you too are a written prophecy.
-You are not accidental.
-You are not random.
-You are a divine script waiting to manifest.<br><br>
-
-<strong>Psalm 40:7</strong> says,
-“Lo, I come: in the volume of the book it is written of me.”<br><br>
-
-There is a heavenly record that carries what God has written concerning your life — your destiny, your ministry, your impact, your success.
-But these things only manifest when you walk in alignment with God’s will.<br><br>
-
-You are not here to compete with men; you are here to complete prophecy.
-You are not here to create your own plan; you are here to walk out God’s eternal plan.<br><br>
-
-When you live in disobedience, you pause what is written about you.
-When you walk in obedience, you activate it.<br><br>
-
-Every act of faith moves prophecy closer.
-Every act of carelessness pushes it further away.<br><br>
-
-<strong>Romans 8:29–30</strong> reveals that those God foreknew, He predestined, called, justified, and glorified.
-Your life is written — but your obedience determines how much of that script becomes visible on earth.<br><br>
-
-Jesus fulfilled prophecy because He stayed aligned with the Father.
-Your fulfilment also comes through alignment, not ambition.<br><br>
-
-There is something written about your life that must not die unfulfilled.
-You are the vessel chosen to prove that God’s Word never fails.<br><br>
-
-<strong>PRAYER:</strong><br>
-My Father, my God, help me to walk in Your will and fulfil every prophecy written concerning my life.
-In Jesus’ name, Amen.</p>`
 }]
