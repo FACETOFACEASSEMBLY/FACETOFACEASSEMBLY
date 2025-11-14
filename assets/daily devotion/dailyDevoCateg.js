@@ -1,7 +1,65 @@
 export const dailyDevotionCateg = [{
-    date: 'THURSDAY, 13TH NOVEMBER 2025',
+    date: 'FRIDAY, 14TH NOVEMBER 2025',
     prayer: `
-<p><strong>THE SPIRIT OF EXCELLENCE</strong><br><br>
+<p><strong>EVERYTHING GOD MADE WAS VERY GOOD</strong><br><br>
+
+“And God saw every thing that He had made, and, behold, it was very good…” — <strong>Genesis 1:31</strong><br><br>
+
+From the beginning of creation, God stamped one eternal truth upon the earth:  
+God does not create mistakes.  
+Before sin entered, before corruption touched the world, everything God made was complete, perfect, and wonderfully good.<br><br>
+
+This was not just a declaration about creation — it was a prophecy about you.<br><br>
+
+You are God’s idea.  
+You are God’s workmanship.  
+You are God’s design.  
+And when God finished forming you, He looked at you and said, “VERY GOOD.”<br><br>
+
+People may label you wrongly…  
+Circumstances may try to redefine you…  
+Life may attempt to shrink your worth…  
+But the original verdict of God concerning you is GOOD.<br><br>
+
+Even in difficult seasons, God’s declaration stands.  
+Your mistakes do not erase your value.  
+Your struggles do not cancel your identity.  
+Your pain does not change Heaven’s perspective of you.<br><br>
+
+The enemy fights your identity because he knows God called you “good” before you ever entered this world.  
+So he attacks with shame, fear, rejection, and failure — trying to make you doubt your original design.<br><br>
+
+But hear this:  
+Your beginning was good.  
+Your journey is intentional.  
+And your ending will be glorious.  
+God never starts what He cannot finish, and He never creates what He cannot bless.<br><br>
+
+If God saw you as “very good” in the beginning, then that goodness is still within you — waiting to manifest, unfold, and shine.<br><br>
+
+Stop agreeing with lies that say you are not enough.  
+Stop letting people who don’t know your purpose define your worth.  
+Stand firmly on the truth that the God who made you has never made a mistake.<br><br>
+
+<strong>PRAYER:</strong><br>
+My Father, my God, thank You for creating me with intention and calling me very good.  
+Help me to see myself through Your eyes.  
+Let every area of my life — my thoughts, my relationships, my choices, and my destiny — reflect Your goodness.  
+In Jesus’ name, Amen.</p>
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'THURSDAY, 13TH NOVEMBER 2025',
+    prayer: `<p><strong>THE SPIRIT OF EXCELLENCE</strong><br><br>
 
 “Then this Daniel was preferred above the presidents and princes, because an excellent spirit was in him…” — <strong>Daniel 6:3</strong><br><br>
 
@@ -28,17 +86,7 @@ The world is waiting for the excellence that only the children of God can reveal
 My Father, my God, let the Spirit of Excellence rest upon me.  
 Sharpen my mind, strengthen my character, and beautify my work.  
 Let my life reflect Your glory, and let everything I do carry the mark of divine excellence.  
-In Jesus’ name, Amen.</p>
-
-
-
-
-
-
-
-
-
-`
+In Jesus’ name, Amen.</p>`
 }, {
     date: 'WEDNESDAY, 12TH NOVEMBER 2025',
     prayer: `<p><strong>COVER MY HEAD LORD</strong><br><br>
@@ -72,30 +120,4 @@ Never walk uncovered in the spirit. Every man and woman of destiny needs divine 
 
 <strong>PRAYER:</strong><br>
 My Father, my God, cover my head in the day of battle. Preserve the oil of my calling and shield me from every strike of the enemy. Let my head never lack Your protection, and let my crown never fall. In Jesus’ name, Amen.</p>`
-}, {
-    date: 'TUESDAY, 11TH NOVEMBER 2025',
-    prayer: `<p><strong>GOD WORKS ACCORDING TO HIS NAME</strong><br><br>
-
-“And I appeared unto Abraham, unto Isaac, and unto Jacob, by the name of God Almighty, but by my name JEHOVAH was I not known to them.” — <strong>Exodus 6:3</strong><br><br>
-
-How God appears to you is how He answers you.  
-Every name of God reveals a dimension of His power, and the revelation you carry determines the manifestation you experience.<br><br>
-
-When He told Moses, “I AM THAT I AM,” He revealed Himself as the Self-Existent, All-Sufficient, Ever-Present God — the One who becomes whatever His people need Him to be (<strong>Exodus 3:14</strong>).<br><br>
-
-When He manifests as the Consuming Fire, He burns away everything that stands against His purpose in your life (<strong>Hebrews 12:29</strong>).<br><br>
-
-When He reveals Himself as the Faithful God, He reminds you that His promises never fail (<strong>Deuteronomy 7:9</strong>; <strong>1 Thessalonians 5:24</strong>).<br><br>
-
-When He brings increase to your life, He is the God of Increase (<strong>1 Corinthians 3:6–7</strong>).<br><br>
-
-When He opens your doors and the womb of your destiny, He is the God of Fruitfulness (<strong>Genesis 30:22–23</strong>).<br><br>
-
-And when He forgives and cleanses your sins, He appears as the Merciful God (<strong>Daniel 9:9</strong>; <strong>1 John 1:9</strong>).<br><br>
-
-The way God appears to you is the way He will answer you.  
-May He appear to you today as the God Who Answers Prayer (<strong>Jeremiah 33:3</strong>; <strong>Psalm 65:2</strong>).<br><br>
-
-<strong>PRAYER:</strong><br>
-My Father, my God, appear to me as the Merciful God, in Jesus’ name. Amen.</p>`
 }]
