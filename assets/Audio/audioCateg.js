@@ -73,5 +73,9 @@ export const audioCateg = [{
 }, {
     name: `The name of our God is what brings manifestation`,
     audio: 'podcasts/teaching new five.mp3',
+    new: `<span style = "display: none; class="new-badge"></span>`
+}, {
+    name: `Through faith and patience`,
+    audio: 'podcasts/teaching new eight.mp3',
     new: `<span class="new-badge">NEW</span>`
 }]
