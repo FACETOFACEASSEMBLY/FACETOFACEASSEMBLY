@@ -3,7 +3,9 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  
+  <link rel="manifest" href="/manifest.json">
+  <meta name="theme-color" content="#ffffff">
+
 
   <title>Face to Face Assembly, Sapele | Official Church Website</title>
 
@@ -51,7 +53,9 @@
     </nav>
     <button class="nav-toggle" aria-label="toggle navigation">☰</button>
   </div>
+  
 </header>
+
 
 
   <main>
@@ -93,6 +97,14 @@
       </div>
     </section>
 
+   
+<div class="scrolling-notice">
+  <p>LIVE SERVICE IS OPENED</p>
+</div>
+
+
+
+
     <section class="cta container">
       <h2 class="change-text">Get Involved</h2>
       <p>Join our ministries or volunteer in outreach programs. Your gifts and time make a difference.</p>
@@ -120,7 +132,7 @@
 
     <!-- ✅ Facebook Live Stream Section -->
 <section class="live-service container">
-  <h2 class="change-text">Live Service</h2>
+  <h2 class="change-text">Live Service - HeadQuarters</h2>
   <p>Watch our services live when streaming is available.</p>
 
   <div id="liveWrapper" class="live-wrapper">
@@ -140,7 +152,10 @@
       <div id="liveFallback" class="live-fallback" style="display: none;">
         <h3>Live service will be open on Sundays.</h3>
       </div>
+      <!-- ✅ Tithe & Offering CTA -->
+
   </div>
+  
 </section>
 
 
@@ -197,6 +212,16 @@
     fallback.style.display = "block";
   };
   </script>
+  <script src="service-worker.js" type="module"></script>
+  <script>
+if ("serviceWorker" in navigator) {
+  window.addEventListener("load", function() {
+    navigator.serviceWorker.register("/service-worker.js")
+      .then(() => console.log("Service Worker Registered"));
+  });
+}
+</script>
+
 </body>
 </html>
 

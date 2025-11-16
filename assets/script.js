@@ -35,4 +35,12 @@ if (donateBtn && modal && closeBtn) {
     }
   });
 }
+document.getElementById("goLiveBtn").addEventListener("click", function () {
+  const liveSection = document.querySelector(".live-service");
+
+  liveSection.scrollIntoView({
+    behavior: "smooth",
+    block: "start"
+  });
+});
 
