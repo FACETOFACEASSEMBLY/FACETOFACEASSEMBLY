@@ -13,7 +13,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
-
+<link rel="manifest" href="/manifest.json">
+  <meta name="theme-color" content="#ffffff">
   <title>Face to Face Assembly, Sapele | Official Church Website</title>
 
   <!-- SEO Meta Tags -->
@@ -210,8 +211,18 @@
     fallback.style.display = "block";
   };
   </script>
+  <script src="service-worker.js" type="module"></script>
+  <script>
+if ("serviceWorker" in navigator) {
+  window.addEventListener("load", function() {
+    navigator.serviceWorker.register("/service-worker.js")
+      .then(() => console.log("Service Worker Registered"));
+  });
+}
+</script>
 </body>
 </html>
+
 
 
 
