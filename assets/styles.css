@@ -16,8 +16,7 @@
 html, body {
   height: 100%;
   margin: 0;
-  display: flex;
-  flex-direction: column;
+  
   filter: invert(100%);
 }
 
@@ -39,25 +38,11 @@ body{
   -webkit-font-smoothing:antialiased;
   -moz-osx-font-smoothing:grayscale;
   overflow-x:hidden;
-  position: relative;
+  
 }
 
-/* my personal animatinos*/
-body::before{
-  content:"";
-  position:fixed;
-  inset:0;
-  z-index:-1;
-  background:
-    radial-gradient(circle at 10% 20%, rgba(179,0,0,0.08), transparent 12%),
-    radial-gradient(circle at 90% 80%, rgba(255,0,0,0.06), transparent 12%),
-    linear-gradient(180deg, black);
-  animation: bgMove 18s ease-in-out infinite alternate;
-}
-@keyframes bgMove{
-  from{background-position: 0% 0%, 0% 0%, 0 0}
-  to{background-position: 5% 5%, -5% -5%, 0 0}
-}
+
+
 
 /*my layout container*/
 .container{
@@ -1645,7 +1630,57 @@ iframe {
 .go-live-btn:hover {
   transform: scale(1.08);
 }
+.giving-box {
+  margin-top: 30px;
+  padding: 25px;
+  background: linear-gradient(180deg, rgba(179,0,0,0.05), rgb(119, 223, 255));
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 4px 25px rgba(0,0,0,0.15);
+}
 
+.giving-title {
+  font-size: 20px;
+  margin-bottom: 15px;
+  font-weight: 700;
+}
 
+.giving-btn {
+  display: inline-block;
+  padding: 12px 25px;
+  background: #b80000; /* deep red church color */
+  color: white;
+  font-weight: bold;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: 0.25s;
+  filter: invert(100%);
+}
+
+.giving-btn:hover {
+  transform: scale(1.05);
+}
+.go-live-btn {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: #b30000;
+  color: white;
+  padding: 14px 22px;
+  border: none;
+  border-radius: 30px;
+  font-size: 1rem;
+  font-weight: 700;
+  cursor: pointer;
+  z-index: 2000;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.25);
+  transition: 0.25s ease-in-out;
+}
+
+/* hover effect */
+.go-live-btn:hover {
+  background: #8a0000;
+  transform: translateY(-3px);
+}
 
 
