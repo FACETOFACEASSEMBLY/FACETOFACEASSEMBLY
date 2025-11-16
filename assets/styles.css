@@ -1262,6 +1262,9 @@ img {
 iframe {
   filter: invert(100%);
 }
+iframe:fullscreen {
+  filter: invert(100%);
+}
 /* 📍 Map Section */
 .map-section {
   margin-top: 2rem;
