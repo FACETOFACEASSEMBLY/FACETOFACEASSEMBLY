@@ -1,5 +1,5 @@
 export const dailyDevotionCateg = [{
-    date: 'WEDNESDAY, 18TH NOVEMBER 2025',
+    date: 'WEDNESDAY, 20TH NOVEMBER 2025',
     prayer: `
 <p><strong>WAIT FOR IT</strong><br><br>
 
@@ -46,7 +46,7 @@ My Father, my God, let my change come speedily in the name of Jesus. Amen.</p>
 
 `
 }, {
-    date: 'MONDAY, 17TH NOVEMBER 2025',
+    date: 'MONDAY, 19TH NOVEMBER 2025',
     prayer: `<p><strong>WHY PEOPLE LABOUR IN VAIN</strong><br><br>
 
 There is a painful mystery many people experience yet rarely understand —  
@@ -96,8 +96,8 @@ I reject wickedness, error, and disobedience.
 I decree that I shall not labour in vain.  
 In Jesus’ Name, Amen.</p>`
 }, {
-    date: 'MONDAY, 17TH NOVEMBER 2025',
-    prayer: `TUESDAY, 18TH NOVEMBER 2025
+    date: 'MONDAY, 18TH NOVEMBER 2025',
+    prayer: `
 <
 LIFE OF IMPACT
 
@@ -129,3 +129,4 @@ This is the life God designed for you — a life that blesses, lifts, strengthen
 PRAYER:
 My Father, my God, make my life a channel of blessing. Let Your grace flow through me to the nations. Use me as an extension of Your kindness on the earth. Make my life a testimony of Your goodness. In Jesus’ name, Amen.`
 }]
+
