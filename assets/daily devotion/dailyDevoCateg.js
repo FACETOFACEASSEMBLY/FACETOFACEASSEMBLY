@@ -1,7 +1,62 @@
 export const dailyDevotionCateg = [{
-    date: 'FRIDAY 21, 18TH NOVEMBER 2025',
+    date: 'SATURDAY 22TH NOVEMBER 2025',
     prayer: `
-<p><strong>GOD’S OWN</strong><br><br>
+<p><strong>BE FRUITFUL AND MULTIPLY</strong><br><br>
+
+Jesus said, <strong>“I am the vine, you are the branches. He who abides in Me, and I in him, bears much fruit; for without Me you can do nothing.” — John 15:5</strong><br><br>
+
+A part of this scripture tells us clearly that if we abide in Him and He abides in us, we will bear fruit.  
+So if your life is not fruitful, do not accept it as normal.<br><br>
+
+<strong>“And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth.” — Genesis 1:28</strong><br><br>
+
+Jesus once cursed a particular fig tree, declaring that no man would ever eat from it again. Why? Because when He came seeking fruit, He found only leaves and no fruit.<br><br>
+
+<strong>Mark 11:14</strong> — “No man eat fruit of thee hereafter for ever.”<br>
+<strong>Mark 11:20</strong> — “Now in the morning, as they passed by, they saw the fig tree dried up from the roots.”<br><br>
+
+Curses manifest in the morning.  
+Blessings also manifest in the morning.<br><br>
+
+This morning, as soon as you wake up, pour water and the blood of Jesus on your feet and declare:<br>
+<strong>“I MUST BEAR FRUIT!”</strong><br><br>
+
+Say it out loud:<br>
+<strong>“And in the morning, as they passed by, they saw me fruitful.<br>
+They saw me joyful.<br>
+They saw me fulfilled.<br>
+They saw me carrying my baby.<br>
+They saw me in my husband’s house.<br>
+They saw me prosperous.<br>
+In Jesus’ Name, Amen.”</strong><br><br>
+
+I pray for you today:  
+<strong>Your life will not lack fruit, in Jesus’ Name. Amen.</strong><br><br>
+
+<strong>PRAYER:</strong><br>
+My Father, my God, I am a branch of the Lord. My life must be fruitful, in Jesus’ Name. Amen.<br><br>
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'FRIDAY, 21TH NOVEMBER 2025',
+    prayer: `<p><strong>GOD’S OWN</strong><br><br>
 
 There is a realm where identity is not defined by tribe, achievement, titles, or the approval of men.  
 There is a place where destiny is not negotiated and value is not voted on.  
@@ -47,23 +102,7 @@ You belong to Him — and He will take care of you.<br><br>
 My Father, my God, thank You for calling me Your own.  
 Thank You for choosing me even before I knew You.  
 Let Your seal over my life speak louder than every accusation, every fear, and every opposition.  
-In Jesus’ name, Amen.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-`
+In Jesus’ name, Amen.</p>`
 }, {
     date: 'THURSDAY, 20TH NOVEMBER 2025',
     prayer: `<p><strong>WAIT FOR IT</strong><br><br>
@@ -95,54 +134,4 @@ He who began the good work will surely complete it.<br><br>
 
 <strong>PRAYER:</strong><br>
 My Father, my God, let my change come speedily in the name of Jesus. Amen.</p>`
-}, {
-    date: 'WEDNESDAY, 19TH NOVEMBER 2025',
-    prayer: `<p><strong>WHY PEOPLE LABOUR IN VAIN</strong><br><br>
-
-There is a painful mystery many people experience yet rarely understand —  
-to work hard and see no results,  
-to plant much yet harvest little,  
-to build with effort yet watch it crumble.  
-Scripture calls this labouring in vain.<br><br>
-
-The Bible reveals a powerful truth:  
-Labour alone does not guarantee success;  
-only God’s blessing does.  
-Without Him, human effort collapses.  
-With Him, even the smallest effort multiplies.<br><br>
-
-When Simon Peter fished all night and caught nothing, it was not because he lacked skill —  
-it was because God’s hand had not yet rested on the work.  
-<strong>(Luke 5:3–5)</strong><br><br>
-
-<strong>REASONS PEOPLE LABOUR IN VAIN</strong><br><br>
-
-<strong>1. When God Is Not the Foundation — Psalm 127:1</strong><br>
-“Except the Lord build the house, they labour in vain that build it…”  
-You may build a business, a marriage, a ministry, or a career,  
-but if God is not the Builder, it will eventually fall.<br><br>
-
-<strong>2. When Labour Falls Under a Curse — Deuteronomy 28:41</strong><br>
-“Thou shalt beget sons and daughters, but thou shalt not enjoy them…”  
-Disobedience disconnects a person from divine blessing  
-and makes their labour unfruitful.  
-Without alignment with God, effort produces frustration, not results.<br><br>
-
-<strong>3. When a Person Is Wicked — Job 9:29</strong><br>
-“If I be wicked, why then labour I in vain?”  
-Job is saying, “If God sees me as wicked, then my labour cannot produce results.”  
-Hidden sin, wickedness, or living outside God’s will  
-shuts the doors of fruitfulness.<br><br>
-
-Only covenant people enjoy lasting, permanent fruitfulness.<br><br>
-
-<strong>Isaiah 65:23</strong><br>
-“They shall not labour in vain… for they are the seed of the blessed of the LORD.”  
-This shall be your portion in Jesus’ Name. Amen.<br><br>
-
-<strong>PRAYER:</strong><br>
-My Father, my God, align my life with Your will.  
-I reject wickedness, error, and disobedience.  
-I decree that I shall not labour in vain.  
-In Jesus’ Name, Amen.</p>`
 }]
