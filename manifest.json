@@ -7,14 +7,14 @@
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "appIcon.jpg",
+      "src": "appIcon.png",
       "sizes": "192x192",
-      "type": "image/jpeg"
+      "type": "image/png"
     },
     {
-      "src": "appIcon.jpg",
+      "src": "appIcon.png",
       "sizes": "512x512",
-      "type": "image/jpeg"
+      "type": "image/png"
     }
   ]
 }
