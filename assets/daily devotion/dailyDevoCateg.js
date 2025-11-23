@@ -1,7 +1,54 @@
 export const dailyDevotionCateg = [{
-    date: 'SATURDAY 22TH NOVEMBER 2025',
+    date: 'SUNDAY 23TH NOVEMBER 2025',
     prayer: `
-<p><strong>BE FRUITFUL AND MULTIPLY</strong><br><br>
+<p><strong>NO MORE AFFLICTION</strong><br><br>
+
+<strong>“What do ye imagine against the Lord? He will make an utter end: affliction shall not rise up the second time.” — Nahum 1:9</strong><br><br>
+
+This scripture is a simple but powerful promise from God. It means God does not put your problems on pause — He ends them. He shuts them down so completely that they do not rise again.<br><br>
+
+We see a clear example in the story of the widow at Nain (Luke 7:11-14).<br><br>
+
+First, this woman lost her husband. That was her first major heartbreak. She knew what it meant to be alone and grieving.<br><br>
+
+Then, something even worse happened — her only son died. This was her second great affliction. In those days, losing her only son meant losing her last family support and all hope for the future. One tragedy after another.<br><br>
+
+But then, Jesus came.<br><br>
+
+He saw her tears, and His compassion moved Him. He approached the coffin and declared:<br>
+<strong>“Young man, arise!”</strong><br>
+And immediately, her son rose from the dead!<br><br>
+
+This was not just a miracle — it was the end of her repeated afflictions. The sorrow that came the second time was destroyed forever.<br><br>
+
+This story teaches us something powerful: God sees when we suffer back-to-back battles. He does not want us to live in cycles of pain. Jesus steps in to break the pattern, and He will step in for you today, in Jesus’ Name. Amen.<br><br>
+
+<strong>PRAYER:</strong><br>
+My Father, my God, affliction will not rise up the second time in my life, in Jesus’ Name. Amen.<br><br>
+
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'SATURDAY, 22TH NOVEMBER 2025',
+    prayer: `<p><strong>BE FRUITFUL AND MULTIPLY</strong><br><br>
 
 Jesus said, <strong>“I am the vine, you are the branches. He who abides in Me, and I in him, bears much fruit; for without Me you can do nothing.” — John 15:5</strong><br><br>
 
@@ -36,24 +83,7 @@ I pray for you today:
 <strong>PRAYER:</strong><br>
 My Father, my God, I am a branch of the Lord. My life must be fruitful, in Jesus’ Name. Amen.<br><br>
 
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-`
+</p>`
 }, {
     date: 'FRIDAY, 21TH NOVEMBER 2025',
     prayer: `<p><strong>GOD’S OWN</strong><br><br>
@@ -103,35 +133,4 @@ My Father, my God, thank You for calling me Your own.
 Thank You for choosing me even before I knew You.  
 Let Your seal over my life speak louder than every accusation, every fear, and every opposition.  
 In Jesus’ name, Amen.</p>`
-}, {
-    date: 'THURSDAY, 20TH NOVEMBER 2025',
-    prayer: `<p><strong>WAIT FOR IT</strong><br><br>
-
-Life is a journey of faith and patience.<br><br>
-
-<strong>“That ye be not slothful, but followers of them who through faith and patience inherit the promises.” — Hebrews 6:12</strong><br><br>
-
-There is a phase in every believer’s life called the waiting season — a moment where results have not yet appeared, prayers seem unanswered, and silence feels louder than confirmation.<br><br>
-
-This is the place between <em>“IT SHALL COME TO PASS”</em> and <em>“IT HAS COME TO PASS.”</em><br><br>
-
-In this sacred space, God builds your character, strengthens your faith, and prepares you for the manifestation of His promise.<br><br>
-
-Abraham understood this mystery and <strong>“staggered not at the promise of God through unbelief; but was strong in faith, giving glory to God.” — Romans 4:20</strong><br><br>
-
-Even when nothing seemed to be happening, he chose worship over worry.<br><br>
-
-And God reminds us again:<br>
-<strong>“For the vision is yet for an appointed time; but at the end it shall speak, and not lie: though it tarry, wait for it; because it will surely come, it will not tarry.” — Habakkuk 2:3</strong><br><br>
-
-Waiting is not a delay — it is divine preparation, alignment, and growth.<br><br>
-
-Job understood this deeply when he declared,<br>
-<strong>“All the days of my appointed time will I wait, till my change come.” — Job 14:14</strong><br><br>
-
-While you wait, keep thanking God.  
-He who began the good work will surely complete it.<br><br>
-
-<strong>PRAYER:</strong><br>
-My Father, my God, let my change come speedily in the name of Jesus. Amen.</p>`
 }]
