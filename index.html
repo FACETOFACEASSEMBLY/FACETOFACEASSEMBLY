@@ -157,18 +157,7 @@
       </div>
   </div>
 </section>
- <button id="installBtn" style="
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  padding: 12px 20px;
-  background: #007bff;
-  color: white;
-  border: none;
-  border-radius: 8px;
-  display: none;
-  z-index: 9999;
-">
+ <button id="installBtn" class="button-install" >
   Install App
 </button>
 
@@ -253,9 +242,24 @@ window.addEventListener("beforeinstallprompt", (e) => {
     });
   });
 });
+
+window.addEventListener("DOMContentLoaded", () => {
+  // If we never get beforeinstallprompt in 3 seconds → show button manually
+  setTimeout(() => {
+    if (!deferredPrompt) {
+      document.getElementById("installBtn").style.display = "block";
+    }
+  }, 3000);
+});
+if (/iphone|ipad|ipod/i.test(navigator.userAgent)) {
+  document.getElementById("installBtn").style.display = "block";
+  document.getElementById("installBtn").innerText = "Add to Home Screen";
+}
+
 </script>
 </body>
 </html>
+
 
 
 
