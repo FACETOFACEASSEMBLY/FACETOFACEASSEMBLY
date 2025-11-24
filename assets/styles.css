@@ -1692,4 +1692,146 @@ iframe:fullscreen {
   left: auto;
   transform: translateZ(0);
 }
+/* ============================
+   OVERLAY
+============================ */
+.pwa-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.45);
+  display: none;
+  align-items: center;
+  justify-content: center;
+  z-index: 99999;
+  padding: 20px;
+  backdrop-filter: blur(2px);
+  animation: fadeIn 0.25s ease-out;
+}
+
+/* Popup Card */
+.pwa-card {
+  width: 92%;
+  max-width: 420px;
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 20px;
+  display: grid;
+  grid-template-columns: 70px 1fr;
+  gap: 14px;
+  box-shadow: 0 18px 40px rgba(0,0,0,0.25);
+  animation: slideUp 0.32s ease-out;
+}
+
+/* Icon */
+.pwa-icon {
+  width: 70px;
+  height: 70px;
+  background: linear-gradient(180deg, #b30000, #ff4d4d);
+  border-radius: 14px;
+  font-size: 28px;
+  font-weight: 900;
+  color: white;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+
+/* Text */
+.pwa-title {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 800;
+  color: #222;
+}
+
+.pwa-description {
+  margin: 4px 0 14px 0;
+  font-size: 14px;
+  color: #444;
+  line-height: 1.45;
+}
+
+/* Buttons */
+.pwa-actions {
+  display:flex;
+  gap:10px;
+  margin-top: 12px;
+}
+
+.pwa-btn {
+  padding: 10px 14px;
+  border-radius: 10px;
+  border: none;
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.pwa-btn.install {
+  background: #b30000;
+  color:white;
+  box-shadow: 0 8px 20px rgba(179,0,0,0.25);
+}
+
+.pwa-btn.cancel {
+  background: #f3f3f3;
+  color: #444;
+  border: 1px solid #e3e3e3;
+}
+
+/* iOS instructions */
+.pwa-ios {
+  display:none;
+  margin-top: 10px;
+}
+
+.pwa-ios-step {
+  background:#f7f7f7;
+  padding: 8px 10px;
+  border-radius: 8px;
+  margin-bottom: 6px;
+  font-size: 13px;
+  color:#222;
+}
+
+/* Floating button */
+.pwa-floating-btn {
+  position: fixed;
+  right: 14px;
+  bottom: 18px;
+  background: linear-gradient(180deg,#b30000,#8a0000);
+  color: white;
+  border: none;
+  padding: 12px 16px;
+  border-radius: 100px;
+  font-weight: 700;
+  font-size: 14px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.25);
+  z-index: 99998;
+  display: none;
+  cursor:pointer;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from { opacity: 0; } 
+  to { opacity: 1; }
+}
+
+@keyframes slideUp {
+  from { transform: translateY(18px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+
+/* Responsive */
+@media (max-width: 420px) {
+  .pwa-card {
+    grid-template-columns: 58px 1fr;
+  }
+  .pwa-icon {
+    width: 58px;
+    height: 58px;
+    font-size: 22px;
+  }
+}
 
