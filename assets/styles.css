@@ -1685,5 +1685,11 @@ iframe:fullscreen {
   background: #8a0000;
   transform: translateY(-3px);
 }
-
+.button-install {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  left: auto;
+  transform: translateZ(0);
+}
 
