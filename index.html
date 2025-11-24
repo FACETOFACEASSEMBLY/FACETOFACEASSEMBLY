@@ -162,7 +162,35 @@
 </button>
 
   </main>
+<div class="pwa-overlay" id="pwaOverlay" aria-hidden="true" role="dialog" aria-modal="true">
+  <div class="pwa-card" role="document">
+    
+    <div class="pwa-icon">FA</div>
 
+    <div class="pwa-content">
+      <h3 class="pwa-title">Install Face to Face Assembly</h3>
+      <p class="pwa-description">
+        Add this app to your home screen for faster access, offline devotionals, and quick giving.
+      </p>
+
+      <!-- Normal Install View -->
+      <div class="pwa-actions" id="pwaActions">
+        <button class="pwa-btn install" id="pwaInstallBtn">Install</button>
+        <button class="pwa-btn cancel" id="pwaCancelBtn">Maybe Later</button>
+      </div>
+
+      <!-- iOS Instruction View -->
+      <div class="pwa-ios" id="pwaIOS">
+        <div class="pwa-ios-step">Tap <strong>Share</strong></div>
+        <div class="pwa-ios-step">Select <strong>Add to Home Screen</strong></div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- Small Floating Button -->
+<button class="pwa-floating-btn" id="pwaFloating">Add App ↓</button>
   <footer class="site-footer">
     <div class="container footer-grid">
       <div>
@@ -257,8 +285,144 @@ if (/iphone|ipad|ipod/i.test(navigator.userAgent)) {
 }
 
 </script>
+  <script>
+(function() {
+  const overlay = document.getElementById('installOverlay');
+  const installPrimary = document.getElementById('installPrimary');
+  const installDismiss = document.getElementById('installDismiss');
+  const floating = document.getElementById('installFloating');
+  const iosHint = document.getElementById('iosHint');
+
+  let deferredPrompt = null;
+  let shownOnce = false;
+  const SHOW_DELAY_MS = 1200; // small delay so page loads first
+  const AUTO_HIDE_AFTER = 45_000; // hide after 45s if user doesn't act
+
+  // utility: show overlay
+  function showOverlay(forIOS=false) {
+    if (shownOnce) return;
+    shownOnce = true;
+    if (forIOS) {
+      iosHint.style.display = 'block';
+      installPrimary.textContent = 'Got it';
+    } else {
+      iosHint.style.display = 'none';
+      installPrimary.textContent = 'Install';
+    }
+    overlay.style.display = 'flex';
+    overlay.setAttribute('aria-hidden','false');
+    floating.style.display = 'none';
+    // auto-hide
+    setTimeout(hideOverlay, AUTO_HIDE_AFTER);
+  }
+
+  function hideOverlay() {
+    overlay.style.display = 'none';
+    overlay.setAttribute('aria-hidden','true');
+  }
+
+  function showFloating() {
+    if (shownOnce) return;
+    floating.style.display = 'block';
+  }
+
+  // Android / Chrome: catch the beforeinstallprompt event
+  window.addEventListener('beforeinstallprompt', (e) => {
+    e.preventDefault();
+    deferredPrompt = e;
+    // show nice UI a little later (not immediately to avoid flashing during load)
+    setTimeout(() => {
+      showOverlay(false);
+    }, SHOW_DELAY_MS);
+  });
+
+  // If already installed or in standalone mode, do not show
+  function isStandalone() {
+    // navigator.standalone for iOS Safari, display-mode for others
+    return (window.matchMedia && window.matchMedia('(display-mode: standalone)').matches)
+      || window.navigator.standalone === true;
+  }
+
+  if (isStandalone()) {
+    // app already installed — hide UI
+    overlay.style.display = 'none';
+    floating.style.display = 'none';
+  } else {
+    // Detect iOS devices (no reliable prompt)
+    const ua = navigator.userAgent || navigator.vendor || window.opera;
+    const isiOS = /iphone|ipad|ipod/i.test(ua) && !/windows phone/i.test(ua);
+
+    if (isiOS) {
+      // show iOS hint overlay/floating after delay
+      setTimeout(() => showOverlay(true), SHOW_DELAY_MS + 400);
+      // or show floating if you prefer less intrusive:
+      // setTimeout(showFloating, SHOW_DELAY_MS + 400);
+    } else {
+      // non iOS: show floating CTA in case beforeinstallprompt did not fire
+      setTimeout(showFloating, SHOW_DELAY_MS + 600);
+    }
+  }
+
+  // Primary install action
+  installPrimary.addEventListener('click', async function() {
+    // If we have a deferredPrompt, use it (Android/Chrome)
+    if (deferredPrompt) {
+      try {
+        deferredPrompt.prompt();
+        const choice = await deferredPrompt.userChoice;
+        // optional: you can track analytics here
+      } catch (err) {
+        console.warn('Install prompt failed', err);
+      } finally {
+        deferredPrompt = null;
+        hideOverlay();
+      }
+      return;
+    }
+
+    // For iOS, primary is "Got it" — just hide overlay after user read instructions
+    hideOverlay();
+  });
+
+  // Dismiss
+  installDismiss.addEventListener('click', function() {
+    hideOverlay();
+  });
+
+  // Floating CTA click -> open overlay
+  floating.addEventListener('click', function() {
+    const ua = navigator.userAgent || navigator.vendor || window.opera;
+    const isiOS = /iphone|ipad|ipod/i.test(ua) && !/windows phone/i.test(ua);
+    showOverlay(isiOS);
+  });
+
+  // If user installs the app (display-mode changes), auto-hide UI
+  function handleDisplayModeChange() {
+    if (isStandalone()) {
+      hideOverlay();
+      floating.style.display = 'none';
+    }
+  }
+  window.matchMedia('(display-mode: standalone)').addEventListener('change', handleDisplayModeChange);
+  window.addEventListener('appinstalled', () => {
+    // fired when installed (Chrome)
+    deferredPrompt = null;
+    hideOverlay();
+    floating.style.display = 'none';
+  });
+
+  // accessibility: close overlay on Escape
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && overlay.style.display === 'flex') {
+      hideOverlay();
+    }
+  });
+
+})();
+</script>
 </body>
 </html>
+
 
 
 
