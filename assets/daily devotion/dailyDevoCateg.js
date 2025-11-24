@@ -1,7 +1,46 @@
 export const dailyDevotionCateg = [{
-    date: 'SUNDAY 23TH NOVEMBER 2025',
+    date: 'MONDAY 24TH NOVEMBER 2025',
     prayer: `
-<p><strong>NO MORE AFFLICTION</strong><br><br>
+<p>
+  <strong>POWER TO TAKE IT BACK</strong><br><br>
+
+  “No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again. This commandment have I received of my Father.”<br>
+  <em>John 10:18</em><br><br>
+
+  This verse reveals something extraordinary about Jesus. When He died, it appeared as though His life was taken by soldiers, rulers, and enemies. But Jesus made it clear that no man had the strength to take His life. He laid it down willingly. And beyond that, He had the divine power to take it back again — the power of resurrection.<br><br>
+
+  That same resurrection power is at work in your life today. The enemy often tries to steal from us — our peace, our health, our joy, our relationships, our opportunities. Sometimes the losses feel final, like they can never be restored. But the testimony of Jesus says otherwise. Because Jesus could take back His life, you too can take back everything the enemy has stolen, through the authority of His name.<br><br>
+
+  Think about David at Ziklag. The enemy burned down his camp and carried away his family and all his possessions. David and his men wept until they had no strength left. It looked like the end. But David sought the Lord, and God told him to pursue — and that he would recover all. David obeyed, fought, and took back everything that had been stolen.<br>
+  <em>1 Samuel 30:1–8</em><br><br>
+
+  This shows us that with God, loss is never the end of the story. You are not helpless. You are not defeated. Through Christ, you carry divine authority. You don’t have to accept the enemy’s theft. You can stand, pray, declare, and take back your joy, your health, your destiny, your opportunities, and your blessings. Restoration is your portion. Recovery is your right in Christ Jesus.<br><br>
+
+  <strong>PRAYER</strong><br>
+  My Father, my God, by the power of Jesus at work in me, I take back everything the enemy has stolen from my life. I recover my peace, my health, my joy, and my blessings. I declare full restoration now, in Jesus’ name. Amen.
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'SUNDAY, 23RD NOVEMBER 2025',
+    prayer: `<p><strong>NO MORE AFFLICTION</strong><br><br>
 
 <strong>“What do ye imagine against the Lord? He will make an utter end: affliction shall not rise up the second time.” — Nahum 1:9</strong><br><br>
 
@@ -30,25 +69,10 @@ My Father, my God, affliction will not rise up the second time in my life, in Je
 </p>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 `
 }, {
     date: 'SATURDAY, 22TH NOVEMBER 2025',
-    prayer: `<p><strong>BE FRUITFUL AND MULTIPLY</strong><br><br>
+    prayer: `<p><p><strong>BE FRUITFUL AND MULTIPLY</strong><br><br>
 
 Jesus said, <strong>“I am the vine, you are the branches. He who abides in Me, and I in him, bears much fruit; for without Me you can do nothing.” — John 15:5</strong><br><br>
 
@@ -83,54 +107,7 @@ I pray for you today:
 <strong>PRAYER:</strong><br>
 My Father, my God, I am a branch of the Lord. My life must be fruitful, in Jesus’ Name. Amen.<br><br>
 
-</p>`
-}, {
-    date: 'FRIDAY, 21TH NOVEMBER 2025',
-    prayer: `<p><strong>GOD’S OWN</strong><br><br>
+</p>
 
-There is a realm where identity is not defined by tribe, achievement, titles, or the approval of men.  
-There is a place where destiny is not negotiated and value is not voted on.  
-It is the realm of divine ownership — the mystery of being God’s own.<br><br>
-
-When the Most High divided the nations, He chose something for Himself — not land, but people.  
-<strong>“For the LORD’s portion is His people.”</strong>  
-This means your existence is not accidental.  
-You are God’s deliberate possession.  
-You are not a random soul on earth; you are a divine inheritance in the hands of the Eternal.<br><br>
-
-In <strong>Matthew 20:15</strong>, God reveals a powerful truth:  
-He has the right to do what He desires with what belongs to Him.  
-Men may question His mercy.  
-They may envy His favour on your life.  
-They may not understand why grace keeps reaching for you even when you fall.  
-But God answers to no one.  
-You are His own, and His dealings with you flow from ownership, love, and eternal investment.<br><br>
-
-And Paul declares with authority:<br>
-<strong>“The Lord knows those who are His.”</strong><br><br>
-
-When others are saying there is a casting down, His own will say there is a lifting up.  
-His own labour little and reap much.  
-His own do not beg for bread. — <strong>Job 22:29</strong><br><br>
-
-God marks His own.  
-He guides His own.  
-He defends His own.  
-He corrects His own.  
-He invests in His own.  
-No darkness is permitted to claim what God has stamped as His eternal property.<br><br>
-
-To be God’s own is to live with a seal hell cannot erase and a covering men cannot explain.  
-Even when life shakes you, you remain rooted in a foundation that cannot be broken.<br><br>
-
-This is your identity.  
-This is your confidence.  
-This is your destiny.  
-You belong to Him — and He will take care of you.<br><br>
-
-<strong>PRAYER:</strong><br>
-My Father, my God, thank You for calling me Your own.  
-Thank You for choosing me even before I knew You.  
-Let Your seal over my life speak louder than every accusation, every fear, and every opposition.  
-In Jesus’ name, Amen.</p>`
+`
 }]
