@@ -1,23 +1,43 @@
 export const dailyDevotionCateg = [{
-    date: 'MONDAY 24TH NOVEMBER 2025',
+    date: 'TUESDAY 25TH NOVEMBER 2025',
     prayer: `
 <p>
-  <strong>POWER TO TAKE IT BACK</strong><br><br>
+  
+  <strong>YOUR MOURNING WILL TURN TO DANCING</strong><br><br>
 
-  “No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again. This commandment have I received of my Father.”<br>
-  <em>John 10:18</em><br><br>
+  “You have turned for me my mourning into dancing; You have put off my sackcloth and clothed me with gladness.”<br>
+  <em>— Psalm 30:11</em><br><br>
 
-  This verse reveals something extraordinary about Jesus. When He died, it appeared as though His life was taken by soldiers, rulers, and enemies. But Jesus made it clear that no man had the strength to take His life. He laid it down willingly. And beyond that, He had the divine power to take it back again — the power of resurrection.<br><br>
+  I will never forget the day a woman came to me, her body shaking with violent sobs. Her son had been kidnapped.
+  The pain was so deep she could barely speak. Her lamentation came from a place of utter despair.<br><br>
 
-  That same resurrection power is at work in your life today. The enemy often tries to steal from us — our peace, our health, our joy, our relationships, our opportunities. Sometimes the losses feel final, like they can never be restored. But the testimony of Jesus says otherwise. Because Jesus could take back His life, you too can take back everything the enemy has stolen, through the authority of His name.<br><br>
+  She fell to her knees, and all she could cry was, “My son, my son!” The situation looked impossible,
+  the darkness overwhelming.<br><br>
 
-  Think about David at Ziklag. The enemy burned down his camp and carried away his family and all his possessions. David and his men wept until they had no strength left. It looked like the end. But David sought the Lord, and God told him to pursue — and that he would recover all. David obeyed, fought, and took back everything that had been stolen.<br>
-  <em>1 Samuel 30:1–8</em><br><br>
+  But in that very moment, the Spirit of God rose within me. I looked at her and declared a word from the Lord:
+  “Go to the altar now and pour out your heart before God. But hear this — the same God who delivered Daniel
+  from the lions’ den and the three Hebrew boys from the fiery furnace is alive today. He will do it for you.
+  God will turn your mourning and your pain into dancing.”<br><br>
 
-  This shows us that with God, loss is never the end of the story. You are not helpless. You are not defeated. Through Christ, you carry divine authority. You don’t have to accept the enemy’s theft. You can stand, pray, declare, and take back your joy, your health, your destiny, your opportunities, and your blessings. Restoration is your portion. Recovery is your right in Christ Jesus.<br><br>
+  It was a prophecy spoken into the middle of deep pain.<br><br>
+
+  A few days later, I heard a commotion outside. It was her — but this time she was not crying.
+  She was shouting, “Pastor! Pastor!” with a voice full of joy. She ran to me, her face shining,
+  and right there she began to dance!<br><br>
+
+  She testified, “They have released my son! He is free! God has done it!”<br><br>
+
+  The same woman who was clothed with the sackcloth of mourning was now clothed with the gladness of victory.
+  God had turned her wailing into a dance of joy.<br><br>
+
+  Hear me today: whatever that mourning represents in your life — sickness, financial debt, a broken marriage,
+  a wayward child — the God of Psalm 30:11 has not changed.<br><br>
+
+  Your situation is not too hard for Him. Just as He turned that woman’s sorrow into celebration,
+  He will turn yours too. Your crying season is ending, and your dancing season is beginning. Amen.<br><br>
 
   <strong>PRAYER</strong><br>
-  My Father, my God, by the power of Jesus at work in me, I take back everything the enemy has stolen from my life. I recover my peace, my health, my joy, and my blessings. I declare full restoration now, in Jesus’ name. Amen.
+  My Father, My God, turn every pain in my heart into joy. In Jesus' Name, Amen.
 </p>
 
 
@@ -35,6 +55,30 @@ export const dailyDevotionCateg = [{
 
 
 
+
+
+
+`
+}, {
+    date: 'MONDAY, 24TH NOVEMBER 2025',
+    prayer: `<p>
+  <strong>POWER TO TAKE IT BACK</strong><br><br>
+
+  “No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again. This commandment have I received of my Father.”<br>
+  <em>John 10:18</em><br><br>
+
+  This verse reveals something extraordinary about Jesus. When He died, it appeared as though His life was taken by soldiers, rulers, and enemies. But Jesus made it clear that no man had the strength to take His life. He laid it down willingly. And beyond that, He had the divine power to take it back again — the power of resurrection.<br><br>
+
+  That same resurrection power is at work in your life today. The enemy often tries to steal from us — our peace, our health, our joy, our relationships, our opportunities. Sometimes the losses feel final, like they can never be restored. But the testimony of Jesus says otherwise. Because Jesus could take back His life, you too can take back everything the enemy has stolen, through the authority of His name.<br><br>
+
+  Think about David at Ziklag. The enemy burned down his camp and carried away his family and all his possessions. David and his men wept until they had no strength left. It looked like the end. But David sought the Lord, and God told him to pursue — and that he would recover all. David obeyed, fought, and took back everything that had been stolen.<br>
+  <em>1 Samuel 30:1–8</em><br><br>
+
+  This shows us that with God, loss is never the end of the story. You are not helpless. You are not defeated. Through Christ, you carry divine authority. You don’t have to accept the enemy’s theft. You can stand, pray, declare, and take back your joy, your health, your destiny, your opportunities, and your blessings. Restoration is your portion. Recovery is your right in Christ Jesus.<br><br>
+
+  <strong>PRAYER</strong><br>
+  My Father, my God, by the power of Jesus at work in me, I take back everything the enemy has stolen from my life. I recover my peace, my health, my joy, and my blessings. I declare full restoration now, in Jesus’ name. Amen.
+</p>
 
 
 `
@@ -65,47 +109,6 @@ This story teaches us something powerful: God sees when we suffer back-to-back b
 <strong>PRAYER:</strong><br>
 My Father, my God, affliction will not rise up the second time in my life, in Jesus’ Name. Amen.<br><br>
 
-
-</p>
-
-
-`
-}, {
-    date: 'SATURDAY, 22TH NOVEMBER 2025',
-    prayer: `<p><p><strong>BE FRUITFUL AND MULTIPLY</strong><br><br>
-
-Jesus said, <strong>“I am the vine, you are the branches. He who abides in Me, and I in him, bears much fruit; for without Me you can do nothing.” — John 15:5</strong><br><br>
-
-A part of this scripture tells us clearly that if we abide in Him and He abides in us, we will bear fruit.  
-So if your life is not fruitful, do not accept it as normal.<br><br>
-
-<strong>“And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth.” — Genesis 1:28</strong><br><br>
-
-Jesus once cursed a particular fig tree, declaring that no man would ever eat from it again. Why? Because when He came seeking fruit, He found only leaves and no fruit.<br><br>
-
-<strong>Mark 11:14</strong> — “No man eat fruit of thee hereafter for ever.”<br>
-<strong>Mark 11:20</strong> — “Now in the morning, as they passed by, they saw the fig tree dried up from the roots.”<br><br>
-
-Curses manifest in the morning.  
-Blessings also manifest in the morning.<br><br>
-
-This morning, as soon as you wake up, pour water and the blood of Jesus on your feet and declare:<br>
-<strong>“I MUST BEAR FRUIT!”</strong><br><br>
-
-Say it out loud:<br>
-<strong>“And in the morning, as they passed by, they saw me fruitful.<br>
-They saw me joyful.<br>
-They saw me fulfilled.<br>
-They saw me carrying my baby.<br>
-They saw me in my husband’s house.<br>
-They saw me prosperous.<br>
-In Jesus’ Name, Amen.”</strong><br><br>
-
-I pray for you today:  
-<strong>Your life will not lack fruit, in Jesus’ Name. Amen.</strong><br><br>
-
-<strong>PRAYER:</strong><br>
-My Father, my God, I am a branch of the Lord. My life must be fruitful, in Jesus’ Name. Amen.<br><br>
 
 </p>
 
