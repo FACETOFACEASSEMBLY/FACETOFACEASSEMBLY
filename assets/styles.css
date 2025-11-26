@@ -1556,7 +1556,7 @@ iframe:fullscreen {
   width: 100%;
   overflow: hidden;
   background: #970000; 
-  background: linear-gradient(180deg,#fff,#91cdd162);
+  background: linear-gradient(180deg,#35ebe2,#91cdd162);
   padding: 12px 0;
   margin: 40px 0 20px;
   filter: invert(100%);
