@@ -1,5 +1,5 @@
 export const dailyDevotionCateg = [{
-    date: 'TUESDAY 25TH NOVEMBER 2025',
+    date: 'WEDNESDAY 26TH NOVEMBER 2025',
     prayer: `
 <p>
   
@@ -60,6 +60,47 @@ export const dailyDevotionCateg = [{
 
 `
 }, {
+    date: 'TUESDAY, 25TH NOVEMBER 2025',
+    prayer: `<p> <strong>OH LORD, DELIVER ME FROM POWERS STRONGER THAN ME</strong><br><br>
+
+“He delivered me from my strong enemy, and from them which hated me: for they were too strong for me.”<br>
+<em>— Psalm 18:17</em><br><br>
+
+There are moments in life when the battles we face seem bigger than our strength.
+Some enemies are not physical — they are patterns, cycles, addictions, delays, family altars, fear, sicknesses,
+or invisible forces resisting your progress.<br><br>
+
+David understood this deeply. He confessed that some enemies were “too strong” for him,
+but he also testified that God delivered him.<br><br>
+
+Acknowledging that a battle is stronger than you is not weakness — it is humility.
+It is the doorway to divine intervention. God cannot step into a fight you are still trying to win
+by your own wisdom, willpower, or strategy.<br><br>
+
+There are powers that fight destinies.
+There are altars that resist families.
+There are yokes that refuse to break by human strength.
+But none of them are stronger than the God who fights for you.<br><br>
+
+When sickness keeps returning,<br>
+When financial cycles never break,<br>
+When family patterns repeat across generations,<br>
+When spiritual heaviness or fear surrounds you,<br>
+When sin continually battles your walk with God —<br>
+That is when you cry for help. Scripture says the battle belongs to the Lord.<br><br>
+
+The Lord who rescued David will rescue you and your household today in Jesus’ Name.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, I acknowledge that there are powers, cycles, and battles stronger than me,
+but none of them are stronger than You.
+Arise, O Lord, and deliver me today. In Jesus’ Name, Amen.
+
+</p>
+
+
+`
+}, {
     date: 'MONDAY, 24TH NOVEMBER 2025',
     prayer: `<p>
   <strong>POWER TO TAKE IT BACK</strong><br><br>
@@ -79,35 +120,6 @@ export const dailyDevotionCateg = [{
   <strong>PRAYER</strong><br>
   My Father, my God, by the power of Jesus at work in me, I take back everything the enemy has stolen from my life. I recover my peace, my health, my joy, and my blessings. I declare full restoration now, in Jesus’ name. Amen.
 </p>
-
-
-`
-}, {
-    date: 'SUNDAY, 23RD NOVEMBER 2025',
-    prayer: `<p><strong>NO MORE AFFLICTION</strong><br><br>
-
-<strong>“What do ye imagine against the Lord? He will make an utter end: affliction shall not rise up the second time.” — Nahum 1:9</strong><br><br>
-
-This scripture is a simple but powerful promise from God. It means God does not put your problems on pause — He ends them. He shuts them down so completely that they do not rise again.<br><br>
-
-We see a clear example in the story of the widow at Nain (Luke 7:11-14).<br><br>
-
-First, this woman lost her husband. That was her first major heartbreak. She knew what it meant to be alone and grieving.<br><br>
-
-Then, something even worse happened — her only son died. This was her second great affliction. In those days, losing her only son meant losing her last family support and all hope for the future. One tragedy after another.<br><br>
-
-But then, Jesus came.<br><br>
-
-He saw her tears, and His compassion moved Him. He approached the coffin and declared:<br>
-<strong>“Young man, arise!”</strong><br>
-And immediately, her son rose from the dead!<br><br>
-
-This was not just a miracle — it was the end of her repeated afflictions. The sorrow that came the second time was destroyed forever.<br><br>
-
-This story teaches us something powerful: God sees when we suffer back-to-back battles. He does not want us to live in cycles of pain. Jesus steps in to break the pattern, and He will step in for you today, in Jesus’ Name. Amen.<br><br>
-
-<strong>PRAYER:</strong><br>
-My Father, my God, affliction will not rise up the second time in my life, in Jesus’ Name. Amen.<br><br>
 
 
 </p>
