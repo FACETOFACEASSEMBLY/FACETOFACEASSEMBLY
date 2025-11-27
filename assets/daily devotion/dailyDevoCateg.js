@@ -1,7 +1,60 @@
 export const dailyDevotionCateg = [{
-    date: 'WEDNESDAY 26TH NOVEMBER 2025',
+    date: 'THURSDAY 27TH NOVEMBER 2025',
     prayer: `
 <p>
+
+  <strong>A THREEFOLD CORD</strong><br><br>
+
+  There is a divine pattern hidden in the principle of “three times.” In Scripture, consistent spiritual actions repeated three times often carry prophetic weight and power.<br><br>
+
+  When Jesus faced the weight of the cross, He prayed three times about the same matter. This was not mere repetition; it was persistence in surrender. And after the third time, He said, “Not my will, but Thine be done.”<br>
+  <em>— Matthew 26:44</em><br><br>
+
+  Daniel also followed this ancient pattern. Even in the face of persecution, he remained unshaken, praying three times a day with his windows open toward Jerusalem.<br>
+  <em>— Daniel 6:10</em><br><br>
+
+  The Psalmist echoed the same rhythm of devotion: evening, morning, and noon — a complete cycle of spiritual discipline.<br>
+  <em>— Psalm 55:17</em><br><br>
+
+  Why three times? Because heaven recognizes “three” as a complete witness — a divine confirmation.<br>
+  <em>— 2 Corinthians 13:1</em><br><br>
+
+  Even creation itself mirrors this divine pattern: Heaven, Earth, and Under the Earth — all bowing to the name of Jesus.<br>
+  <em>— Philippians 2:10</em><br><br>
+
+  And when you face a pressing issue, Scripture shows another mystery: agreement. Find two people who will stand with you in faith, for a threefold cord cannot be easily broken.<br>
+  <em>— Ecclesiastes 4:12</em><br><br>
+
+  There is power in spiritual consistency. Whatever area you desire to see results — prayer, fasting, giving, declarations — commit to it three times, and watch heaven respond with power.<br><br>
+
+  <strong>PRAYER</strong><br>
+  Father, strengthen my commitment to spiritual consistency. Help me to build a threefold cord of discipline, faith, and agreement, and let heaven respond to my persistence. In Jesus’ Name, Amen.
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'WEDNESDAY, 26TH NOVEMBER 2025',
+    prayer: `<p>
   
   <strong>YOUR MOURNING WILL TURN TO DANCING</strong><br><br>
 
@@ -41,23 +94,6 @@ export const dailyDevotionCateg = [{
 </p>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 `
 }, {
     date: 'TUESDAY, 25TH NOVEMBER 2025',
@@ -95,32 +131,6 @@ The Lord who rescued David will rescue you and your household today in Jesus’ 
 My Father, My God, I acknowledge that there are powers, cycles, and battles stronger than me,
 but none of them are stronger than You.
 Arise, O Lord, and deliver me today. In Jesus’ Name, Amen.
-
-</p>
-
-
-`
-}, {
-    date: 'MONDAY, 24TH NOVEMBER 2025',
-    prayer: `<p>
-  <strong>POWER TO TAKE IT BACK</strong><br><br>
-
-  “No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again. This commandment have I received of my Father.”<br>
-  <em>John 10:18</em><br><br>
-
-  This verse reveals something extraordinary about Jesus. When He died, it appeared as though His life was taken by soldiers, rulers, and enemies. But Jesus made it clear that no man had the strength to take His life. He laid it down willingly. And beyond that, He had the divine power to take it back again — the power of resurrection.<br><br>
-
-  That same resurrection power is at work in your life today. The enemy often tries to steal from us — our peace, our health, our joy, our relationships, our opportunities. Sometimes the losses feel final, like they can never be restored. But the testimony of Jesus says otherwise. Because Jesus could take back His life, you too can take back everything the enemy has stolen, through the authority of His name.<br><br>
-
-  Think about David at Ziklag. The enemy burned down his camp and carried away his family and all his possessions. David and his men wept until they had no strength left. It looked like the end. But David sought the Lord, and God told him to pursue — and that he would recover all. David obeyed, fought, and took back everything that had been stolen.<br>
-  <em>1 Samuel 30:1–8</em><br><br>
-
-  This shows us that with God, loss is never the end of the story. You are not helpless. You are not defeated. Through Christ, you carry divine authority. You don’t have to accept the enemy’s theft. You can stand, pray, declare, and take back your joy, your health, your destiny, your opportunities, and your blessings. Restoration is your portion. Recovery is your right in Christ Jesus.<br><br>
-
-  <strong>PRAYER</strong><br>
-  My Father, my God, by the power of Jesus at work in me, I take back everything the enemy has stolen from my life. I recover my peace, my health, my joy, and my blessings. I declare full restoration now, in Jesus’ name. Amen.
-</p>
-
 
 </p>
 
