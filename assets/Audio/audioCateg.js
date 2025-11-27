@@ -77,5 +77,17 @@ export const audioCateg = [{
 }, {
     name: `Through faith and patience`,
     audio: 'podcasts/teaching new eight.mp3',
+    new: `<span style = "display: none; class="new-badge"></span>`
+}, {
+    name: `You will not Labour in Vain`,
+    audio: 'podcasts/teaching new ten.mp3',
+    new: `<span style = "display: none; class="new-badge"></span>`
+}, {
+    name: `Faith`,
+    audio: 'podcasts/teaching new new.mp3',
+    new: `<span style = "display: none; class="new-badge"></span>`
+}, {
+    name: `Prayer for your Soul`,
+    audio: 'podcasts/teaching new prayer.mp3',
     new: `<span class="new-badge">NEW</span>`
 }]

@@ -1,38 +1,44 @@
 export const dailyDevotionCateg = [{
-    date: 'SUNDAY, 16TH NOVEMBER 2025',
+    date: 'THURSDAY 27TH NOVEMBER 2025',
     prayer: `
-<p><strong>IDENTITY — KNOWING WHO YOU ARE IN CHRIST JESUS</strong><br><br>
+<p>
 
-One of the greatest revelations a believer can ever receive is the revelation of identity.  
-Until you know who you are in Christ, life will define you by your past, people will define you by your mistakes, and the enemy will define you by your weakness.  
-But the moment you discover who you truly are in Jesus, everything changes — your confidence changes, your prayer life changes, your expectations change, and your destiny opens.  
-Identity is not a suggestion; it is the foundation of your victory in Christ.<br><br>
+  <strong>A THREEFOLD CORD</strong><br><br>
 
-Satan’s greatest weapon is to make you forget who you are.  
-God’s greatest desire is to open your eyes to who you have always been in Him.<br><br>
+  There is a divine pattern hidden in the principle of “three times.” In Scripture, consistent spiritual actions repeated three times often carry prophetic weight and power.<br><br>
 
-The day you received Christ, your identity changed:<br>
-You moved from sinner to redeemed.  
-From rejected to accepted.  
-From ordinary to royal.  
-From powerless to authorized.<br><br>
+  When Jesus faced the weight of the cross, He prayed three times about the same matter. This was not mere repetition; it was persistence in surrender. And after the third time, He said, “Not my will, but Thine be done.”<br>
+  <em>— Matthew 26:44</em><br><br>
 
-<strong>“Therefore if any man be in Christ, he is a new creature:  
-old things are passed away; behold, all things are become new.” — 2 Corinthians 5:17</strong><br><br>
+  Daniel also followed this ancient pattern. Even in the face of persecution, he remained unshaken, praying three times a day with his windows open toward Jerusalem.<br>
+  <em>— Daniel 6:10</em><br><br>
 
-This is why the enemy fights your mind — because if you ever fully know who you are, his hold breaks forever.<br><br>
+  The Psalmist echoed the same rhythm of devotion: evening, morning, and noon — a complete cycle of spiritual discipline.<br>
+  <em>— Psalm 55:17</em><br><br>
 
-Rise above the voice of doubt, fear, guilt, and shame.  
-Walk boldly. Pray boldly. Live boldly.  
-You are not defined by where you came from.  
-You are defined by Who lives in you.<br><br>
+  Why three times? Because heaven recognizes “three” as a complete witness — a divine confirmation.<br>
+  <em>— 2 Corinthians 13:1</em><br><br>
 
-<strong>PRAYER:</strong><br>
-My Father, my God, open my spirit to truly understand who I am in Christ Jesus.  
-Break every lie that has limited my identity.  
-Let the revelation of my sonship, authority, and righteousness fill my heart.  
-From today, I walk boldly in the identity You gave me.  
-In Jesus’ name, Amen.</p>
+  Even creation itself mirrors this divine pattern: Heaven, Earth, and Under the Earth — all bowing to the name of Jesus.<br>
+  <em>— Philippians 2:10</em><br><br>
+
+  And when you face a pressing issue, Scripture shows another mystery: agreement. Find two people who will stand with you in faith, for a threefold cord cannot be easily broken.<br>
+  <em>— Ecclesiastes 4:12</em><br><br>
+
+  There is power in spiritual consistency. Whatever area you desire to see results — prayer, fasting, giving, declarations — commit to it three times, and watch heaven respond with power.<br><br>
+
+  <strong>PRAYER</strong><br>
+  Father, strengthen my commitment to spiritual consistency. Help me to build a threefold cord of discipline, faith, and agreement, and let heaven respond to my persistence. In Jesus’ Name, Amen.
+
+</p>
+
+
+
+
+
+
+
+
 
 
 
@@ -47,62 +53,86 @@ In Jesus’ name, Amen.</p>
 
 `
 }, {
-    date: 'SATURDAY, 15TH NOVEMBER 2025',
-    prayer: `<p><strong>VOICE OF THE TORMENTOR</strong><br><br>
+    date: 'WEDNESDAY, 26TH NOVEMBER 2025',
+    prayer: `<p>
+  
+  <strong>YOUR MOURNING WILL TURN TO DANCING</strong><br><br>
 
-A woman once mistakenly killed her own child.  
-Years later, another of her sons mistakenly killed someone as well.  
-This was not a coincidence — there was a voice crying against that family, provoking repeated tragedies and cycles of sorrow.<br><br>
+  “You have turned for me my mourning into dancing; You have put off my sackcloth and clothed me with gladness.”<br>
+  <em>— Psalm 30:11</em><br><br>
 
-<strong>1 Corinthians 14:10</strong> says,  
-“There are, it may be, so many kinds of voices in the world, and none of them is without signification.”<br><br>
+  I will never forget the day a woman came to me, her body shaking with violent sobs. Her son had been kidnapped.
+  The pain was so deep she could barely speak. Her lamentation came from a place of utter despair.<br><br>
 
-But no matter how loud these voices are, they all bow to the voice of the Lord.  
-Read <strong>Psalm 29:4–9</strong> and see how powerful His voice truly is.<br><br>
+  She fell to her knees, and all she could cry was, “My son, my son!” The situation looked impossible,
+  the darkness overwhelming.<br><br>
 
-The voice of the tormentor is the voice that compels a person to suffer for every mistake, error, or sin — even after repentance.  
-It is the voice that keeps accusing, reminding, and punishing.  
-And one of the strongest triggers of this voice is unforgiveness.<br><br>
+  But in that very moment, the Spirit of God rose within me. I looked at her and declared a word from the Lord:
+  “Go to the altar now and pour out your heart before God. But hear this — the same God who delivered Daniel
+  from the lions’ den and the three Hebrew boys from the fiery furnace is alive today. He will do it for you.
+  God will turn your mourning and your pain into dancing.”<br><br>
 
-When a person refuses to forgive, the tormentor gains legal access to afflict.  
-Jesus taught this clearly in <strong>Matthew 18:25–34</strong>.  
-Unforgiveness opens the door for torment, but forgiveness shuts it immediately.<br><br>
+  It was a prophecy spoken into the middle of deep pain.<br><br>
 
-You silence the voice of the tormentor when you release those who offended you from your heart,  
-and when you declare by faith that every accusing voice is silenced by the blood of Jesus.<br><br>
+  A few days later, I heard a commotion outside. It was her — but this time she was not crying.
+  She was shouting, “Pastor! Pastor!” with a voice full of joy. She ran to me, her face shining,
+  and right there she began to dance!<br><br>
 
-<strong>PRAYER:</strong><br>
-My Father, my God, I silence every voice of the tormentor in my life.  
-Let every accusing voice be shut down by Your mercy and Your power.  
-In Jesus’ name, Amen.</p>`
+  She testified, “They have released my son! He is free! God has done it!”<br><br>
+
+  The same woman who was clothed with the sackcloth of mourning was now clothed with the gladness of victory.
+  God had turned her wailing into a dance of joy.<br><br>
+
+  Hear me today: whatever that mourning represents in your life — sickness, financial debt, a broken marriage,
+  a wayward child — the God of Psalm 30:11 has not changed.<br><br>
+
+  Your situation is not too hard for Him. Just as He turned that woman’s sorrow into celebration,
+  He will turn yours too. Your crying season is ending, and your dancing season is beginning. Amen.<br><br>
+
+  <strong>PRAYER</strong><br>
+  My Father, My God, turn every pain in my heart into joy. In Jesus' Name, Amen.
+</p>
+
+
+`
 }, {
-    date: 'FRIDAY, 14TH NOVEMBER 2025',
-    prayer: `<p><strong>THE SPIRIT OF EXCELLENCE</strong><br><br>
+    date: 'TUESDAY, 25TH NOVEMBER 2025',
+    prayer: `<p> <strong>OH LORD, DELIVER ME FROM POWERS STRONGER THAN ME</strong><br><br>
 
-“Then this Daniel was preferred above the presidents and princes, because an excellent spirit was in him…” — <strong>Daniel 6:3</strong><br><br>
+“He delivered me from my strong enemy, and from them which hated me: for they were too strong for me.”<br>
+<em>— Psalm 18:17</em><br><br>
 
-The Spirit of Excellence is the supernatural influence that makes a man stand out in all he does.  
-Excellence is not human effort alone; it is a divine imprint — God’s nature expressed through human vessels.  
-It is the grace that makes your words carry weight, your actions carry honor, and your results command respect.<br><br>
+There are moments in life when the battles we face seem bigger than our strength.
+Some enemies are not physical — they are patterns, cycles, addictions, delays, family altars, fear, sicknesses,
+or invisible forces resisting your progress.<br><br>
 
-Daniel did not rise because of background, education, or connections.  
-He rose because something rested upon him — the Excellent Spirit of God.  
-This Spirit made his thoughts sharper, his character stronger, and his performance greater than those around him.<br><br>
+David understood this deeply. He confessed that some enemies were “too strong” for him,
+but he also testified that God delivered him.<br><br>
 
-Excellence begins in the spirit before it shows in your work.  
-It is cultivated through purity, discipline, prayer, and a heart that seeks to honor God in all things.  
-When the Spirit of Excellence rests upon you, you don’t chase distinction — distinction follows you.<br><br>
+Acknowledging that a battle is stronger than you is not weakness — it is humility.
+It is the doorway to divine intervention. God cannot step into a fight you are still trying to win
+by your own wisdom, willpower, or strategy.<br><br>
 
-This Spirit was the reason Daniel remained relevant through four different kings while others faded away.  
-When the Spirit of Excellence is upon you, you are needed where others are tolerated, valued where others are ignored, and remembered where others are forgotten.<br><br>
+There are powers that fight destinies.
+There are altars that resist families.
+There are yokes that refuse to break by human strength.
+But none of them are stronger than the God who fights for you.<br><br>
 
-Carry this Spirit into your work, your ministry, and your relationships.  
-Represent God with grace, dignity, and precision.  
-The world is waiting for the excellence that only the children of God can reveal.<br><br>
+When sickness keeps returning,<br>
+When financial cycles never break,<br>
+When family patterns repeat across generations,<br>
+When spiritual heaviness or fear surrounds you,<br>
+When sin continually battles your walk with God —<br>
+That is when you cry for help. Scripture says the battle belongs to the Lord.<br><br>
 
-<strong>PRAYER:</strong><br>
-My Father, my God, let the Spirit of Excellence rest upon me.  
-Sharpen my mind, strengthen my character, and beautify my work.  
-Let my life reflect Your glory, and let everything I do carry the mark of divine excellence.  
-In Jesus’ name, Amen.</p>`
+The Lord who rescued David will rescue you and your household today in Jesus’ Name.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, I acknowledge that there are powers, cycles, and battles stronger than me,
+but none of them are stronger than You.
+Arise, O Lord, and deliver me today. In Jesus’ Name, Amen.
+
+</p>
+
+`
 }]
