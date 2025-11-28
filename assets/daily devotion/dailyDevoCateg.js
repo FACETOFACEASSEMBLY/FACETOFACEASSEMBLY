@@ -1,7 +1,53 @@
 export const dailyDevotionCateg = [{
-    date: 'FRIDAY 28TH NOVEMBER 2025',
+    date: 'SATURDAY 29TH NOVEMBER 2025',
     prayer: `
-<p>
+<p> <strong>EVERY MAN HAS GLORY, MANIFEST IT</strong><br><br>
+
+“This beginning of miracles did Jesus in Cana of Galilee, and manifested forth His glory; and His disciples believed on Him.”<br>
+<em>— John 2:11</em><br><br>
+
+Every man born of God carries a measure of heavenly glory. You did not arrive on earth empty. You came loaded with a divine deposit, a uniqueness placed inside you by God Himself. Scripture says that God crowned man with glory and honour, meaning there is a weight of divine identity resting on your life.<br><br>
+
+When Jesus performed His first miracle in Cana, the Bible states that He “manifested HIS glory.” Take note — He did not manifest another man’s glory. He did not borrow another destiny. He did not function with the light of another star.<br><br>
+
+He manifested His own.<br><br>
+
+There is a glory that is uniquely yours. A light only you carry. A sound, a grace, a star, a destiny that belongs exclusively to you. No one else can shine your shine. No one else can take your space. No one else can sit on your God-ordained throne.<br><br>
+
+Your glory is Heaven’s signature on your life. It is the expression of your relevance on earth. Others may inspire you, but no one can replace the glory God has placed upon you.<br><br>
+
+This is why you must never admire others to the point of abandoning yourself. And never believe the lie that your life lacks meaning. If God sent you here, He sent you with glory. Creation is waiting for the manifestation of what you carry.<br><br>
+
+Anyone who attempts to steal or manifest your glory is trying to rewrite God’s design — and they will fail. Your glory is yours alone, and it must be revealed.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, help me to manifest the glory You placed within me — boldly, fully, and without fear. I rise to shine in Jesus’ Name. Amen.
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'FRIDAY, 28TH NOVEMBER 2025',
+    prayer: `<p>
 
   <strong>OH LORD, LET THE WICKEDNESS OF THE WICKED COME TO AN END</strong><br><br>
 
@@ -42,29 +88,10 @@ export const dailyDevotionCateg = [{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 `
 }, {
     date: 'THURSDAY, 27TH NOVEMBER 2025',
-    prayer: `<p>
-
-  <strong>A THREEFOLD CORD</strong><br><br>
+    prayer: `<strong>A THREEFOLD CORD</strong><br><br>
 
   There is a divine pattern hidden in the principle of “three times.” In Scripture, consistent spiritual actions repeated three times often carry prophetic weight and power.<br><br>
 
@@ -91,50 +118,6 @@ export const dailyDevotionCateg = [{
   <strong>PRAYER</strong><br>
   Father, strengthen my commitment to spiritual consistency. Help me to build a threefold cord of discipline, faith, and agreement, and let heaven respond to my persistence. In Jesus’ Name, Amen.
 
-</p>
-
-
-
-`
-}, {
-    date: 'WEDNESDAY, 26TH NOVEMBER 2025',
-    prayer: `<p>
-  
-  <strong>YOUR MOURNING WILL TURN TO DANCING</strong><br><br>
-
-  “You have turned for me my mourning into dancing; You have put off my sackcloth and clothed me with gladness.”<br>
-  <em>— Psalm 30:11</em><br><br>
-
-  I will never forget the day a woman came to me, her body shaking with violent sobs. Her son had been kidnapped.
-  The pain was so deep she could barely speak. Her lamentation came from a place of utter despair.<br><br>
-
-  She fell to her knees, and all she could cry was, “My son, my son!” The situation looked impossible,
-  the darkness overwhelming.<br><br>
-
-  But in that very moment, the Spirit of God rose within me. I looked at her and declared a word from the Lord:
-  “Go to the altar now and pour out your heart before God. But hear this — the same God who delivered Daniel
-  from the lions’ den and the three Hebrew boys from the fiery furnace is alive today. He will do it for you.
-  God will turn your mourning and your pain into dancing.”<br><br>
-
-  It was a prophecy spoken into the middle of deep pain.<br><br>
-
-  A few days later, I heard a commotion outside. It was her — but this time she was not crying.
-  She was shouting, “Pastor! Pastor!” with a voice full of joy. She ran to me, her face shining,
-  and right there she began to dance!<br><br>
-
-  She testified, “They have released my son! He is free! God has done it!”<br><br>
-
-  The same woman who was clothed with the sackcloth of mourning was now clothed with the gladness of victory.
-  God had turned her wailing into a dance of joy.<br><br>
-
-  Hear me today: whatever that mourning represents in your life — sickness, financial debt, a broken marriage,
-  a wayward child — the God of Psalm 30:11 has not changed.<br><br>
-
-  Your situation is not too hard for Him. Just as He turned that woman’s sorrow into celebration,
-  He will turn yours too. Your crying season is ending, and your dancing season is beginning. Amen.<br><br>
-
-  <strong>PRAYER</strong><br>
-  My Father, My God, turn every pain in my heart into joy. In Jesus' Name, Amen.
 </p>
 
 `
