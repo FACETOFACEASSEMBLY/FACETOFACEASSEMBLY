@@ -1,7 +1,68 @@
 export const dailyDevotionCateg = [{
-    date: 'THURSDAY 27TH NOVEMBER 2025',
+    date: 'FRIDAY 28TH NOVEMBER 2025',
     prayer: `
 <p>
+
+  <strong>OH LORD, LET THE WICKEDNESS OF THE WICKED COME TO AN END</strong><br><br>
+
+  There is a divine justice system woven into the foundations of God’s kingdom. Scripture shows us that wickedness is never permitted to continue unchecked. There is a point where the mercy of God steps aside, and His righteous judgment steps in.<br><br>
+
+  David understood this mystery. Surrounded by enemies whose hearts were hardened against righteousness, he cried not for revenge, but for alignment with God’s divine order.<br><br>
+
+  “Oh let the wickedness of the wicked come to an end; but establish the just: for the righteous God trieth the hearts and reins.”<br>
+  <em>— Psalm 7:9</em><br><br>
+
+  The wickedness of the wicked is not just an act — it is a system, a pattern, a destructive cycle that seeks to ruin destinies, families, and purposes.<br><br>
+
+  Yet throughout Scripture, God rises to interrupt wicked cycles. In the days of Mordecai and Esther, when Haman crafted evil, the Lord overturned the device of the wicked.<br><br>
+
+  “So they hanged Haman on the gallows that he had prepared for Mordecai.”<br>
+  <em>— Esther 7:10</em><br><br>
+
+  Wickedness may appear strong, but it has an expiry date in God’s calendar. And divine justice never destroys wickedness without uplifting righteousness in its place.<br><br>
+
+  “For the arms of the wicked shall be broken: but the LORD upholdeth the righteous.”<br>
+  <em>— Psalm 37:17</em><br><br>
+
+  When you pray, “Oh Lord, let the wickedness of the wicked come to an end,” you are declaring a verdict already written in heaven.<br><br>
+
+  <em>Proverbs 4:14–16</em><br>
+  14 Enter not into the path of the wicked, and go not in the way of evil men.<br>
+  15 Avoid it, pass not by it, turn from it, and pass away.<br>
+  16 For they sleep not, except they have done mischief; and their sleep is taken away, unless they cause some to fall.<br><br>
+
+  Hear this today: the wickedness of the wicked must come to an end, and the righteousness of the righteous must be established.<br><br>
+
+  <strong>PRAYER</strong><br>
+  Oh Lord, let every form of wickedness assigned against my life come to an end. Establish Your righteousness in me, around me, and through me. In Jesus’ Name, Amen.<br><br>
+
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'THURSDAY, 27TH NOVEMBER 2025',
+    prayer: `<p>
 
   <strong>A THREEFOLD CORD</strong><br><br>
 
@@ -31,23 +92,6 @@ export const dailyDevotionCateg = [{
   Father, strengthen my commitment to spiritual consistency. Help me to build a threefold cord of discipline, faith, and agreement, and let heaven respond to my persistence. In Jesus’ Name, Amen.
 
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -91,47 +135,6 @@ export const dailyDevotionCateg = [{
 
   <strong>PRAYER</strong><br>
   My Father, My God, turn every pain in my heart into joy. In Jesus' Name, Amen.
-</p>
-
-
-`
-}, {
-    date: 'TUESDAY, 25TH NOVEMBER 2025',
-    prayer: `<p> <strong>OH LORD, DELIVER ME FROM POWERS STRONGER THAN ME</strong><br><br>
-
-“He delivered me from my strong enemy, and from them which hated me: for they were too strong for me.”<br>
-<em>— Psalm 18:17</em><br><br>
-
-There are moments in life when the battles we face seem bigger than our strength.
-Some enemies are not physical — they are patterns, cycles, addictions, delays, family altars, fear, sicknesses,
-or invisible forces resisting your progress.<br><br>
-
-David understood this deeply. He confessed that some enemies were “too strong” for him,
-but he also testified that God delivered him.<br><br>
-
-Acknowledging that a battle is stronger than you is not weakness — it is humility.
-It is the doorway to divine intervention. God cannot step into a fight you are still trying to win
-by your own wisdom, willpower, or strategy.<br><br>
-
-There are powers that fight destinies.
-There are altars that resist families.
-There are yokes that refuse to break by human strength.
-But none of them are stronger than the God who fights for you.<br><br>
-
-When sickness keeps returning,<br>
-When financial cycles never break,<br>
-When family patterns repeat across generations,<br>
-When spiritual heaviness or fear surrounds you,<br>
-When sin continually battles your walk with God —<br>
-That is when you cry for help. Scripture says the battle belongs to the Lord.<br><br>
-
-The Lord who rescued David will rescue you and your household today in Jesus’ Name.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, I acknowledge that there are powers, cycles, and battles stronger than me,
-but none of them are stronger than You.
-Arise, O Lord, and deliver me today. In Jesus’ Name, Amen.
-
 </p>
 
 `
