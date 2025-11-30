@@ -1,7 +1,52 @@
 export const dailyDevotionCateg = [{
-    date: 'SATURDAY 29TH NOVEMBER 2025',
+    date: 'SUNDAY 30TH NOVEMBER 2025',
     prayer: `
-<p> <strong>EVERY MAN HAS GLORY, MANIFEST IT</strong><br><br>
+<p> <strong>CREATED FOR HIS PRAISE</strong><br><br>
+
+“This people have I formed for myself; they shall shew forth my praise.”<br>
+<em>— Isaiah 43:21</em><br><br>
+
+There is a divine thread of purpose woven from eternity straight into your life. In Isaiah, God makes a profound declaration: you are a people shaped, fashioned, and intentionally designed by Him. You were not created accidentally or without direction. Your existence carries heavenly intention — you were formed for God Himself, to reveal His excellence, His character, and His glory.<br><br>
+
+Your life is not random. It is a divine instrument meant to display His praise.<br><br>
+
+How do we know this includes us today? Psalm 102 gives the assurance:<br><br>
+
+“This shall be written for the generation to come: and the people which shall be created shall praise the Lord.”<br>
+<em>— Psalm 102:18</em><br><br>
+
+This means you were seen, known, and included in God’s eternal plan long before you were born. You are part of a prophetic generation created for praise. Your very breath is proof of divine intention. Every moment of gratitude, every song of worship, every act of faith — these are the ways you “shew forth” the praise of the One who formed you.<br><br>
+
+When you question your purpose or value, these scriptures remove all doubt: your highest calling is to reflect God’s worth. Everything about your life was designed to point back to Him.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, let my life continually bring glory to Your name. Amen.
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'SATURDAY, 29TH NOVEMBER 2025',
+    prayer: `<p> <strong>EVERY MAN HAS GLORY, MANIFEST IT</strong><br><br>
 
 “This beginning of miracles did Jesus in Cana of Galilee, and manifested forth His glory; and His disciples believed on Him.”<br>
 <em>— John 2:11</em><br><br>
@@ -24,22 +69,6 @@ Anyone who attempts to steal or manifest your glory is trying to rewrite God’s
 My Father, My God, help me to manifest the glory You placed within me — boldly, fully, and without fear. I rise to shine in Jesus’ Name. Amen.
 
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -82,41 +111,6 @@ My Father, My God, help me to manifest the glory You placed within me — boldly
   <strong>PRAYER</strong><br>
   Oh Lord, let every form of wickedness assigned against my life come to an end. Establish Your righteousness in me, around me, and through me. In Jesus’ Name, Amen.<br><br>
 
-
-</p>
-
-
-
-
-`
-}, {
-    date: 'THURSDAY, 27TH NOVEMBER 2025',
-    prayer: `<strong>A THREEFOLD CORD</strong><br><br>
-
-  There is a divine pattern hidden in the principle of “three times.” In Scripture, consistent spiritual actions repeated three times often carry prophetic weight and power.<br><br>
-
-  When Jesus faced the weight of the cross, He prayed three times about the same matter. This was not mere repetition; it was persistence in surrender. And after the third time, He said, “Not my will, but Thine be done.”<br>
-  <em>— Matthew 26:44</em><br><br>
-
-  Daniel also followed this ancient pattern. Even in the face of persecution, he remained unshaken, praying three times a day with his windows open toward Jerusalem.<br>
-  <em>— Daniel 6:10</em><br><br>
-
-  The Psalmist echoed the same rhythm of devotion: evening, morning, and noon — a complete cycle of spiritual discipline.<br>
-  <em>— Psalm 55:17</em><br><br>
-
-  Why three times? Because heaven recognizes “three” as a complete witness — a divine confirmation.<br>
-  <em>— 2 Corinthians 13:1</em><br><br>
-
-  Even creation itself mirrors this divine pattern: Heaven, Earth, and Under the Earth — all bowing to the name of Jesus.<br>
-  <em>— Philippians 2:10</em><br><br>
-
-  And when you face a pressing issue, Scripture shows another mystery: agreement. Find two people who will stand with you in faith, for a threefold cord cannot be easily broken.<br>
-  <em>— Ecclesiastes 4:12</em><br><br>
-
-  There is power in spiritual consistency. Whatever area you desire to see results — prayer, fasting, giving, declarations — commit to it three times, and watch heaven respond with power.<br><br>
-
-  <strong>PRAYER</strong><br>
-  Father, strengthen my commitment to spiritual consistency. Help me to build a threefold cord of discipline, faith, and agreement, and let heaven respond to my persistence. In Jesus’ Name, Amen.
 
 </p>
 
