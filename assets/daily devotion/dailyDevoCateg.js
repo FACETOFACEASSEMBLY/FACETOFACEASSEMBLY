@@ -1,7 +1,45 @@
 export const dailyDevotionCateg = [{
-    date: 'SUNDAY 30TH NOVEMBER 2025',
+    date: 'MONDAY 1ST DECEMBER 2025',
     prayer: `
-<p> <strong>CREATED FOR HIS PRAISE</strong><br><br>
+<p> <strong>WELCOME TO DECEMBER: THE LORD SHALL BE YOUR EVERLASTING LIGHT</strong><br><br>
+
+Isaiah 60:19
+"The sun shall be no more your light by day, neither for brightness shall the moon give light unto you: but the LORD shall be unto you an everlasting light, and your God your glory."
+
+As we enter this sacred month, God's word delivers a promise that transcends the changing seasons. In Isaiah, the Lord declares a profound shift from natural, temporary illumination to divine, eternal radiance. You were not designed to depend on earthly sources of light.  The Lord himself appoints himself your Everlasting Light.
+
+But how can we walk in this supernatural light in our daily lives? Psalm 27:1 provides the foundation for this promise: "The LORD is my light and my salvation; whom shall I fear? the LORD is the strength of my life; of whom shall I be afraid?" This scripture confirms that the Everlasting Light is a present reality for every generation that puts its trust in Him. This promise was written for you this December, for this moment in your journey.
+
+You may walk through personal nights of uncertainty, waiting, or grief. The year may be closing with shadows you did not anticipate. Yet these two scriptures dissolve all fear. Your Everlasting Light is also your salvation and your strength. Every step taken in faith, these are acts of walking in the Light that has no end. You are living proof that God's glory outshines every temporary darkness.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father My God, as I enter this month, let me walk in the radiance of your everlasting light. Be my glory in every situation, and let my life reflect your unending dawn.
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'SUNDAY, 30TH NOVEMBER 2025',
+    prayer: `<p> <strong>CREATED FOR HIS PRAISE</strong><br><br>
 
 “This people have I formed for myself; they shall shew forth my praise.”<br>
 <em>— Isaiah 43:21</em><br><br>
@@ -23,22 +61,6 @@ When you question your purpose or value, these scriptures remove all doubt: your
 My Father, My God, let my life continually bring glory to Your name. Amen.
 
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -70,49 +92,6 @@ My Father, My God, help me to manifest the glory You placed within me — boldly
 
 </p>
 
-
-
-
-`
-}, {
-    date: 'FRIDAY, 28TH NOVEMBER 2025',
-    prayer: `<p>
-
-  <strong>OH LORD, LET THE WICKEDNESS OF THE WICKED COME TO AN END</strong><br><br>
-
-  There is a divine justice system woven into the foundations of God’s kingdom. Scripture shows us that wickedness is never permitted to continue unchecked. There is a point where the mercy of God steps aside, and His righteous judgment steps in.<br><br>
-
-  David understood this mystery. Surrounded by enemies whose hearts were hardened against righteousness, he cried not for revenge, but for alignment with God’s divine order.<br><br>
-
-  “Oh let the wickedness of the wicked come to an end; but establish the just: for the righteous God trieth the hearts and reins.”<br>
-  <em>— Psalm 7:9</em><br><br>
-
-  The wickedness of the wicked is not just an act — it is a system, a pattern, a destructive cycle that seeks to ruin destinies, families, and purposes.<br><br>
-
-  Yet throughout Scripture, God rises to interrupt wicked cycles. In the days of Mordecai and Esther, when Haman crafted evil, the Lord overturned the device of the wicked.<br><br>
-
-  “So they hanged Haman on the gallows that he had prepared for Mordecai.”<br>
-  <em>— Esther 7:10</em><br><br>
-
-  Wickedness may appear strong, but it has an expiry date in God’s calendar. And divine justice never destroys wickedness without uplifting righteousness in its place.<br><br>
-
-  “For the arms of the wicked shall be broken: but the LORD upholdeth the righteous.”<br>
-  <em>— Psalm 37:17</em><br><br>
-
-  When you pray, “Oh Lord, let the wickedness of the wicked come to an end,” you are declaring a verdict already written in heaven.<br><br>
-
-  <em>Proverbs 4:14–16</em><br>
-  14 Enter not into the path of the wicked, and go not in the way of evil men.<br>
-  15 Avoid it, pass not by it, turn from it, and pass away.<br>
-  16 For they sleep not, except they have done mischief; and their sleep is taken away, unless they cause some to fall.<br><br>
-
-  Hear this today: the wickedness of the wicked must come to an end, and the righteousness of the righteous must be established.<br><br>
-
-  <strong>PRAYER</strong><br>
-  Oh Lord, let every form of wickedness assigned against my life come to an end. Establish Your righteousness in me, around me, and through me. In Jesus’ Name, Amen.<br><br>
-
-
-</p>
 
 `
 }]
