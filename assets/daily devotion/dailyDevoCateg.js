@@ -1,19 +1,24 @@
 export const dailyDevotionCateg = [{
-    date: 'MONDAY 1ST DECEMBER 2025',
+    date: 'TUESDAY 2ND DECEMBER 2025',
     prayer: `
-<p> <strong>WELCOME TO DECEMBER: THE LORD SHALL BE YOUR EVERLASTING LIGHT</strong><br><br>
+<p>
 
-Isaiah 60:19
-"The sun shall be no more your light by day, neither for brightness shall the moon give light unto you: but the LORD shall be unto you an everlasting light, and your God your glory."
+<strong>NO EVIL SHALL BEFALL THEE</strong><br><br>
 
-As we enter this sacred month, God's word delivers a promise that transcends the changing seasons. In Isaiah, the Lord declares a profound shift from natural, temporary illumination to divine, eternal radiance. You were not designed to depend on earthly sources of light.  The Lord himself appoints himself your Everlasting Light.
+“There shall no evil happen to the just: but the wicked shall be filled with mischief.”<br>
+<em>— Proverbs 12:21</em><br><br>
 
-But how can we walk in this supernatural light in our daily lives? Psalm 27:1 provides the foundation for this promise: "The LORD is my light and my salvation; whom shall I fear? the LORD is the strength of my life; of whom shall I be afraid?" This scripture confirms that the Everlasting Light is a present reality for every generation that puts its trust in Him. This promise was written for you this December, for this moment in your journey.
+As we continue in this blessed month, the Lord speaks a sure word of covering over your life. In a world filled with fear and hidden dangers, God has declared a fixed, unshakable promise concerning the righteous. You are not exposed to the traps of the enemy. The Lord Himself has decreed that evil shall not be your portion.<br><br>
 
-You may walk through personal nights of uncertainty, waiting, or grief. The year may be closing with shadows you did not anticipate. Yet these two scriptures dissolve all fear. Your Everlasting Light is also your salvation and your strength. Every step taken in faith, these are acts of walking in the Light that has no end. You are living proof that God's glory outshines every temporary darkness.<br><br>
+“There shall no evil befall thee, neither shall any plague come nigh thy dwelling. For he shall give his angels charge over thee, to keep thee in all thy ways.”<br>
+<em>— Psalm 91:10–11</em><br><br>
+
+No weapon of eternal harm, no condemning verdict, no destructive power of the wicked shall prevail against you. You dwell in the secret place of the Most High, and under His shadow you abide securely.<br><br>
+
+You are marked as just — justified by faith in Jesus Christ. Therefore, the mischief of the wicked cannot rest upon you. Your portion is preserved, your inheritance protected, and your testimony is this: Jehovah Nissi, the Lord your Banner, covers you. Walk in the assurance that your life is hidden with Christ, and no evil devised in the pits of hell shall overtake you.<br><br>
 
 <strong>PRAYER</strong><br>
-My Father My God, as I enter this month, let me walk in the radiance of your everlasting light. Be my glory in every situation, and let my life reflect your unending dawn.
+My Father, My God, I thank You for Your covenant of protection. I declare that I am the just, clothed in the righteousness of Jesus Christ. My life is secured in Your mighty hands. In Jesus’ Name, Amen.
 
 </p>
 
@@ -33,6 +38,27 @@ My Father My God, as I enter this month, let me walk in the radiance of your eve
 
 
 
+
+
+
+`
+}, {
+    date: 'MORNING, 1ST DECEMBER 2025',
+    prayer: `<p> <strong>WELCOME TO DECEMBER: THE LORD SHALL BE YOUR EVERLASTING LIGHT</strong><br><br>
+
+Isaiah 60:19
+"The sun shall be no more your light by day, neither for brightness shall the moon give light unto you: but the LORD shall be unto you an everlasting light, and your God your glory."
+
+As we enter this sacred month, God's word delivers a promise that transcends the changing seasons. In Isaiah, the Lord declares a profound shift from natural, temporary illumination to divine, eternal radiance. You were not designed to depend on earthly sources of light.  The Lord himself appoints himself your Everlasting Light.
+
+But how can we walk in this supernatural light in our daily lives? Psalm 27:1 provides the foundation for this promise: "The LORD is my light and my salvation; whom shall I fear? the LORD is the strength of my life; of whom shall I be afraid?" This scripture confirms that the Everlasting Light is a present reality for every generation that puts its trust in Him. This promise was written for you this December, for this moment in your journey.
+
+You may walk through personal nights of uncertainty, waiting, or grief. The year may be closing with shadows you did not anticipate. Yet these two scriptures dissolve all fear. Your Everlasting Light is also your salvation and your strength. Every step taken in faith, these are acts of walking in the Light that has no end. You are living proof that God's glory outshines every temporary darkness.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father My God, as I enter this month, let me walk in the radiance of your everlasting light. Be my glory in every situation, and let my life reflect your unending dawn.
+
+</p>
 
 
 
@@ -59,36 +85,6 @@ When you question your purpose or value, these scriptures remove all doubt: your
 
 <strong>PRAYER</strong><br>
 My Father, My God, let my life continually bring glory to Your name. Amen.
-
-</p>
-
-
-
-
-`
-}, {
-    date: 'SATURDAY, 29TH NOVEMBER 2025',
-    prayer: `<p> <strong>EVERY MAN HAS GLORY, MANIFEST IT</strong><br><br>
-
-“This beginning of miracles did Jesus in Cana of Galilee, and manifested forth His glory; and His disciples believed on Him.”<br>
-<em>— John 2:11</em><br><br>
-
-Every man born of God carries a measure of heavenly glory. You did not arrive on earth empty. You came loaded with a divine deposit, a uniqueness placed inside you by God Himself. Scripture says that God crowned man with glory and honour, meaning there is a weight of divine identity resting on your life.<br><br>
-
-When Jesus performed His first miracle in Cana, the Bible states that He “manifested HIS glory.” Take note — He did not manifest another man’s glory. He did not borrow another destiny. He did not function with the light of another star.<br><br>
-
-He manifested His own.<br><br>
-
-There is a glory that is uniquely yours. A light only you carry. A sound, a grace, a star, a destiny that belongs exclusively to you. No one else can shine your shine. No one else can take your space. No one else can sit on your God-ordained throne.<br><br>
-
-Your glory is Heaven’s signature on your life. It is the expression of your relevance on earth. Others may inspire you, but no one can replace the glory God has placed upon you.<br><br>
-
-This is why you must never admire others to the point of abandoning yourself. And never believe the lie that your life lacks meaning. If God sent you here, He sent you with glory. Creation is waiting for the manifestation of what you carry.<br><br>
-
-Anyone who attempts to steal or manifest your glory is trying to rewrite God’s design — and they will fail. Your glory is yours alone, and it must be revealed.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, help me to manifest the glory You placed within me — boldly, fully, and without fear. I rise to shine in Jesus’ Name. Amen.
 
 </p>
 
