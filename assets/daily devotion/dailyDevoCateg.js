@@ -1,7 +1,55 @@
 export const dailyDevotionCateg = [{
-    date: 'TUESDAY 2ND DECEMBER 2025',
+    date: 'WEDNESDAY 3RD DECEMBER 2025',
     prayer: `
 <p>
+
+<strong>FROM THE BEGINNING TO THE END, HE IS GOD</strong><br><br>
+
+“I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty.”<br>
+<em>— Revelation 1:8</em><br><br>
+
+Many began this year with joy, yet fear now whispers, “Will you see the end? Will you finish in pain?” To every weary soul, the Lord Himself declares: I am Alpha — your beginning, and Omega — your ending. Your year, your life, your assignment is held between His eternal hands. The God who started your journey is the same God who has already been where you are going. He does not just observe time — He owns it.<br><br>
+
+Some start well but do not finish well. But for you who are in Christ, your ending is not written by fear; it is written by God. The Almighty who walked with you in January is already waiting for you in December. Therefore, do not fear how this year will end. Do not fear how any God-ordained task will end.<br><br>
+
+“A land which the LORD thy God careth for: the eyes of the LORD thy God are always upon it, from the beginning of the year even unto the end of the year.”<br>
+<em>— Deuteronomy 11:12</em><br><br>
+
+Just as God watched over the promised land, His eyes are continually upon you and upon every good thing He has entrusted to you — from the first day of the year to the very last. You are the land He cares for.<br><br>
+
+“I have fought a good fight, I have finished my course, I have kept the faith.”<br>
+<em>— 2 Timothy 4:7</em><br><br>
+
+Apostle Paul finished with joy because he knew the Alpha and Omega was with him, watching over his course from start to finish. The Lord who helped him begin helped him end. So shall it be for you. If God started it with you, He will finish it with you. You will not end in tears; you will end in His faithfulness, under His watchful care from beginning to end.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, I thank You because Your eyes are upon me from the beginning of the year even unto the end. I place every fear concerning this year’s ending into Your hands. I declare that what You have begun in me, You will bring to a good and perfect end. Help me finish with joy, holding fast to my faith in Jesus Christ. Amen.
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'MORNING, 12ND DECEMBER 2025',
+    prayer: `<p>
 
 <strong>NO EVIL SHALL BEFALL THEE</strong><br><br>
 
@@ -23,27 +71,9 @@ My Father, My God, I thank You for Your covenant of protection. I declare that I
 </p>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 `
 }, {
-    date: 'MORNING, 1ST DECEMBER 2025',
+    date: 'MONDAY, 1ST DECEMBER 2025',
     prayer: `<p> <strong>WELCOME TO DECEMBER: THE LORD SHALL BE YOUR EVERLASTING LIGHT</strong><br><br>
 
 Isaiah 60:19
@@ -57,34 +87,6 @@ You may walk through personal nights of uncertainty, waiting, or grief. The year
 
 <strong>PRAYER</strong><br>
 My Father My God, as I enter this month, let me walk in the radiance of your everlasting light. Be my glory in every situation, and let my life reflect your unending dawn.
-
-</p>
-
-
-
-`
-}, {
-    date: 'SUNDAY, 30TH NOVEMBER 2025',
-    prayer: `<p> <strong>CREATED FOR HIS PRAISE</strong><br><br>
-
-“This people have I formed for myself; they shall shew forth my praise.”<br>
-<em>— Isaiah 43:21</em><br><br>
-
-There is a divine thread of purpose woven from eternity straight into your life. In Isaiah, God makes a profound declaration: you are a people shaped, fashioned, and intentionally designed by Him. You were not created accidentally or without direction. Your existence carries heavenly intention — you were formed for God Himself, to reveal His excellence, His character, and His glory.<br><br>
-
-Your life is not random. It is a divine instrument meant to display His praise.<br><br>
-
-How do we know this includes us today? Psalm 102 gives the assurance:<br><br>
-
-“This shall be written for the generation to come: and the people which shall be created shall praise the Lord.”<br>
-<em>— Psalm 102:18</em><br><br>
-
-This means you were seen, known, and included in God’s eternal plan long before you were born. You are part of a prophetic generation created for praise. Your very breath is proof of divine intention. Every moment of gratitude, every song of worship, every act of faith — these are the ways you “shew forth” the praise of the One who formed you.<br><br>
-
-When you question your purpose or value, these scriptures remove all doubt: your highest calling is to reflect God’s worth. Everything about your life was designed to point back to Him.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, let my life continually bring glory to Your name. Amen.
 
 </p>
 
