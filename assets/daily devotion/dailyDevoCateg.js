@@ -1,7 +1,54 @@
 export const dailyDevotionCateg = [{
-    date: 'WEDNESDAY 3RD DECEMBER 2025',
+    date: 'FRIDAY 4TH DECEMBER 2025',
     prayer: `
 <p>
+  <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL BY TEACHER OF GOD'S WORD, HAPPY OVERAH</strong><br><br>
+
+  <strong>FRIDAY, 5TH DECEMBER 2025</strong><br><br>
+
+  <strong>THE POWER OF AGREEMENT</strong><br><br>
+
+  <strong>Matthew 18:19</strong><br>
+  “Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven.”<br><br>
+
+  When God looked upon the people at Babel, He saw a formidable force. Their unity of language and purpose created a power so potent that Heaven itself declared that nothing would be restrained from them. This is the divine principle of agreement. It is not merely about human coordination; it is a spiritual key that unlocks heavenly action.<br><br>
+
+  At creation, the Godhead said, “Let us make man,” and in that sacred agreement, humanity was formed (Genesis 1:26).<br><br>
+
+  In the face of death, a wife can stand in agreement with Heaven for her husband's life. In the face of lack, friends can agree for breakthrough. This power is not a mystery kept from you; it is a key placed in your hands. Jesus Christ Himself affirmed it: “Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them...” (Matthew 18:19). The condition is clear: a united heart and a common purpose can birth greatness.<br><br>
+
+  This is a call to action. Identify that God-fearing person who shares your spirit, who truly desires your prosperity and God's glory in your life. Approach them. Share your heart’s petition. Pray together. Agree together. For when covenant people come into agreement on God’s Word, they create a spiritual atmosphere where miracles are birthed.<br><br>
+
+  Do not bear that burden alone. Do not fight that battle in isolation. The God who is present where two or three are gathered is waiting to confirm His Word in your midst. As you step out in faith to seek agreement, you activate a divine law. Heaven records it, and angels are dispatched to work on your behalf in Jesus’ Name. Amen.<br><br>
+
+  <strong>PRAYER</strong><br>
+  My Father My God, I thank You for revealing the power of agreement. Today, I receive the wisdom and the divine connection to find a covenant partner in prayer. As we agree according to Your will, I declare that every mountain is removed, every chain is broken, and every promise is fulfilled in my life. Let Your hand move mightily in all that concerns me. I shall testify to Your goodness, in Jesus’ Name, Amen.
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'THURSDAY, 3RD DECEMBER 2025',
+    prayer: `<p>
 
 <strong>FROM THE BEGINNING TO THE END, HE IS GOD</strong><br><br>
 
@@ -27,28 +74,9 @@ My Father, My God, I thank You because Your eyes are upon me from the beginning 
 
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 `
 }, {
-    date: 'MORNING, 12ND DECEMBER 2025',
+    date: 'WEDNESDAY, 2ND DECEMBER 2025',
     prayer: `<p>
 
 <strong>NO EVIL SHALL BEFALL THEE</strong><br><br>
@@ -70,25 +98,6 @@ My Father, My God, I thank You for Your covenant of protection. I declare that I
 
 </p>
 
-
-`
-}, {
-    date: 'MONDAY, 1ST DECEMBER 2025',
-    prayer: `<p> <strong>WELCOME TO DECEMBER: THE LORD SHALL BE YOUR EVERLASTING LIGHT</strong><br><br>
-
-Isaiah 60:19
-"The sun shall be no more your light by day, neither for brightness shall the moon give light unto you: but the LORD shall be unto you an everlasting light, and your God your glory."
-
-As we enter this sacred month, God's word delivers a promise that transcends the changing seasons. In Isaiah, the Lord declares a profound shift from natural, temporary illumination to divine, eternal radiance. You were not designed to depend on earthly sources of light.  The Lord himself appoints himself your Everlasting Light.
-
-But how can we walk in this supernatural light in our daily lives? Psalm 27:1 provides the foundation for this promise: "The LORD is my light and my salvation; whom shall I fear? the LORD is the strength of my life; of whom shall I be afraid?" This scripture confirms that the Everlasting Light is a present reality for every generation that puts its trust in Him. This promise was written for you this December, for this moment in your journey.
-
-You may walk through personal nights of uncertainty, waiting, or grief. The year may be closing with shadows you did not anticipate. Yet these two scriptures dissolve all fear. Your Everlasting Light is also your salvation and your strength. Every step taken in faith, these are acts of walking in the Light that has no end. You are living proof that God's glory outshines every temporary darkness.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father My God, as I enter this month, let me walk in the radiance of your everlasting light. Be my glory in every situation, and let my life reflect your unending dawn.
-
-</p>
 
 
 `
