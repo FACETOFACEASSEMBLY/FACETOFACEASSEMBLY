@@ -1,7 +1,57 @@
 export const dailyDevotionCateg = [{
-    date: 'FRIDAY 4TH DECEMBER 2025',
+    date: 'SATURDAY 5TH DECEMBER 2025',
     prayer: `
 <p>
+
+  <strong>THAT THE SCRIPTURE MIGHT BE FULFILLED</strong><br><br>
+
+  <strong>Matthew 13:35</strong><br>
+  “That it might be fulfilled which was spoken by the prophet, saying, I will open my mouth in parables; I will utter things which have been kept secret from the foundation of the world.”<br><br>
+
+  Day by day, Scripture is fulfilled exactly as written—whether through prophecy, proverb, or divine utterance. Nothing that happens is random; everything aligns with what God has spoken from the foundation of the world. What we call “events” are often the unfolding of ancient words declared long before time began.<br><br>
+
+  This is why Jesus repeatedly declared, “that the Scripture might be fulfilled.” Every miracle, every action, every moment in His earthly walk reflected what had already been written (Luke 4:21; John 18:9). Understanding what is written empowers you to interpret life from God’s viewpoint rather than from fear or confusion.<br><br>
+
+  Scripture shows that five kinds of words can be fulfilled:<br>
+  — The words written in the Law<br>
+  — The words written by the Prophets<br>
+  — The words written in the Psalms<br>
+  — The words spoken by Jesus<br>
+  — The words spoken by you (Numbers 14:28; Luke 24:44)<br><br>
+
+  Everything written must come to pass because God watches over His Word to perform it. The birth, purpose, suffering, and resurrection of Christ were all spoken, written, and fulfilled with divine precision (Matthew 12:17; Matthew 8:17).<br><br>
+
+  When you believe God’s Word, you step into the performance of prophecy. Faith positions you to partake in the manifestation of what Heaven has declared. Just as Elizabeth said: “Blessed is she that believed: for there shall be a performance of those things which were told her from the Lord” (Luke 1:45).<br><br>
+
+  <strong>PRAYER</strong><br>
+  My Father, My God, I believe Your Word. Let it be unto me according to all that You have spoken. Fulfill every scripture concerning my life. Amen.
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'FRIDAY, 4TH DECEMBER 2025',
+    prayer: `<p>
   <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL BY TEACHER OF GOD'S WORD, HAPPY OVERAH</strong><br><br>
 
   <strong>FRIDAY, 5TH DECEMBER 2025</strong><br><br>
@@ -24,25 +74,6 @@ export const dailyDevotionCateg = [{
   <strong>PRAYER</strong><br>
   My Father My God, I thank You for revealing the power of agreement. Today, I receive the wisdom and the divine connection to find a covenant partner in prayer. As we agree according to Your will, I declare that every mountain is removed, every chain is broken, and every promise is fulfilled in my life. Let Your hand move mightily in all that concerns me. I shall testify to Your goodness, in Jesus’ Name, Amen.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 `
@@ -73,31 +104,6 @@ Apostle Paul finished with joy because he knew the Alpha and Omega was with him,
 My Father, My God, I thank You because Your eyes are upon me from the beginning of the year even unto the end. I place every fear concerning this year’s ending into Your hands. I declare that what You have begun in me, You will bring to a good and perfect end. Help me finish with joy, holding fast to my faith in Jesus Christ. Amen.
 
 </p>
-
-`
-}, {
-    date: 'WEDNESDAY, 2ND DECEMBER 2025',
-    prayer: `<p>
-
-<strong>NO EVIL SHALL BEFALL THEE</strong><br><br>
-
-“There shall no evil happen to the just: but the wicked shall be filled with mischief.”<br>
-<em>— Proverbs 12:21</em><br><br>
-
-As we continue in this blessed month, the Lord speaks a sure word of covering over your life. In a world filled with fear and hidden dangers, God has declared a fixed, unshakable promise concerning the righteous. You are not exposed to the traps of the enemy. The Lord Himself has decreed that evil shall not be your portion.<br><br>
-
-“There shall no evil befall thee, neither shall any plague come nigh thy dwelling. For he shall give his angels charge over thee, to keep thee in all thy ways.”<br>
-<em>— Psalm 91:10–11</em><br><br>
-
-No weapon of eternal harm, no condemning verdict, no destructive power of the wicked shall prevail against you. You dwell in the secret place of the Most High, and under His shadow you abide securely.<br><br>
-
-You are marked as just — justified by faith in Jesus Christ. Therefore, the mischief of the wicked cannot rest upon you. Your portion is preserved, your inheritance protected, and your testimony is this: Jehovah Nissi, the Lord your Banner, covers you. Walk in the assurance that your life is hidden with Christ, and no evil devised in the pits of hell shall overtake you.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, I thank You for Your covenant of protection. I declare that I am the just, clothed in the righteousness of Jesus Christ. My life is secured in Your mighty hands. In Jesus’ Name, Amen.
-
-</p>
-
 
 
 `
