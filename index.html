@@ -121,7 +121,11 @@
         
       </div>
     </section>
-        
+        <!-- Floating Button: Go to Alleluia Service -->
+<button id="goToServiceBtn" class="go-to-service-btn">
+  Go to Alleluia Service
+</button>
+
 
     <!-- 📍 Church Map Section -->
     <section class="map-section container">
@@ -420,8 +424,17 @@ if (/iphone|ipad|ipod/i.test(navigator.userAgent)) {
 
 })();
 </script>
+  <script>
+  // Smooth scroll to live service
+  document.getElementById("goToServiceBtn").addEventListener("click", function () {
+    document.querySelector(".live-service").scrollIntoView({
+      behavior: "smooth"
+    });
+  });
+</script>
 </body>
 </html>
+
 
 
 
