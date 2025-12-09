@@ -1691,6 +1691,8 @@ iframe:fullscreen {
   right: 20px;
   left: auto;
   transform: translateZ(0);
+  display: none;
+  opacity: 0;
 }
 /* ============================
    OVERLAY
@@ -1843,7 +1845,7 @@ iframe:fullscreen {
   color: #ffffff;
   border: none;
   border-radius: 12px;
-
+  display: none;
   font-size: 16px;
   font-weight: 600;
   letter-spacing: 0.3px;
@@ -1868,5 +1870,26 @@ iframe:fullscreen {
 
 .button-install:active {
   transform: scale(0.97) translateZ(0);
+  display: none;
+}
+.go-to-service-btn {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: #d91c1c; 
+  color: white;
+  border: none;
+  padding: 15px 20px;
+  border-radius: 50px;
+  font-size: 14px;
+  cursor: pointer;
+  z-index: 9999;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+  transition: 0.3s ease;
+}
+
+.go-to-service-btn:hover {
+  background: #b50f0f;
+  transform: scale(1.05);
 }
 
