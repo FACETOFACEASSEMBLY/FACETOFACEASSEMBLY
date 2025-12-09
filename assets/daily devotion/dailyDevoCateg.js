@@ -3,6 +3,50 @@ export const dailyDevotionCateg = [{
     prayer: `
 <p>
 
+  <strong>THE SPIRIT OF WEALTH AND RICHES</strong><br><br>
+
+  <strong>2 Corinthians 8:9</strong><br>
+  “For ye know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that ye through his poverty might be rich.”<br><br>
+
+  Today, in our Season of Alleluia, the Spirit of God lifts the veil on the covenant of divine prosperity. Our shout of “Alleluia” is the sound of a heart that has discovered true riches—wealth that begins in the spirit and transforms the wilderness of lack into a fertile field of abundance.<br><br>
+
+  True riches are first spiritual, then natural. Scripture declares: “Wealth and riches shall be in his house: and his righteousness endureth for ever” (Psalm 112:3). This is the wealth of a peaceful home, children walking in truth, and health sustained by God’s hand. Wealth and riches are twin blessings that follow the covenant keeper.<br><br>
+
+  Before you can walk in overflow, you must return to the Source. It is the outpouring of the Spirit that changes your landscape: “Until the spirit be poured upon us from on high, and the wilderness be a fruitful field…” (Isaiah 32:15). God does not just give things; He gives His Spirit, and His Spirit gives power, wisdom, ideas, and opportunities.<br><br>
+
+  “But thou shalt remember the Lord thy God: for it is he that giveth thee power to get wealth” (Deuteronomy 8:18). When God gives, He gives completely. Wealth has a voice that commands honour. Joseph of Arimathaea, a rich man, walked into the presence of authority and boldly asked for the body of Jesus (Matthew 27:57). Wealth speaks where mere desire is silent.<br><br>
+
+  Believer, this is your inheritance. Christ became poor so that you might be rich in grace, favour, and divine provision. Your “Alleluia” today is not a cry from lack but a declaration from covenant abundance. You are not a beggar—you are a child of the King. Align with your Source and command your environment to reflect your spiritual riches in Christ.<br><br>
+
+  <strong>PRAYER</strong><br>
+  My Father and my God, I return to You as my only Source. Pour out Your Spirit upon my life, my mind, and the work of my hands. Let every wilderness in my finances, health, and family be transformed into a fruitful field and a forest of abundance. I receive the spirit of wealth and riches—the divine power to create, gather, and enjoy Your provision in peace. I break every curse of poverty, debt, and failure, and I walk in covenant prosperity, in Jesus’ Name. Amen.
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'SUNDAY, 7TH DECEMBER 2025',
+    prayer: `<p>
+
   <strong>I AM A MAN UNDER AUTHORITY</strong><br><br>
 
   <strong>Matthew 8:6-9</strong><br>
@@ -31,27 +75,9 @@ export const dailyDevotionCateg = [{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 `
 }, {
-    date: 'SUNDAY, 7TH DECEMBER 2025',
+    date: 'SATURDAY, 6TH DECEMBER 2025',
     prayer: `<p>
 
   <strong>WELCOME TO THE SEASON OF ALLELUIA</strong><br><br>
@@ -73,36 +99,6 @@ export const dailyDevotionCateg = [{
 
   <strong>PRAYER</strong><br>
   My Father My God, I thank You for this Season of Alleluia. As I look back on this year, I see Your hand in every moment. I acknowledge Your faithfulness, Your mercy, and Your unfailing love. Today, I lift my voice with the hosts of heaven and declare: ALLELUIA! Let Your goodness continue in my life, and let Your glory be revealed in all that concerns me, in Jesus’ Name. Amen.
-</p>
-
-
-
-
-`
-}, {
-    date: 'SATURDAY, 6TH DECEMBER 2025',
-    prayer: `<p>
-  <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL BY TEACHER OF GOD'S WORD, HAPPY OVERAH</strong><br><br>
-
-  <strong>FRIDAY, 5TH DECEMBER 2025</strong><br><br>
-
-  <strong>THE POWER OF AGREEMENT</strong><br><br>
-
-  <strong>Matthew 18:19</strong><br>
-  “Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven.”<br><br>
-
-  When God looked upon the people at Babel, He saw a formidable force. Their unity of language and purpose created a power so potent that Heaven itself declared that nothing would be restrained from them. This is the divine principle of agreement. It is not merely about human coordination; it is a spiritual key that unlocks heavenly action.<br><br>
-
-  At creation, the Godhead said, “Let us make man,” and in that sacred agreement, humanity was formed (Genesis 1:26).<br><br>
-
-  In the face of death, a wife can stand in agreement with Heaven for her husband's life. In the face of lack, friends can agree for breakthrough. This power is not a mystery kept from you; it is a key placed in your hands. Jesus Christ Himself affirmed it: “Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them...” (Matthew 18:19). The condition is clear: a united heart and a common purpose can birth greatness.<br><br>
-
-  This is a call to action. Identify that God-fearing person who shares your spirit, who truly desires your prosperity and God's glory in your life. Approach them. Share your heart’s petition. Pray together. Agree together. For when covenant people come into agreement on God’s Word, they create a spiritual atmosphere where miracles are birthed.<br><br>
-
-  Do not bear that burden alone. Do not fight that battle in isolation. The God who is present where two or three are gathered is waiting to confirm His Word in your midst. As you step out in faith to seek agreement, you activate a divine law. Heaven records it, and angels are dispatched to work on your behalf in Jesus’ Name. Amen.<br><br>
-
-  <strong>PRAYER</strong><br>
-  My Father My God, I thank You for revealing the power of agreement. Today, I receive the wisdom and the divine connection to find a covenant partner in prayer. As we agree according to Your will, I declare that every mountain is removed, every chain is broken, and every promise is fulfilled in my life. Let Your hand move mightily in all that concerns me. I shall testify to Your goodness, in Jesus’ Name, Amen.
 </p>
 
 
