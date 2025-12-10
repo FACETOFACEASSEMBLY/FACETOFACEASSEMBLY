@@ -1,25 +1,26 @@
 export const dailyDevotionCateg = [{
-    date: 'MONDAY, 8TH DECEMBER 2025',
+    date: 'WEDNESDAY, 10TH DECEMBER 2025',
     prayer: `
 <p>
 
-  <strong>THE SPIRIT OF WEALTH AND RICHES</strong><br><br>
+  <strong>THE SPIRIT OF WISDOM</strong><br><br>
 
-  <strong>2 Corinthians 8:9</strong><br>
-  “For ye know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that ye through his poverty might be rich.”<br><br>
+  Today, in our time of praise, God’s Spirit is showing us the promise of His wisdom. Our "Alleluia" comes from a heart that has found the main thing needed in life: God’s own wisdom. This wisdom makes you see clearly when others are lost. It sets you apart and strengthens and lengthens your life.<br><br>
 
-  Today, in our Season of Alleluia, the Spirit of God lifts the veil on the covenant of divine prosperity. Our shout of “Alleluia” is the sound of a heart that has discovered true riches—wealth that begins in the spirit and transforms the wilderness of lack into a fertile field of abundance.<br><br>
+  <strong>Proverbs 4:7</strong><br>
+  “Wisdom is the principal thing; therefore get wisdom: and with all thy getting get understanding.”<br><br>
 
-  True riches are first spiritual, then natural. Scripture declares: “Wealth and riches shall be in his house: and his righteousness endureth for ever” (Psalm 112:3). This is the wealth of a peaceful home, children walking in truth, and health sustained by God’s hand. Wealth and riches are twin blessings that follow the covenant keeper.<br><br>
+  Wisdom is the most important thing. It is not just being smart—it is thinking and seeing the way God sees. The Bible teaches that if you lack wisdom, simply ask God, and He will give it freely and generously (James 1:5). This wisdom made Daniel and his friends ten times better than all the wise men of Babylon (Daniel 1:20). It is the wisdom that builds your house and establishes your family (Proverbs 24:3). It brings long life, honor, and peace (Proverbs 3:16).<br><br>
 
-  Before you can walk in overflow, you must return to the Source. It is the outpouring of the Spirit that changes your landscape: “Until the spirit be poured upon us from on high, and the wilderness be a fruitful field…” (Isaiah 32:15). God does not just give things; He gives His Spirit, and His Spirit gives power, wisdom, ideas, and opportunities.<br><br>
+  But you must go to the right source to receive it. Glory to God who owns all wisdom and gives it to His children. Jesus showed this wisdom daily—never confused, never without an answer. Scripture reveals: “But of him are ye in Christ Jesus, who of God is made unto us wisdom” (1 Corinthians 1:30 KJV). Jesus *is* the wisdom of God. To have Him is to have heaven’s solution for every situation—your home, your work, and your life.<br><br>
 
-  “But thou shalt remember the Lord thy God: for it is he that giveth thee power to get wealth” (Deuteronomy 8:18). When God gives, He gives completely. Wealth has a voice that commands honour. Joseph of Arimathaea, a rich man, walked into the presence of authority and boldly asked for the body of Jesus (Matthew 27:57). Wealth speaks where mere desire is silent.<br><br>
-
-  Believer, this is your inheritance. Christ became poor so that you might be rich in grace, favour, and divine provision. Your “Alleluia” today is not a cry from lack but a declaration from covenant abundance. You are not a beggar—you are a child of the King. Align with your Source and command your environment to reflect your spiritual riches in Christ.<br><br>
+  He became like us so we could receive God’s wisdom. Your “Alleluia” today is not the cry of someone confused, but the shout of someone with access to the mind of Christ. You are not navigating life alone. You have a Father who gives wisdom freely and a Savior who *is* wisdom. Ask, and you will receive.<br><br>
 
   <strong>PRAYER</strong><br>
-  My Father and my God, I return to You as my only Source. Pour out Your Spirit upon my life, my mind, and the work of my hands. Let every wilderness in my finances, health, and family be transformed into a fruitful field and a forest of abundance. I receive the spirit of wealth and riches—the divine power to create, gather, and enjoy Your provision in peace. I break every curse of poverty, debt, and failure, and I walk in covenant prosperity, in Jesus’ Name. Amen.
+  My Father My God, I ask You now for Your wisdom. Forgive every foolish way in me and give me the mind of Christ. Let Your wisdom make me ten times better in all I do. Let it build my home, guide my decisions, and lengthen my life. I break every chain of confusion and error. Turn my darkness into direction and my questions into clarity. I receive Your wisdom now, in Jesus’ Name. Amen.<br><br>
+
+  <strong>GOD BLESS YOU!</strong>
+
 </p>
 
 
@@ -44,7 +45,34 @@ export const dailyDevotionCateg = [{
 
 `
 }, {
-    date: 'SUNDAY, 7TH DECEMBER 2025',
+    date: 'TUESDAY, 7TH DECEMBER 2025',
+    prayer: `<p>
+
+  <strong>THE SPIRIT OF WEALTH AND RICHES</strong><br><br>
+
+  <strong>2 Corinthians 8:9</strong><br>
+  “For ye know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that ye through his poverty might be rich.”<br><br>
+
+  Today, in our Season of Alleluia, the Spirit of God lifts the veil on the covenant of divine prosperity. Our shout of “Alleluia” is the sound of a heart that has discovered true riches—wealth that begins in the spirit and transforms the wilderness of lack into a fertile field of abundance.<br><br>
+
+  True riches are first spiritual, then natural. Scripture declares: “Wealth and riches shall be in his house: and his righteousness endureth for ever” (Psalm 112:3). This is the wealth of a peaceful home, children walking in truth, and health sustained by God’s hand. Wealth and riches are twin blessings that follow the covenant keeper.<br><br>
+
+  Before you can walk in overflow, you must return to the Source. It is the outpouring of the Spirit that changes your landscape: “Until the spirit be poured upon us from on high, and the wilderness be a fruitful field…” (Isaiah 32:15). God does not just give things; He gives His Spirit, and His Spirit gives power, wisdom, ideas, and opportunities.<br><br>
+
+  “But thou shalt remember the Lord thy God: for it is he that giveth thee power to get wealth” (Deuteronomy 8:18). When God gives, He gives completely. Wealth has a voice that commands honour. Joseph of Arimathaea, a rich man, walked into the presence of authority and boldly asked for the body of Jesus (Matthew 27:57). Wealth speaks where mere desire is silent.<br><br>
+
+  Believer, this is your inheritance. Christ became poor so that you might be rich in grace, favour, and divine provision. Your “Alleluia” today is not a cry from lack but a declaration from covenant abundance. You are not a beggar—you are a child of the King. Align with your Source and command your environment to reflect your spiritual riches in Christ.<br><br>
+
+  <strong>PRAYER</strong><br>
+  My Father and my God, I return to You as my only Source. Pour out Your Spirit upon my life, my mind, and the work of my hands. Let every wilderness in my finances, health, and family be transformed into a fruitful field and a forest of abundance. I receive the spirit of wealth and riches—the divine power to create, gather, and enjoy Your provision in peace. I break every curse of poverty, debt, and failure, and I walk in covenant prosperity, in Jesus’ Name. Amen.
+</p>
+
+
+
+
+`
+}, {
+    date: 'MONDAY, 8TH DECEMBER 2025',
     prayer: `<p>
 
   <strong>I AM A MAN UNDER AUTHORITY</strong><br><br>
@@ -71,36 +99,6 @@ export const dailyDevotionCateg = [{
   My Father My God, I declare that I am a man under Your authority. Today, I call forth my inheritance of health, prosperity, favor, and peace. I command every force of lack, sickness, and shame to depart from my life and my household. My “Alleluia” is the shout of a victorious soldier in Your army. As I have believed, so let it be unto me, in Jesus’ Name. Amen.
 
 </p>
-
-
-
-
-`
-}, {
-    date: 'SATURDAY, 6TH DECEMBER 2025',
-    prayer: `<p>
-
-  <strong>WELCOME TO THE SEASON OF ALLELUIA</strong><br><br>
-
-  <strong>Revelation 19:1-2, 6</strong><br>
-  “And after these things I heard a great voice of much people in heaven, saying, Alleluia; Salvation, and glory, and honour, and power, unto the Lord our God: For true and righteous are his judgments... And I heard as it were the voice of a great multitude, and as the voice of many waters, and as the voice of mighty thunderings, saying, Alleluia: for the Lord God omnipotent reigneth.”<br><br>
-
-  Today, I welcome you into a divine moment — the <strong>Season of Alleluia</strong>. This is a holy time of gratitude, a spiritual pause where you look back from January until now and recognize the countless ways God has carried you, protected you, restored you, provided for you, and shown you mercy.<br><br>
-
-  That word “Alleluia” is not ordinary. In Revelation 19, it is the roaring shout of heaven — the sound of victory, fulfilment, and overwhelming gratitude. Heaven shouts “Alleluia!” because every promise God made, He kept. Every word He spoke, He performed.<br><br>
-
-  Your life this year echoes that same testimony. The difficult days you survived, the blessings you received unexpectedly, the dangers you escaped, the provisions that came right on time — these are not coincidences. They are the fingerprints of a faithful God. Each moment is a reminder that God does not fail (Numbers 23:19).<br><br>
-
-  As you look back, your heart begins to swell with thanksgiving. That fullness of gratitude demands expression, and that expression is your “Alleluia!” It is your agreement with heaven that God has been good to you, powerful in your life, and consistent in His love.<br><br>
-
-  The Psalmist said, “He has given me a new song to sing, a song of praise to our God” (Psalm 40:3). This season, your new song is simple but mighty: <strong>ALLELUIA!</strong> It is your shout of appreciation to the God who has carried you from the beginning of the year till now.<br><br>
-
-  Do not hold it back. Let your Alleluia rise from a heart that has seen the faithfulness of God. Let it be a testimony, a declaration, and a celebration of the One who reigns forever.<br><br>
-
-  <strong>PRAYER</strong><br>
-  My Father My God, I thank You for this Season of Alleluia. As I look back on this year, I see Your hand in every moment. I acknowledge Your faithfulness, Your mercy, and Your unfailing love. Today, I lift my voice with the hosts of heaven and declare: ALLELUIA! Let Your goodness continue in my life, and let Your glory be revealed in all that concerns me, in Jesus’ Name. Amen.
-</p>
-
 
 
 `
