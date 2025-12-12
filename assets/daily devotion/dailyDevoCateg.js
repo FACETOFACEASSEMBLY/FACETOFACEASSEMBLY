@@ -1,7 +1,61 @@
 export const dailyDevotionCateg = [{
-    date: 'THURSDAY, 11TH DECEMBER 2025',
+    date: 'FRIDAY, 12TH DECEMBER 2025',
     prayer: `
 <p>
+  
+
+  <strong>POWER OF UNDERSTANDING</strong><br><br>
+
+  Understanding is life. Understanding is power. Understanding is light. Scripture says,
+  “Give me understanding, and I shall live” (Psalm 119:144).
+  God has no business with those who lack understanding. It is understanding that
+  produces the hundredfold, sixtyfold, and thirtyfold manifestations. No one succeeds in
+  any field or calling until they gain understanding in it.<br><br>
+
+  Everyone who walked with God in Scripture was a person of understanding—whether Moses,
+  Daniel, or Apostle Paul. Their understanding positioned them to manifest the plan of God.<br><br>
+
+  In Acts 8:30–31, Philip met a man reading the prophet Isaiah and asked,
+  “Understandest thou what thou readest?” The man replied,
+  “How can I, except some man should guide me?” This shows that
+  <strong>everyone needs a guide to bring understanding.</strong><br><br>
+
+  <strong>Ways You Can Gain Understanding:</strong><br>
+  1. Study to show yourself approved (2 Timothy 2:15).<br>
+  2. Follow men who have successfully gone ahead of you (2 Corinthians 8:15).<br>
+  3. Ask questions—“Stand in the ways and ask…” (Jeremiah 6:16).<br><br>
+
+  <strong>PRAYER:</strong><br>
+  My Father, my God, let the spirit of understanding come afresh upon me. Amen.<br><br>
+
+  GOD BLESS YOU!
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'THURSDAY, 11TH DECEMBER 2025',
+    prayer: `<p>
 
  
 
@@ -35,22 +89,6 @@ export const dailyDevotionCateg = [{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 `
 }, {
     date: 'WEDNESDAY, 10TH DECEMBER 2025',
@@ -74,33 +112,6 @@ export const dailyDevotionCateg = [{
 
   <strong>GOD BLESS YOU!</strong>
 
-</p>
-
-
-
-
-`
-}, {
-    date: 'TUESDAY, 9TH DECEMBER 2025',
-    prayer: `<p>
-
-  <strong>THE SPIRIT OF WEALTH AND RICHES</strong><br><br>
-
-  <strong>2 Corinthians 8:9</strong><br>
-  “For ye know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that ye through his poverty might be rich.”<br><br>
-
-  Today, in our Season of Alleluia, the Spirit of God lifts the veil on the covenant of divine prosperity. Our shout of “Alleluia” is the sound of a heart that has discovered true riches—wealth that begins in the spirit and transforms the wilderness of lack into a fertile field of abundance.<br><br>
-
-  True riches are first spiritual, then natural. Scripture declares: “Wealth and riches shall be in his house: and his righteousness endureth for ever” (Psalm 112:3). This is the wealth of a peaceful home, children walking in truth, and health sustained by God’s hand. Wealth and riches are twin blessings that follow the covenant keeper.<br><br>
-
-  Before you can walk in overflow, you must return to the Source. It is the outpouring of the Spirit that changes your landscape: “Until the spirit be poured upon us from on high, and the wilderness be a fruitful field…” (Isaiah 32:15). God does not just give things; He gives His Spirit, and His Spirit gives power, wisdom, ideas, and opportunities.<br><br>
-
-  “But thou shalt remember the Lord thy God: for it is he that giveth thee power to get wealth” (Deuteronomy 8:18). When God gives, He gives completely. Wealth has a voice that commands honour. Joseph of Arimathaea, a rich man, walked into the presence of authority and boldly asked for the body of Jesus (Matthew 27:57). Wealth speaks where mere desire is silent.<br><br>
-
-  Believer, this is your inheritance. Christ became poor so that you might be rich in grace, favour, and divine provision. Your “Alleluia” today is not a cry from lack but a declaration from covenant abundance. You are not a beggar—you are a child of the King. Align with your Source and command your environment to reflect your spiritual riches in Christ.<br><br>
-
-  <strong>PRAYER</strong><br>
-  My Father and my God, I return to You as my only Source. Pour out Your Spirit upon my life, my mind, and the work of my hands. Let every wilderness in my finances, health, and family be transformed into a fruitful field and a forest of abundance. I receive the spirit of wealth and riches—the divine power to create, gather, and enjoy Your provision in peace. I break every curse of poverty, debt, and failure, and I walk in covenant prosperity, in Jesus’ Name. Amen.
 </p>
 
 
