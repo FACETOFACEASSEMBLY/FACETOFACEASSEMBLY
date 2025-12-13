@@ -3,6 +3,80 @@ export const dailyDevotionCateg = [{
     prayer: `
 <p>
   
+  <strong>KEEP BELIEVING</strong><br><br>
+
+  There is a divine principle in the Kingdom: what hell has assigned to be permanent,
+  God ordains to be temporary.<br>
+  <em>“While we look not at the things which are seen, but at the things which are not seen:
+  for the things which are seen are temporal; but the things which are not seen are eternal.”</em>
+  — 2 Corinthians 4:18<br><br>
+
+  Joseph understood this principle. He was betrayed, enslaved, and imprisoned for crimes
+  he did not commit. He carried a God-given dream inside a man-made dungeon.
+  His circumstances shouted “life sentence,” but heaven had already written
+  “Prime Minister.”<br><br>
+
+  <em>“Then Pharaoh sent and called Joseph, and they brought him hastily out of the dungeon:
+  and he shaved himself, and changed his raiment, and came in unto Pharaoh.”</em>
+  — Genesis 41:14<br><br>
+
+  The prison is not just a place.<br>
+  It is an assignment of delay.<br>
+  It is a plot to bury a promise.<br>
+  It is a system designed to make a man forget his destiny.<br><br>
+
+  But throughout Scripture, God consistently rises to reverse the plots of the enemy.
+  In Joseph’s life, when the enemy used the pit, slavery, and prison to destroy a dream,
+  God used that same prison as the pathway to the palace.
+  The place meant to break him became the platform that launched him.<br><br>
+
+  <em>“And Pharaoh said unto Joseph, Forasmuch as God hath shewed thee all this,
+  there is none so discreet and wise as thou art:
+  Thou shalt be over my house, and according unto thy word shall all my people be ruled:
+  only in the throne will I be greater than thou.”</em>
+  — Genesis 41:39–40<br><br>
+
+  Your delay may appear long, but it has an expiry date on God’s calendar.
+  And God’s promotion always includes the authority to govern what once held you captive.
+  God never brings you out without setting you over.<br><br>
+
+  You are not stuck — you are in processing.
+  The “hastily” of God can compress years of waiting into a single day
+  of supernatural reversal.<br><br>
+
+  <strong>PRAYER:</strong><br>
+  My Father, my God, every prison assigned against my destiny must release me now.
+  Let Your purpose for my life be established.
+  I step out of delay and into divine fulfillment.
+  In Jesus’ Name, Amen.<br><br>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'THURSDAY, 11TH DECEMBER 2025',
+    prayer: `<p>
+  
 
   <strong>POWER OF UNDERSTANDING</strong><br><br>
 
@@ -33,28 +107,9 @@ export const dailyDevotionCateg = [{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 `
 }, {
-    date: 'THURSDAY, 11TH DECEMBER 2025',
+    date: 'WEDNESDAY, 10TH DECEMBER 2025',
     prayer: `<p>
 
  
@@ -82,35 +137,6 @@ export const dailyDevotionCateg = [{
   My Father, My God, revive my prayer life in the Name of Jesus. Set my spirit on fire, restore my hunger for Your presence, and strengthen me to watch and pray always. Amen.<br><br>
 
   <strong>GOD BLESS YOU</strong>
-
-</p>
-
-
-
-
-
-`
-}, {
-    date: 'WEDNESDAY, 10TH DECEMBER 2025',
-    prayer: `<p>
-
-  <strong>THE SPIRIT OF WISDOM</strong><br><br>
-
-  Today, in our time of praise, God’s Spirit is showing us the promise of His wisdom. Our "Alleluia" comes from a heart that has found the main thing needed in life: God’s own wisdom. This wisdom makes you see clearly when others are lost. It sets you apart and strengthens and lengthens your life.<br><br>
-
-  <strong>Proverbs 4:7</strong><br>
-  “Wisdom is the principal thing; therefore get wisdom: and with all thy getting get understanding.”<br><br>
-
-  Wisdom is the most important thing. It is not just being smart—it is thinking and seeing the way God sees. The Bible teaches that if you lack wisdom, simply ask God, and He will give it freely and generously (James 1:5). This wisdom made Daniel and his friends ten times better than all the wise men of Babylon (Daniel 1:20). It is the wisdom that builds your house and establishes your family (Proverbs 24:3). It brings long life, honor, and peace (Proverbs 3:16).<br><br>
-
-  But you must go to the right source to receive it. Glory to God who owns all wisdom and gives it to His children. Jesus showed this wisdom daily—never confused, never without an answer. Scripture reveals: “But of him are ye in Christ Jesus, who of God is made unto us wisdom” (1 Corinthians 1:30 KJV). Jesus *is* the wisdom of God. To have Him is to have heaven’s solution for every situation—your home, your work, and your life.<br><br>
-
-  He became like us so we could receive God’s wisdom. Your “Alleluia” today is not the cry of someone confused, but the shout of someone with access to the mind of Christ. You are not navigating life alone. You have a Father who gives wisdom freely and a Savior who *is* wisdom. Ask, and you will receive.<br><br>
-
-  <strong>PRAYER</strong><br>
-  My Father My God, I ask You now for Your wisdom. Forgive every foolish way in me and give me the mind of Christ. Let Your wisdom make me ten times better in all I do. Let it build my home, guide my decisions, and lengthen my life. I break every chain of confusion and error. Turn my darkness into direction and my questions into clarity. I receive Your wisdom now, in Jesus’ Name. Amen.<br><br>
-
-  <strong>GOD BLESS YOU!</strong>
 
 </p>
 
