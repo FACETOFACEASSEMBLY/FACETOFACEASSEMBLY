@@ -1,7 +1,80 @@
 export const dailyDevotionCateg = [{
-    date: 'FRIDAY, 12TH DECEMBER 2025',
+    date: 'MONDAY, 15TH DECEMBER 2025',
     prayer: `
 <p>
+  
+
+  <strong>THE MORE YOU STUDY, THE BETTER YOU BECOME</strong><br><br>
+
+  Think of your faith like a house. A house needs a strong foundation and solid walls to
+  stand firm. God’s Word is that foundation. When you neglect study, your spiritual life
+  becomes vulnerable. Jesus warned that ignorance of Scripture and the power of God
+  leads people into error.<br>
+  <em>“Ye do err, not knowing the scriptures, nor the power of God.”</em>
+  — Matthew 22:29<br><br>
+
+  Studying the Bible is not only for pastors or teachers. It is essential for your daily
+  life, your decisions, your growth, and your peace. A shallow Word produces a shaky
+  faith, but deep study builds spiritual stability.<br><br>
+
+  The best people in Scripture were always learning:<br><br>
+
+  • The disciples did not only follow Jesus; they sat with Him, asked questions,
+  and allowed Him to teach them how to live.<br><br>
+
+  • Cornelius was a devout and praying man, yet he still needed understanding through
+  Peter’s teaching (Acts 10).<br><br>
+
+  • The Ethiopian official was reading the Scriptures, but understanding came only
+  when Philip explained the Word to him (Acts 8:30–31).<br><br>
+
+  • Even Jesus, as a child, was found in the temple listening, asking questions,
+  and learning (Luke 2:46).<br><br>
+
+  Here is the beautiful truth: what you learn is not meant to end with you.
+  Jesus commanded us to teach others what we have been taught
+  (Matthew 28:19–20). As long as you remain teachable, you remain useful in God’s hands.<br><br>
+
+  Seek those who know the Word and learn from them.
+  Study the Scriptures personally.
+  Listen to sound teaching.
+  And when understanding comes, be ready to share it with humility and love.
+  This is how believers grow strong together.<br><br>
+
+  <strong>PRAYER:</strong><br>
+  My Father, my God, ignite in me a genuine hunger for Your Word.
+  Open my understanding, strengthen my foundation,
+  and help me grow through Your truth.
+  In Jesus’ Name, Amen.<br><br>
+
+  
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'SUNDAY, 14TH DECEMBER 2025',
+    prayer: `<p>
   
   <strong>KEEP BELIEVING</strong><br><br>
 
@@ -54,27 +127,9 @@ export const dailyDevotionCateg = [{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 `
 }, {
-    date: 'THURSDAY, 11TH DECEMBER 2025',
+    date: 'SATURDAY, 13TH DECEMBER 2025',
     prayer: `<p>
   
 
@@ -103,41 +158,6 @@ export const dailyDevotionCateg = [{
   My Father, my God, let the spirit of understanding come afresh upon me. Amen.<br><br>
 
   GOD BLESS YOU!
-</p>
-
-
-
-`
-}, {
-    date: 'WEDNESDAY, 10TH DECEMBER 2025',
-    prayer: `<p>
-
- 
-
-  <strong>THE POWER OF PRAYER</strong><br><br>
-
-  Prayer is a weapon every believer can use to overcome the enemy. Until you pray, God will not move on your behalf. When the enemy captures your prayer life, he has captured your destiny. This is why you must guard your prayer life with vigilance and spiritual sensitivity.<br><br>
-
-  <strong>Acts 12:1–5</strong><br>
-  “Peter therefore was kept in prison: but prayer was made without ceasing of the church unto God for him.”<br><br>
-
-  Herod continued killing the apostles until the church awakened to prayer. The slaughter did not stop until prayer began. It is prayer that halts demonic operations, stops wickedness, and brings the works of the enemy to an end.<br><br>
-
-  <strong>Mark 1:35</strong><br>
-  “And in the morning, rising up a great while before day, he went out, and departed into a solitary place, and there prayed.”<br><br>
-
-  Jesus Christ—our perfect example—spent more time in prayer than He did with people. He understood that wickedness increases daily on the earth, and only a man of prayer can subdue it. If you must stop the works of darkness, you must become prayerful. Without a consistent prayer life, the enemy will gain advantage over you.<br><br>
-
-  <strong>Mark 1:37</strong><br>
-  “And when they had found him, they said unto him, All men seek for thee.”<br><br>
-
-  After Jesus prayed, men began to seek Him. If your business is not growing, if opportunities seem scarce, it may be that your prayer altar is weak. Prayer puts an excellent spirit upon your work, your business, and your life (Daniel 6:3). It draws favour, influence, and divine attention. Every end-time believer must be committed to prayer to prevail and prosper.<br><br>
-
-  <strong>PRAYER</strong><br>
-  My Father, My God, revive my prayer life in the Name of Jesus. Set my spirit on fire, restore my hunger for Your presence, and strengthen me to watch and pray always. Amen.<br><br>
-
-  <strong>GOD BLESS YOU</strong>
-
 </p>
 
 
