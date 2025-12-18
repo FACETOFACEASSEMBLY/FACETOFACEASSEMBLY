@@ -1,7 +1,91 @@
 export const dailyDevotionCateg = [{
-    date: 'WEDNESDAY, 17TH DECEMBER 2025',
+    date: 'THURSDAY, 18TH DECEMBER 2025',
     prayer: `
 <p>
+  
+
+  <strong>SOMETIMES “NO” IS THE ANSWER</strong><br><br>
+
+  <strong>Matthew 26:39</strong><br>
+  “O my Father, if it be possible, let this cup pass from me:
+  nevertheless not as I will, but as thou wilt.”<br><br>
+
+  <strong>Isaiah 55:8</strong><br>
+  “For my thoughts are not your thoughts,
+  neither are your ways my ways, saith the Lord.”<br><br>
+
+  We often pray expecting a yes.
+  We plan around a yes.
+  But God, who is perfectly wise and just,
+  sometimes answers with no.<br><br>
+
+  God’s no is not rejection;
+  it is redirection.
+  It is not proof that He does not love you,
+  but evidence that He loves you too much
+  to give you what will harm you
+  or interfere with His righteous purpose.<br><br>
+
+  Even Jesus, in the garden of Gethsemane,
+  asked the Father if there was another way.
+  The answer was no —
+  not because the Father lacked love,
+  but because divine justice required
+  a greater yes: the salvation of mankind.<br><br>
+
+  When God says no,
+  it does not mean He ignored your prayer.
+  It means He sees what you cannot see.
+  His no is often mercy in disguise,
+  protecting you from traps,
+  saving you from settling for less,
+  and preparing you for something far greater
+  than what you asked for.<br><br>
+
+  Do not interpret God’s no as abandonment.
+  His no is still an answer.
+  It is His way of saying,
+  “I am just.
+  I am wise.
+  I am working all things together
+  for your good and My glory.”<br><br>
+
+  Your breakthrough is not cancelled;
+  it is being curated
+  by divine justice.<br><br>
+
+  <strong>PRAYER</strong><br>
+  My Father, my God,
+  I believe that all things are working for my good.
+  Teach me to understand You better.
+  I submit my will to Yours,
+  in Jesus’ Name, Amen.
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'WEDNESDAY 17TH DECEMBER 2025',
+    prayer: `<p>
   
 
   <strong>WHEN YOUR WAY PLEASES GOD</strong><br><br>
@@ -42,26 +126,10 @@ export const dailyDevotionCateg = [{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 `
 }, {
-    date: 'TUESDAY 16TH DECEMBER 2025',
-    prayer: `<p>
-  
-
-  <strong>NO ONE WILL TURN MY GLORY TO SHAME</strong><br><br>
+    date: 'TUESDAY, 16TH DECEMBER 2025',
+    prayer: `<strong>NO ONE WILL TURN MY GLORY TO SHAME</strong><br><br>
 
   <strong>Psalm 4:2</strong><br>
   “O ye sons of men, how long will ye turn my glory into shame?
@@ -116,62 +184,6 @@ export const dailyDevotionCateg = [{
   
 </p>
 
-
-
-
-
-
-`
-}, {
-    date: 'MONDAY, 15TH DECEMBER 2025',
-    prayer: `<p>
-  
-
-  <strong>THE MORE YOU STUDY, THE BETTER YOU BECOME</strong><br><br>
-
-  Think of your faith like a house. A house needs a strong foundation and solid walls to
-  stand firm. God’s Word is that foundation. When you neglect study, your spiritual life
-  becomes vulnerable. Jesus warned that ignorance of Scripture and the power of God
-  leads people into error.<br>
-  <em>“Ye do err, not knowing the scriptures, nor the power of God.”</em>
-  — Matthew 22:29<br><br>
-
-  Studying the Bible is not only for pastors or teachers. It is essential for your daily
-  life, your decisions, your growth, and your peace. A shallow Word produces a shaky
-  faith, but deep study builds spiritual stability.<br><br>
-
-  The best people in Scripture were always learning:<br><br>
-
-  • The disciples did not only follow Jesus; they sat with Him, asked questions,
-  and allowed Him to teach them how to live.<br><br>
-
-  • Cornelius was a devout and praying man, yet he still needed understanding through
-  Peter’s teaching (Acts 10).<br><br>
-
-  • The Ethiopian official was reading the Scriptures, but understanding came only
-  when Philip explained the Word to him (Acts 8:30–31).<br><br>
-
-  • Even Jesus, as a child, was found in the temple listening, asking questions,
-  and learning (Luke 2:46).<br><br>
-
-  Here is the beautiful truth: what you learn is not meant to end with you.
-  Jesus commanded us to teach others what we have been taught
-  (Matthew 28:19–20). As long as you remain teachable, you remain useful in God’s hands.<br><br>
-
-  Seek those who know the Word and learn from them.
-  Study the Scriptures personally.
-  Listen to sound teaching.
-  And when understanding comes, be ready to share it with humility and love.
-  This is how believers grow strong together.<br><br>
-
-  <strong>PRAYER:</strong><br>
-  My Father, my God, ignite in me a genuine hunger for Your Word.
-  Open my understanding, strengthen my foundation,
-  and help me grow through Your truth.
-  In Jesus’ Name, Amen.<br><br>
-
-  
-</p>
 
 
 
