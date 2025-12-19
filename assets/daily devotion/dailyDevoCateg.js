@@ -1,7 +1,119 @@
 export const dailyDevotionCateg = [{
-    date: 'THURSDAY, 18TH DECEMBER 2025',
+    date: 'FRIDAY, 19TH DECEMBER 2025',
     prayer: `
 <p>
+  
+
+  <strong>YOU SHALL NOT WEEP</strong><br><br>
+
+  <strong>Luke 7:13</strong><br>
+  “And when the Lord saw her, he had compassion on her,
+  and said unto her, Weep not.”<br><br>
+
+  The Lord has a prophetic word for your spirit.
+  Hear it clearly:
+  in the last days of this year,
+  you shall not weep.<br><br>
+
+  This is not a wish.
+  It is a declaration from the throne of heaven.
+  It is the same word of power Jesus spoke
+  to the widow of Nain,
+  and it is spoken to you now
+  by the Spirit of God.<br><br>
+
+  That widow’s weeping was justified.
+  Her loss was real,
+  and her future looked hopeless.
+  Yet, into her procession of despair,
+  Jesus stepped in
+  and issued a command
+  that changed the atmosphere of death.<br><br>
+
+  He did not ask her to stop crying.
+  He commanded her to stop.
+  Why?
+  Because His “weep not”
+  was not based on her situation,
+  but on His authority
+  and His immediate intention to act.<br><br>
+
+  This is your portion.
+  The Lord sees the source of your past tears.
+  He has compassion on you.
+  And He is now decreeing
+  that your seasons of sorrow are cancelled.<br><br>
+
+  His “weep not” is a prophetic freeze
+  on every plan of the enemy
+  to bring you into mourning.
+  It is a divine injunction
+  against loss,
+  against hopelessness,
+  and against despair.<br><br>
+
+  You shall not weep
+  because the Lord of Life
+  is stepping into your procession.
+  He is touching what others declared finished.
+  He is commanding a turnaround
+  where doors were shut.<br><br>
+
+  Your tears are being replaced
+  with testimony.
+  The same voice that commands your tears to dry
+  is also commanding dead hopes to rise.<br><br>
+
+  Receive this word by faith.
+  Walk into the coming year
+  with assurance
+  that the Lord’s compassion
+  has already gone ahead of you.<br><br>
+
+  The last days of this year
+  are marked not by mourning,
+  but by miracles;
+  not by lamentation,
+  but by restoration.<br><br>
+
+  You shall not weep,
+  for the God of all comfort
+  has spoken it.<br><br>
+
+  <strong>PRAYER</strong><br>
+  My Father, my God,
+  I declare that I shall not weep
+  in the remaining days of 2025.
+  Let every cause of sorrow be terminated.
+  I receive joy, restoration, and testimony,
+  in Jesus’ mighty name.
+  Amen.
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'THURSDAY 18TH DECEMBER 2025',
+    prayer: `<p>
   
 
   <strong>SOMETIMES “NO” IS THE ANSWER</strong><br><br>
@@ -67,24 +179,9 @@ export const dailyDevotionCateg = [{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 `
 }, {
-    date: 'WEDNESDAY 17TH DECEMBER 2025',
+    date: 'WEDNESDAY, 17TH DECEMBER 2025',
     prayer: `<p>
   
 
@@ -119,70 +216,6 @@ export const dailyDevotionCateg = [{
   Scripture teaches that when God is pleased,
   a man abounds more and more.
   Growth, elevation, and preservation
-
-
-
-
-
-
-
-`
-}, {
-    date: 'TUESDAY, 16TH DECEMBER 2025',
-    prayer: `<strong>NO ONE WILL TURN MY GLORY TO SHAME</strong><br><br>
-
-  <strong>Psalm 4:2</strong><br>
-  “O ye sons of men, how long will ye turn my glory into shame?
-  how long will ye love vanity, and seek after leasing?”<br><br>
-
-  Glory is God’s investment in a man. Shame is the enemy’s agenda
-  against that investment. Many people do not lack destiny;
-  they lack the preservation of glory. David’s cry in Psalm 4:2
-  is not weakness—it is spiritual awareness. He understood that
-  glory can be attacked, questioned, delayed, or mocked,
-  but it must never be surrendered.<br><br>
-
-  <strong>Psalm 8:5</strong><br>
-  God crowned man with glory and honour. This means glory is
-  not accidental; it is divine placement.<br><br>
-
-  David speaks as one conscious of his divine positioning.
-  He says, “my glory,” acknowledging ownership,
-  yet confronting those attempting to convert it into shame.
-  This reveals a powerful spiritual principle:
-  glory attracts contention. When God marks a man with glory,
-  opposition rises to disgrace it.<br><br>
-
-  Shame is not always the result of sin; sometimes it is warfare.
-  The enemy’s objective is not just to stop you,
-  but to make your glory look like failure.
-  The turning of glory to shame often comes through
-  delays that resemble denial,
-  mockery from those who once applauded,
-  pressure to compromise identity for acceptance,
-  and situations designed to make you doubt God’s Word.<br><br>
-
-  But David understood a higher truth:
-  men may attempt, but they cannot succeed without permission.
-  No man has the authority to rewrite what God authored.
-  If God called it glory, no situation has the power to rename it shame.<br><br>
-
-  <strong>Job 29:20</strong><br>
-  “My glory was fresh in me…”<br><br>
-
-  I stand with God’s promise and declare
-  that my glory shall remain fresh,
-  preserved, and defended by God Himself.<br><br>
-
-  <strong>PRAYER</strong><br>
-  My Father, my God, I declare that my glory shall not be turned
-  to shame. Preserve what You have invested in me.
-  Defend my destiny, silence mockery,
-  and let my glory remain fresh by Your power.
-  In Jesus’ Name, Amen.<br><br>
-
-  
-</p>
 
 
 
