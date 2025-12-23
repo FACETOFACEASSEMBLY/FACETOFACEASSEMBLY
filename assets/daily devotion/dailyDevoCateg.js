@@ -1,7 +1,135 @@
 export const dailyDevotionCateg = [{
-    date: 'MONDAY, 22TH DECEMBER 2025',
+    date: 'TUESDAY, 23TH DECEMBER 2025',
     prayer: `
 <p>
+
+  <strong>THE LORD IS MY SHEPHERD</strong><br><br>
+
+  <strong>Psalm 23:1 (End)</strong><br>
+  “The Lord is my shepherd; I shall not want.”<br><br>
+
+  The most beautiful thing a sheep can know
+  is the voice and the presence of its shepherd.
+  For the believer,
+  to say “The Lord is my Shepherd”
+  is to make the most powerful confession
+  of trust and belonging.<br><br>
+
+  It is to declare:
+  “My life is not in my own hands;
+  I am under the care
+  of an all-knowing,
+  all-powerful Guide.”<br><br>
+
+  A shepherd does not merely feed the sheep;
+  he leads them.
+  He knows where the green pastures are
+  and where the quiet waters flow.
+  He sees hidden dangers,
+  predators,
+  and poisonous paths
+  long before the sheep ever do.<br><br>
+
+  When the psalmist says,
+  “I shall not want,”
+  it does not simply mean provision of food.
+  It means lacking nothing
+  that is truly needed
+  for purpose,
+  protection,
+  and well-being.<br><br>
+
+  Jesus confirmed this truth
+  when He sent out His disciples without supplies
+  and later asked them,
+  “Lacked ye anything?”
+  Their answer was simple and powerful:
+  “Nothing.”
+  Why?
+  Because the Shepherd was with them.<br><br>
+
+  Your Shepherd provides,
+  yes,
+  but He also positions you.
+  He leads you to the right places
+  at the right times
+  for your protection
+  and for His divine purpose.<br><br>
+
+  He corrects your path
+  with His rod of discipline
+  and pulls you back
+  with His staff of mercy.
+  In the presence of your enemies—
+  be they lack,
+  fear,
+  sickness,
+  or oppression—
+  He does not panic
+  or retreat.<br><br>
+
+  Instead,
+  He prepares a table before you,
+  a bold declaration
+  that His provision
+  is greater than every threat.
+  He anoints your head with oil,
+  a mark of blessing,
+  healing,
+  and separation unto Him.<br><br>
+
+  His goodness and mercy
+  are not occasional visits.
+  They are constant companions,
+  following you
+  all the days of your life.<br><br>
+
+  Walking with the Shepherd,
+  therefore,
+  is a walk of surrendered trust.
+  It is not the absence of valleys,
+  but the assurance of guidance through them.
+  Every step is overseen,
+  every need is known,
+  and your destination is secure—
+  to dwell in the house of the Lord forever.<br><br>
+
+  <strong>PRAYER</strong><br>
+  My Father, my God,
+  I thank You for choosing me
+  and calling me Your own.
+  Help me to know Your voice more clearly
+  and to follow You more closely,
+  in Jesus’ name.
+  Amen.
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'MONDAY, 22TH DECEMBER 2025',
+    prayer: `<p>
 
   <strong>PRAY FOR YOUR LOVED ONES</strong><br><br>
 
@@ -117,21 +245,6 @@ export const dailyDevotionCateg = [{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 `
 }, {
     date: 'SUNDAY, 21TH DECEMBER 2025',
@@ -238,102 +351,6 @@ export const dailyDevotionCateg = [{
   Amen.
 </p>
 
-
-
-
-
-
-`
-}, {
-    date: 'SATURDAY, 20TH DECEMBER 2025',
-    prayer: `<p>
-  
-
-  <strong>YOU SHALL NOT WEEP</strong><br><br>
-
-  <strong>Luke 7:13</strong><br>
-  “And when the Lord saw her, he had compassion on her,
-  and said unto her, Weep not.”<br><br>
-
-  The Lord has a prophetic word for your spirit.
-  Hear it clearly:
-  in the last days of this year,
-  you shall not weep.<br><br>
-
-  This is not a wish.
-  It is a declaration from the throne of heaven.
-  It is the same word of power Jesus spoke
-  to the widow of Nain,
-  and it is spoken to you now
-  by the Spirit of God.<br><br>
-
-  That widow’s weeping was justified.
-  Her loss was real,
-  and her future looked hopeless.
-  Yet, into her procession of despair,
-  Jesus stepped in
-  and issued a command
-  that changed the atmosphere of death.<br><br>
-
-  He did not ask her to stop crying.
-  He commanded her to stop.
-  Why?
-  Because His “weep not”
-  was not based on her situation,
-  but on His authority
-  and His immediate intention to act.<br><br>
-
-  This is your portion.
-  The Lord sees the source of your past tears.
-  He has compassion on you.
-  And He is now decreeing
-  that your seasons of sorrow are cancelled.<br><br>
-
-  His “weep not” is a prophetic freeze
-  on every plan of the enemy
-  to bring you into mourning.
-  It is a divine injunction
-  against loss,
-  against hopelessness,
-  and against despair.<br><br>
-
-  You shall not weep
-  because the Lord of Life
-  is stepping into your procession.
-  He is touching what others declared finished.
-  He is commanding a turnaround
-  where doors were shut.<br><br>
-
-  Your tears are being replaced
-  with testimony.
-  The same voice that commands your tears to dry
-  is also commanding dead hopes to rise.<br><br>
-
-  Receive this word by faith.
-  Walk into the coming year
-  with assurance
-  that the Lord’s compassion
-  has already gone ahead of you.<br><br>
-
-  The last days of this year
-  are marked not by mourning,
-  but by miracles;
-  not by lamentation,
-  but by restoration.<br><br>
-
-  You shall not weep,
-  for the God of all comfort
-  has spoken it.<br><br>
-
-  <strong>PRAYER</strong><br>
-  My Father, my God,
-  I declare that I shall not weep
-  in the remaining days of 2025.
-  Let every cause of sorrow be terminated.
-  I receive joy, restoration, and testimony,
-  in Jesus’ mighty name.
-  Amen.
-</p>
 
 
 
