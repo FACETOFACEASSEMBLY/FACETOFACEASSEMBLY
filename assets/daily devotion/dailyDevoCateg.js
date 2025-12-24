@@ -1,105 +1,102 @@
 export const dailyDevotionCateg = [{
-    date: 'TUESDAY, 23TH DECEMBER 2025',
+    date: 'WEDNESDAY, 24TH DECEMBER 2025',
     prayer: `
 <p>
 
-  <strong>THE LORD IS MY SHEPHERD</strong><br><br>
+  <strong>BE RELEVANT</strong><br><br>
 
-  <strong>Psalm 23:1 (End)</strong><br>
-  “The Lord is my shepherd; I shall not want.”<br><br>
+  <strong>2 Timothy 4:11</strong><br>
+  “Only Luke is with me.
+  Take Mark, and bring him with thee:
+  for he is profitable to me for the ministry.”<br><br>
 
-  The most beautiful thing a sheep can know
-  is the voice and the presence of its shepherd.
-  For the believer,
-  to say “The Lord is my Shepherd”
-  is to make the most powerful confession
-  of trust and belonging.<br><br>
+  A few days ago,
+  we performed the mystery
+  of the sprinkling of water for cleansing.
+  As usual,
+  some of the water spilled onto the floor.<br><br>
 
-  It is to declare:
-  “My life is not in my own hands;
-  I am under the care
-  of an all-knowing,
-  all-powerful Guide.”<br><br>
+  Normally,
+  immediately after the service,
+  a certain sister in our congregation
+  quietly takes a mop
+  and cleans it up.
+  She does it so faithfully
+  that most of us hardly notice—
+  until she is not there.<br><br>
 
-  A shepherd does not merely feed the sheep;
-  he leads them.
-  He knows where the green pastures are
-  and where the quiet waters flow.
-  He sees hidden dangers,
-  predators,
-  and poisonous paths
-  long before the sheep ever do.<br><br>
+  This time,
+  after the mystery,
+  the water remained on the floor.
+  It seemed like a small thing,
+  but it was out of place.
+  I looked around
+  and realized that
+  the faithful sister was absent that day.
+  No one stepped in to take her place.<br><br>
 
-  When the psalmist says,
-  “I shall not want,”
-  it does not simply mean provision of food.
-  It means lacking nothing
-  that is truly needed
-  for purpose,
-  protection,
-  and well-being.<br><br>
+  Her absence,
+  in what seemed like a small role,
+  was immediately felt.
+  The floor remained wet,
+  and a potential hazard
+  was left unattended.<br><br>
 
-  Jesus confirmed this truth
-  when He sent out His disciples without supplies
-  and later asked them,
-  “Lacked ye anything?”
-  Their answer was simple and powerful:
-  “Nothing.”
-  Why?
-  Because the Shepherd was with them.<br><br>
+  It made me reflect
+  on how many people are like this sister—
+  quietly,
+  consistently,
+  faithfully relevant
+  to the functioning of our lives,
+  our churches,
+  and our communities.<br><br>
 
-  Your Shepherd provides,
-  yes,
-  but He also positions you.
-  He leads you to the right places
-  at the right times
-  for your protection
-  and for His divine purpose.<br><br>
+  Apostle Paul said,
+  “Take Mark, and bring him with thee,
+  for he is profitable to me for the ministry.”<br><br>
 
-  He corrects your path
-  with His rod of discipline
-  and pulls you back
-  with His staff of mercy.
-  In the presence of your enemies—
-  be they lack,
-  fear,
-  sickness,
-  or oppression—
-  He does not panic
-  or retreat.<br><br>
+  Relevance is not about being flashy,
+  famous,
+  or always in front.
+  It is about being profitable.
+  It is about filling a need
+  so faithfully
+  that when you are absent,
+  a gap is felt,
+  a silence is noticed,
+  and a duty is left undone.<br><br>
 
-  Instead,
-  He prepares a table before you,
-  a bold declaration
-  that His provision
-  is greater than every threat.
-  He anoints your head with oil,
-  a mark of blessing,
-  healing,
-  and separation unto Him.<br><br>
+  Be relevant in your place of work,
+  in your family,
+  and in your environment.
+  Like Mark,
+  you may have had a past season
+  where you were considered unprofitable
+  or overlooked.
+  God is a God of restoration.
+  Faithfulness in small things
+  rebuilds relevance
+  for great usefulness
+  in His Kingdom.<br><br>
 
-  His goodness and mercy
-  are not occasional visits.
-  They are constant companions,
-  following you
-  all the days of your life.<br><br>
-
-  Walking with the Shepherd,
-  therefore,
-  is a walk of surrendered trust.
-  It is not the absence of valleys,
-  but the assurance of guidance through them.
-  Every step is overseen,
-  every need is known,
-  and your destination is secure—
-  to dwell in the house of the Lord forever.<br><br>
+  The water on the floor
+  was a quiet sign
+  of a missing saint.
+  Let your life be such
+  that when you are absent from your post,
+  your love,
+  your service,
+  and your devotion to Christ
+  are sincerely missed.
+  That is true relevance
+  in the Kingdom of God.<br><br>
 
   <strong>PRAYER</strong><br>
   My Father, my God,
-  I thank You for choosing me
-  and calling me Your own.
-  Help me to know Your voice more clearly
-  and to follow You more closely,
+  give me grace
+  to be relevant in life.
+  Let my service be profitable
+  for Your Kingdom,
   in Jesus’ name.
   Amen.
 
@@ -125,10 +122,9 @@ export const dailyDevotionCateg = [{
 
 
 
-
 `
 }, {
-    date: 'MONDAY, 22TH DECEMBER 2025',
+    date: 'TUESDAY, 23TH DECEMBER 2025',
     prayer: `<p>
 
   <strong>THE LORD IS MY SHEPHERD</strong><br><br>
@@ -241,7 +237,7 @@ export const dailyDevotionCateg = [{
 
 `
 }, {
-    date: 'SUNDAY, 21TH DECEMBER 2025',
+    date: 'MONDAY, 22TH DECEMBER 2025',
     prayer: `<p>
 
   <strong>PRAY FOR YOUR LOVED ONES</strong><br><br>
