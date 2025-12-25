@@ -1,106 +1,58 @@
 export const dailyDevotionCateg = [{
-    date: 'WEDNESDAY, 24TH DECEMBER 2025',
+    date: 'THURSDAY, 25TH DECEMBER 2025',
     prayer: `
 <p>
 
-  <strong>BE RELEVANT</strong><br><br>
+  <strong>THE REASON FOR THE SEASON (MERRY CHRISTMAS)</strong><br><br>
 
-  <strong>2 Timothy 4:11</strong><br>
-  “Only Luke is with me.
-  Take Mark, and bring him with thee:
-  for he is profitable to me for the ministry.”<br><br>
+  <strong>Luke 2:11</strong><br>
+  “For unto you is born this day
+  in the city of David
+  a Saviour,
+  which is Christ the Lord.”<br><br>
 
-  A few days ago,
-  we performed the mystery
-  of the sprinkling of water for cleansing.
-  As usual,
-  some of the water spilled onto the floor.<br><br>
+  This morning,
+  many homes are filled with excitement.
+  Children are opening gifts,
+  families are gathering,
+  and there is a special feeling in the air.
+  Yet,
+  in the middle of wrapping paper
+  and festive meals,
+  it is easy to miss
+  the quiet,
+  earth-shattering truth
+  of what today truly represents.<br><br>
 
-  Normally,
-  immediately after the service,
-  a certain sister in our congregation
-  quietly takes a mop
-  and cleans it up.
-  She does it so faithfully
-  that most of us hardly notice—
-  until she is not there.<br><br>
+  Long ago,
+  in a simple stable,
+  a young woman gave birth
+  to her first son.
+  There was no room in the inn.
+  She wrapped Him in simple cloths
+  and laid Him in a feeding trough.
+  It appeared small,
+  hidden,
+  and ordinary.
+  Yet in that moment,
+  the greatest gift heaven could give
+  was placed into the hands of humanity.
+  God Himself,
+  clothed in flesh,
+  came to dwell among us.<br><br>
 
-  This time,
-  after the mystery,
-  the water remained on the floor.
-  It seemed like a small thing,
-  but it was out of place.
-  I looked around
-  and realized that
-  the faithful sister was absent that day.
-  No one stepped in to take her place.<br><br>
+  The angel announced the purpose clearly:
+  “For unto you is born…
+  a Saviour.”
+  That is the heart of Christmas.
+  He did not come merely
+  to be a great teacher
+  or a moral example.
+  He came on a rescue mission.
+  He came to save us.
+  As Scripture declares,
+  “
 
-  Her absence,
-  in what seemed like a small role,
-  was immediately felt.
-  The floor remained wet,
-  and a potential hazard
-  was left unattended.<br><br>
-
-  It made me reflect
-  on how many people are like this sister—
-  quietly,
-  consistently,
-  faithfully relevant
-  to the functioning of our lives,
-  our churches,
-  and our communities.<br><br>
-
-  Apostle Paul said,
-  “Take Mark, and bring him with thee,
-  for he is profitable to me for the ministry.”<br><br>
-
-  Relevance is not about being flashy,
-  famous,
-  or always in front.
-  It is about being profitable.
-  It is about filling a need
-  so faithfully
-  that when you are absent,
-  a gap is felt,
-  a silence is noticed,
-  and a duty is left undone.<br><br>
-
-  Be relevant in your place of work,
-  in your family,
-  and in your environment.
-  Like Mark,
-  you may have had a past season
-  where you were considered unprofitable
-  or overlooked.
-  God is a God of restoration.
-  Faithfulness in small things
-  rebuilds relevance
-  for great usefulness
-  in His Kingdom.<br><br>
-
-  The water on the floor
-  was a quiet sign
-  of a missing saint.
-  Let your life be such
-  that when you are absent from your post,
-  your love,
-  your service,
-  and your devotion to Christ
-  are sincerely missed.
-  That is true relevance
-  in the Kingdom of God.<br><br>
-
-  <strong>PRAYER</strong><br>
-  My Father, my God,
-  give me grace
-  to be relevant in life.
-  Let my service be profitable
-  for Your Kingdom,
-  in Jesus’ name.
-  Amen.
-
-</p>
 
 
 
@@ -124,7 +76,7 @@ export const dailyDevotionCateg = [{
 
 `
 }, {
-    date: 'TUESDAY, 23TH DECEMBER 2025',
+    date: 'WEDNESDAY, 24TH DECEMBER 2025',
     prayer: `<p>
 
   <strong>THE LORD IS MY SHEPHERD</strong><br><br>
@@ -235,9 +187,10 @@ export const dailyDevotionCateg = [{
 
 
 
+
 `
 }, {
-    date: 'MONDAY, 22TH DECEMBER 2025',
+    date: 'TUESDAY, 23TH DECEMBER 2025',
     prayer: `<p>
 
   <strong>PRAY FOR YOUR LOVED ONES</strong><br><br>
@@ -347,6 +300,7 @@ export const dailyDevotionCateg = [{
   Amen.
 
 </p>
+
 
 
 
