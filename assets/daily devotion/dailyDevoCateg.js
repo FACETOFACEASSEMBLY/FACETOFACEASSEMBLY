@@ -1,7 +1,104 @@
 export const dailyDevotionCateg = [{
-    date: 'SATURDAY, 27TH DECEMBER 2025',
+    date: 'SUNDAY, 28TH DECEMBER 2025',
     prayer: `
 <p>
+
+  <strong>BUILD YOUR CHILDREN</strong><br><br>
+
+  Until your children succeed,
+  you have not succeeded.<br><br>
+
+  Before you build houses for your children,
+  build your children.<br>
+  <strong>Isaiah 54:13</strong><br><br>
+
+  Invest in your children.
+  Inculcate norms,
+  values,
+  morals,
+  standards,
+  discipline,
+  knowledge,
+  wisdom,
+  truth,
+  understanding,
+  and prayers into their lives.<br>
+  <strong>Proverbs 23:23</strong><br><br>
+
+  If you fail to build your children
+  before building houses for them,
+  they may sell those houses
+  you laboured to build,
+  even with your grave still in it.<br><br>
+
+  Food for thought.<br><br>
+
+  <strong>Proverbs 22:6</strong><br>
+  “Train up a child in the way he should go:
+  and when he is old,
+  he will not depart from it.”<br><br>
+
+  Catch them young.
+  Catch them young.
+  Catch them young.<br><br>
+
+  When children are raised from the cradle
+  with godly values,
+  it shapes their system,
+  their character,
+  and their destiny.
+  These principles follow them through life,
+  sharpening their decisions
+  and forming their success story.<br><br>
+
+  <strong>Psalm 144:12</strong><br><br>
+
+  What is planted in them today
+  becomes what stands for them tomorrow.
+  And in turn,
+  they will pass these same values
+  to their own children,
+  and the lineage continues beautifully.<br><br>
+
+  <strong>Joel 1:3</strong><br><br>
+
+  Before you build houses for your children,
+  build your children.<br><br>
+
+  <strong>PRAYER</strong><br>
+  My Father, my God,
+  I decree that my children
+  are for signs and wonders.
+  Let them walk in truth,
+  wisdom,
+  and divine purpose.
+  In Jesus’ Name,
+  Amen.<br>
+  <strong>Isaiah 8:18</strong>
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'SATURDAY, 27TH DECEMBER 2025',
+    prayer: `<p>
 
   <strong>GLORIOUS THINGS SHALL BE SPOKEN OF ME</strong><br><br>
 
@@ -85,17 +182,6 @@ export const dailyDevotionCateg = [{
   Amen.
 
 </p>
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -203,120 +289,6 @@ export const dailyDevotionCateg = [{
   and strengthen me
   for the journey ahead.
   In Jesus’ name,
-  Amen.
-
-</p>
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'THURSDAY, 25TH DECEMBER 2025',
-    prayer: `<p>
-
-  <strong>THE LORD IS MY SHEPHERD</strong><br><br>
-
-  <strong>Psalm 23:1 (End)</strong><br>
-  “The Lord is my shepherd; I shall not want.”<br><br>
-
-  The most beautiful thing a sheep can know
-  is the voice and the presence of its shepherd.
-  For the believer,
-  to say “The Lord is my Shepherd”
-  is to make the most powerful confession
-  of trust and belonging.<br><br>
-
-  It is to declare:
-  “My life is not in my own hands;
-  I am under the care
-  of an all-knowing,
-  all-powerful Guide.”<br><br>
-
-  A shepherd does not merely feed the sheep;
-  he leads them.
-  He knows where the green pastures are
-  and where the quiet waters flow.
-  He sees hidden dangers,
-  predators,
-  and poisonous paths
-  long before the sheep ever do.<br><br>
-
-  When the psalmist says,
-  “I shall not want,”
-  it does not simply mean provision of food.
-  It means lacking nothing
-  that is truly needed
-  for purpose,
-  protection,
-  and well-being.<br><br>
-
-  Jesus confirmed this truth
-  when He sent out His disciples without supplies
-  and later asked them,
-  “Lacked ye anything?”
-  Their answer was simple and powerful:
-  “Nothing.”
-  Why?
-  Because the Shepherd was with them.<br><br>
-
-  Your Shepherd provides,
-  yes,
-  but He also positions you.
-  He leads you to the right places
-  at the right times
-  for your protection
-  and for His divine purpose.<br><br>
-
-  He corrects your path
-  with His rod of discipline
-  and pulls you back
-  with His staff of mercy.
-  In the presence of your enemies—
-  be they lack,
-  fear,
-  sickness,
-  or oppression—
-  He does not panic
-  or retreat.<br><br>
-
-  Instead,
-  He prepares a table before you,
-  a bold declaration
-  that His provision
-  is greater than every threat.
-  He anoints your head with oil,
-  a mark of blessing,
-  healing,
-  and separation unto Him.<br><br>
-
-  His goodness and mercy
-  are not occasional visits.
-  They are constant companions,
-  following you
-  all the days of your life.<br><br>
-
-  Walking with the Shepherd,
-  therefore,
-  is a walk of surrendered trust.
-  It is not the absence of valleys,
-  but the assurance of guidance through them.
-  Every step is overseen,
-  every need is known,
-  and your destination is secure—
-  to dwell in the house of the Lord forever.<br><br>
-
-  <strong>PRAYER</strong><br>
-  My Father, my God,
-  I thank You for choosing me
-  and calling me Your own.
-  Help me to know Your voice more clearly
-  and to follow You more closely,
-  in Jesus’ name.
   Amen.
 
 </p>
