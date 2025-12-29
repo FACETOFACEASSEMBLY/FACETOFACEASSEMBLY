@@ -1,7 +1,92 @@
 export const dailyDevotionCateg = [{
-    date: 'SUNDAY, 28TH DECEMBER 2025',
+    date: 'MONDAY, 29TH DECEMBER 2025',
     prayer: `
 <p>
+
+  <strong>JOY IS COMING</strong><br><br>
+
+  Everyone desires joy.
+  Everyone wants a heart full of gladness,
+  a life that overflows with laughter and peace,
+  no matter the season.<br><br>
+
+  The Lord Himself is the giver of joy.
+  He hears the prayers of your heart
+  and answers in ways that fill your mouth with laughter
+  and your spirit with delight.
+  Just as He visited Zacharias,
+  He will visit you with the assurance
+  that your appointed joy is on the way.<br><br>
+
+  <strong>Luke 1:13–14</strong><br><br>
+
+  <strong>John 15:11</strong><br>
+  “These things have I spoken unto you,
+  that my joy might remain in you,
+  and that your joy might be full.”<br><br>
+
+  The Scripture also declares:<br>
+  <strong>Isaiah 12:3</strong><br>
+  “Therefore with joy shall ye draw water
+  out of the wells of salvation.”<br><br>
+
+  However, joy can be stolen.
+  The Bible shows us that when joy withers,
+  everything else begins to languish.<br>
+  <strong>Joel 1:12</strong><br><br>
+
+  You must guard your joy.
+  Avoid anyone
+  and any situation
+  that drains your joy.
+  Protect the well within you.<br><br>
+
+  No one accidentally lives a joyful life
+  in a sorrowful world.
+  But as you fix your heart
+  on the Father of lights,
+  I declare today:
+  <strong>Your joy is coming!</strong><br><br>
+
+  God is restoring every lost celebration,
+  filling your mouth with laughter,
+  and causing your well to overflow.
+  Your heart shall be light,
+  and your days shall be glad,
+  in Jesus’ Name.
+  Amen.<br><br>
+
+  <strong>PRAYER</strong><br>
+  My Father, my God,
+  restore my joy this day.
+  Let every stolen gladness return,
+  and let my heart overflow with Your joy.
+  In Jesus’ Name,
+  Amen.
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'SUNDAY, 28TH DECEMBER 2025',
+    prayer: `<p>
 
   <strong>BUILD YOUR CHILDREN</strong><br><br>
 
@@ -77,17 +162,6 @@ export const dailyDevotionCateg = [{
   <strong>Isaiah 8:18</strong>
 
 </p>
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -183,115 +257,6 @@ export const dailyDevotionCateg = [{
 
 </p>
 
-
-
-
-
-
-
-
-`
-}, {
-    date: 'FRIDAY, 26TH DECEMBER 2025',
-    prayer: `<p>
-
-  <strong>HOW TO BE GREAT</strong><br><br>
-
-  <strong>1 Chronicles 29:11–12</strong><br>
-  “Thine, O LORD, is the greatness,
-  and the power,
-  and the glory,
-  and the victory,
-  and the majesty:
-  for all that is in the heaven
-  and in the earth is thine;
-  thine is the kingdom, O LORD,
-  and thou art exalted as head above all.<br>
-  Both riches and honour come of thee,
-  and thou reignest over all;
-  and in thine hand is power and might;
-  and in thine hand it is
-  to make great,
-  and to give strength unto all.”<br><br>
-
-  Everyone desires greatness.
-  Greatness makes a man
-  a light to the world,
-  a source of hope,
-  and a vessel of impact.
-  Yet true greatness
-  is not self-generated;
-  it is God-given.<br><br>
-
-  These scriptures reveal
-  a foundational truth:
-  greatness belongs to God alone.
-  Power, honour, victory,
-  and elevation flow from Him.
-  Therefore,
-  anyone who seeks greatness
-  must first acknowledge God
-  as the only true source of it.<br><br>
-
-  From the beginning,
-  God created man great.
-  We were made in His image
-  and likeness,
-  crowned with glory and honour,
-  and given dominion.
-  That is greatness by design.<br><br>
-
-  However,
-  greatness can be hindered
-  or diminished
-  by laziness,
-  excessive sleep,
-  lack of knowledge,
-  and distractions.
-  What God plants as potential
-  must be nurtured
-  with intentional living.<br><br>
-
-  <strong>If you desire greatness, you must be willing to:</strong><br><br>
-
-  Make the right decisions.<br><br>
-
-  Follow great and godly examples.<br><br>
-
-  Live a disciplined and consistent life.<br><br>
-
-  Be patient,
-  because greatness is a process,
-  not an event.<br><br>
-
-  Scripture confirms this journey:
-  Genesis 1:26–28,
-  Daniel 9:2,
-  Job 8:7,
-  John 14:12,
-  Proverbs 4:18,
-  Psalm 8:5.<br><br>
-
-  No one wakes up suddenly great.
-  But as you walk this path,
-  step by step,
-  God Himself
-  will make you great,
-  and give you strength
-  to sustain it.<br><br>
-
-  <strong>PRAYER</strong><br>
-  Father, my God,
-  I receive grace
-  to walk the path of greatness.
-  Make me great
-  according to Your will,
-  and strengthen me
-  for the journey ahead.
-  In Jesus’ name,
-  Amen.
-
-</p>
 
 
 
