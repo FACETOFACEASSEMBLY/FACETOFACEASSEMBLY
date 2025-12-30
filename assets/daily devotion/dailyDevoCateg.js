@@ -1,7 +1,104 @@
 export const dailyDevotionCateg = [{
-    date: 'MONDAY, 29TH DECEMBER 2025',
+    date: 'TUESDAY, 30TH DECEMBER 2025',
     prayer: `
 <p>
+
+  <strong>RIGHT THINKING</strong><br><br>
+
+  <strong>Luke 1:28–37</strong><br>
+  “And the angel came in unto Mary, and said,
+  Hail, thou that art highly favoured, the Lord is with thee:
+  blessed art thou among women.<br><br>
+
+  And, behold, thou shalt conceive in thy womb,
+  and bring forth a son,
+  and shalt call his name JESUS.<br><br>
+
+  Then said Mary unto the angel,
+  How shall this be, seeing I know not a man?<br><br>
+
+  And the angel answered and said unto her,
+  The Holy Ghost shall come upon thee,
+  and the power of the Highest shall overshadow thee:
+  therefore also that holy thing which shall be born of thee
+  shall be called the Son of God.<br><br>
+
+  And, behold, thy cousin Elisabeth,
+  she hath also conceived a son in her old age:
+  and this is the sixth month with her,
+  who was called barren.<br><br>
+
+  For with God nothing shall be impossible.”<br><br>
+
+  Immediately, Mary’s thinking changed.
+  She moved from questioning
+  to submission,
+  from limitation
+  to alignment.
+  And she declared,
+  <strong>“Be it unto me according to thy word.”</strong><br><br>
+
+  Right thinking positions a man
+  for divine manifestation.
+  Until your thinking changes,
+  your outcome remains the same.<br><br>
+
+  The prodigal son also experienced
+  a shift in thinking.
+  First, he demanded his inheritance.
+  Later, after losing everything,
+  he thought again and said,
+  “I will arise and go to my father.”
+  That single thought
+  restored his destiny.<br><br>
+
+  <strong>Ephesians 3:20</strong><br>
+  God is able to do exceedingly abundantly
+  above all that we ask or think.<br><br>
+
+  <strong>Proverbs 23:7</strong><br>
+  “For as a man thinketh in his heart,
+  so is he.”<br><br>
+
+  Your life will always move
+  in the direction of your dominant thoughts.
+  Think rightly,
+  align your mind with God’s Word,
+  and become a better version of yourself.<br><br>
+
+  <strong>PRAYER</strong><br>
+  My Father, my God,
+  align my thoughts with Your Word.
+  Remove every limitation in my mind,
+  and let my thinking produce Your will
+  in my life.
+  In Jesus’ Name,
+  Amen.
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'MONDAY, 29TH DECEMBER 2025',
+    prayer: `<p>
 
   <strong>JOY IS COMING</strong><br><br>
 
@@ -65,18 +162,6 @@ export const dailyDevotionCateg = [{
   Amen.
 
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -163,99 +248,6 @@ export const dailyDevotionCateg = [{
 
 </p>
 
-
-
-
-
-
-
-`
-}, {
-    date: 'SATURDAY, 27TH DECEMBER 2025',
-    prayer: `<p>
-
-  <strong>GLORIOUS THINGS SHALL BE SPOKEN OF ME</strong><br><br>
-
-  <strong>Psalm 87:3</strong><br>
-  “Glorious things are spoken of thee,
-  O city of God.”<br><br>
-
-  Everyone desires a good name.
-  Everyone longs to be remembered for good,
-  to leave behind a mark
-  that shines with honour and praise.<br><br>
-
-  This scripture reveals
-  a powerful truth:
-  the Lord Himself
-  speaks glorious things
-  over His people.
-  He calls us His city,
-  His dwelling place,
-  and He fills our story
-  with beauty,
-  purpose,
-  and divine praise.<br><br>
-
-  From the beginning,
-  God intended glorious things for us.
-  We are fearfully
-  and wonderfully made,
-  called out of darkness
-  into His marvellous light,
-  and destined
-  to reflect His glory
-  in the earth.<br><br>
-
-  However,
-  this glorious testimony
-  can be dimmed
-  by sin,
-  doubt,
-  worldly living,
-  and forgetting
-  who God says we are.<br><br>
-
-  <strong>If you desire glorious things to be spoken of you, you must:</strong><br><br>
-
-  Live continually
-  in God’s presence.<br><br>
-
-  Walk daily
-  in the Spirit.<br><br>
-
-  Serve in love,
-  for greatness
-  in God’s kingdom
-  is measured by service.<br><br>
-
-  Declare God’s Word continually,
-  allowing His truth
-  to shape your identity
-  and testimony.<br><br>
-
-  No one accidentally
-  lives a glorious life.
-  But as you align yourself
-  with God’s purpose,
-  I declare today,
-  glorious things
-  shall be spoken of you
-  in Jesus’ Name.
-  Amen.<br><br>
-
-  <strong>PRAYER</strong><br>
-  My Father, my God,
-  let my life
-  reflect Your glory.
-  Let my story
-  bring You praise,
-  and let my testimony
-  honour Your name.
-  In Jesus’ Name,
-  Amen.
-
-</p>
 
 
 
