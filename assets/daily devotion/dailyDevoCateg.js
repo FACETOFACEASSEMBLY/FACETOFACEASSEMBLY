@@ -1,7 +1,109 @@
 export const dailyDevotionCateg = [{
-    date: 'TUESDAY, 30TH DECEMBER 2025',
+    date: 'WEDNESDAY, 31TH DECEMBER 2025',
     prayer: `
 <p>
+
+  <strong>FAITHFUL GOD, WE THANK YOU</strong><br><br>
+
+  We are on the last page of the 2025 calendar.
+  We stand in the sacred space
+  between what has been
+  and what will be.
+  Before we cross over,
+  we pause.
+  We do not rush ahead.
+  Instead, we look back,
+  not with regret,
+  but with recognition,
+  searching for the footprints of God
+  in the soil of the past twelve months.<br><br>
+
+  <strong>Luke 17:14–19</strong><br><br>
+
+  The year 2025 carried its own story.
+  There were chapters of brilliant joy
+  and paragraphs of profound difficulty.
+  There were days that felt light and easy,
+  and nights that felt long and heavy.<br><br>
+
+  Yet even the hard ground of 2025
+  was watered by His faithful care.
+  God was sowing seeds
+  in winters you could not see.
+  He was building strength in the struggle.
+  He was teaching your heart
+  to trust His hand in the darkness.
+  Every single morning,
+  His mercy met you.<br><br>
+
+  <strong>Lamentations 3:22–23</strong><br>
+  “It is of the Lord’s mercies that we are not consumed,
+  because His compassions fail not.
+  They are new every morning:
+  great is Thy faithfulness.”<br><br>
+
+  On this final day of the year,
+  offer a deliberate thanksgiving.
+  In your heart,
+  name one thing from 2025:<br><br>
+
+  · One way He provided.<br>
+  · One moment He gave you peace.<br>
+  · One way you grew.<br>
+  · One person He sent.<br>
+  · One promise that held you.<br><br>
+
+  To name them
+  is to worship.
+  It is to say,
+  “I see Your goodness, Lord.
+  I acknowledge it.
+  I thank You for it.”<br><br>
+
+  Gratitude seals the year
+  and positions the heart for the next.
+  As you step forward,
+  do so with a thankful spirit,
+  knowing the same faithful God
+  who carried you through 2025
+  has already gone ahead of you
+  into 2026.<br><br>
+
+  <strong>PRAYER</strong><br>
+  My Father, my God,
+  all I have to say is
+  thank You, Lord.
+  For life, for mercy,
+  for strength, and for grace.
+  I enter the new season
+  with a grateful heart.
+  In Jesus’ Name,
+  Amen.
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'TUESDAY, 30TH DECEMBER 2025',
+    prayer: `<p>
 
   <strong>RIGHT THINKING</strong><br><br>
 
@@ -82,19 +184,6 @@ export const dailyDevotionCateg = [{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 `
 }, {
     date: 'MONDAY, 29TH DECEMBER 2025',
@@ -162,93 +251,6 @@ export const dailyDevotionCateg = [{
   Amen.
 
 </p>
-
-
-
-
-
-
-`
-}, {
-    date: 'SUNDAY, 28TH DECEMBER 2025',
-    prayer: `<p>
-
-  <strong>BUILD YOUR CHILDREN</strong><br><br>
-
-  Until your children succeed,
-  you have not succeeded.<br><br>
-
-  Before you build houses for your children,
-  build your children.<br>
-  <strong>Isaiah 54:13</strong><br><br>
-
-  Invest in your children.
-  Inculcate norms,
-  values,
-  morals,
-  standards,
-  discipline,
-  knowledge,
-  wisdom,
-  truth,
-  understanding,
-  and prayers into their lives.<br>
-  <strong>Proverbs 23:23</strong><br><br>
-
-  If you fail to build your children
-  before building houses for them,
-  they may sell those houses
-  you laboured to build,
-  even with your grave still in it.<br><br>
-
-  Food for thought.<br><br>
-
-  <strong>Proverbs 22:6</strong><br>
-  “Train up a child in the way he should go:
-  and when he is old,
-  he will not depart from it.”<br><br>
-
-  Catch them young.
-  Catch them young.
-  Catch them young.<br><br>
-
-  When children are raised from the cradle
-  with godly values,
-  it shapes their system,
-  their character,
-  and their destiny.
-  These principles follow them through life,
-  sharpening their decisions
-  and forming their success story.<br><br>
-
-  <strong>Psalm 144:12</strong><br><br>
-
-  What is planted in them today
-  becomes what stands for them tomorrow.
-  And in turn,
-  they will pass these same values
-  to their own children,
-  and the lineage continues beautifully.<br><br>
-
-  <strong>Joel 1:3</strong><br><br>
-
-  Before you build houses for your children,
-  build your children.<br><br>
-
-  <strong>PRAYER</strong><br>
-  My Father, my God,
-  I decree that my children
-  are for signs and wonders.
-  Let them walk in truth,
-  wisdom,
-  and divine purpose.
-  In Jesus’ Name,
-  Amen.<br>
-  <strong>Isaiah 8:18</strong>
-
-</p>
-
-
 
 
 
