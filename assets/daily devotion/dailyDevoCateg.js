@@ -1,7 +1,117 @@
 export const dailyDevotionCateg = [{
-    date: 'WEDNESDAY, 31TH DECEMBER 2025',
+    date: 'THURSDAY, 1ST JANUARY 2026',
     prayer: `
 <p>
+
+  <strong>A NEW THING, A FRESH PATH</strong><br><br>
+
+  The page has turned.
+  The old has passed away,
+  and a new year has come.
+  This moment is a gift
+  from the hand of the Father,
+  a fresh path,
+  a morning filled with mercy.
+  Do not step into it
+  carrying the heavy bundles
+  of last year’s fears.
+  Step into it
+  with a heart prepared
+  for what God will do.<br><br>
+
+  <strong>Isaiah 43:18–19</strong><br>
+  “Remember ye not the former things,
+  neither consider the things of old.
+  Behold, I will do a new thing;
+  now it shall spring forth;
+  shall ye not know it?
+  I will even make a way in the wilderness,
+  and rivers in the desert.”<br><br>
+
+  The path ahead is unknown to us.
+  We cannot see around its bends.
+  But we do not walk it alone,
+  and we do not walk it blind.
+  We walk with the One
+  who is already there.
+  He goes before you.
+  He levels the mountains
+  and bridges the valleys.
+  Your assignment
+  is not to see the entire journey,
+  but to trust the Guide
+  for the very next step.<br><br>
+
+  <strong>Proverbs 3:5–6</strong><br>
+  “Trust in the LORD with all thine heart;
+  and lean not unto thine own understanding.
+  In all thy ways acknowledge Him,
+  and He shall direct thy paths.”<br><br>
+
+  On this first day of the year,
+  let us set our hearts.
+  Let us plant our feet
+  on this new path
+  with holy expectation.
+  In your spirit,
+  speak one hope for 2026:<br><br>
+
+  · One area where you will trust Him more.<br>
+  · One habit you will ask Him to help you build.<br>
+  · One person you will intentionally show His love to.<br>
+  · One promise from His Word you will stand upon.<br><br>
+
+  This act of expectation
+  is an act of faith.
+  It declares,
+  “My God, I believe You are good.
+  I believe Your plans for me are good.
+  I am ready to follow.
+  Help me.”<br><br>
+
+  <strong>PRAYER</strong><br>
+  My Father, my God,
+  I stand at the beginning of this new year
+  with thanksgiving and with faith.
+  You have been faithful,
+  and You will remain faithful.
+  I choose to trust You
+  with all that lies ahead.
+  Guide my steps.
+  Order my path.
+  My eyes are fixed on You.
+  In Jesus’ Name,
+  Amen.<br><br>
+
+  May the Lord bless you in this new year.
+  May you walk daily
+  in His fresh mercies,
+  His clear direction,
+  and His unfailing grace.
+  Welcome to 2026.
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'WEDNESDAY, 31ST DECEMBER 2025',
+    prayer: `<p>
 
   <strong>FAITHFUL GOD, WE THANK YOU</strong><br><br>
 
@@ -89,17 +199,6 @@ export const dailyDevotionCateg = [{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 `
 }, {
     date: 'TUESDAY, 30TH DECEMBER 2025',
@@ -179,78 +278,6 @@ export const dailyDevotionCateg = [{
 
 </p>
 
-
-
-
-
-
-`
-}, {
-    date: 'MONDAY, 29TH DECEMBER 2025',
-    prayer: `<p>
-
-  <strong>JOY IS COMING</strong><br><br>
-
-  Everyone desires joy.
-  Everyone wants a heart full of gladness,
-  a life that overflows with laughter and peace,
-  no matter the season.<br><br>
-
-  The Lord Himself is the giver of joy.
-  He hears the prayers of your heart
-  and answers in ways that fill your mouth with laughter
-  and your spirit with delight.
-  Just as He visited Zacharias,
-  He will visit you with the assurance
-  that your appointed joy is on the way.<br><br>
-
-  <strong>Luke 1:13–14</strong><br><br>
-
-  <strong>John 15:11</strong><br>
-  “These things have I spoken unto you,
-  that my joy might remain in you,
-  and that your joy might be full.”<br><br>
-
-  The Scripture also declares:<br>
-  <strong>Isaiah 12:3</strong><br>
-  “Therefore with joy shall ye draw water
-  out of the wells of salvation.”<br><br>
-
-  However, joy can be stolen.
-  The Bible shows us that when joy withers,
-  everything else begins to languish.<br>
-  <strong>Joel 1:12</strong><br><br>
-
-  You must guard your joy.
-  Avoid anyone
-  and any situation
-  that drains your joy.
-  Protect the well within you.<br><br>
-
-  No one accidentally lives a joyful life
-  in a sorrowful world.
-  But as you fix your heart
-  on the Father of lights,
-  I declare today:
-  <strong>Your joy is coming!</strong><br><br>
-
-  God is restoring every lost celebration,
-  filling your mouth with laughter,
-  and causing your well to overflow.
-  Your heart shall be light,
-  and your days shall be glad,
-  in Jesus’ Name.
-  Amen.<br><br>
-
-  <strong>PRAYER</strong><br>
-  My Father, my God,
-  restore my joy this day.
-  Let every stolen gladness return,
-  and let my heart overflow with Your joy.
-  In Jesus’ Name,
-  Amen.
-
-</p>
 
 
 
