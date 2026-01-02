@@ -1,5 +1,5 @@
 export const dailyDevotionCateg = [{
-    date: 'THURSDAY, 1ST JANUARY 2026',
+    date: 'FRIDAY, 2ND JANUARY 2026',
     prayer: `
 <p>
 
@@ -110,6 +110,136 @@ export const dailyDevotionCateg = [{
 
 `
 }, {
+    date: 'THURSDAY, 1ST JANUARY 2026',
+    prayer: `<p>
+
+  <strong>BE LED BY THE SPIRIT THIS YEAR</strong><br><br>
+
+  <strong>Romans 8:1</strong><br>
+  “There is therefore now no condemnation to them which are in Christ Jesus,
+  who walk not after the flesh, but after the Spirit.”<br><br>
+
+  To walk in the Spirit
+  is to live daily
+  under the influence,
+  direction,
+  and power
+  of the Holy Ghost.
+  This life is not sustained
+  by human strength
+  or self-effort.
+  It is only possible
+  by the help
+  of the Holy Spirit.<br><br>
+
+  <strong>Romans 8:14</strong><br>
+  “For as many as are led by the Spirit of God,
+  they are the sons of God.”<br><br>
+
+  True sonship in Christ
+  is revealed
+  through a Spirit-led life.
+  The evidence of maturity
+  is not noise or activity,
+  but obedience
+  to divine leading.<br><br>
+
+  The first step
+  to walking in the Spirit
+  is alignment
+  with the Word of God.
+  You must live
+  with the awareness
+  of God’s power,
+  holiness,
+  love,
+  grace,
+  and the finished work
+  of our Lord Jesus Christ.<br><br>
+
+  <strong>John 6:63</strong><br>
+  “It is the Spirit that quickeneth;
+  the flesh profiteth nothing:
+  the words that I speak unto you,
+  they are spirit,
+  and they are life.”<br><br>
+
+  Where the Spirit of God dwells,
+  there is liberty,
+  joy,
+  light,
+  fruitfulness,
+  and laughter.<br><br>
+
+  <strong>2 Corinthians 3:17</strong><br>
+  “Now the Lord is that Spirit:
+  and where the Spirit of the Lord is,
+  there is liberty.”<br><br>
+
+  Renew your mind.
+  Refuse to think
+  according to this world.
+  Choose to think
+  according to the Word of God.
+  No one prospers
+  or lives victoriously
+  under the influence of the flesh.
+  Only by the Spirit
+  can a man overcome
+  and walk
+  in divine success.<br><br>
+
+  Walking in the Spirit
+  is both a choice
+  and a mindset.
+  The Spirit is available to all,
+  but yielding
+  is a personal responsibility.
+  You must decide
+  daily
+  to follow His leading.<br><br>
+
+  Apostle Paul declared
+  that he kept his body
+  under subjection,
+  reminding us
+  that discipline of the flesh
+  allows the Spirit
+  to prevail.<br><br>
+
+  <strong>1 Corinthians 9:27</strong><br>
+  “But I keep under my body,
+  and bring it into subjection…”<br><br>
+
+  As you live by God’s Word
+  and continually yield
+  to His Spirit,
+  you will be transformed
+  day by day
+  into the likeness of Christ.<br><br>
+
+  <strong>PRAYER</strong><br>
+  My Father, my God,
+  help me to walk daily
+  in the Spirit.
+  Let my flesh be subdued
+  and my heart be sensitive
+  to Your leading.
+  I choose Your will,
+  Your way,
+  and Your voice.
+  In Jesus’ Name,
+  Amen.
+
+</p>
+
+
+
+
+
+
+`
+}, {
     date: 'WEDNESDAY, 31ST DECEMBER 2025',
     prayer: `<p>
 
@@ -187,92 +317,6 @@ export const dailyDevotionCateg = [{
   for strength, and for grace.
   I enter the new season
   with a grateful heart.
-  In Jesus’ Name,
-  Amen.
-
-</p>
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'TUESDAY, 30TH DECEMBER 2025',
-    prayer: `<p>
-
-  <strong>RIGHT THINKING</strong><br><br>
-
-  <strong>Luke 1:28–37</strong><br>
-  “And the angel came in unto Mary, and said,
-  Hail, thou that art highly favoured, the Lord is with thee:
-  blessed art thou among women.<br><br>
-
-  And, behold, thou shalt conceive in thy womb,
-  and bring forth a son,
-  and shalt call his name JESUS.<br><br>
-
-  Then said Mary unto the angel,
-  How shall this be, seeing I know not a man?<br><br>
-
-  And the angel answered and said unto her,
-  The Holy Ghost shall come upon thee,
-  and the power of the Highest shall overshadow thee:
-  therefore also that holy thing which shall be born of thee
-  shall be called the Son of God.<br><br>
-
-  And, behold, thy cousin Elisabeth,
-  she hath also conceived a son in her old age:
-  and this is the sixth month with her,
-  who was called barren.<br><br>
-
-  For with God nothing shall be impossible.”<br><br>
-
-  Immediately, Mary’s thinking changed.
-  She moved from questioning
-  to submission,
-  from limitation
-  to alignment.
-  And she declared,
-  <strong>“Be it unto me according to thy word.”</strong><br><br>
-
-  Right thinking positions a man
-  for divine manifestation.
-  Until your thinking changes,
-  your outcome remains the same.<br><br>
-
-  The prodigal son also experienced
-  a shift in thinking.
-  First, he demanded his inheritance.
-  Later, after losing everything,
-  he thought again and said,
-  “I will arise and go to my father.”
-  That single thought
-  restored his destiny.<br><br>
-
-  <strong>Ephesians 3:20</strong><br>
-  God is able to do exceedingly abundantly
-  above all that we ask or think.<br><br>
-
-  <strong>Proverbs 23:7</strong><br>
-  “For as a man thinketh in his heart,
-  so is he.”<br><br>
-
-  Your life will always move
-  in the direction of your dominant thoughts.
-  Think rightly,
-  align your mind with God’s Word,
-  and become a better version of yourself.<br><br>
-
-  <strong>PRAYER</strong><br>
-  My Father, my God,
-  align my thoughts with Your Word.
-  Remove every limitation in my mind,
-  and let my thinking produce Your will
-  in my life.
   In Jesus’ Name,
   Amen.
 
