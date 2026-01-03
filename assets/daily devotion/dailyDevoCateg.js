@@ -1,7 +1,138 @@
 export const dailyDevotionCateg = [{
-    date: 'FRIDAY, 2ND JANUARY 2026',
+    date: 'SATURDAY, 3RD JANUARY 2026',
     prayer: `
 <p>
+
+  <strong>LEARN TO DO WELL IN 2026</strong><br><br>
+
+  There is always
+  a better version of you.
+  If only you can learn
+  to do well,
+  you can become
+  a better pastor,
+  a better father,
+  a better mother,
+  a better businessman,
+  or even
+  a better student.
+  This is not a gift;
+  it is an act
+  of discipline.<br><br>
+
+  <strong>Isaiah 1:17</strong><br>
+  “Learn to do well;
+  seek judgment,
+  relieve the oppressed,
+  judge the fatherless,
+  plead for the widow.”<br><br>
+
+  God spoke to Cain,
+  revealing a powerful truth:
+  if he had done well,
+  his offering
+  would have been accepted.<br><br>
+
+  <strong>Genesis 4:7</strong><br>
+  “If thou doest well,
+  shalt thou not be accepted?
+  And if thou doest not well,
+  sin lieth at the door.
+  And unto thee shall be his desire,
+  and thou shalt rule over him.”<br><br>
+
+  When a person
+  consistently does well,
+  glory follows.
+  Reputation is shaped
+  by obedience,
+  diligence,
+  and excellence.<br><br>
+
+  <strong>Psalm 87:3</strong><br>
+  “Glorious things are spoken of thee,
+  O city of God.”<br><br>
+
+  Apostle Paul
+  requested Mark
+  because he had grown
+  into usefulness.
+  Doing well
+  makes you profitable
+  in God’s kingdom.<br><br>
+
+  <strong>2 Timothy 4:11</strong><br>
+  “Take Mark,
+  and bring him with thee:
+  for he is profitable to me
+  for the ministry.”<br><br>
+
+  Joseph instructed his brothers
+  to tell their father
+  of his glory in Egypt
+  because his life
+  had produced visible results.
+  Doing well
+  cannot be hidden.<br><br>
+
+  <strong>Genesis 45:13</strong><br>
+  “And ye shall tell my father
+  of all my glory in Egypt,
+  and of all that ye have seen.”<br><br>
+
+  You do well
+  by embracing truth,
+  walking in wisdom,
+  accepting instruction,
+  and growing in understanding.<br><br>
+
+  <strong>Proverbs 23:23</strong><br>
+  “Buy the truth,
+  and sell it not;
+  also wisdom,
+  and instruction,
+  and understanding.”<br><br>
+
+  Doing well
+  is a deliberate choice.
+  It is a lifestyle
+  that attracts honor,
+  favor,
+  and divine acceptance.<br><br>
+
+  <strong>PRAYER</strong><br>
+  My Father, my God,
+  give me the grace
+  to do well.
+  Let my life
+  bring You glory
+  and produce excellence
+  in all I do.
+  In Jesus’ Name,
+  Amen.
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'FRIDAY, 2ND JANUARY 2026',
+    prayer: `<p>
 
   <strong>A NEW THING, A FRESH PATH</strong><br><br>
 
@@ -98,19 +229,9 @@ export const dailyDevotionCateg = [{
 
 
 
-
-
-
-
-
-
-
-
-
-
 `
 }, {
-    date: 'THURSDAY, 1ST JANUARY 2026',
+    date: 'THURSDAY, 1ST DECEMBER 2025',
     prayer: `<p>
 
   <strong>BE LED BY THE SPIRIT THIS YEAR</strong><br><br>
@@ -228,95 +349,6 @@ export const dailyDevotionCateg = [{
   I choose Your will,
   Your way,
   and Your voice.
-  In Jesus’ Name,
-  Amen.
-
-</p>
-
-
-
-
-
-
-`
-}, {
-    date: 'WEDNESDAY, 31ST DECEMBER 2025',
-    prayer: `<p>
-
-  <strong>FAITHFUL GOD, WE THANK YOU</strong><br><br>
-
-  We are on the last page of the 2025 calendar.
-  We stand in the sacred space
-  between what has been
-  and what will be.
-  Before we cross over,
-  we pause.
-  We do not rush ahead.
-  Instead, we look back,
-  not with regret,
-  but with recognition,
-  searching for the footprints of God
-  in the soil of the past twelve months.<br><br>
-
-  <strong>Luke 17:14–19</strong><br><br>
-
-  The year 2025 carried its own story.
-  There were chapters of brilliant joy
-  and paragraphs of profound difficulty.
-  There were days that felt light and easy,
-  and nights that felt long and heavy.<br><br>
-
-  Yet even the hard ground of 2025
-  was watered by His faithful care.
-  God was sowing seeds
-  in winters you could not see.
-  He was building strength in the struggle.
-  He was teaching your heart
-  to trust His hand in the darkness.
-  Every single morning,
-  His mercy met you.<br><br>
-
-  <strong>Lamentations 3:22–23</strong><br>
-  “It is of the Lord’s mercies that we are not consumed,
-  because His compassions fail not.
-  They are new every morning:
-  great is Thy faithfulness.”<br><br>
-
-  On this final day of the year,
-  offer a deliberate thanksgiving.
-  In your heart,
-  name one thing from 2025:<br><br>
-
-  · One way He provided.<br>
-  · One moment He gave you peace.<br>
-  · One way you grew.<br>
-  · One person He sent.<br>
-  · One promise that held you.<br><br>
-
-  To name them
-  is to worship.
-  It is to say,
-  “I see Your goodness, Lord.
-  I acknowledge it.
-  I thank You for it.”<br><br>
-
-  Gratitude seals the year
-  and positions the heart for the next.
-  As you step forward,
-  do so with a thankful spirit,
-  knowing the same faithful God
-  who carried you through 2025
-  has already gone ahead of you
-  into 2026.<br><br>
-
-  <strong>PRAYER</strong><br>
-  My Father, my God,
-  all I have to say is
-  thank You, Lord.
-  For life, for mercy,
-  for strength, and for grace.
-  I enter the new season
-  with a grateful heart.
   In Jesus’ Name,
   Amen.
 
