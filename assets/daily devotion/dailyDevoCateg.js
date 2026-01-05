@@ -1,7 +1,146 @@
 export const dailyDevotionCateg = [{
-    date: 'SATURDAY, 3RD JANUARY 2026',
+    date: 'MONDAY, 5TH JANUARY 2026',
     prayer: `
 <p>
+
+  <strong>DO NOT BE AFRAID IN 2026</strong><br><br>
+
+  Fear is not just
+  an emotion;
+  fear is a spirit,
+  and every spirit
+  comes with
+  an assignment.
+  The assignment of fear
+  is to torment,
+  weaken faith,
+  and silence hope.<br><br>
+
+  <strong>1 John 4:18</strong><br>
+  “There is no fear in love;
+  but perfect love casteth out fear:
+  because fear hath torment.”<br><br>
+
+  Today,
+  I met a woman
+  who said she was afraid —
+  afraid she might never
+  get pregnant,
+  afraid because of her past.
+  This is how fear operates:
+  it projects the past
+  into the future
+  and robs people of peace.<br><br>
+
+  The Bible makes it clear
+  that fear speaks,
+  and fear produces outcomes
+  when it is entertained.<br><br>
+
+  <strong>Job 3:25</strong><br>
+  “For the thing which I greatly feared
+  is come upon me,
+  and that which I was afraid of
+  is come unto me.”<br><br>
+
+  Job confessed
+  that fear had a voice
+  in his life.
+  Fear opens doors
+  to what God
+  never ordained.
+  That is why fear
+  must be confronted
+  with the Word of God.<br><br>
+
+  God does not sponsor fear.
+  What God gives
+  is power to overcome,
+  love to heal,
+  and a sound mind
+  to think correctly.
+  Any fear you are carrying
+  into 2026
+  did not come from God,
+  and therefore
+  you have authority
+  to reject it.<br><br>
+
+  <strong>2 Timothy 1:7</strong><br>
+  “For God hath not given us
+  the spirit of fear;
+  but of power,
+  and of love,
+  and of a sound mind.”<br><br>
+
+  The Psalmist
+  understood this mystery
+  when he declared
+  fearless confidence
+  in God’s presence.<br><br>
+
+  <strong>Psalm 23:4</strong><br>
+  “Yea, though I walk
+  through the valley
+  of the shadow of death,
+  I will fear no evil:
+  for thou art with me.”<br><br>
+
+  In this year 2026,
+  do not allow fear
+  to define your decisions,
+  your health,
+  your future,
+  or your fruitfulness.
+  Your past
+  cannot cancel
+  God’s promises.
+  Where fear once spoke,
+  let faith now speak.
+  Where fear once tormented,
+  let peace reign.<br><br>
+
+  Remember,
+  fear is a spirit,
+  and spirits respond
+  to authority.
+  When you stand
+  on God’s Word,
+  fear must bow.<br><br>
+
+  <strong>PRAYER</strong><br>
+  My Father, my God,
+  I reject the spirit of fear.
+  I receive power,
+  love,
+  and a sound mind.
+  I choose faith over fear,
+  peace over torment,
+  and truth over lies.
+  In Jesus’ Name,
+  Amen.
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'SATURDAY, 3RD JANUARY 2026',
+    prayer: `<p>
 
   <strong>LEARN TO DO WELL IN 2026</strong><br><br>
 
@@ -122,16 +261,9 @@ export const dailyDevotionCateg = [{
 
 
 
-
-
-
-
-
-
-
 `
 }, {
-    date: 'FRIDAY, 2ND JANUARY 2026',
+    date: 'FRIDAY, 2ND DECEMBER 2025',
     prayer: `<p>
 
   <strong>A NEW THING, A FRESH PATH</strong><br><br>
@@ -220,137 +352,6 @@ export const dailyDevotionCateg = [{
   His clear direction,
   and His unfailing grace.
   Welcome to 2026.
-
-</p>
-
-
-
-
-
-
-
-`
-}, {
-    date: 'THURSDAY, 1ST DECEMBER 2025',
-    prayer: `<p>
-
-  <strong>BE LED BY THE SPIRIT THIS YEAR</strong><br><br>
-
-  <strong>Romans 8:1</strong><br>
-  “There is therefore now no condemnation to them which are in Christ Jesus,
-  who walk not after the flesh, but after the Spirit.”<br><br>
-
-  To walk in the Spirit
-  is to live daily
-  under the influence,
-  direction,
-  and power
-  of the Holy Ghost.
-  This life is not sustained
-  by human strength
-  or self-effort.
-  It is only possible
-  by the help
-  of the Holy Spirit.<br><br>
-
-  <strong>Romans 8:14</strong><br>
-  “For as many as are led by the Spirit of God,
-  they are the sons of God.”<br><br>
-
-  True sonship in Christ
-  is revealed
-  through a Spirit-led life.
-  The evidence of maturity
-  is not noise or activity,
-  but obedience
-  to divine leading.<br><br>
-
-  The first step
-  to walking in the Spirit
-  is alignment
-  with the Word of God.
-  You must live
-  with the awareness
-  of God’s power,
-  holiness,
-  love,
-  grace,
-  and the finished work
-  of our Lord Jesus Christ.<br><br>
-
-  <strong>John 6:63</strong><br>
-  “It is the Spirit that quickeneth;
-  the flesh profiteth nothing:
-  the words that I speak unto you,
-  they are spirit,
-  and they are life.”<br><br>
-
-  Where the Spirit of God dwells,
-  there is liberty,
-  joy,
-  light,
-  fruitfulness,
-  and laughter.<br><br>
-
-  <strong>2 Corinthians 3:17</strong><br>
-  “Now the Lord is that Spirit:
-  and where the Spirit of the Lord is,
-  there is liberty.”<br><br>
-
-  Renew your mind.
-  Refuse to think
-  according to this world.
-  Choose to think
-  according to the Word of God.
-  No one prospers
-  or lives victoriously
-  under the influence of the flesh.
-  Only by the Spirit
-  can a man overcome
-  and walk
-  in divine success.<br><br>
-
-  Walking in the Spirit
-  is both a choice
-  and a mindset.
-  The Spirit is available to all,
-  but yielding
-  is a personal responsibility.
-  You must decide
-  daily
-  to follow His leading.<br><br>
-
-  Apostle Paul declared
-  that he kept his body
-  under subjection,
-  reminding us
-  that discipline of the flesh
-  allows the Spirit
-  to prevail.<br><br>
-
-  <strong>1 Corinthians 9:27</strong><br>
-  “But I keep under my body,
-  and bring it into subjection…”<br><br>
-
-  As you live by God’s Word
-  and continually yield
-  to His Spirit,
-  you will be transformed
-  day by day
-  into the likeness of Christ.<br><br>
-
-  <strong>PRAYER</strong><br>
-  My Father, my God,
-  help me to walk daily
-  in the Spirit.
-  Let my flesh be subdued
-  and my heart be sensitive
-  to Your leading.
-  I choose Your will,
-  Your way,
-  and Your voice.
-  In Jesus’ Name,
-  Amen.
 
 </p>
 
