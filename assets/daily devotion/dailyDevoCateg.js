@@ -1,7 +1,144 @@
 export const dailyDevotionCateg = [{
-    date: 'MONDAY, 5TH JANUARY 2026',
+    date: 'TUESDAY, 6TH JANUARY 2026',
     prayer: `
 <p>
+
+  <strong>MY GATE SHALL BE OPEN CONTINUALLY THIS YEAR 2026</strong><br><br>
+
+  A gate is not just
+  an entrance;
+  it is a place of access,
+  control,
+  and opportunity.
+  When a gate is shut,
+  purpose is delayed
+  and provision is blocked.
+  But an open gate means favor,
+  passage,
+  and the unimpeded flow
+  of God’s goodness.<br><br>
+
+  <strong>Isaiah 60:11</strong><br>
+  “Therefore thy gates
+  shall be open continually;
+  they shall not be shut
+  day nor night,
+  that men may bring unto thee
+  the forces of the Gentiles,
+  and that their kings
+  may be brought.”<br><br>
+
+  God is intentional
+  about open gates.
+  He does not open them
+  occasionally,
+  he opens them continually.<br><br>
+
+  <strong>Revelation 3:8</strong><br>
+  “I know thy works:
+  behold, I have set before thee
+  an open door,
+  and no man can shut it:
+  for thou hast a little strength,
+  and hast kept my word,
+  and hast not denied my name.”<br><br>
+
+  What God opens,
+  no system,
+  no past failure,
+  no earthly power
+  can close.
+  God does not sponsor
+  closed doors to destiny.
+  What he provides
+  is access,
+  divine connections,
+  and seasons of ingathering.
+  Any thought that says
+  “it is too late”
+  or “it is impossible”
+  did not come from him,
+  and therefore
+  you have authority
+  to reject it.<br><br>
+
+  The Psalmist
+  understood this mystery
+  when he declared
+  prophetic authority
+  over gates and doors.<br><br>
+
+  <strong>Psalm 24:7</strong><br>
+  “Lift up your heads,
+  O ye gates;
+  and be ye lift up,
+  ye everlasting doors;
+  and the King of glory
+  shall come in.”<br><br>
+
+  In this year 2026,
+  do not accept
+  the report of closed doors.
+  Your past rejections
+  cannot veto
+  God’s decree
+  of open access.
+  Where you once saw a wall,
+  see a gate.
+  Where you once met delay,
+  expect divine traffic —
+  ideas,
+  helpers,
+  resources,
+  and favor
+  flowing toward you.
+  Your gate is open
+  continually,
+  not occasionally,
+  not seasonally,
+  but continually.<br><br>
+
+  Remember,
+  a decree
+  is a spiritual force.
+  When you stand
+  on God’s Word,
+  circumstances must align
+  with his promise.<br><br>
+
+  <strong>PRAYER</strong><br>
+  My Father, my God,
+  let my gates
+  be open continually
+  this year 2026.
+  Let access replace delay,
+  favor replace resistance,
+  and progress replace stagnation.
+  I agree with your Word,
+  in Jesus’ Name,
+  Amen.
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'MONDAY, 5TH JANUARY 2026',
+    prayer: `<p>
 
   <strong>DO NOT BE AFRAID IN 2026</strong><br><br>
 
@@ -132,14 +269,9 @@ export const dailyDevotionCateg = [{
 
 
 
-
-
-
-
-
 `
 }, {
-    date: 'SATURDAY, 3RD JANUARY 2026',
+    date: 'SUNDAY, 4TH DECEMBER 2025',
     prayer: `<p>
 
   <strong>LEARN TO DO WELL IN 2026</strong><br><br>
@@ -252,108 +384,6 @@ export const dailyDevotionCateg = [{
 
 </p>
 
-
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'FRIDAY, 2ND DECEMBER 2025',
-    prayer: `<p>
-
-  <strong>A NEW THING, A FRESH PATH</strong><br><br>
-
-  The page has turned.
-  The old has passed away,
-  and a new year has come.
-  This moment is a gift
-  from the hand of the Father,
-  a fresh path,
-  a morning filled with mercy.
-  Do not step into it
-  carrying the heavy bundles
-  of last year’s fears.
-  Step into it
-  with a heart prepared
-  for what God will do.<br><br>
-
-  <strong>Isaiah 43:18–19</strong><br>
-  “Remember ye not the former things,
-  neither consider the things of old.
-  Behold, I will do a new thing;
-  now it shall spring forth;
-  shall ye not know it?
-  I will even make a way in the wilderness,
-  and rivers in the desert.”<br><br>
-
-  The path ahead is unknown to us.
-  We cannot see around its bends.
-  But we do not walk it alone,
-  and we do not walk it blind.
-  We walk with the One
-  who is already there.
-  He goes before you.
-  He levels the mountains
-  and bridges the valleys.
-  Your assignment
-  is not to see the entire journey,
-  but to trust the Guide
-  for the very next step.<br><br>
-
-  <strong>Proverbs 3:5–6</strong><br>
-  “Trust in the LORD with all thine heart;
-  and lean not unto thine own understanding.
-  In all thy ways acknowledge Him,
-  and He shall direct thy paths.”<br><br>
-
-  On this first day of the year,
-  let us set our hearts.
-  Let us plant our feet
-  on this new path
-  with holy expectation.
-  In your spirit,
-  speak one hope for 2026:<br><br>
-
-  · One area where you will trust Him more.<br>
-  · One habit you will ask Him to help you build.<br>
-  · One person you will intentionally show His love to.<br>
-  · One promise from His Word you will stand upon.<br><br>
-
-  This act of expectation
-  is an act of faith.
-  It declares,
-  “My God, I believe You are good.
-  I believe Your plans for me are good.
-  I am ready to follow.
-  Help me.”<br><br>
-
-  <strong>PRAYER</strong><br>
-  My Father, my God,
-  I stand at the beginning of this new year
-  with thanksgiving and with faith.
-  You have been faithful,
-  and You will remain faithful.
-  I choose to trust You
-  with all that lies ahead.
-  Guide my steps.
-  Order my path.
-  My eyes are fixed on You.
-  In Jesus’ Name,
-  Amen.<br><br>
-
-  May the Lord bless you in this new year.
-  May you walk daily
-  in His fresh mercies,
-  His clear direction,
-  and His unfailing grace.
-  Welcome to 2026.
-
-</p>
 
 
 
