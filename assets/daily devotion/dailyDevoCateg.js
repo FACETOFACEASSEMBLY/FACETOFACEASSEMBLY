@@ -1,7 +1,135 @@
 export const dailyDevotionCateg = [{
-    date: 'TUESDAY, 6TH JANUARY 2026',
+    date: 'WEDNESDAY, 7TH JANUARY 2026',
     prayer: `
 <p>
+
+  <strong>THE JUST SHALL LIVE BY FAITH</strong><br><br>
+
+  <strong>Romans 1:17</strong><br>
+  “For therein is the righteousness of God revealed from faith to faith:
+  as it is written,
+  The just shall live by faith.”<br><br>
+
+  Faith is the currency
+  of God’s kingdom.
+  Just as money is required
+  to transact in the natural,
+  faith is required
+  to receive in the spiritual.
+  Faith is not a one-time experience;
+  it is a daily necessity.
+  God’s design is that you move
+  from faith to faith,
+  from one level of trust
+  to another,
+  from victory
+  to greater victory.<br><br>
+
+  Consider the woman
+  with the issue of blood.
+  She did not merely hope;
+  she acted on what she believed.
+  She pressed through the crowd
+  with a faith so strong
+  that it drew power
+  from Jesus.
+  And he said to her,
+  <em>“Daughter, thy faith hath made thee whole.”</em>
+  <strong>Mark 5:34</strong><br><br>
+
+  Faith is the bridge
+  between your desire
+  and God’s power
+  to bring it to pass.
+  When your faith is strong,
+  you overcome temptations,
+  challenges,
+  and every obstacle
+  that rises against you.<br><br>
+
+  Faith, however,
+  is not automatic.
+  It can grow,
+  and it can fail.
+  That is why Jesus said to Peter,
+  <em>“I have prayed for thee,
+  that thy faith fail not.”</em>
+  <strong>Luke 22:32</strong><br><br>
+
+  Faith must be guarded.
+  It grows by what you hear,
+  what you meditate on,
+  and what you allow
+  into your heart.<br><br>
+
+  <strong>Romans 10:17</strong><br>
+  “So then faith cometh by hearing,
+  and hearing by the word of God.”<br><br>
+
+  If you do not guide
+  what you hear,
+  fear and doubt
+  will weaken your faith.
+  Feed your faith daily
+  with God’s Word,
+  and starve it
+  of negative reports
+  and unbelief.<br><br>
+
+  In this year 2026,
+  choose to live by faith
+  and not by sight.
+  Do not allow your past,
+  your circumstances,
+  or human opinions
+  to define your reality.
+  Let God’s Word
+  shape your life.<br><br>
+
+  Faith is the evidence
+  of what you cannot yet see.
+  It is your spiritual breath.
+  Without faith,
+  you cannot please God;
+  but with faith,
+  mountains move
+  and doors open.
+  A life of faith
+  is a life of continual access
+  to God’s goodness.<br><br>
+
+  <strong>PRAYER</strong><br>
+  My Father, my God,
+  I declare that my faith
+  will not fail.
+  I choose to live by faith,
+  trusting your Word
+  in every situation.
+  Let my life give you glory
+  in this year 2026,
+  in Jesus’ Name,
+  Amen.
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'TUESDAY, 5TH JANUARY 2026',
+    prayer: `<p>
 
   <strong>MY GATE SHALL BE OPEN CONTINUALLY THIS YEAR 2026</strong><br><br>
 
@@ -130,14 +258,9 @@ export const dailyDevotionCateg = [{
 
 
 
-
-
-
-
-
 `
 }, {
-    date: 'MONDAY, 5TH JANUARY 2026',
+    date: 'MONDAY, 5TH DECEMBER 2025',
     prayer: `<p>
 
   <strong>DO NOT BE AFRAID IN 2026</strong><br><br>
@@ -259,130 +382,6 @@ export const dailyDevotionCateg = [{
 
 </p>
 
-
-
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'SUNDAY, 4TH DECEMBER 2025',
-    prayer: `<p>
-
-  <strong>LEARN TO DO WELL IN 2026</strong><br><br>
-
-  There is always
-  a better version of you.
-  If only you can learn
-  to do well,
-  you can become
-  a better pastor,
-  a better father,
-  a better mother,
-  a better businessman,
-  or even
-  a better student.
-  This is not a gift;
-  it is an act
-  of discipline.<br><br>
-
-  <strong>Isaiah 1:17</strong><br>
-  “Learn to do well;
-  seek judgment,
-  relieve the oppressed,
-  judge the fatherless,
-  plead for the widow.”<br><br>
-
-  God spoke to Cain,
-  revealing a powerful truth:
-  if he had done well,
-  his offering
-  would have been accepted.<br><br>
-
-  <strong>Genesis 4:7</strong><br>
-  “If thou doest well,
-  shalt thou not be accepted?
-  And if thou doest not well,
-  sin lieth at the door.
-  And unto thee shall be his desire,
-  and thou shalt rule over him.”<br><br>
-
-  When a person
-  consistently does well,
-  glory follows.
-  Reputation is shaped
-  by obedience,
-  diligence,
-  and excellence.<br><br>
-
-  <strong>Psalm 87:3</strong><br>
-  “Glorious things are spoken of thee,
-  O city of God.”<br><br>
-
-  Apostle Paul
-  requested Mark
-  because he had grown
-  into usefulness.
-  Doing well
-  makes you profitable
-  in God’s kingdom.<br><br>
-
-  <strong>2 Timothy 4:11</strong><br>
-  “Take Mark,
-  and bring him with thee:
-  for he is profitable to me
-  for the ministry.”<br><br>
-
-  Joseph instructed his brothers
-  to tell their father
-  of his glory in Egypt
-  because his life
-  had produced visible results.
-  Doing well
-  cannot be hidden.<br><br>
-
-  <strong>Genesis 45:13</strong><br>
-  “And ye shall tell my father
-  of all my glory in Egypt,
-  and of all that ye have seen.”<br><br>
-
-  You do well
-  by embracing truth,
-  walking in wisdom,
-  accepting instruction,
-  and growing in understanding.<br><br>
-
-  <strong>Proverbs 23:23</strong><br>
-  “Buy the truth,
-  and sell it not;
-  also wisdom,
-  and instruction,
-  and understanding.”<br><br>
-
-  Doing well
-  is a deliberate choice.
-  It is a lifestyle
-  that attracts honor,
-  favor,
-  and divine acceptance.<br><br>
-
-  <strong>PRAYER</strong><br>
-  My Father, my God,
-  give me the grace
-  to do well.
-  Let my life
-  bring You glory
-  and produce excellence
-  in all I do.
-  In Jesus’ Name,
-  Amen.
-
-</p>
 
 
 
