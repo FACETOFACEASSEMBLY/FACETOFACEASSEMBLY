@@ -1,7 +1,79 @@
 export const dailyDevotionCateg = [{
-    date: 'WEDNESDAY, 7TH JANUARY 2026',
+    date: 'FRIDAY, 9TH JANUARY 2026',
     prayer: `
 <p>
+
+  <strong>LORD, MAKE MY LIFE MEANINGFUL</strong><br><br>
+
+  <strong>Genesis 45:13</strong><br>
+  “And ye shall tell my father of all my glory in Egypt,
+  and of all that ye have seen;
+  and ye shall haste and bring down my father hither.”<br><br>
+
+  A man of God once taught
+  that when a life lacks meaning,
+  men will despise it
+  and take it for granted.
+  But when a life carries meaning,
+  glorious things
+  will be spoken of it.
+  This truth is clearly seen
+  in the life of Joseph.<br><br>
+
+  <strong>Psalm 87:3</strong><br>
+  “Glorious things are spoken of thee,
+  O city of God.”<br><br>
+
+  From birth,
+  God marked Joseph’s life
+  as meaningful.
+  His dreams were great,
+  but his journey was hard.
+  His brothers hated him,
+  sold him,
+  and lied against him.
+  He became a slave,
+  then a prisoner.
+  Yet, at every stage,
+  God was with him.<br><br>
+
+  The same gift
+  that made his brothers jealous
+  was the same gift
+  that brought him before Pharaoh.
+  A day came,
+  just as God had spoken,
+  when Joseph was lifted high.
+  He told his brothers,
+  <em>“Go and tell my father
+  of all my glory.”</em>
+  His life became so meaningful
+  that nations were preserved
+  and his family was restored.
+  The same brothers
+  who once despised him
+  later bowed before him.<br><br>
+
+  Your life may seem small right now.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'THURSDAY, 8TH JANUARY 2026',
+    prayer: `<p>
 
   <strong>THE JUST SHALL LIVE BY FAITH</strong><br><br>
 
@@ -123,12 +195,9 @@ export const dailyDevotionCateg = [{
 
 
 
-
-
-
 `
 }, {
-    date: 'TUESDAY, 5TH JANUARY 2026',
+    date: 'WEDNESDAY, 7TH DECEMBER 2025',
     prayer: `<p>
 
   <strong>MY GATE SHALL BE OPEN CONTINUALLY THIS YEAR 2026</strong><br><br>
@@ -244,140 +313,6 @@ export const dailyDevotionCateg = [{
   and progress replace stagnation.
   I agree with your Word,
   in Jesus’ Name,
-  Amen.
-
-</p>
-
-
-
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'MONDAY, 5TH DECEMBER 2025',
-    prayer: `<p>
-
-  <strong>DO NOT BE AFRAID IN 2026</strong><br><br>
-
-  Fear is not just
-  an emotion;
-  fear is a spirit,
-  and every spirit
-  comes with
-  an assignment.
-  The assignment of fear
-  is to torment,
-  weaken faith,
-  and silence hope.<br><br>
-
-  <strong>1 John 4:18</strong><br>
-  “There is no fear in love;
-  but perfect love casteth out fear:
-  because fear hath torment.”<br><br>
-
-  Today,
-  I met a woman
-  who said she was afraid —
-  afraid she might never
-  get pregnant,
-  afraid because of her past.
-  This is how fear operates:
-  it projects the past
-  into the future
-  and robs people of peace.<br><br>
-
-  The Bible makes it clear
-  that fear speaks,
-  and fear produces outcomes
-  when it is entertained.<br><br>
-
-  <strong>Job 3:25</strong><br>
-  “For the thing which I greatly feared
-  is come upon me,
-  and that which I was afraid of
-  is come unto me.”<br><br>
-
-  Job confessed
-  that fear had a voice
-  in his life.
-  Fear opens doors
-  to what God
-  never ordained.
-  That is why fear
-  must be confronted
-  with the Word of God.<br><br>
-
-  God does not sponsor fear.
-  What God gives
-  is power to overcome,
-  love to heal,
-  and a sound mind
-  to think correctly.
-  Any fear you are carrying
-  into 2026
-  did not come from God,
-  and therefore
-  you have authority
-  to reject it.<br><br>
-
-  <strong>2 Timothy 1:7</strong><br>
-  “For God hath not given us
-  the spirit of fear;
-  but of power,
-  and of love,
-  and of a sound mind.”<br><br>
-
-  The Psalmist
-  understood this mystery
-  when he declared
-  fearless confidence
-  in God’s presence.<br><br>
-
-  <strong>Psalm 23:4</strong><br>
-  “Yea, though I walk
-  through the valley
-  of the shadow of death,
-  I will fear no evil:
-  for thou art with me.”<br><br>
-
-  In this year 2026,
-  do not allow fear
-  to define your decisions,
-  your health,
-  your future,
-  or your fruitfulness.
-  Your past
-  cannot cancel
-  God’s promises.
-  Where fear once spoke,
-  let faith now speak.
-  Where fear once tormented,
-  let peace reign.<br><br>
-
-  Remember,
-  fear is a spirit,
-  and spirits respond
-  to authority.
-  When you stand
-  on God’s Word,
-  fear must bow.<br><br>
-
-  <strong>PRAYER</strong><br>
-  My Father, my God,
-  I reject the spirit of fear.
-  I receive power,
-  love,
-  and a sound mind.
-  I choose faith over fear,
-  peace over torment,
-  and truth over lies.
-  In Jesus’ Name,
   Amen.
 
 </p>
