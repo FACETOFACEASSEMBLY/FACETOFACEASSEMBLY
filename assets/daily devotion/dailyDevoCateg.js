@@ -1,7 +1,108 @@
 export const dailyDevotionCateg = [{
-    date: 'FRIDAY, 9TH JANUARY 2026',
+    date: 'SATURDAY, 10TH JANUARY 2026',
     prayer: `
 <p>
+
+  <strong>BLESSED ARE THE PEACEMAKERS</strong><br><br>
+
+  <strong>Matthew 5:9</strong><br>
+  “Blessed are the peacemakers:
+  for they shall be called
+  the children of God.”<br><br>
+
+  A peacemaker is not merely
+  someone who avoids trouble.
+  A peacemaker is one
+  who brings <em>shalom</em>,
+  God’s wholeness,
+  healing,
+  and reconciliation
+  into places of brokenness.<br><br>
+
+  Peacemakers step into the gap
+  between arguments,
+  between friends who no longer speak,
+  and even into their own angry thoughts.
+  They choose the hard work
+  of restoring calm,
+  truth,
+  and love.<br><br>
+
+  The world produces troublemakers,
+  but God raises peacemakers.
+  And Jesus calls them blessed.
+  Why?
+  Because when you make peace,
+  you reflect the nature of your Father.<br><br>
+
+  God Himself is the ultimate peacemaker.
+  He sent Jesus
+  to make peace
+  between humanity and Himself.
+  When you forgive,
+  reconcile,
+  or calm a quarrel,
+  you are acting like God.
+  That is why peacemakers
+  are called the children of God,
+  they carry the family resemblance.<br><br>
+
+  <strong>Colossians 1:20</strong><br>
+  “And, having made peace
+  through the blood of his cross,
+  by him to reconcile all things unto himself.”<br><br>
+
+  This blessing is not for those
+  who run away from conflict.
+  It is for those
+  who courageously allow God’s healing
+  to flow through them
+  in the middle of conflict.
+  It may be in your home,
+  in your workplace,
+  or within your own heart.<br><br>
+
+  Today,
+  ask God to show you
+  one place where you can be a peacemaker.
+  Speak kind words.
+  Let go of a grudge.
+  Refuse to pass on gossip.
+  In that moment,
+  you are not just keeping peace,
+  you are creating it.
+  And heaven recognizes you
+  as its own.<br><br>
+
+  <strong>PRAYER</strong><br>
+  My Father, my God,
+  endue me with the grace
+  to make peace everywhere I go.
+  Let my life reflect Your nature,
+  in Jesus’ name.
+  Amen.
+
+</p>
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'FRIDAY, 9TH JANUARY 2026',
+    prayer: `<p>
 
   <strong>LORD, MAKE MY LIFE MEANINGFUL</strong><br><br>
 
@@ -58,7 +159,7 @@ export const dailyDevotionCateg = [{
  
 
 
-
+</p>
 
 
 
@@ -72,7 +173,7 @@ export const dailyDevotionCateg = [{
 
 `
 }, {
-    date: 'THURSDAY, 8TH JANUARY 2026',
+    date: 'THURSDAY, 8TH DECEMBER 2025',
     prayer: `<p>
 
   <strong>THE JUST SHALL LIVE BY FAITH</strong><br><br>
@@ -179,139 +280,6 @@ export const dailyDevotionCateg = [{
   in every situation.
   Let my life give you glory
   in this year 2026,
-  in Jesus’ Name,
-  Amen.
-
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'WEDNESDAY, 7TH DECEMBER 2025',
-    prayer: `<p>
-
-  <strong>MY GATE SHALL BE OPEN CONTINUALLY THIS YEAR 2026</strong><br><br>
-
-  A gate is not just
-  an entrance;
-  it is a place of access,
-  control,
-  and opportunity.
-  When a gate is shut,
-  purpose is delayed
-  and provision is blocked.
-  But an open gate means favor,
-  passage,
-  and the unimpeded flow
-  of God’s goodness.<br><br>
-
-  <strong>Isaiah 60:11</strong><br>
-  “Therefore thy gates
-  shall be open continually;
-  they shall not be shut
-  day nor night,
-  that men may bring unto thee
-  the forces of the Gentiles,
-  and that their kings
-  may be brought.”<br><br>
-
-  God is intentional
-  about open gates.
-  He does not open them
-  occasionally,
-  he opens them continually.<br><br>
-
-  <strong>Revelation 3:8</strong><br>
-  “I know thy works:
-  behold, I have set before thee
-  an open door,
-  and no man can shut it:
-  for thou hast a little strength,
-  and hast kept my word,
-  and hast not denied my name.”<br><br>
-
-  What God opens,
-  no system,
-  no past failure,
-  no earthly power
-  can close.
-  God does not sponsor
-  closed doors to destiny.
-  What he provides
-  is access,
-  divine connections,
-  and seasons of ingathering.
-  Any thought that says
-  “it is too late”
-  or “it is impossible”
-  did not come from him,
-  and therefore
-  you have authority
-  to reject it.<br><br>
-
-  The Psalmist
-  understood this mystery
-  when he declared
-  prophetic authority
-  over gates and doors.<br><br>
-
-  <strong>Psalm 24:7</strong><br>
-  “Lift up your heads,
-  O ye gates;
-  and be ye lift up,
-  ye everlasting doors;
-  and the King of glory
-  shall come in.”<br><br>
-
-  In this year 2026,
-  do not accept
-  the report of closed doors.
-  Your past rejections
-  cannot veto
-  God’s decree
-  of open access.
-  Where you once saw a wall,
-  see a gate.
-  Where you once met delay,
-  expect divine traffic —
-  ideas,
-  helpers,
-  resources,
-  and favor
-  flowing toward you.
-  Your gate is open
-  continually,
-  not occasionally,
-  not seasonally,
-  but continually.<br><br>
-
-  Remember,
-  a decree
-  is a spiritual force.
-  When you stand
-  on God’s Word,
-  circumstances must align
-  with his promise.<br><br>
-
-  <strong>PRAYER</strong><br>
-  My Father, my God,
-  let my gates
-  be open continually
-  this year 2026.
-  Let access replace delay,
-  favor replace resistance,
-  and progress replace stagnation.
-  I agree with your Word,
   in Jesus’ Name,
   Amen.
 
