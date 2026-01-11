@@ -1,5 +1,5 @@
 export const dailyDevotionCateg = [{
-    date: 'SATURDAY, 10TH JANUARY 2026',
+    date: 'SUNDAY 11TH JANUARY 2026',
     prayer: `
 <p>
 
@@ -96,7 +96,7 @@ export const dailyDevotionCateg = [{
 
 `
 }, {
-    date: 'FRIDAY, 9TH JANUARY 2026',
+    date: 'SATURDAY, 10TH JANUARY 2026',
     prayer: `<p>
 
   <strong>BLESSED ARE THE PEACEMAKERS</strong><br><br>
@@ -192,7 +192,7 @@ export const dailyDevotionCateg = [{
 
 `
 }, {
-    date: 'THURSDAY, 8TH DECEMBER 2025',
+    date: 'FRIDAY, 9TH DECEMBER 2025',
     prayer: `<p>
 
   <strong>LORD, MAKE MY LIFE MEANINGFUL</strong><br><br>
