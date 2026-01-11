@@ -3,6 +3,102 @@ export const dailyDevotionCateg = [{
     prayer: `
 <p>
 
+  <strong>PRAYER FOR BUSINESS BREAKTHROUGH</strong><br><br>
+
+  <strong>Deuteronomy 28:12</strong><br>
+  “The Lord shall open unto thee
+  his good treasure, the heaven
+  to give the rain unto thy land in his season,
+  and to bless all the work of thine hand:
+  and thou shalt lend unto many nations,
+  and thou shalt not borrow.”<br><br>
+
+  Scripture assures us that those
+  who do business in great waters
+  will see the works of the Lord.
+  God Himself delights
+  in blessing the works of our hands
+  and guiding us safely
+  into seasons of increase.<br><br>
+
+  <strong>Psalm 107:23</strong><br>
+  “They that go down to the sea in ships,
+  that do business in great waters;
+  these see the works of the LORD,
+  and his wonders in the deep.”<br><br>
+
+  Breakthrough in business
+  is not merely about profit.
+  It is about God’s presence
+  commanding favor,
+  opening divine opportunities,
+  and releasing supernatural increase.
+  When God is involved,
+  impossibilities bow.<br><br>
+
+  Joseph prospered even in slavery
+  because the Lord was with him.
+  His management carried divine wisdom,
+  and everything placed in his hands flourished.
+  Isaac sowed in famine
+  and reaped a hundredfold,
+  not because the season was favorable,
+  but because God was present.<br><br>
+
+  Beloved,
+  as you launch out
+  into the great waters of life,
+  commit your business fully to the Lord.
+  Let Him be your source,
+  your strategist,
+  and your rewarder.
+  He will command the rains of favor
+  to fall upon your labor
+  and open the treasures of heaven over you.<br><br>
+
+  I declare today:
+  the Lord is blessing the work of your hands.
+  Your business shall not sink,
+  it shall rise.
+  You will see the wonders of God
+  in your enterprise.
+  You will prosper in every season,
+  and your increase will glorify God.<br><br>
+
+  <strong>PRAYER</strong><br>
+  My Father, my God,
+  bless my business
+  and the works of my hands.
+  Lead me through great waters,
+  open doors of divine opportunity,
+  and cause me to prosper
+  until I become a blessing to others.
+  Let my success bring glory to Your name,
+  in Jesus’ name.
+  Amen.
+
+</p>
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'FRIDAY, 9TH JANUARY 2026',
+    prayer: `<p>
+
   <strong>BLESSED ARE THE PEACEMAKERS</strong><br><br>
 
   <strong>Matthew 5:9</strong><br>
@@ -94,14 +190,9 @@ export const dailyDevotionCateg = [{
 
 
 
-
-
-
-
-
 `
 }, {
-    date: 'FRIDAY, 9TH JANUARY 2026',
+    date: 'THURSDAY, 8TH DECEMBER 2025',
     prayer: `<p>
 
   <strong>LORD, MAKE MY LIFE MEANINGFUL</strong><br><br>
@@ -160,132 +251,6 @@ export const dailyDevotionCateg = [{
 
 
 </p>
-
-
-
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'THURSDAY, 8TH DECEMBER 2025',
-    prayer: `<p>
-
-  <strong>THE JUST SHALL LIVE BY FAITH</strong><br><br>
-
-  <strong>Romans 1:17</strong><br>
-  “For therein is the righteousness of God revealed from faith to faith:
-  as it is written,
-  The just shall live by faith.”<br><br>
-
-  Faith is the currency
-  of God’s kingdom.
-  Just as money is required
-  to transact in the natural,
-  faith is required
-  to receive in the spiritual.
-  Faith is not a one-time experience;
-  it is a daily necessity.
-  God’s design is that you move
-  from faith to faith,
-  from one level of trust
-  to another,
-  from victory
-  to greater victory.<br><br>
-
-  Consider the woman
-  with the issue of blood.
-  She did not merely hope;
-  she acted on what she believed.
-  She pressed through the crowd
-  with a faith so strong
-  that it drew power
-  from Jesus.
-  And he said to her,
-  <em>“Daughter, thy faith hath made thee whole.”</em>
-  <strong>Mark 5:34</strong><br><br>
-
-  Faith is the bridge
-  between your desire
-  and God’s power
-  to bring it to pass.
-  When your faith is strong,
-  you overcome temptations,
-  challenges,
-  and every obstacle
-  that rises against you.<br><br>
-
-  Faith, however,
-  is not automatic.
-  It can grow,
-  and it can fail.
-  That is why Jesus said to Peter,
-  <em>“I have prayed for thee,
-  that thy faith fail not.”</em>
-  <strong>Luke 22:32</strong><br><br>
-
-  Faith must be guarded.
-  It grows by what you hear,
-  what you meditate on,
-  and what you allow
-  into your heart.<br><br>
-
-  <strong>Romans 10:17</strong><br>
-  “So then faith cometh by hearing,
-  and hearing by the word of God.”<br><br>
-
-  If you do not guide
-  what you hear,
-  fear and doubt
-  will weaken your faith.
-  Feed your faith daily
-  with God’s Word,
-  and starve it
-  of negative reports
-  and unbelief.<br><br>
-
-  In this year 2026,
-  choose to live by faith
-  and not by sight.
-  Do not allow your past,
-  your circumstances,
-  or human opinions
-  to define your reality.
-  Let God’s Word
-  shape your life.<br><br>
-
-  Faith is the evidence
-  of what you cannot yet see.
-  It is your spiritual breath.
-  Without faith,
-  you cannot please God;
-  but with faith,
-  mountains move
-  and doors open.
-  A life of faith
-  is a life of continual access
-  to God’s goodness.<br><br>
-
-  <strong>PRAYER</strong><br>
-  My Father, my God,
-  I declare that my faith
-  will not fail.
-  I choose to live by faith,
-  trusting your Word
-  in every situation.
-  Let my life give you glory
-  in this year 2026,
-  in Jesus’ Name,
-  Amen.
-
-</p>
-
-
 
 
 
