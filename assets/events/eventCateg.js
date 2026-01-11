@@ -3,7 +3,7 @@ export const eventCateg = [{
     time: '5:00 PM - 6:00 PM',
     venue: 'Headquarters Every Monday - Bring your prayer Requests',
     date: {
-        day: 5,
+        day: 11,
         month: 'JAN'
     }
 } ,{
@@ -11,7 +11,7 @@ export const eventCateg = [{
     time: '5:00 AM - 6:00 AM',
     venue: 'Headquarters Every Tuesday - Bring your prayer Requests',
     date: {
-        day: 6,
+        day: 12,
         month: 'JAN'
     }
 } ,{
@@ -19,7 +19,7 @@ export const eventCateg = [{
     time: '5:00 PM - 6:00 PM',
     venue: 'Headquarters Every Wednesday - Bring your prayer Requests',
     date: {
-        day: 7,
+        day: 13,
         month: 'JAN'
     }
 } ,{
@@ -27,7 +27,7 @@ export const eventCateg = [{
     time: '6:00 AM - 7:00 AM',
     venue: 'Headquarters Thursday - Bring your prayer Requests',
     date: {
-        day: 8,
+        day: 14,
         month: 'JAN'
     }
 } ,{
@@ -35,7 +35,7 @@ export const eventCateg = [{
     time: '6:00 AM - 7:00 AM',
     venue: 'Headquarters Saturday - Bring your prayer Requests',
     date: {
-        day: 10,
+        day: 16,
         month: 'JAN'
     }
 }, {
@@ -43,7 +43,7 @@ export const eventCateg = [{
     time: '6:30 AM - 8:30 AM | 8:30 AM - 10:30 AM ',
     venue: 'Headquarters Saturday - Bring your prayer Requests',
     date: {
-        day: 11,
+        day: 17,
         month: 'JAN'
     }
 }]
