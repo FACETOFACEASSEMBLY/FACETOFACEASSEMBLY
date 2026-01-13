@@ -1,7 +1,74 @@
 export const dailyDevotionCateg = [{
-    date: 'TUESDAY 13TH JANUARY 2026',
+    date: 'WEDNESDAY 14TH JANUARY 2026',
     prayer: `
 <p>
+
+  <strong>COMMAND YOUR MORNING</strong><br><br>
+
+  <strong>Job 38:12-13</strong><br>
+  “Hast thou commanded the morning since thy days; and caused the dayspring to know his place; That it might take hold of the ends of the earth, that the wicked might be shaken out of it?”<br><br>
+
+  God has given you authority to speak to your day
+  before it speaks to you.
+  When you wake, do not let fear or worry greet you first.
+  Command your morning with the Word of God.
+  Heaven and earth are listening.
+  Your words of faith will shake evil out of your day
+  and establish God’s purpose. <strong>Isaiah 1:2</strong><br><br>
+
+  Consider how God called Job to command the morning.
+  He did not ask Job to beg; He asked if Job had ever taken authority over the dawn.
+  God invites you to do the same.
+  When you declare His Word early,
+  you are seeking Him first.
+  He promises that those who seek Him early will find Him.
+  Your voice, filled with Scripture,
+  becomes a tool of divine order.
+  It clears the path for His blessing
+  and binds the works of darkness. <strong>Proverbs 8:17</strong><br><br>
+
+  Beloved, do not let the day rule you—rule over it.
+  Open your mouth and declare what God has said about you.
+  Command peace. Command favor. Command productivity.
+  Shake out every wicked assignment.
+  As you do this,
+  you will see the heavens open over your life,
+  and the earth yields its increase.<br><br>
+
+  Know also that if you do not command your day,
+  your enemies will do it for you,
+  and you know what that means. <strong>Psalm 109:2-4</strong><br><br>
+
+  <strong>PRAYER</strong><br>
+  My Father, My God, I command this day to align with Your will.
+  I shake off every beast out of my day in Jesus' Name, Amen.<br><br>
+
+  Join us at any face-to-face assembly nearest you:<br>
+  <strong>SUNDAYS:</strong> First Service – 6:30 AM | Second Service – 8:30 AM<br><br>
+
+  GOD BLESS YOU.
+
+</p>
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'TUESDAY, 11TH JANUARY 2026',
+    prayer: `<p>
 
   <strong>BRING YOUR STRONG REASON</strong><br><br>
 
@@ -82,12 +149,6 @@ export const dailyDevotionCateg = [{
 
 </p>
 
- 
-
-
-
-
-
 
 
 
@@ -99,7 +160,7 @@ export const dailyDevotionCateg = [{
 
 `
 }, {
-    date: 'SUNDAY, 11TH JANUARY 2026',
+    date: 'SUNDAY, 10TH DECEMBER 2025',
     prayer: `<p>
 
   <strong>PRAYER FOR BUSINESS BREAKTHROUGH</strong><br><br>
@@ -173,101 +234,6 @@ export const dailyDevotionCateg = [{
   and cause me to prosper
   until I become a blessing to others.
   Let my success bring glory to Your name,
-  in Jesus’ name.
-  Amen.
-
-</p>
-
-
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'MONDAY, 10TH DECEMBER 2025',
-    prayer: `<p>
-
-  <strong>BLESSED ARE THE PEACEMAKERS</strong><br><br>
-
-  <strong>Matthew 5:9</strong><br>
-  “Blessed are the peacemakers:
-  for they shall be called
-  the children of God.”<br><br>
-
-  A peacemaker is not merely
-  someone who avoids trouble.
-  A peacemaker is one
-  who brings <em>shalom</em>,
-  God’s wholeness,
-  healing,
-  and reconciliation
-  into places of brokenness.<br><br>
-
-  Peacemakers step into the gap
-  between arguments,
-  between friends who no longer speak,
-  and even into their own angry thoughts.
-  They choose the hard work
-  of restoring calm,
-  truth,
-  and love.<br><br>
-
-  The world produces troublemakers,
-  but God raises peacemakers.
-  And Jesus calls them blessed.
-  Why?
-  Because when you make peace,
-  you reflect the nature of your Father.<br><br>
-
-  God Himself is the ultimate peacemaker.
-  He sent Jesus
-  to make peace
-  between humanity and Himself.
-  When you forgive,
-  reconcile,
-  or calm a quarrel,
-  you are acting like God.
-  That is why peacemakers
-  are called the children of God,
-  they carry the family resemblance.<br><br>
-
-  <strong>Colossians 1:20</strong><br>
-  “And, having made peace
-  through the blood of his cross,
-  by him to reconcile all things unto himself.”<br><br>
-
-  This blessing is not for those
-  who run away from conflict.
-  It is for those
-  who courageously allow God’s healing
-  to flow through them
-  in the middle of conflict.
-  It may be in your home,
-  in your workplace,
-  or within your own heart.<br><br>
-
-  Today,
-  ask God to show you
-  one place where you can be a peacemaker.
-  Speak kind words.
-  Let go of a grudge.
-  Refuse to pass on gossip.
-  In that moment,
-  you are not just keeping peace,
-  you are creating it.
-  And heaven recognizes you
-  as its own.<br><br>
-
-  <strong>PRAYER</strong><br>
-  My Father, my God,
-  endue me with the grace
-  to make peace everywhere I go.
-  Let my life reflect Your nature,
   in Jesus’ name.
   Amen.
 
