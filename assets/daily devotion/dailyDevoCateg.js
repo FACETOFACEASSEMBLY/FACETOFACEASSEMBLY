@@ -1,7 +1,106 @@
 export const dailyDevotionCateg = [{
-    date: 'SUNDAY 11TH JANUARY 2026',
+    date: 'TUESDAY 13TH JANUARY 2026',
     prayer: `
 <p>
+
+  <strong>BRING YOUR STRONG REASON</strong><br><br>
+
+  <strong>Isaiah 41:21</strong><br>
+  “Produce your cause, saith the LORD;
+  bring forth your strong reasons,
+  saith the King of Jacob.”<br><br>
+
+  God knows who you are,
+  but He desires that you know
+  who you are in Him.
+  You are not a stranger before His throne.
+  You are a child with a voice,
+  a covenant partner,
+  one invited to reason with God.
+  Your passionate, faith-filled desires
+  are not hidden from Him;
+  He calls you to bring them forth
+  with strong reasons.<br><br>
+
+  When King Hezekiah was told,
+  “Set thine house in order: for thou shalt die,”
+  he did not accept it silently.
+  He turned his face to the wall and prayed.
+  He presented a reason before God:
+  that he had walked in truth
+  and with a perfect heart.
+  He appealed to God’s purpose,
+  declaring that the grave cannot praise Him.
+  God heard his reasoning
+  and added fifteen years to his life.<br><br>
+
+  When God’s wrath burned against Israel
+  for the golden calf,
+  Moses stood in the gap.
+  He did not merely beg for mercy;
+  he reasoned with God.
+  He appealed to God’s glory,
+  His covenant,
+  and His reputation among the nations.
+  And the Lord relented
+  because covenant reasoning was presented.<br><br>
+
+  God is not moved by empty complaints,
+  but He is moved by faith-filled reasoning.
+  He responds to prayers rooted
+  in His Word,
+  His promises,
+  and His character.
+  The desires He has placed in your heart
+  are not accidents;
+  they are invitations.<br><br>
+
+  Do not bury them.
+  Do not whisper them in fear.
+  Bring them boldly before His throne.
+  Remind Him of His Word.
+  Appeal to His faithfulness.
+  Declare what His victory in your life
+  will proclaim to your world.
+  This is not disrespect;
+  it is faith in action.
+  It is the confidence of a beloved child
+  who knows the Father’s heart.<br><br>
+
+  <strong>PRAYER</strong><br>
+  My Father, my God,
+  I come before Your throne
+  with boldness and faith.
+  I bring the desires You have placed within me,
+  and I present my strong reasons
+  based on Your unfailing Word
+  and Your glorious character.
+  Let Your will be done in my life,
+  and let my testimony bring You praise.
+  In Jesus’ name,
+  Amen.
+
+</p>
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'SUNDAY, 11TH JANUARY 2026',
+    prayer: `<p>
 
   <strong>PRAYER FOR BUSINESS BREAKTHROUGH</strong><br><br>
 
@@ -79,12 +178,6 @@ export const dailyDevotionCateg = [{
 
 </p>
 
- 
-
-
-
-
-
 
 
 
@@ -96,7 +189,7 @@ export const dailyDevotionCateg = [{
 
 `
 }, {
-    date: 'SATURDAY, 10TH JANUARY 2026',
+    date: 'MONDAY, 10TH DECEMBER 2025',
     prayer: `<p>
 
   <strong>BLESSED ARE THE PEACEMAKERS</strong><br><br>
@@ -177,78 +270,6 @@ export const dailyDevotionCateg = [{
   Let my life reflect Your nature,
   in Jesus’ name.
   Amen.
-
-</p>
-
- 
-
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'FRIDAY, 9TH DECEMBER 2025',
-    prayer: `<p>
-
-  <strong>LORD, MAKE MY LIFE MEANINGFUL</strong><br><br>
-
-  <strong>Genesis 45:13</strong><br>
-  “And ye shall tell my father of all my glory in Egypt,
-  and of all that ye have seen;
-  and ye shall haste and bring down my father hither.”<br><br>
-
-  A man of God once taught
-  that when a life lacks meaning,
-  men will despise it
-  and take it for granted.
-  But when a life carries meaning,
-  glorious things
-  will be spoken of it.
-  This truth is clearly seen
-  in the life of Joseph.<br><br>
-
-  <strong>Psalm 87:3</strong><br>
-  “Glorious things are spoken of thee,
-  O city of God.”<br><br>
-
-  From birth,
-  God marked Joseph’s life
-  as meaningful.
-  His dreams were great,
-  but his journey was hard.
-  His brothers hated him,
-  sold him,
-  and lied against him.
-  He became a slave,
-  then a prisoner.
-  Yet, at every stage,
-  God was with him.<br><br>
-
-  The same gift
-  that made his brothers jealous
-  was the same gift
-  that brought him before Pharaoh.
-  A day came,
-  just as God had spoken,
-  when Joseph was lifted high.
-  He told his brothers,
-  <em>“Go and tell my father
-  of all my glory.”</em>
-  His life became so meaningful
-  that nations were preserved
-  and his family was restored.
-  The same brothers
-  who once despised him
-  later bowed before him.<br><br>
-
-  Your life may seem small right now.
- 
-
 
 </p>
 
