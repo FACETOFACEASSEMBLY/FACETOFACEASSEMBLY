@@ -1,7 +1,45 @@
 export const dailyDevotionCateg = [{
-    date: 'FRIDAY 16TH JANUARY 2026',
+    date: 'SATURDAY 17TH JANUARY 2026',
     prayer: `
 <p>
+
+<strong>YOUR JOY CAN BE FULL</strong><br><br>
+
+<strong>John 15:11</strong><br>
+“These things have I spoken unto you, that my joy might remain in you, and that your joy might be full.”<br><br>
+
+Jesus spoke His words to us for a clear and wonderful purpose, so that His own joy would take root in our hearts, and so that our joy would be made full. This is not a joy that comes from our things or our plans. It is a joy that comes from His life living in us.<br><br>
+
+Jesus said these things so that His joy would remain. To remain means to stay, to last, to be unshaken. If your joy is His joy, then it cannot be taken from you by the world, for it is rooted in heaven.<br><br>
+
+A joy that is full has no empty space for fear or defeat. It is not a half-full cup, easily spilled. It is filled to the top and overflowing. This fullness comes from one place — abiding in His words and in His love. When you hold tightly to His promises, you are holding tightly to your joy. Your circumstances are not the source; He is the source.<br><br>
+
+Do not let the thief steal what Jesus has given you. The enemy wants you to believe your joy depends on your family, your money, your health, or your success. But Jesus says your joy depends on Him alone. If you connect your joy to anything else, it will be divided and can be broken. But a joy connected to Christ is sealed and sure.<br><br>
+
+Today, choose to receive His Word not as a burden, but as the keeper of your joy. Every command and every promise is a guardian of your heart’s gladness. All through 2026, let this be your truth: nothing shall separate me from the joy of the Lord, for it is His joy in me — and His joy is full, permanent, and victorious.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, let the joy of Jesus remain in me and be my strength. All through this year, let my joy be full, untouched by the world, and rooted in Your eternal love. I declare my joy is complete in You, in Jesus’ Name, Amen.
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'FRIDAY, 16TH JANUARY 2026',
+    prayer: `<p>
 
   <strong>SANCTIFY ME WHOLLY</strong><br><br>
 
@@ -76,10 +114,6 @@ export const dailyDevotionCateg = [{
 
 
 
-
-
-
-
 `
 }, {
     date: 'THURSDAY, 15TH JANUARY 2026',
@@ -136,99 +170,6 @@ export const dailyDevotionCateg = [{
   I reject double-mindedness,
   and I plant my faith firmly on Your Word.
   In Jesus’ Name, Amen.
-
-</p>
-
-
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'WEDNESDAY, 14TH DECEMBER 2025',
-    prayer: `<p>
-
-  <strong>BRING YOUR STRONG REASON</strong><br><br>
-
-  <strong>Isaiah 41:21</strong><br>
-  “Produce your cause, saith the LORD;
-  bring forth your strong reasons,
-  saith the King of Jacob.”<br><br>
-
-  God knows who you are,
-  but He desires that you know
-  who you are in Him.
-  You are not a stranger before His throne.
-  You are a child with a voice,
-  a covenant partner,
-  one invited to reason with God.
-  Your passionate, faith-filled desires
-  are not hidden from Him;
-  He calls you to bring them forth
-  with strong reasons.<br><br>
-
-  When King Hezekiah was told,
-  “Set thine house in order: for thou shalt die,”
-  he did not accept it silently.
-  He turned his face to the wall and prayed.
-  He presented a reason before God:
-  that he had walked in truth
-  and with a perfect heart.
-  He appealed to God’s purpose,
-  declaring that the grave cannot praise Him.
-  God heard his reasoning
-  and added fifteen years to his life.<br><br>
-
-  When God’s wrath burned against Israel
-  for the golden calf,
-  Moses stood in the gap.
-  He did not merely beg for mercy;
-  he reasoned with God.
-  He appealed to God’s glory,
-  His covenant,
-  and His reputation among the nations.
-  And the Lord relented
-  because covenant reasoning was presented.<br><br>
-
-  God is not moved by empty complaints,
-  but He is moved by faith-filled reasoning.
-  He responds to prayers rooted
-  in His Word,
-  His promises,
-  and His character.
-  The desires He has placed in your heart
-  are not accidents;
-  they are invitations.<br><br>
-
-  Do not bury them.
-  Do not whisper them in fear.
-  Bring them boldly before His throne.
-  Remind Him of His Word.
-  Appeal to His faithfulness.
-  Declare what His victory in your life
-  will proclaim to your world.
-  This is not disrespect;
-  it is faith in action.
-  It is the confidence of a beloved child
-  who knows the Father’s heart.<br><br>
-
-  <strong>PRAYER</strong><br>
-  My Father, my God,
-  I come before Your throne
-  with boldness and faith.
-  I bring the desires You have placed within me,
-  and I present my strong reasons
-  based on Your unfailing Word
-  and Your glorious character.
-  Let Your will be done in my life,
-  and let my testimony bring You praise.
-  In Jesus’ name,
-  Amen.
 
 </p>
 
