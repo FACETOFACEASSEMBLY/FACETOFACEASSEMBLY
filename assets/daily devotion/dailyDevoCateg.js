@@ -1,7 +1,52 @@
 export const dailyDevotionCateg = [{
-    date: 'SATURDAY 17TH JANUARY 2026',
+    date: 'SUNDAY 18TH JANUARY 2026',
     prayer: `
 <p>
+
+<strong>I AM UNSTOPPABLE</strong><br><br>
+
+<strong>Jeremiah 1:19</strong><br>
+“And they shall fight against thee; but they shall not prevail against thee; for I am with thee, saith the LORD, to deliver thee.”<br><br>
+
+When you say, “I am unstoppable,” you are not speaking of your own power. You are declaring that you are like the wind, moved by the Spirit of God. As Gamaliel said in the Acts of the Apostles, if a purpose is of God, no one can stop it.<br><br>
+
+Joseph was given a dream as a boy. His brothers, Potiphar’s wife, and even a prison cell all tried to stop that dream, but they could not. God made him unstoppable.<br><br>
+
+Even our Lord Jesus faced resistance from Herod, the Pharisees, the cross, and the grave. Yet He was unstoppable. The resurrection proved that nothing could hold Him down.<br><br>
+
+To be truly unstoppable, you must be rooted in the Lord.<br>
+• You must rely on the power in His name.<br>
+• You must trust Him for victory no matter the turbulence.<br>
+• You must continually declare His Word.<br><br>
+
+As Paul said, “I can do all things through Christ which strengtheneth me.” Your strength is a gift from Him.<br><br>
+
+“If God be for us, who can be against us?”<br><br>
+
+Connect your purpose to His will. Anchor your journey in His strength. When you do this, you are no longer just a person with a dream — you become a vessel of divine purpose that hell itself cannot overcome. Your path is ordained, your protection is assured, and your end is certain in Him.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, today I declare by Your power that I am unstoppable. Strengthen me with Your divine power, in Jesus’ Name. Amen.
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'SATURDAY, 17TH JANUARY 2026',
+    prayer: `<p>
 
 <strong>YOUR JOY CAN BE FULL</strong><br><br>
 
@@ -22,8 +67,6 @@ Today, choose to receive His Word not as a burden, but as the keeper of your joy
 My Father, My God, let the joy of Jesus remain in me and be my strength. All through this year, let my joy be full, untouched by the world, and rooted in Your eternal love. I declare my joy is complete in You, in Jesus’ Name, Amen.
 
 </p>
-
-
 
 
 
@@ -100,75 +143,6 @@ My Father, My God, let the joy of Jesus remain in me and be my strength. All thr
   my spirit, my soul, and my body.
   Set every part of me apart
   for Your use completely.
-  In Jesus’ Name, Amen.
-
-</p>
-
-
-
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'THURSDAY, 15TH JANUARY 2026',
-    prayer: `<p>
-
-  <strong>DON’T BE DOUBLE MINDED</strong><br><br>
-
-  <strong>James 1:8</strong><br>
-  “A double minded man is unstable in all his ways.”<br><br>
-
-  A heart that tries to go two ways at once goes nowhere with God.
-  To be double minded is to be divided in your heart—wanting God’s promise
-  but also fearing the world’s way,
-  trying to trust God while still making a backup plan that excludes Him.<br><br>
-
-  This inner conflict produces instability.
-  God is not found in the middle of confusion;
-  He is found when you choose His side completely.
-  Partial trust produces partial results,
-  but God responds to full surrender.<br><br>
-
-  The prophet Elijah confronted a double-minded people on Mount Carmel.
-  He said,
-  “How long halt ye between two opinions?
-  if the LORD be God, follow him: but if Baal, then follow him”
-  (<strong>1 Kings 18:21</strong>).
-  They had no answer.
-  They wanted to keep both options open.
-  But the fire of God only fell
-  after Elijah made a single-minded, bold stand for the Lord alone.<br><br>
-
-  James also warns us that when we ask God for wisdom,
-  we must “ask in faith, nothing wavering”
-  (<strong>James 1:6</strong>).
-  A wavering heart is like a wave of the sea,
-  driven and tossed by the wind.
-  You cannot receive from God
-  when your heart is divided between faith and fear.<br><br>
-
-  God is a sure foundation.
-  He calls you to plant your feet firmly on Him alone.
-  You cannot hold God’s hand while clutching the world.
-  You cannot claim His promise
-  while listening to the enemy’s lie.<br><br>
-
-  Choose this day whom you will serve.
-  Decide to trust His Word alone.
-  A single eye and a whole heart
-  receive the full light of His guidance and blessing.<br><br>
-
-  <strong>PRAYER</strong><br>
-  My Father, My God,
-  I choose to serve You alone.
-  I reject double-mindedness,
-  and I plant my faith firmly on Your Word.
   In Jesus’ Name, Amen.
 
 </p>
