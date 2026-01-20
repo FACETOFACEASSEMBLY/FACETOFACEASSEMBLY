@@ -1,7 +1,41 @@
 export const dailyDevotionCateg = [{
-    date: 'MONDAY 19TH JANUARY 2026',
+    date: 'TUESDAY 20TH JANUARY 2026',
     prayer: `
 <p>
+
+<strong>WALKING IN WISDOM EACH DAY</strong><br><br>
+
+<strong>Proverbs 4:7</strong><br>
+“Wisdom is the principal thing; therefore get wisdom: and with all thy getting get understanding.”<br><br>
+
+Each day brings decisions, some small, others life-shaping. From how I respond to people, to how I spend my time, money, or energy, I find myself constantly needing one thing: <strong>WISDOM</strong>.<br><br>
+
+Not just information. Not just experience. But God-given wisdom, the kind that helps me speak when I should and be silent when I must, that helps me see beyond the moment and choose what brings peace, not regret.<br><br>
+
+The Scripture says wisdom is the principal thing. That means it is not optional; it is essential. It is not something to seek after everything else fails; it is what must be sought first, before taking a step, speaking a word, or making a plan.<br><br>
+
+Wisdom is choosing honesty when lying seems easier, and choosing kindness when anger feels justified. It is the quiet guide that protects a life from unnecessary pain.<br><br>
+
+<strong>James 1:5</strong> gives hope:<br>
+“If any of you lack wisdom, let him ask of God… and it shall be given him.”<br><br>
+
+I do not have to rely on my own limited understanding. I can ask, and God will supply wisdom freely, generously, and daily. When I trust Him instead of leaning
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'MONDAY, 19TH JANUARY 2026',
+    prayer: `<p>
 
 <strong>SCOURGE OF THE TONGUE</strong><br><br>
 
@@ -20,9 +54,6 @@ Be encouraged, the Lord will silence every destructive word spoken against you. 
 My Father, My God, I ask that every word spoken against me, my children, and all You have given me will fall to the ground, in Jesus’ Name. Amen.
 
 </p>
-
-
-
 
 
 
@@ -66,41 +97,6 @@ My Father, My God, today I declare by Your power that I am unstoppable. Strength
 
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'SATURDAY, 17TH JANUARY 2026',
-    prayer: `<p>
-
-<strong>YOUR JOY CAN BE FULL</strong><br><br>
-
-<strong>John 15:11</strong><br>
-“These things have I spoken unto you, that my joy might remain in you, and that your joy might be full.”<br><br>
-
-Jesus spoke His words to us for a clear and wonderful purpose, so that His own joy would take root in our hearts, and so that our joy would be made full. This is not a joy that comes from our things or our plans. It is a joy that comes from His life living in us.<br><br>
-
-Jesus said these things so that His joy would remain. To remain means to stay, to last, to be unshaken. If your joy is His joy, then it cannot be taken from you by the world, for it is rooted in heaven.<br><br>
-
-A joy that is full has no empty space for fear or defeat. It is not a half-full cup, easily spilled. It is filled to the top and overflowing. This fullness comes from one place — abiding in His words and in His love. When you hold tightly to His promises, you are holding tightly to your joy. Your circumstances are not the source; He is the source.<br><br>
-
-Do not let the thief steal what Jesus has given you. The enemy wants you to believe your joy depends on your family, your money, your health, or your success. But Jesus says your joy depends on Him alone. If you connect your joy to anything else, it will be divided and can be broken. But a joy connected to Christ is sealed and sure.<br><br>
-
-Today, choose to receive His Word not as a burden, but as the keeper of your joy. Every command and every promise is a guardian of your heart’s gladness. All through 2026, let this be your truth: nothing shall separate me from the joy of the Lord, for it is His joy in me — and His joy is full, permanent, and victorious.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, let the joy of Jesus remain in me and be my strength. All through this year, let my joy be full, untouched by the world, and rooted in Your eternal love. I declare my joy is complete in You, in Jesus’ Name, Amen.
-
-</p>
 
 
 
