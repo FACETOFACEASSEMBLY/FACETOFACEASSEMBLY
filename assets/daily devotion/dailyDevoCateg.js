@@ -1,7 +1,44 @@
 export const dailyDevotionCateg = [{
-    date: 'TUESDAY 20TH JANUARY 2026',
+    date: 'WEDNESDAY 21TH JANUARY 2026',
     prayer: `
 <p>
+
+<strong>OH LORD, MAKE ME TO WALK ON HIGH PLACES THIS YEAR</strong><br><br>
+
+<strong>Psalm 18:33</strong><br>
+“He maketh my feet like hinds' feet, and setteth me upon my high places.”<br><br>
+
+There are some people who seem to move through life on a different level. They are lifted from one place of authority to another, finding favour and responsibility wherever they go. They are not destroyed by pits or prisons, but are carried above them. This is what it means to walk on the high places of life.<br><br>
+
+Think of Joseph. From his father’s house, he was given a coat of honour. When he arrived in Potiphar’s house, he was made head above everyone, even in a strange land. In the prison, he was placed in charge. He was not merely surviving the low places; he was being prepared to rule in higher places. His journey from the prison to the palace reveals God’s power to elevate a life at the appointed time.<br><br>
+
+Walking on high places is not about pride. It is about divine promotion. It is God’s grace positioning you where your gifts can serve His purpose. It is having a higher perspective above your problems and authority over your challenges. It is living in the fulfillment of God’s plan for your life.<br><br>
+
+In this year 2026, do not settle for the valley. Do not accept fear, limitation, or lack as your permanent address. The same God who set Joseph upon his high place desires to set your feet upon yours. It begins with trusting Him in the low place, serving faithfully, and believing in the promise of elevation.<br><br>
+
+Ask Him today. Cry out with faith and expectation: “Oh Lord, make me to walk on the high places of life this year.” Believe that He will steady your steps, make your path clear, and lead you into the places of influence and purpose He has prepared for you.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, I ask for divine elevation in this year 2026. As You did for Joseph, set my feet upon high places. Take me from where I am to where You have destined me to be. Let Your favour lift me into new levels of authority and service for Your glory. Make my path clear and my feet sure. In Jesus’ Name, Amen.
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'TUESDAY, 20TH JANUARY 2026',
+    prayer: `<p>
 
 <strong>WALKING IN WISDOM EACH DAY</strong><br><br>
 
@@ -52,48 +89,6 @@ Be encouraged, the Lord will silence every destructive word spoken against you. 
 
 <strong>PRAYER</strong><br>
 My Father, My God, I ask that every word spoken against me, my children, and all You have given me will fall to the ground, in Jesus’ Name. Amen.
-
-</p>
-
-
-
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'SUNDAY, 18TH JANUARY 2026',
-    prayer: `<p>
-
-<strong>I AM UNSTOPPABLE</strong><br><br>
-
-<strong>Jeremiah 1:19</strong><br>
-“And they shall fight against thee; but they shall not prevail against thee; for I am with thee, saith the LORD, to deliver thee.”<br><br>
-
-When you say, “I am unstoppable,” you are not speaking of your own power. You are declaring that you are like the wind, moved by the Spirit of God. As Gamaliel said in the Acts of the Apostles, if a purpose is of God, no one can stop it.<br><br>
-
-Joseph was given a dream as a boy. His brothers, Potiphar’s wife, and even a prison cell all tried to stop that dream, but they could not. God made him unstoppable.<br><br>
-
-Even our Lord Jesus faced resistance from Herod, the Pharisees, the cross, and the grave. Yet He was unstoppable. The resurrection proved that nothing could hold Him down.<br><br>
-
-To be truly unstoppable, you must be rooted in the Lord.<br>
-• You must rely on the power in His name.<br>
-• You must trust Him for victory no matter the turbulence.<br>
-• You must continually declare His Word.<br><br>
-
-As Paul said, “I can do all things through Christ which strengtheneth me.” Your strength is a gift from Him.<br><br>
-
-“If God be for us, who can be against us?”<br><br>
-
-Connect your purpose to His will. Anchor your journey in His strength. When you do this, you are no longer just a person with a dream — you become a vessel of divine purpose that hell itself cannot overcome. Your path is ordained, your protection is assured, and your end is certain in Him.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, today I declare by Your power that I am unstoppable. Strengthen me with Your divine power, in Jesus’ Name. Amen.
 
 </p>
 
