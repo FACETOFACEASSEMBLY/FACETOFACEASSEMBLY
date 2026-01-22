@@ -1,7 +1,42 @@
 export const dailyDevotionCateg = [{
-    date: 'WEDNESDAY 21TH JANUARY 2026',
+    date: 'THURSDAY 22TH JANUARY 2026',
     prayer: `
 <p>
+
+<strong>THE GOD WHO SHUTS THE MOUTH OF LIONS</strong><br><br>
+
+<strong>Daniel 6:22</strong><br>
+“My God hath sent his angel, and hath shut the lions' mouths, that they have not hurt me.”<br><br>
+
+The testimony of Daniel is a mighty proclamation of God’s deliverance. Thrown into a den of hungry lions for his faithfulness, he spent the night with them, untouched. Why? Because the Living God sent His angel to shut their mouths. God did not remove Daniel from the den, but He rendered the lions powerless within the den.<br><br>
+
+That same power is alive today. The God of Daniel is your God. The enemies that roar against you, whether people, circumstances, accusations, or fears, have a mouth that can be shut. Their ability to harm you, intimidate you, or devour your peace and destiny can be divinely neutralized by the command of Heaven.<br><br>
+
+Do not be terrified by the roaring. The lions roared all night around Daniel, yet he was preserved. Your faith in the Living God is your safe place. Your consistent prayer life and unwavering commitment to God, like Daniel’s, activate angelic intervention and the silencing power of God.<br><br>
+
+Stand firm in faith and decree it boldly: The same power that shut the mouths of lions will shut the mouth of every enemy speaking against my life, my family, my purpose, and my peace. This victory is not by might, nor by power, but by the Spirit of the Lord.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, the Deliverer of Daniel, I thank You for Your mighty power. I declare that the same angelic ministry that shut the lions’ mouths is active on my behalf today. In the mighty name of Jesus, I command every roaring mouth of the enemy against my life to be shut, silenced, and rendered powerless. I walk in divine protection and peace, for my life is hid in Christ. Amen.
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'WEDNESDAY, 21TH JANUARY 2026',
+    prayer: `<p>
 
 <strong>OH LORD, MAKE ME TO WALK ON HIGH PLACES THIS YEAR</strong><br><br>
 
@@ -22,8 +57,6 @@ Ask Him today. Cry out with faith and expectation: “Oh Lord, make me to walk o
 My Father, My God, I ask for divine elevation in this year 2026. As You did for Joseph, set my feet upon high places. Take me from where I am to where You have destined me to be. Let Your favour lift me into new levels of authority and service for Your glory. Make my path clear and my feet sure. In Jesus’ Name, Amen.
 
 </p>
-
-
 
 
 
@@ -57,41 +90,6 @@ Wisdom is choosing honesty when lying seems easier, and choosing kindness when a
 “If any of you lack wisdom, let him ask of God… and it shall be given him.”<br><br>
 
 I do not have to rely on my own limited understanding. I can ask, and God will supply wisdom freely, generously, and daily. When I trust Him instead of leaning
-
-
-
-
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'MONDAY, 19TH JANUARY 2026',
-    prayer: `<p>
-
-<strong>SCOURGE OF THE TONGUE</strong><br><br>
-
-<strong>Job 5:21</strong><br>
-“Thou shalt be hid from the scourge of the tongue: neither shalt thou be afraid of destruction when it cometh.”<br><br>
-
-Scripture tells us that God will deliver us in times of trouble. One of these troubles is what the Bible calls “the scourge of the tongue.”<br><br>
-
-The scourge of the tongue means suffering because of someone’s harmful words. These words can be bitter, full of curses, or evil wishes. But the Bible assures us that the plans and words of the enemy will not succeed.<br><br>
-
-Just as Goliath’s threats against David came to nothing, God can silence every voice that speaks against your life, your family, your health, or your work. Jesus Himself showed His authority over every enemy when He confronted Saul on the road to Damascus. It is hard to kick against the pricks.<br><br>
-
-Be encouraged, the Lord will silence every destructive word spoken against you. As Scripture declares, He will keep His saints and silence the mouths of the wicked.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, I ask that every word spoken against me, my children, and all You have given me will fall to the ground, in Jesus’ Name. Amen.
-
-</p>
-
 
 
 
