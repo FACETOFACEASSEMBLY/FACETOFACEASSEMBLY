@@ -1,7 +1,43 @@
 export const dailyDevotionCateg = [{
-    date: 'THURSDAY 22TH JANUARY 2026',
+    date: 'FRIDAY 23RD JANUARY 2026',
     prayer: `
 <p>
+
+<strong>RESIST THE DEVIL</strong><br><br>
+
+<strong>James 4:7</strong><br>
+“Submit yourselves therefore to God. Resist the devil, and he will flee from you.”<br><br>
+
+The command to resist is a declaration of spiritual authority granted to the believer. It is not a suggestion, but a sovereign strategy for victory. Notice the divine order: first, full submission to God. Submission aligns us under His rule and places us within the covering of His authority.<br><br>
+
+The enemy’s tactics are consistent, accusation, deception, temptation, and intimidation. But his power was broken at the cross. When you resist him from your position in Christ, you are not fighting for victory, you are enforcing the victory already won by Jesus.<br><br>
+
+Do not be dismayed by his persistence or the roar of his threats. Your stand is not in your own strength, but in the might of the King you serve. Just as a soldier stands firm not by personal power but by the authority of the nation he represents, you stand in the authority of the name of Jesus.<br><br>
+
+The promise is clear. It does not say he *may* flee. It says he *will* flee. Your consistent, faith-filled resistance activates his compulsory retreat. When you submit to God and stand your ground in truth, the enemy has no option but to withdraw.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, I submit every area of my heart, mind, and life to You. I take my stand in the authority of Christ, and I resist the devil. I declare that every work of darkness flees from my life, my home, and my destiny. I walk in victory through Jesus’ name. Amen.
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'THURSDAY, 22TH JANUARY 2026',
+    prayer: `<p>
 
 <strong>THE GOD WHO SHUTS THE MOUTH OF LIONS</strong><br><br>
 
@@ -20,7 +56,6 @@ Stand firm in faith and decree it boldly: The same power that shut the mouths of
 My Father, My God, the Deliverer of Daniel, I thank You for Your mighty power. I declare that the same angelic ministry that shut the lions’ mouths is active on my behalf today. In the mighty name of Jesus, I command every roaring mouth of the enemy against my life to be shut, silenced, and rendered powerless. I walk in divine protection and peace, for my life is hid in Christ. Amen.
 
 </p>
-
 
 
 
@@ -57,40 +92,6 @@ Ask Him today. Cry out with faith and expectation: “Oh Lord, make me to walk o
 My Father, My God, I ask for divine elevation in this year 2026. As You did for Joseph, set my feet upon high places. Take me from where I am to where You have destined me to be. Let Your favour lift me into new levels of authority and service for Your glory. Make my path clear and my feet sure. In Jesus’ Name, Amen.
 
 </p>
-
-
-
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'TUESDAY, 20TH JANUARY 2026',
-    prayer: `<p>
-
-<strong>WALKING IN WISDOM EACH DAY</strong><br><br>
-
-<strong>Proverbs 4:7</strong><br>
-“Wisdom is the principal thing; therefore get wisdom: and with all thy getting get understanding.”<br><br>
-
-Each day brings decisions, some small, others life-shaping. From how I respond to people, to how I spend my time, money, or energy, I find myself constantly needing one thing: <strong>WISDOM</strong>.<br><br>
-
-Not just information. Not just experience. But God-given wisdom, the kind that helps me speak when I should and be silent when I must, that helps me see beyond the moment and choose what brings peace, not regret.<br><br>
-
-The Scripture says wisdom is the principal thing. That means it is not optional; it is essential. It is not something to seek after everything else fails; it is what must be sought first, before taking a step, speaking a word, or making a plan.<br><br>
-
-Wisdom is choosing honesty when lying seems easier, and choosing kindness when anger feels justified. It is the quiet guide that protects a life from unnecessary pain.<br><br>
-
-<strong>James 1:5</strong> gives hope:<br>
-“If any of you lack wisdom, let him ask of God… and it shall be given him.”<br><br>
-
-I do not have to rely on my own limited understanding. I can ask, and God will supply wisdom freely, generously, and daily. When I trust Him instead of leaning
-
 
 
 
