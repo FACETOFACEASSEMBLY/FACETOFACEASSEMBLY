@@ -1,7 +1,50 @@
 export const dailyDevotionCateg = [{
-    date: 'FRIDAY 23RD JANUARY 2026',
+    date: 'SUNDAY 25TH JANUARY 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>SUNDAY 25TH JANUARY 2026</strong><br><br>
+
+<strong>THE VOICE OF ACCEPTANCE</strong><br><br>
+
+<strong>Psalm 29:4–5</strong><br>
+“The voice of the LORD is powerful; the voice of the LORD is full of majesty; the voice of the LORD breaketh the cedars; yea, the LORD breaketh the cedars of Lebanon.”<br><br>
+
+There is a voice that speaks over your life with ultimate authority. It is the Voice of Acceptance. This is the voice of God that approves, affirms, and says YES to the prayers of His children. It is powerful and full of majesty, breaking every obstacle to make a way for His word to come to pass.<br><br>
+
+One day, this voice spoke from heaven over Jesus, saying, “This is my beloved Son: hear Him” (Luke 9:35). God the Father publicly approved His Son.<br><br>
+
+Even through His mother Mary, a voice of acceptance pointed to Him, saying to the servants, “Whatsoever He saith unto you, do it” (John 2:5). These voices cleared the way for His ministry.<br><br>
+
+Today, this same voice speaks over you. The God who approved His own Son is your Father.<br><br>
+
+His voice of acceptance silences every other voice. It breaks the cedars of rejection, delay, and disapproval in your life. When God says “yes,” no person or power can successfully say “no.”<br><br>
+
+I pray for you today that the same voice that approved our Lord Jesus will approve you also in Jesus’ Name. The voice of the LORD will silence every voice speaking against you in Jesus’ Name. Amen.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, my God, let Your voice approve me this day in Jesus’ Name. Amen.
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'FRIDAY, 23RD JANUARY 2026',
+    prayer: `<p>
 
 <strong>RESIST THE DEVIL</strong><br><br>
 
@@ -56,43 +99,6 @@ Stand firm in faith and decree it boldly: The same power that shut the mouths of
 My Father, My God, the Deliverer of Daniel, I thank You for Your mighty power. I declare that the same angelic ministry that shut the lions’ mouths is active on my behalf today. In the mighty name of Jesus, I command every roaring mouth of the enemy against my life to be shut, silenced, and rendered powerless. I walk in divine protection and peace, for my life is hid in Christ. Amen.
 
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'WEDNESDAY, 21TH JANUARY 2026',
-    prayer: `<p>
-
-<strong>OH LORD, MAKE ME TO WALK ON HIGH PLACES THIS YEAR</strong><br><br>
-
-<strong>Psalm 18:33</strong><br>
-“He maketh my feet like hinds' feet, and setteth me upon my high places.”<br><br>
-
-There are some people who seem to move through life on a different level. They are lifted from one place of authority to another, finding favour and responsibility wherever they go. They are not destroyed by pits or prisons, but are carried above them. This is what it means to walk on the high places of life.<br><br>
-
-Think of Joseph. From his father’s house, he was given a coat of honour. When he arrived in Potiphar’s house, he was made head above everyone, even in a strange land. In the prison, he was placed in charge. He was not merely surviving the low places; he was being prepared to rule in higher places. His journey from the prison to the palace reveals God’s power to elevate a life at the appointed time.<br><br>
-
-Walking on high places is not about pride. It is about divine promotion. It is God’s grace positioning you where your gifts can serve His purpose. It is having a higher perspective above your problems and authority over your challenges. It is living in the fulfillment of God’s plan for your life.<br><br>
-
-In this year 2026, do not settle for the valley. Do not accept fear, limitation, or lack as your permanent address. The same God who set Joseph upon his high place desires to set your feet upon yours. It begins with trusting Him in the low place, serving faithfully, and believing in the promise of elevation.<br><br>
-
-Ask Him today. Cry out with faith and expectation: “Oh Lord, make me to walk on the high places of life this year.” Believe that He will steady your steps, make your path clear, and lead you into the places of influence and purpose He has prepared for you.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, I ask for divine elevation in this year 2026. As You did for Joseph, set my feet upon high places. Take me from where I am to where You have destined me to be. Let Your favour lift me into new levels of authority and service for Your glory. Make my path clear and my feet sure. In Jesus’ Name, Amen.
-
-</p>
-
 
 
 
