@@ -1,7 +1,52 @@
 export const dailyDevotionCateg = [{
-    date: 'SUNDAY 25TH JANUARY 2026',
+    date: 'MONDAY 26TH JANUARY 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD'S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>FRIDAY 26TH JANUARY 2026</strong><br><br>
+
+<strong>BE THE FIRST PARTAKER</strong><br><br>
+
+<strong>2 Timothy 2:6</strong><br>
+“The husbandman that laboureth must be first partaker of the fruits.”<br><br>
+
+God is a God of order, and in His kingdom, labour is rewarded with participation. The Scripture makes it clear that the one who works must be the first to enjoy the fruit. This is not only about farming; it is a spiritual principle. If you are committed, consistent, and present, you are qualified to partake first.<br><br>
+
+Mary Magdalene went early to the tomb to anoint the body of Jesus. Others stayed back, but she showed up. Because she showed up, she saw what others missed. When Jesus rose from the dead, He appeared to her first. Many believers are left behind not because God skipped them, but because they delayed (Mark 16:1–9).<br><br>
+
+In John 5:7, the man at the pool of Bethesda had a sad testimony. He said, “while I am coming, another steppeth down before me.” For thirty-eight years, he watched others enter the water ahead of him. Opportunity came again and again, but he was never first.<br><br>
+
+In Genesis 38:28, when the twins were being born, the midwife tied a scarlet thread on the hand of the child that came out first. That scarlet thread was a mark of distinction, a sign of priority.<br><br>
+
+Spiritually, when you tie the scarlet thread and hunger for God, you are marked to partake first. Nothing good should pass you by.<br><br>
+
+This is a call to rise early, stay alert, and remain engaged. Be faithful in service, steadfast in prayer, and committed to God’s work. The kingdom rewards readiness. Those who labour, show up, and stay positioned will always partake first.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, my God, make me the first partaker in Jesus’ Name. Amen.
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'SUNDAY, 24TH JANUARY 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
 <strong>SUNDAY 25TH JANUARY 2026</strong><br><br>
@@ -40,7 +85,6 @@ My Father, my God, let Your voice approve me this day in Jesus’ Name. Amen.
 
 
 
-
 `
 }, {
     date: 'FRIDAY, 23RD JANUARY 2026',
@@ -61,42 +105,6 @@ The promise is clear. It does not say he *may* flee. It says he *will* flee. You
 
 <strong>PRAYER</strong><br>
 My Father, My God, I submit every area of my heart, mind, and life to You. I take my stand in the authority of Christ, and I resist the devil. I declare that every work of darkness flees from my life, my home, and my destiny. I walk in victory through Jesus’ name. Amen.
-
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'THURSDAY, 22TH JANUARY 2026',
-    prayer: `<p>
-
-<strong>THE GOD WHO SHUTS THE MOUTH OF LIONS</strong><br><br>
-
-<strong>Daniel 6:22</strong><br>
-“My God hath sent his angel, and hath shut the lions' mouths, that they have not hurt me.”<br><br>
-
-The testimony of Daniel is a mighty proclamation of God’s deliverance. Thrown into a den of hungry lions for his faithfulness, he spent the night with them, untouched. Why? Because the Living God sent His angel to shut their mouths. God did not remove Daniel from the den, but He rendered the lions powerless within the den.<br><br>
-
-That same power is alive today. The God of Daniel is your God. The enemies that roar against you, whether people, circumstances, accusations, or fears, have a mouth that can be shut. Their ability to harm you, intimidate you, or devour your peace and destiny can be divinely neutralized by the command of Heaven.<br><br>
-
-Do not be terrified by the roaring. The lions roared all night around Daniel, yet he was preserved. Your faith in the Living God is your safe place. Your consistent prayer life and unwavering commitment to God, like Daniel’s, activate angelic intervention and the silencing power of God.<br><br>
-
-Stand firm in faith and decree it boldly: The same power that shut the mouths of lions will shut the mouth of every enemy speaking against my life, my family, my purpose, and my peace. This victory is not by might, nor by power, but by the Spirit of the Lord.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, the Deliverer of Daniel, I thank You for Your mighty power. I declare that the same angelic ministry that shut the lions’ mouths is active on my behalf today. In the mighty name of Jesus, I command every roaring mouth of the enemy against my life to be shut, silenced, and rendered powerless. I walk in divine protection and peace, for my life is hid in Christ. Amen.
 
 </p>
 
