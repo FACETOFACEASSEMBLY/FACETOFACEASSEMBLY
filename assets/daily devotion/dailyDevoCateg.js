@@ -1,11 +1,64 @@
 export const dailyDevotionCateg = [{
-    date: 'MONDAY 26TH JANUARY 2026',
+    date: 'TUESDAY 27TH JANUARY 2026',
     prayer: `
 <p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD'S WORD, HAPPY OVERAH</strong><br><br>
 
-<strong>FRIDAY 26TH JANUARY 2026</strong><br><br>
+
+
+<strong>WHO IS A CHRISTIAN?</strong><br><br>
+
+<strong>Acts 11:26</strong><br>
+“And the disciples were called Christians first in Antioch.”<br><br>
+
+Many people today claim to be Christians, but few truly understand what the word means. A few days ago, I asked a young man who a Christian is, and he said, “A Christian is a person that follows God and eschews evil.” While that answer sounds right, it is incomplete.<br><br>
+
+The truth is this: a Christian is a person who follows Jesus Christ. A Christian is one who believes in the death and resurrection of our Lord Jesus Christ.<br><br>
+
+Many people follow God. The Jews follow God. Muslims follow God. Many religions believe in God. But what separates a Christian from others is Jesus. They will never agree with you on Jesus, but Christianity stands or falls on Him.<br><br>
+
+The Bible says in Acts 11:26 that the disciples were called Christians. They did not name themselves. People watched their lives, studied their conduct, and saw their character, and then called them Christians. Their character revealed Christ.<br><br>
+
+This teaches us a deep truth: your character matters. You are not a Christian because you attend church. You are called a Christian when your life looks like Christ.<br><br>
+
+In Galatians 5:1, the Scripture says, “Stand fast therefore in the liberty wherewith Christ hath made us free…” A Christian is already delivered from bondage through Christ. Sin, darkness, and the flesh no longer have dominion. But that freedom must show evidence.<br><br>
+
+In Galatians 5:22–23, the Bible reveals the fruit of the Spirit: love, joy, peace, longsuffering, gentleness, goodness, faith, meekness, and temperance. These fruits are the proof of a Christian life.<br><br>
+
+A Christian must not walk in darkness. A Christian must walk in the light of Christ.<br><br>
+
+The Bible says, “Looking unto Jesus the author and finisher of our faith” (Hebrews 12:2). Jesus is not only the beginning of our faith, He is also the standard. When we look unto Him, our lives are shaped to reflect Him.<br><br>
+
+Christianity is not just confession; it is transformation. Not just belief, but becoming like Christ.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, my God, help me to follow Jesus truly. Let my character reflect Christ. I look unto Jesus, the author and finisher of my faith, in Jesus’ Name. Amen.
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'MONDAY, 25TH JANUARY 2026',
+    prayer: `<p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD'S WORD, HAPPY OVERAH</strong><br><br>
+
+
 
 <strong>BE THE FIRST PARTAKER</strong><br><br>
 
@@ -41,15 +94,13 @@ My Father, my God, make me the first partaker in Jesus’ Name. Amen.
 
 
 
-
-
 `
 }, {
-    date: 'SUNDAY, 24TH JANUARY 2026',
+    date: 'SUNDAY, 25TH JANUARY 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
-<strong>SUNDAY 25TH JANUARY 2026</strong><br><br>
+
 
 <strong>THE VOICE OF ACCEPTANCE</strong><br><br>
 
@@ -72,41 +123,6 @@ I pray for you today that the same voice that approved our Lord Jesus will appro
 My Father, my God, let Your voice approve me this day in Jesus’ Name. Amen.
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'FRIDAY, 23RD JANUARY 2026',
-    prayer: `<p>
-
-<strong>RESIST THE DEVIL</strong><br><br>
-
-<strong>James 4:7</strong><br>
-“Submit yourselves therefore to God. Resist the devil, and he will flee from you.”<br><br>
-
-The command to resist is a declaration of spiritual authority granted to the believer. It is not a suggestion, but a sovereign strategy for victory. Notice the divine order: first, full submission to God. Submission aligns us under His rule and places us within the covering of His authority.<br><br>
-
-The enemy’s tactics are consistent, accusation, deception, temptation, and intimidation. But his power was broken at the cross. When you resist him from your position in Christ, you are not fighting for victory, you are enforcing the victory already won by Jesus.<br><br>
-
-Do not be dismayed by his persistence or the roar of his threats. Your stand is not in your own strength, but in the might of the King you serve. Just as a soldier stands firm not by personal power but by the authority of the nation he represents, you stand in the authority of the name of Jesus.<br><br>
-
-The promise is clear. It does not say he *may* flee. It says he *will* flee. Your consistent, faith-filled resistance activates his compulsory retreat. When you submit to God and stand your ground in truth, the enemy has no option but to withdraw.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, I submit every area of my heart, mind, and life to You. I take my stand in the authority of Christ, and I resist the devil. I declare that every work of darkness flees from my life, my home, and my destiny. I walk in victory through Jesus’ name. Amen.
-
-</p>
 
 
 
