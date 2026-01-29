@@ -1,7 +1,53 @@
 export const dailyDevotionCateg = [{
-    date: 'TUESDAY 27TH JANUARY 2026',
+    date: 'THURSDAY 29TH JANUARY 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD'S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>THURSDAY 29TH JANUARY 2026</strong><br><br>
+
+<strong>OH LORD, LET EVERY LONG WAR IN MY LIFE CEASE</strong><br><br>
+
+<strong>Psalm 46:9</strong><br>
+“He maketh wars to cease unto the end of the earth; he breaketh the bow, and cutteth the spear in sunder; he burneth the chariot in the fire.”<br><br>
+
+There are wars that last too long. Some people have been fighting the same struggle for years.<br><br>
+
+The Bible says in <strong>2 Samuel 3:1</strong> that there was a long war between the house of Saul and the house of David. This war did not end quickly; it dragged on. But one thing was clear: David was growing stronger, and Saul was growing weaker.<br><br>
+
+There is a season for war, and there is a season for peace. The Psalmist declared in Psalm 46:9 that God makes wars to cease, not man, not time, not strength, but God.<br><br>
+
+He ends battles that human wisdom cannot solve. He stops struggles that have lasted for years. He brings peace where conflict has become normal. Long wars can be spiritual. Long wars can be financial, marital, emotional, or even in your calling.<br><br>
+
+But the Lord is saying today, “I am the God who ends wars.” When God steps in, the battle does not continue. When God speaks, the war must stop.<br><br>
+
+The same God who strengthened David is strengthening you. The same God who weakened Saul’s house is weakening every power fighting your destiny, in Jesus’ Name. Amen.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, my God, arise and fight for me. Let every long war in my life come to an end, in Jesus’ Name. Amen.
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'TUESDAY, 27TH JANUARY 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD'S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -49,11 +95,9 @@ My Father, my God, help me to follow Jesus truly. Let my character reflect Chris
 
 
 
-
-
 `
 }, {
-    date: 'MONDAY, 25TH JANUARY 2026',
+    date: 'MONDAY, 26TH JANUARY 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD'S WORD, HAPPY OVERAH</strong><br><br>
@@ -80,49 +124,6 @@ This is a call to rise early, stay alert, and remain engaged. Be faithful in ser
 <strong>PRAYER</strong><br>
 My Father, my God, make me the first partaker in Jesus’ Name. Amen.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'SUNDAY, 25TH JANUARY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-
-
-<strong>THE VOICE OF ACCEPTANCE</strong><br><br>
-
-<strong>Psalm 29:4–5</strong><br>
-“The voice of the LORD is powerful; the voice of the LORD is full of majesty; the voice of the LORD breaketh the cedars; yea, the LORD breaketh the cedars of Lebanon.”<br><br>
-
-There is a voice that speaks over your life with ultimate authority. It is the Voice of Acceptance. This is the voice of God that approves, affirms, and says YES to the prayers of His children. It is powerful and full of majesty, breaking every obstacle to make a way for His word to come to pass.<br><br>
-
-One day, this voice spoke from heaven over Jesus, saying, “This is my beloved Son: hear Him” (Luke 9:35). God the Father publicly approved His Son.<br><br>
-
-Even through His mother Mary, a voice of acceptance pointed to Him, saying to the servants, “Whatsoever He saith unto you, do it” (John 2:5). These voices cleared the way for His ministry.<br><br>
-
-Today, this same voice speaks over you. The God who approved His own Son is your Father.<br><br>
-
-His voice of acceptance silences every other voice. It breaks the cedars of rejection, delay, and disapproval in your life. When God says “yes,” no person or power can successfully say “no.”<br><br>
-
-I pray for you today that the same voice that approved our Lord Jesus will approve you also in Jesus’ Name. The voice of the LORD will silence every voice speaking against you in Jesus’ Name. Amen.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, my God, let Your voice approve me this day in Jesus’ Name. Amen.
-</p>
-
 
 
 
