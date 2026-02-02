@@ -5,6 +5,45 @@ export const dailyDevotionCateg = [{
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
+<strong>MONDAY 2ND FEBRUARY 2026</strong><br><br>
+
+<strong>LET THERE BE LIGHT</strong><br><br>
+
+<strong>Genesis 1:3</strong><br>
+“And God said, Let there be light: and there was light.”<br><br>
+
+When God commanded light to appear, it signaled the immediate end of darkness. Light does not argue with darkness; it simply displaces it. In the same way, light in your life signifies a divine change—the end of sorrow and the beginning of joy.<br><br>
+
+The scriptures remind us that while weeping may endure for a night, joy comes in the morning. <strong>Psalm 30:5</strong>. Darkness is the realm of confusion, stagnation, and danger. Just as a driver must stop when their headlights fail, life without divine light leads to delay and backwardness.<br><br>
+
+Light is the catalyst for movement. Once the light comes on, progress continues. When the light of God shines upon you, stagnation dies, and you are empowered to move forward and upward.<br><br>
+
+Beloved, every darkness causing delay in your life must give way to the light of God. You cannot encounter His light and remain the same.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father My God, let there be light all through the month of February. Darkness will not stop me in Jesus' name. Amen.
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'FRIDAY, 30TH JANUARY 2026',
+    prayer: `<p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
 <strong>SATURDAY 31ST JANUARY 2026</strong><br><br>
 
 <strong>THE BOOK OF REMEMBRANCE</strong><br><br>
@@ -32,58 +71,6 @@ One major thing that triggers the opening of the Book of Remembrance is the fear
 
 <strong>PRAYER</strong><br>
 My Father, my God, let the Book of Remembrance be opened for me. Remember my labor, my tears, my prayers, and my sacrifices in Jesus’ name. Amen.
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'FRIDAY, 30TH JANUARY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD'S WORD, HAPPY OVERAH</strong><br><br>
-
-
-
-<strong>WHO IS A CHRISTIAN?</strong><br><br>
-
-<strong>Acts 11:26</strong><br>
-“And the disciples were called Christians first in Antioch.”<br><br>
-
-Many people today claim to be Christians, but few truly understand what the word means. A few days ago, I asked a young man who a Christian is, and he said, “A Christian is a person that follows God and eschews evil.” While that answer sounds right, it is incomplete.<br><br>
-
-The truth is this: a Christian is a person who follows Jesus Christ. A Christian is one who believes in the death and resurrection of our Lord Jesus Christ.<br><br>
-
-Many people follow God. The Jews follow God. Muslims follow God. Many religions believe in God. But what separates a Christian from others is Jesus. They will never agree with you on Jesus, but Christianity stands or falls on Him.<br><br>
-
-The Bible says in Acts 11:26 that the disciples were called Christians. They did not name themselves. People watched their lives, studied their conduct, and saw their character, and then called them Christians. Their character revealed Christ.<br><br>
-
-This teaches us a deep truth: your character matters. You are not a Christian because you attend church. You are called a Christian when your life looks like Christ.<br><br>
-
-In Galatians 5:1, the Scripture says, “Stand fast therefore in the liberty wherewith Christ hath made us free…” A Christian is already delivered from bondage through Christ. Sin, darkness, and the flesh no longer have dominion. But that freedom must show evidence.<br><br>
-
-In Galatians 5:22–23, the Bible reveals the fruit of the Spirit: love, joy, peace, longsuffering, gentleness, goodness, faith, meekness, and temperance. These fruits are the proof of a Christian life.<br><br>
-
-A Christian must not walk in darkness. A Christian must walk in the light of Christ.<br><br>
-
-The Bible says, “Looking unto Jesus the author and finisher of our faith” (Hebrews 12:2). Jesus is not only the beginning of our faith, He is also the standard. When we look unto Him, our lives are shaped to reflect Him.<br><br>
-
-Christianity is not just confession; it is transformation. Not just belief, but becoming like Christ.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, my God, help me to follow Jesus truly. Let my character reflect Christ. I look unto Jesus, the author and finisher of my faith, in Jesus’ Name. Amen.
 </p>
 
 
