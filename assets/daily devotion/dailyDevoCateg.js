@@ -1,7 +1,44 @@
 export const dailyDevotionCateg = [{
-    date: 'SATURDAY 31TH JANUARY 2026',
+    date: 'WEDNESDAY 4TH FEBRUARY 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>WEDNESDAY 4TH FEBRUARY 2026</strong><br><br>
+
+<strong>I CHOOSE LIFE OVER DEATH</strong><br><br>
+
+<strong>John 10:10</strong><br>
+“The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly.”<br><br>
+
+Every day of our lives, we are making choices. Some choices bring life, and some bring death. God has already shown us the right path, but He will never force us; He gives us the power to choose. Jesus made it clear that there are only two options: the destruction offered by the enemy, or the abundant life found in Him.<br><br>
+
+When you choose Jesus, you are choosing life. When you reject Him, you open the door to destruction. In <strong>Joshua 24:15</strong>, Joshua spoke boldly, declaring that regardless of what the crowd did, he and his house would serve the Lord. Choosing God is choosing peace, direction, and eternal hope.<br><br>
+
+Death is not only physical; it manifests as sin, fear, confusion, depression, and disobedience. Conversely, life is found in righteousness, joy, and truth. Today, God is calling you to make a clear decision.<br><br>
+
+No matter what is happening around you, declare it with your mouth and believe it in your heart: I choose life over death, light over darkness, peace over confusion, and obedience over rebellion in Jesus’ name.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, my God, thank you for giving me life abundantly. I choose to walk in Your life and light today and always in Jesus’ name. Amen.
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'SATURDAY, 31ST JANUARY 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -73,56 +110,6 @@ One major thing that triggers the opening of the Book of Remembrance is the fear
 My Father, my God, let the Book of Remembrance be opened for me. Remember my labor, my tears, my prayers, and my sacrifices in Jesus’ name. Amen.
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'THURSDAY, 29TH JANUARY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD'S WORD, HAPPY OVERAH</strong><br><br>
-
-
-
-<strong>WHO IS A CHRISTIAN?</strong><br><br>
-
-<strong>Acts 11:26</strong><br>
-“And the disciples were called Christians first in Antioch.”<br><br>
-
-Many people today claim to be Christians, but few truly understand what the word means. A few days ago, I asked a young man who a Christian is, and he said, “A Christian is a person that follows God and eschews evil.” While that answer sounds right, it is incomplete.<br><br>
-
-The truth is this: a Christian is a person who follows Jesus Christ. A Christian is one who believes in the death and resurrection of our Lord Jesus Christ.<br><br>
-
-Many people follow God. The Jews follow God. Muslims follow God. Many religions believe in God. But what separates a Christian from others is Jesus. They will never agree with you on Jesus, but Christianity stands or falls on Him.<br><br>
-
-The Bible says in Acts 11:26 that the disciples were called Christians. They did not name themselves. People watched their lives, studied their conduct, and saw their character, and then called them Christians. Their character revealed Christ.<br><br>
-
-This teaches us a deep truth: your character matters. You are not a Christian because you attend church. You are called a Christian when your life looks like Christ.<br><br>
-
-In Galatians 5:1, the Scripture says, “Stand fast therefore in the liberty wherewith Christ hath made us free…” A Christian is already delivered from bondage through Christ. Sin, darkness, and the flesh no longer have dominion. But that freedom must show evidence.<br><br>
-
-In Galatians 5:22–23, the Bible reveals the fruit of the Spirit: love, joy, peace, longsuffering, gentleness, goodness, faith, meekness, and temperance. These fruits are the proof of a Christian life.<br><br>
-
-A Christian must not walk in darkness. A Christian must walk in the light of Christ.<br><br>
-
-The Bible says, “Looking unto Jesus the author and finisher of our faith” (Hebrews 12:2). Jesus is not only the beginning of our faith, He is also the standard. When we look unto Him, our lives are shaped to reflect Him.<br><br>
-
-Christianity is not just confession; it is transformation. Not just belief, but becoming like Christ.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, my God, help me to follow Jesus truly. Let my character reflect Christ. I look unto Jesus, the author and finisher of my faith, in Jesus’ Name. Amen.
-</p>
 
 
 
