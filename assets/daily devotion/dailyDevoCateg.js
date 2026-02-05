@@ -1,7 +1,40 @@
 export const dailyDevotionCateg = [{
-    date: 'WEDNESDAY 4TH FEBRUARY 2026',
+    date: 'THURSDAY 5TH FEBRUARY 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+
+<strong>THE VOICE OF ACCUSATION</strong><br><br>
+
+<strong>Revelation 12:10</strong><br>
+“For the accuser of our brethren is cast down, which accused them before our God day and night.”<br><br>
+
+The voice of accusation is one of the strongest weapons of the enemy. It is the voice that speaks against you, reminding you of your past sins, failures, and weaknesses to make you feel unworthy of God’s love. The Bible identifies Satan as the accuser who seeks to bring condemnation, guilt, and shame so that you will draw away from God.<br><br>
+
+However, the voice of God is different. While Satan accuses to destroy, God convicts to restore. God’s voice brings correction wrapped in love, not condemnation. This reminds us that God does not relate to us based on accusation, but on the power of redemption.<br><br>
+
+Through the blood of Jesus, every accusation has lost its power. When the enemy speaks, God answers with mercy. If you are in Christ, your past no longer has a voice because the blood of Jesus speaks better things over your life.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father My God, by the blood of Jesus, I silence every voice accusing me in Jesus' Name. Amen.
+</p>
+
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'WEDNESDAY, 4TH FEBRUARY 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -35,9 +68,13 @@ My Father, my God, thank you for giving me life abundantly. I choose to walk in 
 
 
 
+
+
+
+
 `
 }, {
-    date: 'SATURDAY, 31ST JANUARY 2026',
+    date: 'TUESDAY, 3RD FEBRUARY 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
@@ -59,55 +96,6 @@ Beloved, every darkness causing delay in your life must give way to the light of
 
 <strong>PRAYER</strong><br>
 My Father My God, let there be light all through the month of February. Darkness will not stop me in Jesus' name. Amen.
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'FRIDAY, 30TH JANUARY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-<strong>SATURDAY 31ST JANUARY 2026</strong><br><br>
-
-<strong>THE BOOK OF REMEMBRANCE</strong><br><br>
-
-<strong>Malachi 3:16</strong><br>
-“Then they that feared the LORD spake often one to another: and the LORD hearkened, and heard it, and a book of remembrance was written before him for them that feared the LORD, and that thought upon his name.”<br><br>
-
-The Bible talks about many books, but today we are looking at the Book of Remembrance. This is not an ordinary book. It is a heavenly record where God writes the deeds, tears, sacrifices, prayers, and faithfulness of his people.<br><br>
-
-Until this book is opened, some matters will not be attended to. Men may forget you, but when the Book of Remembrance is opened, heaven cannot ignore you.<br><br>
-
-Mordecai saved the king’s life, yet for years nobody rewarded him. But one night, God disturbed the king’s sleep. The book was opened, and suddenly Mordecai was remembered. One night changed his story forever. <strong>Esther 6:1–2</strong><br><br>
-
-The children of Israel cried in Egypt for many years. It looked as if God had forgotten them, but the Bible says,<br>
-“And God heard their groaning, and God remembered his covenant with Abraham, with Isaac, and with Jacob.” <strong>Exodus 2:24</strong><br><br>
-
-When God remembered them, deliverance followed. Chains broke. Bondage ended. Egypt released them.<br><br>
-
-Beloved, when God remembers you,<br>
-delays turn into acceleration,<br>
-tears turn into testimonies,<br>
-long waiting turns into sudden lifting.<br><br>
-
-One major thing that triggers the opening of the Book of Remembrance is the fear of God. May the Lord help us in Jesus’ name. Amen.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, my God, let the Book of Remembrance be opened for me. Remember my labor, my tears, my prayers, and my sacrifices in Jesus’ name. Amen.
 </p>
 
 
