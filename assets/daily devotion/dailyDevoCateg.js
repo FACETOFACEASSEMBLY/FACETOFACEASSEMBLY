@@ -1,7 +1,40 @@
 export const dailyDevotionCateg = [{
-    date: 'THURSDAY 5TH FEBRUARY 2026',
+    date: 'FRIDAY 6TH FEBRUARY 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>FRIDAY 6TH FEBRUARY 2026</strong><br><br>
+
+<strong>IT IS TIME FOR GOD TO WORK</strong><br><br>
+
+<strong>Psalm 119:126</strong><br>
+“It is time for thee, LORD, to work.”<br><br>
+
+Whenever God moves with His mighty hand, He is working, and the evidence of His labor is always visible. One primary way God works is by declaring light. From the beginning, His word has displaced darkness, bringing liberty, removing confusion, and breaking the chains of fear and bondage.<br><br>
+
+Another way God works is by stretching forth His right hand. We see this in the life of Peter, who began to sink while walking on water. In his moment of fear, he didn't offer a long prayer; he simply cried, “Lord, save me.” Immediately, Jesus stretched forth His hand and rescued him. <strong>Matthew 14:29–31</strong>.<br><br>
+
+The scripture reminds us in <strong>Isaiah 9:21</strong> that His hand is stretched out still. God’s hand is available for you today. All you need to do is cry out for His help and invite Him to work in your life. When you call upon Him to save you, you will experience an instant turnaround.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father My God, it is time for You to work. Let Your light shine and let Your right hand, which is full of power, save me from drowning in Jesus' Name. Amen.
+</p>
+
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'THURSDAY, 5TH FEBRUARY 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -20,6 +53,11 @@ Through the blood of Jesus, every accusation has lost its power. When the enemy 
 <strong>PRAYER</strong><br>
 My Father My God, by the blood of Jesus, I silence every voice accusing me in Jesus' Name. Amen.
 </p>
+
+
+
+
+
 
 
 
@@ -57,46 +95,6 @@ No matter what is happening around you, declare it with your mouth and believe i
 My Father, my God, thank you for giving me life abundantly. I choose to walk in Your life and light today and always in Jesus’ name. Amen.
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'TUESDAY, 3RD FEBRUARY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-<strong>MONDAY 2ND FEBRUARY 2026</strong><br><br>
-
-<strong>LET THERE BE LIGHT</strong><br><br>
-
-<strong>Genesis 1:3</strong><br>
-“And God said, Let there be light: and there was light.”<br><br>
-
-When God commanded light to appear, it signaled the immediate end of darkness. Light does not argue with darkness; it simply displaces it. In the same way, light in your life signifies a divine change—the end of sorrow and the beginning of joy.<br><br>
-
-The scriptures remind us that while weeping may endure for a night, joy comes in the morning. <strong>Psalm 30:5</strong>. Darkness is the realm of confusion, stagnation, and danger. Just as a driver must stop when their headlights fail, life without divine light leads to delay and backwardness.<br><br>
-
-Light is the catalyst for movement. Once the light comes on, progress continues. When the light of God shines upon you, stagnation dies, and you are empowered to move forward and upward.<br><br>
-
-Beloved, every darkness causing delay in your life must give way to the light of God. You cannot encounter His light and remain the same.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father My God, let there be light all through the month of February. Darkness will not stop me in Jesus' name. Amen.
-</p>
 
 
 
