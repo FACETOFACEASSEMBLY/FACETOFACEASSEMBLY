@@ -1,7 +1,38 @@
 export const dailyDevotionCateg = [{
-    date: 'SATURDAY 7TH FEBRUARY 2026',
+    date: 'SUNDAY 8TH FEBRUARY 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>GOD IS FAITHFUL</strong><br><br>
+
+<strong>Psalm 37:25</strong><br>
+“I have been young, and now am old; yet have I not seen the righteous forsaken, nor his seed begging bread.”<br><br>
+
+The faithfulness of God is a lifelong testimony. As the Psalmist observed over many years, God does not abandon the righteous or forget those who trust in Him. His faithfulness is not seasonal; it does not change with time, age, or shifting circumstances. From youth to old age, His hand remains sure upon His people.<br><br>
+
+God has made a permanent commitment to you, declaring in <strong>Hebrews 13:5</strong>, “I will never leave thee, nor forsake thee.” His presence is not a suggestion but a promise. While people may fail and situations may shift, God remains righteous in all His ways. He cannot deny Himself, and He cannot fail His people.<br><br>
+
+One profound expression of His faithfulness is how He sustains generations, ensuring that the seed of the righteous does not beg for bread. God is a keeper of generations; what He starts, He sustains. Even when you do not fully understand His process, you can always trust His character.<br><br>
+
+Do not judge God by a single moment; judge Him by His settled Word. Hold on to His mercy and rest in His faithfulness. He has never failed, and He will not start failing with you.<br><br>
+
+<strong>THANKSGIVING</strong><br>
+My Father My God, I thank You for Your faithfulness. I am forever grateful. Amen.
+</p>
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'SATURDAY, 7TH FEBRUARY 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -19,6 +50,12 @@ Another way the vision speaks is through faith and patience (<strong>Hebrews 6:1
 <strong>PRAYER</strong><br>
 My Father, My God, my eyes are on You; lighten my face. I shall not see shame in Jesus’ Name. Amen.
 </p>
+
+
+
+
+
+
 
 
 
@@ -50,44 +87,6 @@ The scripture reminds us in <strong>Isaiah 9:21</strong> that His hand is stretc
 
 <strong>PRAYER</strong><br>
 My Father My God, it is time for You to work. Let Your light shine and let Your right hand, which is full of power, save me from drowning in Jesus' Name. Amen.
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'THURSDAY, 5TH FEBRUARY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-
-<strong>THE VOICE OF ACCUSATION</strong><br><br>
-
-<strong>Revelation 12:10</strong><br>
-“For the accuser of our brethren is cast down, which accused them before our God day and night.”<br><br>
-
-The voice of accusation is one of the strongest weapons of the enemy. It is the voice that speaks against you, reminding you of your past sins, failures, and weaknesses to make you feel unworthy of God’s love. The Bible identifies Satan as the accuser who seeks to bring condemnation, guilt, and shame so that you will draw away from God.<br><br>
-
-However, the voice of God is different. While Satan accuses to destroy, God convicts to restore. God’s voice brings correction wrapped in love, not condemnation. This reminds us that God does not relate to us based on accusation, but on the power of redemption.<br><br>
-
-Through the blood of Jesus, every accusation has lost its power. When the enemy speaks, God answers with mercy. If you are in Christ, your past no longer has a voice because the blood of Jesus speaks better things over your life.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father My God, by the blood of Jesus, I silence every voice accusing me in Jesus' Name. Amen.
 </p>
 
 
