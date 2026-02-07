@@ -1,7 +1,37 @@
 export const dailyDevotionCateg = [{
-    date: 'FRIDAY 6TH FEBRUARY 2026',
+    date: 'SATURDAY 7TH FEBRUARY 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>WRITE THE VISION, IT MUST SPEAK</strong><br><br>
+
+<strong>Habakkuk 2:2–3</strong><br>
+“And the LORD answered me, and said, Write the vision, and make it plain upon tables, that he may run that readeth it. For the vision is yet for an appointed time, but at the end it shall speak, and not lie.”<br><br>
+
+Every vision that comes from God carries His power and is intended to guide you, not confuse you. When God instructs you to write the vision, He is encouraging you to hold onto His word even when the manifestation is not yet visible. A written vision keeps your faith alive during the seasons of waiting.<br><br>
+
+The Bible promises that though the vision may seem slow, it must speak—it will surely come to pass at the appointed time. One way the vision speaks is by keeping your focus on God. <strong>Psalm 34:5</strong> tells us that those who look to Him are lightened and their faces are never covered with shame. Divine light removes fear and disappointment, replacing them with hope.<br><br>
+
+Another way the vision speaks is through faith and patience (<strong>Hebrews 6:12</strong>). God’s timing is perfect; the vision is never late and it will not fail. Do not be distracted by people or circumstances. Keep your eyes fixed on God, and He will strengthen you and cause His promises to speak clearly in your life.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, my eyes are on You; lighten my face. I shall not see shame in Jesus’ Name. Amen.
+</p>
+
+
+
+
+
+
+
+
+
+`
+}, {
+    date: 'FRIDAY, 6TH FEBRUARY 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -21,6 +51,12 @@ The scripture reminds us in <strong>Isaiah 9:21</strong> that His hand is stretc
 <strong>PRAYER</strong><br>
 My Father My God, it is time for You to work. Let Your light shine and let Your right hand, which is full of power, save me from drowning in Jesus' Name. Amen.
 </p>
+
+
+
+
+
+
 
 
 
@@ -54,46 +90,6 @@ Through the blood of Jesus, every accusation has lost its power. When the enemy 
 My Father My God, by the blood of Jesus, I silence every voice accusing me in Jesus' Name. Amen.
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'WEDNESDAY, 4TH FEBRUARY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-<strong>WEDNESDAY 4TH FEBRUARY 2026</strong><br><br>
-
-<strong>I CHOOSE LIFE OVER DEATH</strong><br><br>
-
-<strong>John 10:10</strong><br>
-“The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly.”<br><br>
-
-Every day of our lives, we are making choices. Some choices bring life, and some bring death. God has already shown us the right path, but He will never force us; He gives us the power to choose. Jesus made it clear that there are only two options: the destruction offered by the enemy, or the abundant life found in Him.<br><br>
-
-When you choose Jesus, you are choosing life. When you reject Him, you open the door to destruction. In <strong>Joshua 24:15</strong>, Joshua spoke boldly, declaring that regardless of what the crowd did, he and his house would serve the Lord. Choosing God is choosing peace, direction, and eternal hope.<br><br>
-
-Death is not only physical; it manifests as sin, fear, confusion, depression, and disobedience. Conversely, life is found in righteousness, joy, and truth. Today, God is calling you to make a clear decision.<br><br>
-
-No matter what is happening around you, declare it with your mouth and believe it in your heart: I choose life over death, light over darkness, peace over confusion, and obedience over rebellion in Jesus’ name.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, my God, thank you for giving me life abundantly. I choose to walk in Your life and light today and always in Jesus’ name. Amen.
-</p>
 
 
 
