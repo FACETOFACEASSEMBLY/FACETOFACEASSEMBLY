@@ -1,7 +1,38 @@
 export const dailyDevotionCateg = [{
-    date: 'SUNDAY 8TH FEBRUARY 2026',
+    date: 'MONDAY 9TH FEBRUARY 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+
+<strong>TAKE IT BACK</strong><br><br>
+
+<strong>John 10:18</strong><br>
+“No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again. This commandment have I received of my Father.”<br><br>
+
+This verse shows us something amazing about Jesus. When He died, it looked like His life was taken by soldiers and enemies, but Jesus revealed that no one was strong enough to take it from Him. He chose to give His life, and even more, He had the power to take it back again. That is the power of resurrection.<br><br>
+
+This same power is for you today. The devil often tries to steal our peace, health, joy, or blessings. Sometimes it feels like he has won, but the story of Jesus tells a different story. Because Jesus has the power to take His life back, we also have the power in His name to take back what the enemy has stolen.<br><br>
+
+Think about David at Ziklag. The enemy had burned his home and taken his family and belongings. It looked like a total loss, but David did not give up. He asked God what to do, and God told him to pursue and recover all. David went and took back everything that was stolen. <strong>1 Samuel 30:1–8</strong><br><br>
+
+This shows that with God, a loss is not the end. You are not powerless; Jesus has given you His authority. You don't have to accept what the enemy has stolen. You can pray, stand, and declare in faith that you are taking it back. Your joy, health, family, and destiny are being recovered now in Jesus’ name.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father My GOD, by the power of Jesus, I take back everything the enemy has stolen from my life. I recover my peace, my health, my joy, and my blessings. I declare restoration now, in Jesus’ name. Amen.
+</p>
+
+
+
+
+
+
+
+`
+}, {
+    date: 'SUNDAY, 8TH FEBRUARY 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -21,6 +52,14 @@ Do not judge God by a single moment; judge Him by His settled Word. Hold on to H
 <strong>THANKSGIVING</strong><br>
 My Father My God, I thank You for Your faithfulness. I am forever grateful. Amen.
 </p>
+
+
+
+
+
+
+
+
 
 
 
@@ -50,49 +89,6 @@ Another way the vision speaks is through faith and patience (<strong>Hebrews 6:1
 <strong>PRAYER</strong><br>
 My Father, My God, my eyes are on You; lighten my face. I shall not see shame in Jesus’ Name. Amen.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'FRIDAY, 6TH FEBRUARY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-<strong>FRIDAY 6TH FEBRUARY 2026</strong><br><br>
-
-<strong>IT IS TIME FOR GOD TO WORK</strong><br><br>
-
-<strong>Psalm 119:126</strong><br>
-“It is time for thee, LORD, to work.”<br><br>
-
-Whenever God moves with His mighty hand, He is working, and the evidence of His labor is always visible. One primary way God works is by declaring light. From the beginning, His word has displaced darkness, bringing liberty, removing confusion, and breaking the chains of fear and bondage.<br><br>
-
-Another way God works is by stretching forth His right hand. We see this in the life of Peter, who began to sink while walking on water. In his moment of fear, he didn't offer a long prayer; he simply cried, “Lord, save me.” Immediately, Jesus stretched forth His hand and rescued him. <strong>Matthew 14:29–31</strong>.<br><br>
-
-The scripture reminds us in <strong>Isaiah 9:21</strong> that His hand is stretched out still. God’s hand is available for you today. All you need to do is cry out for His help and invite Him to work in your life. When you call upon Him to save you, you will experience an instant turnaround.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father My God, it is time for You to work. Let Your light shine and let Your right hand, which is full of power, save me from drowning in Jesus' Name. Amen.
-</p>
-
-
-
-
-
 
 `
 }]
