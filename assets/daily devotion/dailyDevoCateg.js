@@ -1,7 +1,40 @@
 export const dailyDevotionCateg = [{
-    date: 'MONDAY 9TH FEBRUARY 2026',
+    date: 'TUESDAY 10TH FEBRUARY 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+
+<strong>THE VOICE IN MY BLOODLINE</strong><br><br>
+
+<strong>Ezekiel 18:20</strong><br>
+“The soul that sinneth, it shall die. The son shall not bear the iniquity of the father, neither shall the father bear the iniquity of the son: the righteousness of the righteous shall be upon him, and the wickedness of the wicked shall be upon him.”<br><br>
+
+Every one of us comes from a family, and none of us appeared on earth without a bloodline. In every bloodline, there is a voice speaking—it can be good or evil, speaking blessings or trouble. The Bible shows that both wickedness and righteousness have a voice that can influence a lineage.<br><br>
+
+In <strong>Matthew 22:25–27</strong>, Jesus spoke about a family where death and barrenness repeated themselves from the first brother even unto the seventh. This illustrates how negative patterns can travel through a bloodline when they are not confronted. As <strong>Lamentations 5:7</strong> says, "Our fathers have sinned, and are not; and we have borne their iniquities."<br><br>
+
+To stop these patterns, you must take spiritual action:<br>
+1. Silence the voice of darkness (<strong>1 Samuel 2:9</strong>).<br>
+2. Call on the name of the Lord for deliverance (<strong>Joel 2:32</strong>).<br>
+3. Invoke the superior voice of the Blood of Jesus.<br><br>
+
+I pray for you: may the Lord separate you from every evil voice speaking against your life. May the voice of righteousness speak louder than every voice of wickedness in your bloodline in Jesus’ name. Amen.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father My God, I silence every evil voice speaking in my bloodline in Jesus' Name. Amen.
+</p>
+
+
+
+
+
+
+`
+}, {
+    date: 'MONDAY, 9TH FEBRUARY 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -22,6 +55,15 @@ This shows that with God, a loss is not the end. You are not powerless; Jesus ha
 <strong>PRAYER</strong><br>
 My Father My GOD, by the power of Jesus, I take back everything the enemy has stolen from my life. I recover my peace, my health, my joy, and my blessings. I declare restoration now, in Jesus’ name. Amen.
 </p>
+
+
+
+
+
+
+
+
+
 
 
 
@@ -51,43 +93,6 @@ Do not judge God by a single moment; judge Him by His settled Word. Hold on to H
 
 <strong>THANKSGIVING</strong><br>
 My Father My God, I thank You for Your faithfulness. I am forever grateful. Amen.
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'SATURDAY, 7TH FEBRUARY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-<strong>WRITE THE VISION, IT MUST SPEAK</strong><br><br>
-
-<strong>Habakkuk 2:2–3</strong><br>
-“And the LORD answered me, and said, Write the vision, and make it plain upon tables, that he may run that readeth it. For the vision is yet for an appointed time, but at the end it shall speak, and not lie.”<br><br>
-
-Every vision that comes from God carries His power and is intended to guide you, not confuse you. When God instructs you to write the vision, He is encouraging you to hold onto His word even when the manifestation is not yet visible. A written vision keeps your faith alive during the seasons of waiting.<br><br>
-
-The Bible promises that though the vision may seem slow, it must speak—it will surely come to pass at the appointed time. One way the vision speaks is by keeping your focus on God. <strong>Psalm 34:5</strong> tells us that those who look to Him are lightened and their faces are never covered with shame. Divine light removes fear and disappointment, replacing them with hope.<br><br>
-
-Another way the vision speaks is through faith and patience (<strong>Hebrews 6:12</strong>). God’s timing is perfect; the vision is never late and it will not fail. Do not be distracted by people or circumstances. Keep your eyes fixed on God, and He will strengthen you and cause His promises to speak clearly in your life.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, my eyes are on You; lighten my face. I shall not see shame in Jesus’ Name. Amen.
 </p>
 
 `
