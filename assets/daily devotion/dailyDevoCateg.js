@@ -1,7 +1,35 @@
 export const dailyDevotionCateg = [{
-    date: 'TUESDAY 10TH FEBRUARY 2026',
+    date: 'WEDNESDAY 11TH FEBRUARY 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>EVIDENCE</strong><br><br>
+
+<strong>Revelation 12:10</strong><br>
+“For the accuser of our brethren is cast down, which accused them before our God day and night.”<br><br>
+
+Evidence is a testimony, material, or object used to prove a point. In <strong>Genesis 39</strong>, when Joseph fled from Potiphar’s wife to maintain his integrity, he left his garment behind. That garment became false evidence used to put an innocent man in prison. Even though Joseph was blameless, the evidence in her hand spoke against him.<br><br>
+
+We see a different outcome in <strong>Luke 22:49–51</strong>. When Peter cut off the ear of the high priest's servant, that ear on the ground was evidence that could have sent Peter to prison. However, Jesus touched the man and healed him. By doing so, Jesus removed the evidence and saved Peter from the consequences of his actions.<br><br>
+
+Beloved, the devil is an accuser who uses past mistakes, sins, and failures as evidence against us day and night. But we have a greater Advocate in Jesus Christ. When Jesus steps in with mercy, accusation loses its power. Just as He restored the servant's ear, He can destroy every record of failure or object of accusation that the enemy holds against you.<br><br>
+
+Today, ask the Lord to wipe away every proof of sin and every record of failure speaking against your destiny. When Jesus heals and forgives, the negative evidence is destroyed forever.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father My God, by the power in the blood of Jesus, I cancel every evidence against me and my household in Jesus' Name. Amen.
+</p>
+
+
+
+
+
+`
+}, {
+    date: 'TUESDAY, 10TH FEBRUARY 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -25,6 +53,18 @@ I pray for you: may the Lord separate you from every evil voice speaking against
 <strong>PRAYER</strong><br>
 My Father My God, I silence every evil voice speaking in my bloodline in Jesus' Name. Amen.
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -55,45 +95,5 @@ This shows that with God, a loss is not the end. You are not powerless; Jesus ha
 <strong>PRAYER</strong><br>
 My Father My GOD, by the power of Jesus, I take back everything the enemy has stolen from my life. I recover my peace, my health, my joy, and my blessings. I declare restoration now, in Jesus’ name. Amen.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'SUNDAY, 8TH FEBRUARY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-<strong>GOD IS FAITHFUL</strong><br><br>
-
-<strong>Psalm 37:25</strong><br>
-“I have been young, and now am old; yet have I not seen the righteous forsaken, nor his seed begging bread.”<br><br>
-
-The faithfulness of God is a lifelong testimony. As the Psalmist observed over many years, God does not abandon the righteous or forget those who trust in Him. His faithfulness is not seasonal; it does not change with time, age, or shifting circumstances. From youth to old age, His hand remains sure upon His people.<br><br>
-
-God has made a permanent commitment to you, declaring in <strong>Hebrews 13:5</strong>, “I will never leave thee, nor forsake thee.” His presence is not a suggestion but a promise. While people may fail and situations may shift, God remains righteous in all His ways. He cannot deny Himself, and He cannot fail His people.<br><br>
-
-One profound expression of His faithfulness is how He sustains generations, ensuring that the seed of the righteous does not beg for bread. God is a keeper of generations; what He starts, He sustains. Even when you do not fully understand His process, you can always trust His character.<br><br>
-
-Do not judge God by a single moment; judge Him by His settled Word. Hold on to His mercy and rest in His faithfulness. He has never failed, and He will not start failing with you.<br><br>
-
-<strong>THANKSGIVING</strong><br>
-My Father My God, I thank You for Your faithfulness. I am forever grateful. Amen.
-</p>
-
 `
 }]
