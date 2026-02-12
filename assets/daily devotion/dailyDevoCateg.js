@@ -1,7 +1,34 @@
 export const dailyDevotionCateg = [{
-    date: 'WEDNESDAY 11TH FEBRUARY 2026',
+    date: 'THURSDAY 12TH FEBRUARY 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>PERILOUS TIMES</strong><br><br>
+
+<strong>2 Timothy 3:1</strong><br>
+“This know also, that in the last days perilous times shall come.”<br><br>
+
+The word "perilous" means dangerous, hard, stressful, and troubling. The Bible does not say perilous times <em>might</em> come; it says they <em>shall</em> come. Apostle Paul warned that in these times, men would be lovers of themselves, covetous, proud, unholy, and lovers of pleasure more than lovers of God. Looking around today, we see these truths manifesting as wickedness increases and the fear of God diminishes.<br><br>
+
+As Christians, we should not be surprised or panic. Jesus already told us that as iniquity abounds, the love of many would grow cold (<strong>Matthew 24:12</strong>). Perilous times are not a signal to run away from God, but a sign to hold tighter to His Word. We are instructed to continue in the things we have learned and been assured of (<strong>2 Timothy 3:14</strong>).<br><br>
+
+In these difficult seasons, our responsibility is to stand on the Word, live in holiness, pray without ceasing, and refuse to follow the crowd or water down the truth. Our prayer should not just be for the removal of the times, but for the grace to remain standing.<br><br>
+
+Perilous times are certain, but God’s grace is always greater. No matter how dark the world becomes, the grace of God is sufficient to keep you and your household sanctified and secure.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father My God, give me grace to stand with Your Word. Sanctify me and my household daily in Jesus' Name. Amen.
+</p>
+
+
+
+
+`
+}, {
+    date: 'WEDNESDAY, 11TH FEBRUARY 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -21,6 +48,19 @@ Today, ask the Lord to wipe away every proof of sin and every record of failure 
 <strong>PRAYER</strong><br>
 My Father My God, by the power in the blood of Jesus, I cancel every evidence against me and my household in Jesus' Name. Amen.
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -54,46 +94,5 @@ I pray for you: may the Lord separate you from every evil voice speaking against
 My Father My God, I silence every evil voice speaking in my bloodline in Jesus' Name. Amen.
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'MONDAY, 9TH FEBRUARY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-
-<strong>TAKE IT BACK</strong><br><br>
-
-<strong>John 10:18</strong><br>
-“No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again. This commandment have I received of my Father.”<br><br>
-
-This verse shows us something amazing about Jesus. When He died, it looked like His life was taken by soldiers and enemies, but Jesus revealed that no one was strong enough to take it from Him. He chose to give His life, and even more, He had the power to take it back again. That is the power of resurrection.<br><br>
-
-This same power is for you today. The devil often tries to steal our peace, health, joy, or blessings. Sometimes it feels like he has won, but the story of Jesus tells a different story. Because Jesus has the power to take His life back, we also have the power in His name to take back what the enemy has stolen.<br><br>
-
-Think about David at Ziklag. The enemy had burned his home and taken his family and belongings. It looked like a total loss, but David did not give up. He asked God what to do, and God told him to pursue and recover all. David went and took back everything that was stolen. <strong>1 Samuel 30:1–8</strong><br><br>
-
-This shows that with God, a loss is not the end. You are not powerless; Jesus has given you His authority. You don't have to accept what the enemy has stolen. You can pray, stand, and declare in faith that you are taking it back. Your joy, health, family, and destiny are being recovered now in Jesus’ name.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father My GOD, by the power of Jesus, I take back everything the enemy has stolen from my life. I recover my peace, my health, my joy, and my blessings. I declare restoration now, in Jesus’ name. Amen.
-</p>
 `
 }]
