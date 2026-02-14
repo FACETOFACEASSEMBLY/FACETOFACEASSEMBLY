@@ -1,7 +1,35 @@
 export const dailyDevotionCateg = [{
-    date: 'THURSDAY 12TH FEBRUARY 2026',
+    date: 'SATURDAY 14TH FEBRUARY 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+
+
+<strong>GOD’S LOVE</strong><br><br>
+
+<strong>Romans 5:8</strong><br>
+“But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.”<br><br>
+
+God’s love is not ordinary love. It is not based on feelings, performance, or what we deserve. The Bible reveals that Christ died for us while we were yet sinners; He loved us before we changed, before we repented, and even at our worst. This is the definition of real love.<br><br>
+
+While human love often depends on being pleased or treated well, God’s love reached out to us even when we were far from Him. In <strong>Jeremiah 31:3</strong>, He declares, “I have loved thee with an everlasting love.” Everlasting means it never ends, never grows weak, and never changes with time. Though friends and people may fail or disappoint you, God’s love remains constant.<br><br>
+
+The ultimate proof of this love is found in <strong>John 3:16</strong>—the sacrifice of His only begotten Son. The cross is the eternal evidence of your value. When you truly understand God’s love, you stop begging for acceptance and move away from living in fear or doubting your worth.<br><br>
+
+God’s love provides you with security, identity, and peace—not because you are perfect, but because He is love (<strong>1 John 4:16</strong>). Rest in the assurance that you are cherished by the Almighty today.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, Thank You for loving me with an everlasting love. Help me to rest in Your love daily in Jesus’ Name. Amen.
+</p>
+
+
+
+`
+}, {
+    date: 'THURSDAY, 12TH FEBRUARY 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -25,9 +53,23 @@ My Father My God, give me grace to stand with Your Word. Sanctify me and my hous
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 `
 }, {
-    date: 'WEDNESDAY, 11TH FEBRUARY 2026',
+    date: 'WEDNESDAY 11TH FEBRUARY 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
@@ -47,51 +89,6 @@ Today, ask the Lord to wipe away every proof of sin and every record of failure 
 
 <strong>PRAYER</strong><br>
 My Father My God, by the power in the blood of Jesus, I cancel every evidence against me and my household in Jesus' Name. Amen.
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'TUESDAY, 10TH FEBRUARY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-
-<strong>THE VOICE IN MY BLOODLINE</strong><br><br>
-
-<strong>Ezekiel 18:20</strong><br>
-“The soul that sinneth, it shall die. The son shall not bear the iniquity of the father, neither shall the father bear the iniquity of the son: the righteousness of the righteous shall be upon him, and the wickedness of the wicked shall be upon him.”<br><br>
-
-Every one of us comes from a family, and none of us appeared on earth without a bloodline. In every bloodline, there is a voice speaking—it can be good or evil, speaking blessings or trouble. The Bible shows that both wickedness and righteousness have a voice that can influence a lineage.<br><br>
-
-In <strong>Matthew 22:25–27</strong>, Jesus spoke about a family where death and barrenness repeated themselves from the first brother even unto the seventh. This illustrates how negative patterns can travel through a bloodline when they are not confronted. As <strong>Lamentations 5:7</strong> says, "Our fathers have sinned, and are not; and we have borne their iniquities."<br><br>
-
-To stop these patterns, you must take spiritual action:<br>
-1. Silence the voice of darkness (<strong>1 Samuel 2:9</strong>).<br>
-2. Call on the name of the Lord for deliverance (<strong>Joel 2:32</strong>).<br>
-3. Invoke the superior voice of the Blood of Jesus.<br><br>
-
-I pray for you: may the Lord separate you from every evil voice speaking against your life. May the voice of righteousness speak louder than every voice of wickedness in your bloodline in Jesus’ name. Amen.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father My God, I silence every evil voice speaking in my bloodline in Jesus' Name. Amen.
 </p>
 
 `
