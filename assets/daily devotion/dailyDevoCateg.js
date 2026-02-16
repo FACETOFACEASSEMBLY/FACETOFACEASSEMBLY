@@ -1,7 +1,32 @@
 export const dailyDevotionCateg = [{
-    date: 'SUNDAY 15TH FEBRUARY 2026',
+    date: 'MONDAY 16TH FEBRUARY 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+
+<strong>HELP FROM EVERY DIRECTION</strong><br><br>
+
+<strong>Genesis 13:14–15</strong><br>
+“And the LORD said unto Abram... Lift up now thine eyes, and look from the place where thou art northward, and southward, and eastward, and westward: For all the land which thou seest, to thee will I give it, and to thy seed for ever.”<br><br>
+
+When God wanted to bless Abraham, He told him to look in every direction: north, south, east, and west. This instruction was a prophetic symbol that God’s help, blessing, and favor can come from every corner of life. God never runs out of channels to lift a man; He can raise a helper from any part of the earth.<br><br>
+
+Though God is sovereign and all-powerful, He delights in using human vessels to execute His will. We see this throughout scripture: Aaron and Hur helped Moses when his hands grew weak, Joseph preserved nations, and Barnabas was sent to strengthen Paul. Truly, God’s help often wears a human face.<br><br>
+
+The Bible describes open gates on every side of the city of God—north, south, east, and west (<strong>Ezekiel 48:30–35</strong>; <strong>Revelation 21:12–13</strong>). This means that from every direction, there are open gates of help, favor, and destiny available to you. You may not know exactly where your breakthrough will come from, but God does.<br><br>
+
+The same God who sent ravens to Elijah and wise men to Jesus can stir hearts from the least expected places to favor you. Trust that He is moving across every direction of the earth to bring your help to you in this season.<br><br>
+
+<strong>PRAYERS</strong><br>
+My Father, My God, open to me and my family the four gates, and let helpers and Your blessings flow to us from every direction, in Jesus’ Name. Amen.
+</p>
+
+`
+}, {
+    date: 'SUNDAY, 15TH FEBRUARY 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -24,9 +49,23 @@ My Father my God, increase me more and more in Jesus' name. Amen.<br><br>
 </p>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 `
 }, {
-    date: 'SATURDAY, 14TH FEBRUARY 2026',
+    date: 'SATURDAY 14TH FEBRUARY 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
@@ -48,46 +87,6 @@ God’s love provides you with security, identity, and peace—not because you a
 
 <strong>PRAYER</strong><br>
 My Father, My God, Thank You for loving me with an everlasting love. Help me to rest in Your love daily in Jesus’ Name. Amen.
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'FRIDAY 13TH FEBRUARY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-<strong>PERILOUS TIMES</strong><br><br>
-
-<strong>2 Timothy 3:1</strong><br>
-“This know also, that in the last days perilous times shall come.”<br><br>
-
-The word "perilous" means dangerous, hard, stressful, and troubling. The Bible does not say perilous times <em>might</em> come; it says they <em>shall</em> come. Apostle Paul warned that in these times, men would be lovers of themselves, covetous, proud, unholy, and lovers of pleasure more than lovers of God. Looking around today, we see these truths manifesting as wickedness increases and the fear of God diminishes.<br><br>
-
-As Christians, we should not be surprised or panic. Jesus already told us that as iniquity abounds, the love of many would grow cold (<strong>Matthew 24:12</strong>). Perilous times are not a signal to run away from God, but a sign to hold tighter to His Word. We are instructed to continue in the things we have learned and been assured of (<strong>2 Timothy 3:14</strong>).<br><br>
-
-In these difficult seasons, our responsibility is to stand on the Word, live in holiness, pray without ceasing, and refuse to follow the crowd or water down the truth. Our prayer should not just be for the removal of the times, but for the grace to remain standing.<br><br>
-
-Perilous times are certain, but God’s grace is always greater. No matter how dark the world becomes, the grace of God is sufficient to keep you and your household sanctified and secure.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father My God, give me grace to stand with Your Word. Sanctify me and my household daily in Jesus' Name. Amen.
 </p>
 
 `
