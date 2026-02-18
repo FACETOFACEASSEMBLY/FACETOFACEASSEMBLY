@@ -1,7 +1,31 @@
 export const dailyDevotionCateg = [{
-    date: 'MONDAY 16TH FEBRUARY 2026',
+    date: 'WEDNESDAY 18TH FEBRUARY 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>WEDNESDAY 18TH FEBRUARY 2026</strong><br><br>
+
+<strong>THE RIGHT HAND OF GOD IS STRETCHED OUT STILL</strong><br><br>
+
+<strong>Isaiah 9:12</strong><br>
+“For all this his anger is not turned away, but his hand is stretched out still.”<br><br>
+
+The right hand of God speaks of His power, His authority, and His ability to save, deliver, and judge (<strong>Psalm 118:16</strong>). When the scripture says, “His hand is stretched out still,” it means God has not withdrawn His power; He has not folded His hands. His divine ability remains active on behalf of His children.<br><br>
+
+Even when God corrected Israel for their sins, His hand remained stretched out. This is because God’s stretched-out hand is not only for judgment; it is also for mercy. It was His right hand that parted the Red Sea, defeated mighty enemies, and lifted Peter when he began to sink in the storm. Today, that same hand is stretched out toward you to save and restore you.<br><br>
+
+You may feel forgotten, delayed, or unworthy, but God’s hand is still reaching for you. If you are in sin, His hand calls you to repentance; if you are weak, it offers strength; and if you are tired, it offers rest. The same hand that created the heavens is reaching toward you—do not run away from it, but rather run to it.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father My God, I thank You because Your right hand is stretched out still. Stretch it towards me in mercy; lift me where I have fallen and strengthen me in Jesus' name. Amen.
+</p>
+
+`
+}, {
+    date: 'TUESDAY, 17TH FEBRUARY 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -23,9 +47,23 @@ The same God who sent angels to Abraham, ravens to Elijah, and wise men to Jesus
 My Father, My God, open to me and my family the four gates, and let helpers and Your blessings flow to us, in Jesus’ Name. Amen.
 </p>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 `
 }, {
-    date: 'SUNDAY, 15TH FEBRUARY 2026',
+    date: 'MONDAY 16TH FEBRUARY 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
@@ -48,44 +86,6 @@ The same God who sent ravens to Elijah and wise men to Jesus can stir hearts fro
 My Father, My God, open to me and my family the four gates, and let helpers and Your blessings flow to us from every direction, in Jesus’ Name. Amen.
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'SATURDAY 14TH FEBRUARY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-<strong>WHEN YOUR WAY PLEASES GOD</strong><br><br>
-
-<strong>Proverbs 16:7</strong><br>
-“When a man's ways please the Lord, he maketh even his enemies to be at peace with him.”<br><br>
-
-This passage teaches us that when our lives are pleasing to God, He does wonderful things on our behalf. One of those blessings is divine peace—He takes those who are our enemies and causes them to be at peace with us. This doesn't mean that enemies cease to exist, but rather that God restrains them. Even if they still harbor ill will, they are compelled to choose peace over conflict and destruction.<br><br>
-
-Pleasing God is the key to increasing "more and more" in every area of life (<strong>1 Thessalonians 4:1</strong>). If you desire to seek and find God, you must also strive to please Him. We please the Father through our giving, our prayer life, fasting, and a commitment to doing His will. As we align our walk with His desires, our path shines brighter and brighter.<br><br>
-
-In <strong>Matthew 6:33</strong>, we are commanded to seek first the kingdom of God and His righteousness. When this becomes our primary focus, all the "things" we need are added unto us. Prioritize God's pleasure, and He will handle your battles and your provisions.<br><br>
-
-<strong>PRAYERS</strong><br>
-My Father my God, cause me to please You in the name of Jesus.<br>
-My Father my God, increase me more and more in Jesus' name. Amen.<br><br>
-
-<strong>Worship with us this Sunday @ FACE TO FACE ASSEMBLY, 6:30 AM</strong>
-</p>
 
 `
 }]
