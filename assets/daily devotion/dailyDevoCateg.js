@@ -1,7 +1,33 @@
 export const dailyDevotionCateg = [{
-    date: 'THURSDAY 19TH FEBRUARY 2026',
+    date: 'FRIDAY 20TH FEBRUARY 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+
+<strong>THE LORD IS MY SHEPHERD</strong><br><br>
+
+<strong>Psalm 80:1</strong><br>
+“Give ear, O Shepherd of Israel, thou that leadest Joseph like a flock; thou that dwellest between the cherubims, shine forth.”<br><br>
+
+The revelation of God as Shepherd is one of the greatest mysteries of covenant security. He is the Shepherd of Israel—the One who leads, protects, preserves, and causes His flock to triumph. A walk with the Shepherd is a victorious walk; when we truly follow Him, we walk a path free from confusion, lack, and abandonment. It is a walk where nothing is missing and nothing is broken.<br><br>
+
+Jesus demonstrated this system in <strong>Luke 22:35</strong> when He asked His disciples if they lacked anything when He sent them out without purse or scrip. Their answer was, “Nothing.” This is the Shepherd’s system: when He leads, provision follows. When He sends, supply answers. When He guides, preservation is guaranteed.<br><br>
+
+<strong>Psalm 23:1</strong> declares, “The LORD is my shepherd; I shall not want.” Notice it does not say "I may not want." When the Lord is truly your Shepherd, fear loses its voice and lack loses its power. Goodness and mercy become your daily companions. May the good Lord shepherd you all the days of your life.<br><br>
+
+Declare this boldly: The Lord is my Shepherd. I shall not want. I shall not lack. I shall not be stranded. I walk in divine guidance, divine provision, and divine preservation in Jesus’ Name. Amen.<br><br>
+
+<strong>Join us in any Face-to-Face Assembly nearest to you for worship</strong><br>
+<strong>SUNDAYS – 6:30 AM & 8:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU</strong>
+</p>
+`
+}, {
+    date: 'THURSDAY, 19TH FEBRUARY 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -23,9 +49,23 @@ When God finishes what He has started in your life, people will hear of it and d
 <strong>PRAYER</strong><br>
 My Father My God, give me a new song; turn my mourning into dancing in Jesus’ name. Amen.
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 `
 }, {
-    date: 'WEDNESDAY, 18TH FEBRUARY 2026',
+    date: 'WEDNESDAY 18TH FEBRUARY 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
@@ -46,46 +86,6 @@ You may feel forgotten, delayed, or unworthy, but God’s hand is still reaching
 <strong>PRAYER</strong><br>
 My Father My God, I thank You because Your right hand is stretched out still. Stretch it towards me in mercy; lift me where I have fallen and strengthen me in Jesus' name. Amen.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'TUESDAY 17TH FEBRUARY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-
-<strong>HELP FROM EVERY DIRECTION</strong><br><br>
-
-<strong>Genesis 13:14–15</strong><br>
-“And the LORD said unto Abram... Lift up now thine eyes, and look from the place where thou art northward, and southward, and eastward, and westward: For all the land which thou seest, to thee will I give it, and to thy seed for ever.”<br><br>
-
-When God wanted to bless Abraham, He told him to look in every direction: north, south, east, and west. This instruction was a prophetic symbol that God’s help, blessing, and favor can come from every direction of life. God does not run out of channels to lift a man; He can raise a helper from any corner of the earth.<br><br>
-
-Scripture shows us that God often works through men to help men. Though He is sovereign, He delights in using human vessels to execute His will. Just as Aaron and Hur supported Moses, Joseph preserved nations, and Barnabas strengthened Paul, God’s help often wears a human face.<br><br>
-
-The Bible speaks of four major directions and describes gates on each side of the city of God (<strong>Ezekiel 48:30–35</strong>; <strong>Revelation 21:12–13</strong>). This signifies that from every direction, there are open gates of help, favor, and destiny. You may not know where your help will come from, but God does.<br><br>
-
-The same God who sent angels to Abraham, ravens to Elijah, and wise men to Jesus can stir hearts from every corner of the earth to favor you. Trust Him to open the gates of help from places you least expect.<br><br>
-
-<strong>PRAYERS</strong><br>
-My Father, My God, open to me and my family the four gates, and let helpers and Your blessings flow to us, in Jesus’ Name. Amen.
-</p>
-
 
 
 `
