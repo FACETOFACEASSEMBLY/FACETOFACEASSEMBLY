@@ -1,7 +1,31 @@
 export const dailyDevotionCateg = [{
-    date: 'FRIDAY 20TH FEBRUARY 2026',
+    date: 'SATURDAY 21TH FEBRUARY 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+
+<strong>KNOCKING ON THE RIGHT DOOR</strong><br><br>
+
+<strong>Isaiah 45:2</strong><br>
+“I will go before thee, and make the crooked places straight: I will break in pieces the gates of brass, and cut in sunder the bars of iron.”<br><br>
+
+Imagine a man visiting a friend but knocking on the wrong apartment door. He knocks for a long time, waits, and knocks again, but his friend is in a different room waiting for him. The problem isn't the building or the timing; the problem is the wrong door. When you knock on the wrong door, you waste your time, your season, and your finances. Many people are sincere, but they are struggling because they are knocking on doors God never opened for them.<br><br>
+
+When God goes before you, He ensures you do not waste your life on the wrong opportunities. He leads you to the right place at the right time. We see this with the disciples who labored all night and caught nothing. They were experienced fishermen, yet they were unsuccessful until Jesus gave them divine direction: “Cast the net on the right side of the ship.” The sea, the boat, and the nets were the same, but the direction changed. Success is often not about working harder, but about working under divine instruction.<br><br>
+
+This year, you must refuse to move without God. Do not start a project, enter a relationship, or make an investment without His leading. Some doors look attractive but are empty, while others look small but carry your destiny. God knows the right people, the right business, and the perfect timing for your lifting.<br><br>
+
+Ask God to show you the right door today. One right door, opened by God, can change your life forever. Refuse to waste your strength and resources on what God has not sanctioned.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father My God, lead me to the right door this year. I refuse to waste my time, season, and finances. Lead me by Your Spirit in Jesus’ name. Amen.
+</p>
+`
+}, {
+    date: 'FRIDAY, 20TH FEBRUARY 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -24,9 +48,22 @@ Declare this boldly: The Lord is my Shepherd. I shall not want. I shall not lack
 
 <strong>GOD BLESS YOU</strong>
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 `
 }, {
-    date: 'THURSDAY, 19TH FEBRUARY 2026',
+    date: 'THURSDAY 19TH FEBRUARY 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
@@ -50,42 +87,6 @@ When God finishes what He has started in your life, people will hear of it and d
 My Father My God, give me a new song; turn my mourning into dancing in Jesus’ name. Amen.
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'WEDNESDAY 18TH FEBRUARY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-<strong>WEDNESDAY 18TH FEBRUARY 2026</strong><br><br>
-
-<strong>THE RIGHT HAND OF GOD IS STRETCHED OUT STILL</strong><br><br>
-
-<strong>Isaiah 9:12</strong><br>
-“For all this his anger is not turned away, but his hand is stretched out still.”<br><br>
-
-The right hand of God speaks of His power, His authority, and His ability to save, deliver, and judge (<strong>Psalm 118:16</strong>). When the scripture says, “His hand is stretched out still,” it means God has not withdrawn His power; He has not folded His hands. His divine ability remains active on behalf of His children.<br><br>
-
-Even when God corrected Israel for their sins, His hand remained stretched out. This is because God’s stretched-out hand is not only for judgment; it is also for mercy. It was His right hand that parted the Red Sea, defeated mighty enemies, and lifted Peter when he began to sink in the storm. Today, that same hand is stretched out toward you to save and restore you.<br><br>
-
-You may feel forgotten, delayed, or unworthy, but God’s hand is still reaching for you. If you are in sin, His hand calls you to repentance; if you are weak, it offers strength; and if you are tired, it offers rest. The same hand that created the heavens is reaching toward you—do not run away from it, but rather run to it.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father My God, I thank You because Your right hand is stretched out still. Stretch it towards me in mercy; lift me where I have fallen and strengthen me in Jesus' name. Amen.
-</p>
 
 
 `
