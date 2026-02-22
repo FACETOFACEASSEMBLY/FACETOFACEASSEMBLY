@@ -1,7 +1,35 @@
 export const dailyDevotionCateg = [{
-    date: 'SATURDAY 21TH FEBRUARY 2026',
+    date: 'SUNDAY 22TH FEBRUARY 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>SUNDAY 22ND FEBRUARY 2026</strong><br><br>
+
+<strong>LEARN TO GIVE THANKS</strong><br><br>
+
+<strong>Isaiah 43:21</strong><br>
+“This people have I formed for myself; they shall shew forth my praise.”<br><br>
+
+One major reason God created us is to praise Him always, regardless of our circumstances. We see a powerful example of this in <strong>John 6:11–23</strong>. When Jesus was faced with scarcity while feeding the five thousand, He did not focus on the lack; instead, He gave thanks. Immediately after He gave thanks, divine supply was released, turning a situation of insufficiency into an abundance that left twelve baskets of fragments remaining.<br><br>
+
+God expects us to thank Him in everything and for everything. In <strong>Luke 17:15–17</strong>, after Jesus healed ten lepers, only one returned to give Him glory. Jesus asked, "Where are the nine?" This shows that God is always waiting and watching for our return with thanksgiving. Thanksgiving is a spiritual necessity if you want to see the hand of God at work, for He inhabits the praises of His people (<strong>Psalm 22:3</strong>).<br><br>
+
+Furthermore, in <strong>John 11:41–44</strong>, Jesus gave thanks at the grave of Lazarus. That act of gratitude brought the dead back to life. This means that when you thank God for a "dying" business, marriage, or career, you are inviting resurrection power into that situation. Instead of complaining, lift your voice to Heaven right now and give God thanks.<br><br>
+
+<strong>PRAYERS</strong><br>
+My Father, My God, give me the grace to thank You always, especially in situations that compel me to complain. I choose to praise You today in Jesus’ Name. Amen.<br><br>
+
+<strong>Join us in any Face To Face Assembly nearest to you.</strong><br>
+<strong>Sunday: 1st Serv 6:00 AM, 2nd Serv 8:00 AM</strong><br><br>
+
+<strong>GOD BLESS YOU</strong>
+</p>
+`
+}, {
+    date: 'SATURDAY, 21ST FEBRUARY 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -22,9 +50,21 @@ Ask God to show you the right door today. One right door, opened by God, can cha
 <strong>PRAYER</strong><br>
 My Father My God, lead me to the right door this year. I refuse to waste my time, season, and finances. Lead me by Your Spirit in Jesus’ name. Amen.
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
 `
 }, {
-    date: 'FRIDAY, 20TH FEBRUARY 2026',
+    date: 'FRIDAY 20TH FEBRUARY 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
@@ -49,43 +89,6 @@ Declare this boldly: The Lord is my Shepherd. I shall not want. I shall not lack
 <strong>GOD BLESS YOU</strong>
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'THURSDAY 19TH FEBRUARY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-<strong>THURSDAY 19TH FEBRUARY 2026</strong><br><br>
-
-<strong>OH LORD GIVE ME A NEW SONG</strong><br><br>
-
-<strong>Psalm 40:3</strong><br>
-“And he hath put a new song in my mouth, even praise unto our God: many shall see it, and fear, and shall trust in the LORD.”<br><br>
-
-Before a breakthrough appears publicly, Heaven often shifts something internally. Hope rises, and the burdens that once felt heavy begin to feel lighter—this is the beginning of a new song. A new song is not just about music; it is about testimony. It is the spiritual evidence that God has moved on your behalf.<br><br>
-
-When God lifts you from the pit of despair, He places a new sound within you. He becomes your song, your strength, and your salvation. When God does a new thing, your declaration changes to: “The Lord has done it; my season has changed; mercy has spoken for me and my family.” Often, you don’t even realize the song has changed until you look back and see that you survived what was meant to destroy you.<br><br>
-
-Beloved, you may still be in the middle of your story, but do not worry. The God who gave Hannah a song of triumph will give you yours as well. The God who turned David’s mourning into dancing remains the same today. To everyone who is tired: a new song is coming to you very soon in the name of the Lord.<br><br>
-
-When God finishes what He has started in your life, people will hear of it and declare with you that this is the Lord’s doing, and it is marvelous in our eyes.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father My God, give me a new song; turn my mourning into dancing in Jesus’ name. Amen.
-</p>
 
 
 
