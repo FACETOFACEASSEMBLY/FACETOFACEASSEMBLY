@@ -1,7 +1,35 @@
 export const dailyDevotionCateg = [{
-    date: 'SUNDAY 22TH FEBRUARY 2026',
+    date: 'FRIDAY 27th FEBRUARY 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>FRIDAY 27TH FEBRUARY 2026</strong><br><br>
+
+<strong>IN HIM WE HAVE ALL THINGS</strong><br><br>
+
+<strong>Colossians 1:16</strong><br>
+“For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him.”<br><br>
+
+If all things were truly made by Him, then you must rely on Him for help on a daily basis. Scripture reminds us in <strong>Acts 17:28</strong> that it is in Him we live, move, and have our being. Whatever you desire to do or achieve, ensure you involve God and proceed in His name.<br><br>
+
+Throughout history, the great men and women of faith achieved results by declaring God's involvement. In <strong>Genesis 22:8</strong>, Abraham declared that God would provide. In <strong>Daniel 3:17</strong>, the Hebrew boys confidently stated that God would deliver them. Even Rachel, in <strong>Genesis 30:23</strong>, testified that God had taken away her reproach. They didn't rely on their own strength; they relied on the Creator.<br><br>
+
+Declare it now with faith: God will heal me, God will prosper my business, God will give me my visa, and God will bless my womb. God will take care of my children and make a way for me. If you do not declare that God will do it, then you must be prepared to do it by yourself. Choose today to lean on His all-sufficient power.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, I rely on You for all things. I involve You in my plans and declare that You are my provider, my healer, and my way-maker in Jesus’ name. Amen.<br><br>
+
+<strong>Join us in any Face to Face Assembly nearest to you:</strong><br>
+<strong>SUNDAYS – 6:30 AM & 8:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU!</strong>
+</p>
+`
+}, {
+    date: 'SUNDAY, 22ND FEBRUARY 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -26,9 +54,20 @@ My Father, My God, give me the grace to thank You always, especially in situatio
 
 <strong>GOD BLESS YOU</strong>
 </p>
+
+
+
+
+
+
+
+
+
+
+
 `
 }, {
-    date: 'SATURDAY, 21ST FEBRUARY 2026',
+    date: 'SATURDAY 21ST FEBRUARY 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
@@ -50,45 +89,6 @@ Ask God to show you the right door today. One right door, opened by God, can cha
 <strong>PRAYER</strong><br>
 My Father My God, lead me to the right door this year. I refuse to waste my time, season, and finances. Lead me by Your Spirit in Jesus’ name. Amen.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'FRIDAY 20TH FEBRUARY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-
-<strong>THE LORD IS MY SHEPHERD</strong><br><br>
-
-<strong>Psalm 80:1</strong><br>
-“Give ear, O Shepherd of Israel, thou that leadest Joseph like a flock; thou that dwellest between the cherubims, shine forth.”<br><br>
-
-The revelation of God as Shepherd is one of the greatest mysteries of covenant security. He is the Shepherd of Israel—the One who leads, protects, preserves, and causes His flock to triumph. A walk with the Shepherd is a victorious walk; when we truly follow Him, we walk a path free from confusion, lack, and abandonment. It is a walk where nothing is missing and nothing is broken.<br><br>
-
-Jesus demonstrated this system in <strong>Luke 22:35</strong> when He asked His disciples if they lacked anything when He sent them out without purse or scrip. Their answer was, “Nothing.” This is the Shepherd’s system: when He leads, provision follows. When He sends, supply answers. When He guides, preservation is guaranteed.<br><br>
-
-<strong>Psalm 23:1</strong> declares, “The LORD is my shepherd; I shall not want.” Notice it does not say "I may not want." When the Lord is truly your Shepherd, fear loses its voice and lack loses its power. Goodness and mercy become your daily companions. May the good Lord shepherd you all the days of your life.<br><br>
-
-Declare this boldly: The Lord is my Shepherd. I shall not want. I shall not lack. I shall not be stranded. I walk in divine guidance, divine provision, and divine preservation in Jesus’ Name. Amen.<br><br>
-
-<strong>Join us in any Face-to-Face Assembly nearest to you for worship</strong><br>
-<strong>SUNDAYS – 6:30 AM & 8:30 AM</strong><br><br>
-
-<strong>GOD BLESS YOU</strong>
-</p>
-
 
 
 
