@@ -1,7 +1,38 @@
 export const dailyDevotionCateg = [{
-    date: 'FRIDAY 27th FEBRUARY 2026',
+    date: 'SATURDAY 28th FEBRUARY 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>SATURDAY 28TH FEBRUARY 2026</strong><br><br>
+
+<strong>GOD IS MERCIFUL</strong><br><br>
+
+<strong>Lamentations 3:22–23</strong><br>
+“It is of the LORD's mercies that we are not consumed, because his compassions fail not. They are new every morning: great is thy faithfulness.”<br><br>
+
+One of the greatest revelations a believer can have is that God is merciful. Mercy is the reason you are still standing; it is the reason the enemy has not triumphed over you and the reason your mistakes did not destroy you. Mercy is God withholding the punishment we deserve.<br><br>
+
+When David sinned, he did not ask for justice; he cried out in <strong>Psalm 51</strong>, “Have mercy upon me, O God.” He understood that when you appeal to mercy, you appeal to the very heart of God. Our Father is not looking for an opportunity to destroy His children, but for an opportunity to show compassion. <strong>Ephesians 2:4</strong> tells us that God is “rich in mercy,” meaning His supply never runs dry.<br><br>
+
+Perhaps you have made wrong decisions or feel unworthy, but God’s mercy is greater than your failure. Just as the father ran to the prodigal son despite his wasted inheritance, God does not consult your past before releasing His compassion. Mercy restores, preserves, and gives another chance. In the face of delay, hardship, or accusation, cry for mercy.<br><br>
+
+Never approach God with condemnation in your heart. Approach Him boldly at the throne of grace to obtain mercy and find help in your time of need (<strong>Hebrews 4:16</strong>). Today, may the mercy of God speak for you in every area where you have no voice.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, I thank You for Your mercies that are new every morning. Let Your mercy speak for me today, preserving my life and restoring my destiny in Jesus’ name. Amen.<br><br>
+
+<strong>Join Us at Any Face-to-Face Assembly Nearest to You:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br>
+<strong>WEDNESDAYS: Midweek Service 5:00 PM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'FRIDAY, 27TH FEBRUARY 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -26,9 +57,20 @@ My Father, My God, I rely on You for all things. I involve You in my plans and d
 
 <strong>GOD BLESS YOU!</strong>
 </p>
+
+
+
+
+
+
+
+
+
+
+
 `
 }, {
-    date: 'SUNDAY, 22ND FEBRUARY 2026',
+    date: 'SATURDAY 21ST FEBRUARY 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
@@ -54,42 +96,6 @@ My Father, My God, give me the grace to thank You always, especially in situatio
 
 <strong>GOD BLESS YOU</strong>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'SATURDAY 21ST FEBRUARY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-
-<strong>KNOCKING ON THE RIGHT DOOR</strong><br><br>
-
-<strong>Isaiah 45:2</strong><br>
-“I will go before thee, and make the crooked places straight: I will break in pieces the gates of brass, and cut in sunder the bars of iron.”<br><br>
-
-Imagine a man visiting a friend but knocking on the wrong apartment door. He knocks for a long time, waits, and knocks again, but his friend is in a different room waiting for him. The problem isn't the building or the timing; the problem is the wrong door. When you knock on the wrong door, you waste your time, your season, and your finances. Many people are sincere, but they are struggling because they are knocking on doors God never opened for them.<br><br>
-
-When God goes before you, He ensures you do not waste your life on the wrong opportunities. He leads you to the right place at the right time. We see this with the disciples who labored all night and caught nothing. They were experienced fishermen, yet they were unsuccessful until Jesus gave them divine direction: “Cast the net on the right side of the ship.” The sea, the boat, and the nets were the same, but the direction changed. Success is often not about working harder, but about working under divine instruction.<br><br>
-
-This year, you must refuse to move without God. Do not start a project, enter a relationship, or make an investment without His leading. Some doors look attractive but are empty, while others look small but carry your destiny. God knows the right people, the right business, and the perfect timing for your lifting.<br><br>
-
-Ask God to show you the right door today. One right door, opened by God, can change your life forever. Refuse to waste your strength and resources on what God has not sanctioned.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father My God, lead me to the right door this year. I refuse to waste my time, season, and finances. Lead me by Your Spirit in Jesus’ name. Amen.
-</p>
-
 
 
 `
