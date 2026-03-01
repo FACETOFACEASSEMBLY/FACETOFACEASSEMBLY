@@ -1,7 +1,37 @@
 export const dailyDevotionCateg = [{
-    date: 'SATURDAY 28th FEBRUARY 2026',
+    date: 'SUNDAY 1ST MARCH 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>SUNDAY 1ST MARCH 2026</strong><br><br>
+
+<strong>JESUS PRAYED FOR UNITY IN THE CHURCH</strong><br><br>
+
+<strong>John 17:21</strong><br>
+“That they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me.”<br><br>
+
+One of the greatest prayers ever offered was by our Lord and Saviour, Jesus Christ, for the unity of the Church. Before going to the Cross, He did not pray for physical buildings, titles, or denominations; He prayed that we would be one. Through Christ’s sacrifice, every true believer is made to drink into one Spirit, which draws us together as one Body regardless of our backgrounds.<br><br>
+
+The Bible declares in <strong>1 Corinthians 12:13</strong>, “For by one Spirit are we all baptized into one body... and have been all made to drink into one Spirit.” We were not saved into different spirits or competing bodies. We are one. Jesus’ heart was that our unity would mirror the divine unity between Himself and the Father. This depth of oneness is what makes the world believe that the Father sent Him.<br><br>
+
+Unity in the Church is not optional—it is the will of God. When we engage in competition or division based on denominations, we weaken our witness to the world. We must move past titles and focus on the Cross. As <strong>Ephesians 4:4–6</strong> reminds us, there is one Body, one Spirit, one Lord, one Faith, and one God and Father of all.<br><br>
+
+When the Church stands as one, the power of God flows without hindrance. Let us walk in love, humility, and understanding, so that the world may truly see Christ in us.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, in the name of Jesus, remove every spirit of division from Your Church. Help us to see one another as members of the same Body. Unite us by Your Spirit and teach us to walk in love in Jesus’ Name. Amen.<br><br>
+
+<strong>Join Us at Any Face-to-Face Assembly Nearest to You:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
+
+<strong>HAPPY NEW MONTH! GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'SATURDAY, 28TH FEBRUARY 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -29,9 +59,20 @@ My Father, My God, I thank You for Your mercies that are new every morning. Let 
 
 <strong>GOD BLESS YOU.</strong>
 </p>
+
+
+
+
+
+
+
+
+
+
+
 `
 }, {
-    date: 'FRIDAY, 27TH FEBRUARY 2026',
+    date: 'FRIDAY 27TH FEBRUARY 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
@@ -57,46 +98,6 @@ My Father, My God, I rely on You for all things. I involve You in my plans and d
 
 <strong>GOD BLESS YOU!</strong>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'SATURDAY 21ST FEBRUARY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-<strong>SUNDAY 22ND FEBRUARY 2026</strong><br><br>
-
-<strong>LEARN TO GIVE THANKS</strong><br><br>
-
-<strong>Isaiah 43:21</strong><br>
-“This people have I formed for myself; they shall shew forth my praise.”<br><br>
-
-One major reason God created us is to praise Him always, regardless of our circumstances. We see a powerful example of this in <strong>John 6:11–23</strong>. When Jesus was faced with scarcity while feeding the five thousand, He did not focus on the lack; instead, He gave thanks. Immediately after He gave thanks, divine supply was released, turning a situation of insufficiency into an abundance that left twelve baskets of fragments remaining.<br><br>
-
-God expects us to thank Him in everything and for everything. In <strong>Luke 17:15–17</strong>, after Jesus healed ten lepers, only one returned to give Him glory. Jesus asked, "Where are the nine?" This shows that God is always waiting and watching for our return with thanksgiving. Thanksgiving is a spiritual necessity if you want to see the hand of God at work, for He inhabits the praises of His people (<strong>Psalm 22:3</strong>).<br><br>
-
-Furthermore, in <strong>John 11:41–44</strong>, Jesus gave thanks at the grave of Lazarus. That act of gratitude brought the dead back to life. This means that when you thank God for a "dying" business, marriage, or career, you are inviting resurrection power into that situation. Instead of complaining, lift your voice to Heaven right now and give God thanks.<br><br>
-
-<strong>PRAYERS</strong><br>
-My Father, My God, give me the grace to thank You always, especially in situations that compel me to complain. I choose to praise You today in Jesus’ Name. Amen.<br><br>
-
-<strong>Join us in any Face To Face Assembly nearest to you.</strong><br>
-<strong>Sunday: 1st Serv 6:00 AM, 2nd Serv 8:00 AM</strong><br><br>
-
-<strong>GOD BLESS YOU</strong>
-</p>
-
 
 `
 }]
