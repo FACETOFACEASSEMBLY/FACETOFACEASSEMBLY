@@ -1,7 +1,37 @@
 export const dailyDevotionCateg = [{
-    date: 'WEDNESDAY 4TH MARCH 2026',
+    date: 'THURSDAY 5TH MARCH 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>THURSDAY 5TH MARCH 2026</strong><br><br>
+
+<strong>NO ONE CAN CONDEMN ME</strong><br><br>
+
+<strong>Romans 8:34</strong><br>
+“Who is he that condemneth? It is Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also maketh intercession for us.”<br><br>
+
+Many believers still live under the heavy weight of fear, guilt, and condemnation. Sometimes this stems from past sins and mistakes, or even the judgmental words of others. The enemy constantly attempts to remind us of our past to make us feel unworthy before God. However, the Word of God provides a powerful shield in <strong>Romans 8:34</strong> by asking: “Who is he that condemneth?” The answer is clear: No one.<br><br>
+
+Jesus Christ paid the full price for our sins on the Cross. His sacrifice removed our guilt and canceled our punishment. But the victory didn't end at the grave; He is risen! His resurrection is the ultimate proof that the work of salvation is complete. Today, Jesus is seated at the right hand of God—the highest place of authority—and He is actively making intercession for us. This means He is constantly speaking on your behalf before the Father.<br><br>
+
+When the enemy tries to accuse you, remember that your Defense Attorney is the King of Kings. When people try to judge you, remember that your justification comes from God, not from man. If Christ died for you, rose for you, and is praying for you, then no accusation can stand against your destiny. You are not condemned; you are forgiven and you are free.<br><br>
+
+Walk in this confidence today. Do not allow guilt, shame, or the whispering voice of the accuser to control your heart. Your salvation and your standing are secure in Jesus Christ.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, I thank You for the sacrifice of Jesus Christ. I thank You that through His death and resurrection, I am forgiven, justified, and free from all condemnation in Jesus’ name. Amen.<br><br>
+
+<strong>Join Us at Any Face-to-Face Assembly Nearest to You:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'TUESDAY, 3RD MARCH 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -32,9 +62,18 @@ My Father, My God, open my spiritual eyes to see the glorious future You have fo
 
 <strong>GOD BLESS YOU</strong>
 </p>
+
+
+
+
+
+
+
+
+
 `
 }, {
-    date: 'MONDAY, 2ND MARCH 2026',
+    date: 'MONDAY 2ND FEBRUARY 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
@@ -63,46 +102,6 @@ My Father, My God, give me victory over every obstacle that hinders my progress.
 <strong>GOD BLESS YOU</strong>
 </p>
 
-
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'SUNDAY 1ST FEBRUARY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-<strong>SATURDAY 28TH FEBRUARY 2026</strong><br><br>
-
-<strong>GOD IS MERCIFUL</strong><br><br>
-
-<strong>Lamentations 3:22–23</strong><br>
-“It is of the LORD's mercies that we are not consumed, because his compassions fail not. They are new every morning: great is thy faithfulness.”<br><br>
-
-One of the greatest revelations a believer can have is that God is merciful. Mercy is the reason you are still standing; it is the reason the enemy has not triumphed over you and the reason your mistakes did not destroy you. Mercy is God withholding the punishment we deserve.<br><br>
-
-When David sinned, he did not ask for justice; he cried out in <strong>Psalm 51</strong>, “Have mercy upon me, O God.” He understood that when you appeal to mercy, you appeal to the very heart of God. Our Father is not looking for an opportunity to destroy His children, but for an opportunity to show compassion. <strong>Ephesians 2:4</strong> tells us that God is “rich in mercy,” meaning His supply never runs dry.<br><br>
-
-Perhaps you have made wrong decisions or feel unworthy, but God’s mercy is greater than your failure. Just as the father ran to the prodigal son despite his wasted inheritance, God does not consult your past before releasing His compassion. Mercy restores, preserves, and gives another chance. In the face of delay, hardship, or accusation, cry for mercy.<br><br>
-
-Never approach God with condemnation in your heart. Approach Him boldly at the throne of grace to obtain mercy and find help in your time of need (<strong>Hebrews 4:16</strong>). Today, may the mercy of God speak for you in every area where you have no voice.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, I thank You for Your mercies that are new every morning. Let Your mercy speak for me today, preserving my life and restoring my destiny in Jesus’ name. Amen.<br><br>
-
-<strong>Join Us at Any Face-to-Face Assembly Nearest to You:</strong><br>
-<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br>
-<strong>WEDNESDAYS: Midweek Service 5:00 PM</strong><br><br>
-
-<strong>GOD BLESS YOU.</strong>
-</p>
 
 
 `
