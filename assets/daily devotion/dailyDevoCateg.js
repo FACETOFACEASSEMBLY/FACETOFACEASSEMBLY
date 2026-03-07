@@ -1,7 +1,40 @@
 export const dailyDevotionCateg = [{
-    date: 'THURSDAY 5TH MARCH 2026',
+    date: 'SATURDAY 7TH MARCH 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>SATURDAY 7TH MARCH 2026</strong><br><br>
+
+<strong>HANDFULS OF PURPOSE</strong><br><br>
+
+<strong>Ruth 2:16 (KJV)</strong><br>
+“And let fall also some of the handfuls of purpose for her, and leave them, that she may glean them, and rebuke her not.”<br><br>
+
+Sometimes in life, God blesses His children in ways they do not see or expect. What many call luck or coincidence is often God quietly arranging favor behind the scenes. In <strong>Ruth 2:16</strong>, Boaz gave a specific instruction to his workers to intentionally drop extra grain for Ruth. The Bible calls this “handfuls of purpose.” Ruth went to the field hoping for small leftovers, but because of favor, she received an abundance she hadn't even worked for.<br><br>
+
+This illustrates that God can arrange blessings ahead of us long before we are aware of them. We see this mystery in the life of Joseph; what looked like the suffering of a prison was actually God's "handfuls of purpose" leading him to the throne. We see it in Esther, an orphan whose ordinary opportunity was actually a divine arrangement to save a nation. Like them, God is moving in the background of your life today.<br><br>
+
+God is able to arrange things that move you toward His purpose. He can:<br>
+* Cause people to favor you without explanation.<br>
+* Open doors you did not struggle to knock on.<br>
+* Place destiny-changing opportunities in your path when you least expect them.<br><br>
+
+While you are simply doing your daily work and staying faithful, God is already preparing your tomorrow. Do not lose hope. Even when you don't see the movement, trust that the Master of the field is commanding "handfuls of purpose" to be dropped in your path.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, thank You because You are the God who arranges divine favor for Your children. Help me to trust You even when I do not understand the process. Let Your purpose and favor speak in my life in Jesus’ name. Amen.<br><br>
+
+<strong>Join Us at Any Face-to-Face Assembly Nearest to You:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'THURSDAY, 5TH MARCH 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -28,9 +61,18 @@ My Father, My God, I thank You for the sacrifice of Jesus Christ. I thank You th
 
 <strong>GOD BLESS YOU.</strong>
 </p>
+
+
+
+
+
+
+
+
+
 `
 }, {
-    date: 'TUESDAY, 3RD MARCH 2026',
+    date: 'WEDNESDAY 4TH FEBRUARY 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
@@ -63,44 +105,6 @@ My Father, My God, open my spiritual eyes to see the glorious future You have fo
 <strong>GOD BLESS YOU</strong>
 </p>
 
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'MONDAY 2ND FEBRUARY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-<strong>MONDAY 2ND MARCH 2026</strong><br><br>
-
-<strong>MOVE, YOUR NEXT LEVEL AWAITS YOU</strong><br><br>
-
-<strong>Deuteronomy 1:6</strong><br>
-“The LORD our God spake unto us in Horeb, saying, Ye have dwelt long enough in this mount.”<br><br>
-
-A man’s life is designed by God to be progressive. We are called to move from faith to faith, strength to strength, and glory to glory. In the Kingdom, there is no room for stagnation because everything about God increases. One day, Jesus told His disciples, “Let us go over to the other side.” That "other side" represents your next level and your next assignment. You are not meant to remain in one place forever.<br><br>
-
-Many are paralyzed by the fear of obstacles, but it is the overcoming of these challenges that qualifies you for promotion. When Jesus and His disciples crossed over in <strong>Mark 4:35–39</strong>, they encountered a great storm. By confronting the wind and declaring “Peace, be still,” Jesus turned a great storm into a great calm. To reach your next level, you must be willing to confront your Goliath. If you refuse the battle, you choose to remain stationary.<br><br>
-
-In <strong>1 Corinthians 9:24</strong>, Paul reminds us that in a race, everyone runs, but only those who persist receive the prize. Nothing of true value in life comes without effort. Even our Lord Jesus endured the pain of the Cross specifically for the glory that waited on the other side. Until you break through the obstacles standing in your way, your true potential will remain unrecognized.<br><br>
-
-Stop settling for where you are. Your next level is calling. May the Lord grant you the courage to move forward and the strength to silence every storm in your path.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, give me victory over every obstacle that hinders my progress. I receive the grace to move to my next level in Jesus’ Name. Amen.<br><br>
-
-<strong>Join us at any Face to Face Assembly nearest to you.</strong><br>
-<strong>Sundays: 1st Service – 6:30 AM, 2nd Service – 8:30 AM</strong><br><br>
-
-<strong>GOD BLESS YOU</strong>
-</p>
 
 
 
