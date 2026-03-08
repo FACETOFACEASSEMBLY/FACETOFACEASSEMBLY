@@ -1,7 +1,42 @@
 export const dailyDevotionCateg = [{
-    date: 'SATURDAY 7TH MARCH 2026',
+    date: 'SUNDAY 8TH MARCH 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>SUNDAY 8TH MARCH 2026</strong><br><br>
+
+<strong>DEATH AND LIFE ARE IN YOUR MOUTH</strong><br><br>
+
+<strong>Proverbs 18:21</strong><br>
+“Death and life are in the power of the tongue: and they that love it shall eat the fruit thereof.”<br><br>
+
+Your mouth is not casual, and your words are not empty. Your tongue is a spiritual instrument. According to Scripture, your tongue carries power, authority, force, and influence. It can release life or reinforce death; it can build up or break down; it can heal or wound; and it can open doors or shut them tight.<br><br>
+
+Every word you speak is a seed. Every sentence you utter plants something in the spirit, and every seed is designed to produce fruit. 
+<ul>
+  <li>If you speak fear, you will taste its fruit.</li>
+  <li>If you speak faith, you will taste its harvest.</li>
+  <li>If you speak blessing, you will eat increase.</li>
+</ul>
+
+You cannot speak negativity all day and expect to live a positive life. You cannot rehearse defeat and expect to walk in victory. The fruit of your future is being formed in your mouth today. Therefore, you must learn to love the language of life, the vocabulary of faith, and the sound of blessing.<br><br>
+
+Declare what God declares. Align your speech with Heaven and let your mouth become a fountain of life. Today, choose life, speak life, and release life—because what you continually say, you will eventually see. May the grace to speak life continuously come upon you in Jesus' Name. Amen.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, I thank You for the gift of speech. I receive grace to guard my heart and my mouth. I declare that my words shall bring life, health, and favor to my destiny. I refuse to speak defeat; I am a victor in Christ Jesus. Amen.<br><br>
+
+<strong>Join Us at Any Face-to-Face Assembly Nearest to You:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'SATURDAY, 7TH MARCH 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -31,9 +66,17 @@ My Father, My God, thank You because You are the God who arranges divine favor f
 
 <strong>GOD BLESS YOU.</strong>
 </p>
+
+
+
+
+
+
+
+
 `
 }, {
-    date: 'THURSDAY, 5TH MARCH 2026',
+    date: 'FRIDAY 6TH FEBRUARY 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
@@ -62,48 +105,6 @@ My Father, My God, I thank You for the sacrifice of Jesus Christ. I thank You th
 <strong>GOD BLESS YOU.</strong>
 </p>
 
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'WEDNESDAY 4TH FEBRUARY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-<strong>WEDNESDAY 4TH MARCH 2026</strong><br><br>
-
-<strong>WHAT DO YOU SEE?</strong><br><br>
-
-<strong>Genesis 13:14–15</strong><br>
-“Lift up now thine eyes, and look from the place where thou art northward, and southward, and eastward, and westward: For all the land which thou seest, to thee will I give it, and to thy seed for ever.”<br><br>
-
-Life is determined by your vision. The extent of what you can see determines the extent of your journey. When God spoke to Abraham, He established a spiritual law: "Whatever you see, that will I give to you." Your spiritual sight defines your reality; until you can see it in the spirit, you cannot seize it in the physical.<br><br>
-
-In <strong>Jeremiah 1:11–12</strong>, the Lord asked the prophet, “What seest thou?” When Jeremiah responded that he saw the rod of an almond tree, God replied, “Thou hast well seen: for I will hasten my word to perform it.” God only confirms what you have the capacity to see. This is why the Psalmist cried out, “Open thou mine eyes, that I may behold wondrous things out of thy law” (<strong>Psalm 119:18</strong>).<br><br>
-
-Do not allow current circumstances to limit your vision. Lift up your eyes above the challenges and look through the lens of Scripture. What you see with the eyes of faith, God is committed to performing. Today, intentionally choose your vision:<br>
-* See good health and favor.<br>
-* See mercy, joy, and gladness.<br>
-* See breakthroughs and good news.<br>
-* See great and effectual doors opening before you.<br><br>
-
-May the Lord hasten His Word to bring everything you have seen by faith to pass in your life, in Jesus’ Name. Amen!<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, open my spiritual eyes to see the glorious future You have for me. I refuse to see defeat; I see victory and the fulfillment of Your promises in Jesus’ Name. Amen.<br><br>
-
-<strong>JOIN US at any Face-to-Face Assembly nearest to you:</strong><br>
-<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
-
-<strong>GOD BLESS YOU</strong>
-</p>
 
 
 
