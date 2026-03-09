@@ -1,7 +1,37 @@
 export const dailyDevotionCateg = [{
-    date: 'SUNDAY 8TH MARCH 2026',
+    date: 'MONDAY 9TH MARCH 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>MONDAY 9TH MARCH 2026</strong><br><br>
+
+<strong>GOOD DAYS</strong><br><br>
+
+<strong>1 Peter 3:10</strong><br>
+“For he that will love life, and see good days, let him refrain his tongue from evil, and his lips that they speak no guile.”<br><br>
+
+Many people desire good days; everyone wants a life filled with peace, joy, favor, and progress. However, good days are not accidental—they are directly connected to the way a person lives and speaks. The Bible teaches that if you truly love life and want to see good days, you must guard your tongue. Your mouth can either create peace or attract trouble. While words of anger, lies, and gossip open doors to unnecessary battles, speech guided by wisdom and truth releases peace.<br><br>
+
+Secondly, you must guard your heart and actions. A life that pursues righteousness attracts the blessing of God. As <strong>Psalm 118:24</strong> declares, “This is the day which the LORD hath made; we will rejoice and be glad in it.” Every day you wake up is a gift carrying divine possibilities and fresh grace. When you acknowledge God, you invite His goodness into your hours.<br><br>
+
+We see a powerful example of divine intervention in <strong>Esther 9:22</strong>, where a month was "turned unto them from sorrow to joy, and from mourning into a good day." God has the power to turn seasons of struggle into seasons of celebration. What once looked like defeat can become a "good day" the moment God steps in. A good day is one where God's presence leads you, peace guards your heart, and your steps are ordered by the Lord.<br><br>
+
+As you walk in wisdom, speak truth, and pursue righteousness, you position yourself to experience the goodness of God. Today, rejoice in the day the Lord has made and expect Him to turn every difficult moment into a testimony. May your days be filled with peace, favor, and divine help.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, I thank You for this day. I receive the grace to refrain my tongue from evil and to walk uprightly before You. Turn every sorrow in my life into joy and let my days be filled with Your goodness and testimonies in Jesus’ Name. Amen.<br><br>
+
+<strong>Join Us at Any Face-to-Face Assembly Nearest to You:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'SUNDAY, 8TH MARCH 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -33,9 +63,15 @@ My Father, My God, I thank You for the gift of speech. I receive grace to guard 
 
 <strong>GOD BLESS YOU.</strong>
 </p>
+
+
+
+
+
+
 `
 }, {
-    date: 'SATURDAY, 7TH MARCH 2026',
+    date: 'SATURDAY 7TH FEBRUARY 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
@@ -60,44 +96,6 @@ While you are simply doing your daily work and staying faithful, God is already 
 
 <strong>PRAYER</strong><br>
 My Father, My God, thank You because You are the God who arranges divine favor for Your children. Help me to trust You even when I do not understand the process. Let Your purpose and favor speak in my life in Jesus’ name. Amen.<br><br>
-
-<strong>Join Us at Any Face-to-Face Assembly Nearest to You:</strong><br>
-<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
-
-<strong>GOD BLESS YOU.</strong>
-</p>
-
-
-
-
-
-
-
-
-`
-}, {
-    date: 'FRIDAY 6TH FEBRUARY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-<strong>THURSDAY 5TH MARCH 2026</strong><br><br>
-
-<strong>NO ONE CAN CONDEMN ME</strong><br><br>
-
-<strong>Romans 8:34</strong><br>
-“Who is he that condemneth? It is Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also maketh intercession for us.”<br><br>
-
-Many believers still live under the heavy weight of fear, guilt, and condemnation. Sometimes this stems from past sins and mistakes, or even the judgmental words of others. The enemy constantly attempts to remind us of our past to make us feel unworthy before God. However, the Word of God provides a powerful shield in <strong>Romans 8:34</strong> by asking: “Who is he that condemneth?” The answer is clear: No one.<br><br>
-
-Jesus Christ paid the full price for our sins on the Cross. His sacrifice removed our guilt and canceled our punishment. But the victory didn't end at the grave; He is risen! His resurrection is the ultimate proof that the work of salvation is complete. Today, Jesus is seated at the right hand of God—the highest place of authority—and He is actively making intercession for us. This means He is constantly speaking on your behalf before the Father.<br><br>
-
-When the enemy tries to accuse you, remember that your Defense Attorney is the King of Kings. When people try to judge you, remember that your justification comes from God, not from man. If Christ died for you, rose for you, and is praying for you, then no accusation can stand against your destiny. You are not condemned; you are forgiven and you are free.<br><br>
-
-Walk in this confidence today. Do not allow guilt, shame, or the whispering voice of the accuser to control your heart. Your salvation and your standing are secure in Jesus Christ.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, I thank You for the sacrifice of Jesus Christ. I thank You that through His death and resurrection, I am forgiven, justified, and free from all condemnation in Jesus’ name. Amen.<br><br>
 
 <strong>Join Us at Any Face-to-Face Assembly Nearest to You:</strong><br>
 <strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
