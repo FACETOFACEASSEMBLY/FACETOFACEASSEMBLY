@@ -1,7 +1,72 @@
 export const dailyDevotionCateg = [{
-    date: 'MONDAY 9TH MARCH 2026',
+    date: 'SATURDAY 21ST MARCH 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>SATURDAY 21ST MARCH 2026</strong><br><br>
+
+<strong>THE POWER OF A SONG</strong><br><br>
+
+<strong>Psalm 40:3</strong><br>
+“And he hath put a new song in my mouth, even praise unto our God: many shall see it, and fear, and shall trust in the LORD.”<br><br>
+
+A song is more than just a sound; it is a testimony. When God gives a man a song, it is a sign that He has visited him. As <strong>Psalm 40:3</strong> reveals, when God puts a new song in your mouth, His work in your life becomes visible to all, drawing others to trust in Him. Songs are born from victory. After the Lord delivered Israel at the Red Sea, they broke into song, declaring, “Who is like unto thee, O LORD, among the gods?” (<strong>Exodus 15:11</strong>). When God does wonders, singing naturally follows.<br><br>
+
+Even in hard times, God provides the melody of hope. <strong>Job 35:10</strong> speaks of God our Maker "who giveth songs in the night." A "night season" represents your most difficult moments, yet even there, God can release a song of deliverance. However, you must be careful not to lose your song. The captives in <strong>Psalm 137:4</strong> asked, “How shall we sing the LORD'S song in a strange land?” You must stay connected to God so that the pressures of life do not silence your praise.<br><br>
+
+Finally, <strong>Psalm 118:14</strong> declares, “The LORD is my strength and song, and is become my salvation.” When the Lord truly becomes your song, your life becomes a continuous flow of victory. No matter the season, let your mouth be filled with His praise.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, give me a new song. Even in my night season, put praise in my mouth. I declare that I will not lose my song or my testimony in Jesus’ name. Amen.<br><br>
+
+<strong>Join Us at Any Face-to-Face Assembly Nearest to You:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'FRIDAY, 20TH MARCH 2026',
+    prayer: `<p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>WEDNESDAY 11TH MARCH 2026</strong><br><br>
+
+<strong>OH LORD, OPEN YOUR HAND FOR ME</strong><br><br>
+
+<strong>Psalm 145:16</strong><br>
+“Thou openest thine hand, and satisfiest the desire of every living thing.”<br><br>
+
+The Scriptures reveal a profound mystery: when God opens His hand, every living thing is satisfied and filled with good. This means that all provision, blessings, increase, favor, and abundance flow directly from the hand of God. When His hand is open toward you, small things become great, and little efforts produce extraordinary results.<br><br>
+
+Many people struggle today not because they are lazy, but because the hand of God has not yet opened over their specific situation. As <strong>Psalm 104:28</strong> says, “That thou givest them they gather: thou openest thine hand, they are filled with good.” It only takes one opening of God’s hand to change a person’s entire story. This is why our cry today must be: “Oh Lord, open Your hand for me.”<br><br>
+
+When God opens His hand over your life:<br>
+* Your efforts will finally produce results.<br>
+* Your labor will no longer be wasted.<br>
+* Your season of waiting will turn into a season of harvest.<br><br>
+
+May the Lord open His hand over your life this Wednesday. May your hands gather good things, and may Heaven release supernatural provision, favor, and abundance upon you and your household. I declare that the grace for divine supply comes upon you now in Jesus’ Name. Amen.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, I look to You as my Source. Open Your hand toward me and my family today. Satisfy our desires with Your goodness and let our labor yield a hundredfold harvest in Jesus’ Name. Amen.<br><br>
+
+<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+
+
+
+
+`
+}, {
+    date: 'THURSDAY 19TH FEBRUARY 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -22,80 +87,6 @@ As you walk in wisdom, speak truth, and pursue righteousness, you position yours
 
 <strong>PRAYER</strong><br>
 My Father, My God, I thank You for this day. I receive the grace to refrain my tongue from evil and to walk uprightly before You. Turn every sorrow in my life into joy and let my days be filled with Your goodness and testimonies in Jesus’ Name. Amen.<br><br>
-
-<strong>Join Us at Any Face-to-Face Assembly Nearest to You:</strong><br>
-<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
-
-<strong>GOD BLESS YOU.</strong>
-</p>
-`
-}, {
-    date: 'SUNDAY, 8TH MARCH 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-<strong>SUNDAY 8TH MARCH 2026</strong><br><br>
-
-<strong>DEATH AND LIFE ARE IN YOUR MOUTH</strong><br><br>
-
-<strong>Proverbs 18:21</strong><br>
-“Death and life are in the power of the tongue: and they that love it shall eat the fruit thereof.”<br><br>
-
-Your mouth is not casual, and your words are not empty. Your tongue is a spiritual instrument. According to Scripture, your tongue carries power, authority, force, and influence. It can release life or reinforce death; it can build up or break down; it can heal or wound; and it can open doors or shut them tight.<br><br>
-
-Every word you speak is a seed. Every sentence you utter plants something in the spirit, and every seed is designed to produce fruit. 
-<ul>
-  <li>If you speak fear, you will taste its fruit.</li>
-  <li>If you speak faith, you will taste its harvest.</li>
-  <li>If you speak blessing, you will eat increase.</li>
-</ul>
-
-You cannot speak negativity all day and expect to live a positive life. You cannot rehearse defeat and expect to walk in victory. The fruit of your future is being formed in your mouth today. Therefore, you must learn to love the language of life, the vocabulary of faith, and the sound of blessing.<br><br>
-
-Declare what God declares. Align your speech with Heaven and let your mouth become a fountain of life. Today, choose life, speak life, and release life—because what you continually say, you will eventually see. May the grace to speak life continuously come upon you in Jesus' Name. Amen.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, I thank You for the gift of speech. I receive grace to guard my heart and my mouth. I declare that my words shall bring life, health, and favor to my destiny. I refuse to speak defeat; I am a victor in Christ Jesus. Amen.<br><br>
-
-<strong>Join Us at Any Face-to-Face Assembly Nearest to You:</strong><br>
-<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
-
-<strong>GOD BLESS YOU.</strong>
-</p>
-
-
-
-
-
-
-`
-}, {
-    date: 'SATURDAY 7TH FEBRUARY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-<strong>SATURDAY 7TH MARCH 2026</strong><br><br>
-
-<strong>HANDFULS OF PURPOSE</strong><br><br>
-
-<strong>Ruth 2:16 (KJV)</strong><br>
-“And let fall also some of the handfuls of purpose for her, and leave them, that she may glean them, and rebuke her not.”<br><br>
-
-Sometimes in life, God blesses His children in ways they do not see or expect. What many call luck or coincidence is often God quietly arranging favor behind the scenes. In <strong>Ruth 2:16</strong>, Boaz gave a specific instruction to his workers to intentionally drop extra grain for Ruth. The Bible calls this “handfuls of purpose.” Ruth went to the field hoping for small leftovers, but because of favor, she received an abundance she hadn't even worked for.<br><br>
-
-This illustrates that God can arrange blessings ahead of us long before we are aware of them. We see this mystery in the life of Joseph; what looked like the suffering of a prison was actually God's "handfuls of purpose" leading him to the throne. We see it in Esther, an orphan whose ordinary opportunity was actually a divine arrangement to save a nation. Like them, God is moving in the background of your life today.<br><br>
-
-God is able to arrange things that move you toward His purpose. He can:<br>
-* Cause people to favor you without explanation.<br>
-* Open doors you did not struggle to knock on.<br>
-* Place destiny-changing opportunities in your path when you least expect them.<br><br>
-
-While you are simply doing your daily work and staying faithful, God is already preparing your tomorrow. Do not lose hope. Even when you don't see the movement, trust that the Master of the field is commanding "handfuls of purpose" to be dropped in your path.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, thank You because You are the God who arranges divine favor for Your children. Help me to trust You even when I do not understand the process. Let Your purpose and favor speak in my life in Jesus’ name. Amen.<br><br>
 
 <strong>Join Us at Any Face-to-Face Assembly Nearest to You:</strong><br>
 <strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
