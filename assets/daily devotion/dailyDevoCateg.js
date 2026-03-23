@@ -1,7 +1,37 @@
 export const dailyDevotionCateg = [{
-    date: 'SATURDAY 21ST MARCH 2026',
+    date: 'MONDAY 23RD MARCH 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>MONDAY 23RD MARCH 2026</strong><br><br>
+
+<strong>BE SERIOUS MINDED</strong><br><br>
+
+<strong>1 Peter 5:8</strong><br>
+“Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour.”<br><br>
+
+Life does not reward wishful thinking; it rewards focus, discipline, and commitment. Many pray for greatness, but few are serious enough to pursue it. To be serious-minded means to be spiritually alert, mentally disciplined, and purpose-driven. God instructs us to be "sober," which means to be serious and watchful. A careless believer is an easy target, just as a careless student or worker loses opportunities. A serious-minded person guards their time and destiny.<br><br>
+
+<strong>Ecclesiastes 9:10</strong> commands us: “Whatsoever thy hand findeth to do, do it with thy might.” This means we must not work casually or half-heartedly. Success answers to intensity. When you pray, pray seriously. When you study the Word, pay attention. When you work, give it your absolute best. Even our Lord Jesus Christ was intentional about His assignment, stating in <strong>Luke 2:49</strong>, “Wist ye not that I must be about my Father’s business?” His focus led Him to fulfill His destiny.<br><br>
+
+<strong>Proverbs 12:24</strong> reminds us that "the hand of the diligent shall bear rule: but the slothful shall be under tribute." Diligence is simply seriousness in action, and it is what separates rulers from servants. If you are not serious about your spiritual life, your finances, your calling, and your character, you risk remaining stagnant.<br><br>
+
+Beloved, this is not the time to play with destiny. Be serious about your growth and your relationship with God. When you treat your life with the seriousness it deserves, Heaven responds with the results you desire.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, deliver me from laziness and distraction. Give me a serious spirit. Help me to be vigilant and diligent in all I do so that I may fulfill my destiny in Jesus’ Name. Amen.<br><br>
+
+<strong>Join Us at Any Face-to-Face Assembly Nearest to You:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'SUNDAY, 22TH MARCH 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -26,9 +56,12 @@ My Father, My God, give me a new song. Even in my night season, put praise in my
 
 <strong>GOD BLESS YOU.</strong>
 </p>
+
+
+
 `
 }, {
-    date: 'FRIDAY, 20TH MARCH 2026',
+    date: 'SATURDAY 21ST FEBRUARY 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
@@ -55,40 +88,6 @@ May the Lord open His hand over your life this Wednesday. May your hands gather 
 My Father, My God, I look to You as my Source. Open Your hand toward me and my family today. Satisfy our desires with Your goodness and let our labor yield a hundredfold harvest in Jesus’ Name. Amen.<br><br>
 
 <strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
-<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
-
-<strong>GOD BLESS YOU.</strong>
-</p>
-
-
-
-
-`
-}, {
-    date: 'THURSDAY 19TH FEBRUARY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-<strong>MONDAY 9TH MARCH 2026</strong><br><br>
-
-<strong>GOOD DAYS</strong><br><br>
-
-<strong>1 Peter 3:10</strong><br>
-“For he that will love life, and see good days, let him refrain his tongue from evil, and his lips that they speak no guile.”<br><br>
-
-Many people desire good days; everyone wants a life filled with peace, joy, favor, and progress. However, good days are not accidental—they are directly connected to the way a person lives and speaks. The Bible teaches that if you truly love life and want to see good days, you must guard your tongue. Your mouth can either create peace or attract trouble. While words of anger, lies, and gossip open doors to unnecessary battles, speech guided by wisdom and truth releases peace.<br><br>
-
-Secondly, you must guard your heart and actions. A life that pursues righteousness attracts the blessing of God. As <strong>Psalm 118:24</strong> declares, “This is the day which the LORD hath made; we will rejoice and be glad in it.” Every day you wake up is a gift carrying divine possibilities and fresh grace. When you acknowledge God, you invite His goodness into your hours.<br><br>
-
-We see a powerful example of divine intervention in <strong>Esther 9:22</strong>, where a month was "turned unto them from sorrow to joy, and from mourning into a good day." God has the power to turn seasons of struggle into seasons of celebration. What once looked like defeat can become a "good day" the moment God steps in. A good day is one where God's presence leads you, peace guards your heart, and your steps are ordered by the Lord.<br><br>
-
-As you walk in wisdom, speak truth, and pursue righteousness, you position yourself to experience the goodness of God. Today, rejoice in the day the Lord has made and expect Him to turn every difficult moment into a testimony. May your days be filled with peace, favor, and divine help.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, I thank You for this day. I receive the grace to refrain my tongue from evil and to walk uprightly before You. Turn every sorrow in my life into joy and let my days be filled with Your goodness and testimonies in Jesus’ Name. Amen.<br><br>
-
-<strong>Join Us at Any Face-to-Face Assembly Nearest to You:</strong><br>
 <strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
 
 <strong>GOD BLESS YOU.</strong>
