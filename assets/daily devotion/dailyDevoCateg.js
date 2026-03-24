@@ -1,7 +1,35 @@
 export const dailyDevotionCateg = [{
-    date: 'MONDAY 23RD MARCH 2026',
+    date: 'TUESDAY 24TH MARCH 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>TUESDAY 24TH MARCH 2026</strong><br><br>
+
+<strong>THE BLESSED</strong><br><br>
+
+<strong>Genesis 30:30</strong><br>
+“For it was little which thou hadst before I came, and it is now increased unto a multitude; and the LORD hath blessed thee since my coming…”<br><br>
+
+There is a blessing that follows a man, and there is a grace that causes supernatural increase. When that blessing rests upon you, things cannot remain small. In <strong>Genesis 30:30</strong>, Jacob made a powerful confession to Laban: “It was little before I came, but now it has increased.” This increase didn't happen by chance; it happened because Jacob was a carrier of God’s covenant blessing.<br><br>
+
+Jacob was not just an ordinary worker; he was a person God had worked upon. When you are God’s workmanship, your presence brings growth wherever you go. Businesses grow, families prosper, and lives are transformed simply because you stepped into the room. It was not Laban’s skill or strategy that caused the explosion of wealth—it was the Lord who blessed Laban because of his association with Jacob.<br><br>
+
+This is the heritage of the blessed. When the hand of God is upon you, you become an asset to any environment you find yourself in. Your arrival signals the end of scarcity and the beginning of abundance. Pray today that this mantle of increase will rest so strongly upon you that everyone around you will testify: “Since you came, things have changed for the better.”<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, I thank You for the covenant blessing of increase upon my life. Make me a carrier of Your presence such that everywhere I go, growth and favor follow. Bring great and blessed people my way, and let my life be a blessing to others in Jesus’ name. Amen.<br><br>
+
+<strong>Join Us at Any Face-to-Face Assembly Nearest to You:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'MONDAY, 23RD MARCH 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -28,9 +56,12 @@ My Father, My God, deliver me from laziness and distraction. Give me a serious s
 
 <strong>GOD BLESS YOU.</strong>
 </p>
+
+
+
 `
 }, {
-    date: 'SUNDAY, 22TH MARCH 2026',
+    date: 'SUNDAY 22ND FEBRUARY 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
@@ -56,43 +87,6 @@ My Father, My God, give me a new song. Even in my night season, put praise in my
 
 <strong>GOD BLESS YOU.</strong>
 </p>
-
-
-
-`
-}, {
-    date: 'SATURDAY 21ST FEBRUARY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-<strong>WEDNESDAY 11TH MARCH 2026</strong><br><br>
-
-<strong>OH LORD, OPEN YOUR HAND FOR ME</strong><br><br>
-
-<strong>Psalm 145:16</strong><br>
-“Thou openest thine hand, and satisfiest the desire of every living thing.”<br><br>
-
-The Scriptures reveal a profound mystery: when God opens His hand, every living thing is satisfied and filled with good. This means that all provision, blessings, increase, favor, and abundance flow directly from the hand of God. When His hand is open toward you, small things become great, and little efforts produce extraordinary results.<br><br>
-
-Many people struggle today not because they are lazy, but because the hand of God has not yet opened over their specific situation. As <strong>Psalm 104:28</strong> says, “That thou givest them they gather: thou openest thine hand, they are filled with good.” It only takes one opening of God’s hand to change a person’s entire story. This is why our cry today must be: “Oh Lord, open Your hand for me.”<br><br>
-
-When God opens His hand over your life:<br>
-* Your efforts will finally produce results.<br>
-* Your labor will no longer be wasted.<br>
-* Your season of waiting will turn into a season of harvest.<br><br>
-
-May the Lord open His hand over your life this Wednesday. May your hands gather good things, and may Heaven release supernatural provision, favor, and abundance upon you and your household. I declare that the grace for divine supply comes upon you now in Jesus’ Name. Amen.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, I look to You as my Source. Open Your hand toward me and my family today. Satisfy our desires with Your goodness and let our labor yield a hundredfold harvest in Jesus’ Name. Amen.<br><br>
-
-<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
-<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
-
-<strong>GOD BLESS YOU.</strong>
-</p>
-
 
 
 
