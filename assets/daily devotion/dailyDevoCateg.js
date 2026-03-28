@@ -1,7 +1,37 @@
 export const dailyDevotionCateg = [{
-    date: 'THURSDAY 26TH MARCH 2026',
+    date: 'SATURDAY 28TH MARCH 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>SATURDAY 28TH MARCH 2026</strong><br><br>
+
+<strong>STANDING ON ONE VISION</strong><br><br>
+
+<strong>John 6:38</strong><br>
+“For I came down from heaven, not to do mine own will, but the will of him that sent me.”<br><br>
+
+Beloved, when you stand on a specific subject, you are standing on a vision. However, the moment you begin to divert, you are no longer standing on that vision, and you cannot succeed that way. Jesus was remarkably clear about His purpose: “For I came down from heaven… to do the will of him that sent me.” He stood on one vision and steadfastly refused to be distracted.<br><br>
+
+In <strong>John 18:37</strong>, Jesus further declared, “To this end was I born, and for this cause came I into the world…” This is the language of a man who understood exactly why he existed. He did not wander down different paths; He stayed on one divine assignment and succeeded. Many people start life well—with passion and direction—but failure often begins when they start comparing themselves to others and following distractions.<br><br>
+
+Jesus emphasized His dependence on divine focus in <strong>John 5:30</strong>: “I can of mine own self do nothing… because I seek not mine own will, but the will of the Father which hath sent me.” He only followed what God showed Him. Child of God, your success is tied to your focus. When you stay on the vision God has given you, help, strength, and results will inevitably follow.<br><br>
+
+Do not jump from one thing to another. Do not allow the noise around you to move you away from what God has whispered to your heart. Stand on your vision and follow it with discipline. Avoid the trap of double-mindedness, and you will see the hand of God lifting you to your destination.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, help me to stand on the vision You have given me. Deliver me from every distraction and spirit of double-mindedness. Grant me the grace to be focused until I see my manifestation in Jesus’ name. Amen.<br><br>
+
+<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'FRIDAY, 27TH MARCH 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -26,9 +56,12 @@ My Father, My God, I thank You for Your divine protection. I declare that every 
 
 <strong>GOD BLESS YOU.</strong>
 </p>
+
+
+
 `
 }, {
-    date: 'WEDNESDAY, 25TH MARCH 2026',
+    date: 'THURSDAY 26TH FEBRUARY 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
@@ -48,39 +81,6 @@ This is the heritage of the blessed. When the hand of God is upon you, you becom
 
 <strong>PRAYER</strong><br>
 My Father, My God, I thank You for the covenant blessing of increase upon my life. Make me a carrier of Your presence such that everywhere I go, growth and favor follow. Bring great and blessed people my way, and let my life be a blessing to others in Jesus’ name. Amen.<br><br>
-
-<strong>Join Us at Any Face-to-Face Assembly Nearest to You:</strong><br>
-<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
-
-<strong>GOD BLESS YOU.</strong>
-</p>
-
-
-
-`
-}, {
-    date: 'TUESDAY 24TH FEBRUARY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-<strong>MONDAY 23RD MARCH 2026</strong><br><br>
-
-<strong>BE SERIOUS MINDED</strong><br><br>
-
-<strong>1 Peter 5:8</strong><br>
-“Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour.”<br><br>
-
-Life does not reward wishful thinking; it rewards focus, discipline, and commitment. Many pray for greatness, but few are serious enough to pursue it. To be serious-minded means to be spiritually alert, mentally disciplined, and purpose-driven. God instructs us to be "sober," which means to be serious and watchful. A careless believer is an easy target, just as a careless student or worker loses opportunities. A serious-minded person guards their time and destiny.<br><br>
-
-<strong>Ecclesiastes 9:10</strong> commands us: “Whatsoever thy hand findeth to do, do it with thy might.” This means we must not work casually or half-heartedly. Success answers to intensity. When you pray, pray seriously. When you study the Word, pay attention. When you work, give it your absolute best. Even our Lord Jesus Christ was intentional about His assignment, stating in <strong>Luke 2:49</strong>, “Wist ye not that I must be about my Father’s business?” His focus led Him to fulfill His destiny.<br><br>
-
-<strong>Proverbs 12:24</strong> reminds us that "the hand of the diligent shall bear rule: but the slothful shall be under tribute." Diligence is simply seriousness in action, and it is what separates rulers from servants. If you are not serious about your spiritual life, your finances, your calling, and your character, you risk remaining stagnant.<br><br>
-
-Beloved, this is not the time to play with destiny. Be serious about your growth and your relationship with God. When you treat your life with the seriousness it deserves, Heaven responds with the results you desire.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, deliver me from laziness and distraction. Give me a serious spirit. Help me to be vigilant and diligent in all I do so that I may fulfill my destiny in Jesus’ Name. Amen.<br><br>
 
 <strong>Join Us at Any Face-to-Face Assembly Nearest to You:</strong><br>
 <strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
