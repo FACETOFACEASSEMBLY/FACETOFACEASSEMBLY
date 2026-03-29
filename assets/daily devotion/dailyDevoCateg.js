@@ -1,7 +1,37 @@
 export const dailyDevotionCateg = [{
-    date: 'SATURDAY 28TH MARCH 2026',
+    date: 'SUNDAY 29TH MARCH 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>SUNDAY 29TH MARCH 2026</strong><br><br>
+
+<strong>BE A PEACEMAKER</strong><br><br>
+
+<strong>Matthew 5:9</strong><br>
+“Blessed are the peacemakers: for they shall be called the children of God.”<br><br>
+
+Beloved, one of the greatest signs that God is with a man is the presence of peace. God is not the author of confusion, but of peace; wherever He is present, there is calmness, order, and rest of heart. As <strong>Psalm 85:8</strong> declares, “I will hear what God the LORD will speak: for he will speak peace unto his people.” This confirms that God’s voice brings tranquility, not trouble.<br><br>
+
+Child of God, it is not enough to speak in tongues, carry a Bible, or quote scriptures. The real question is: Are you a peacemaker? A peacemaker is someone who brings calm where there is chaos, who settles issues instead of magnifying them, and who speaks words that heal rather than words that scatter. Being a peacemaker distinguishes you from the world. Anyone can react in anger, but it takes the Spirit of God to walk in peace.<br><br>
+
+When you choose peace, you demonstrate that God truly lives inside of you. In your home, your workplace, and your relationships, choose peace over strife. Do not be the cause of confusion; instead, be the reason for unity. <strong>Philippians 4:7</strong> promises that the peace of God, which passeth all understanding, shall keep your heart and mind. This is not an ordinary peace—it is divine.<br><br>
+
+When you live a life of peace, you attract God’s presence, and His blessings naturally follow you. Decide today to be a carrier of His peace wherever you go.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, I receive the grace to live in peace and to be a peacemaker. Let Your peace that passeth all understanding rest upon me and my entire household. I refuse to be an agent of confusion in Jesus' name. Amen.<br><br>
+
+<strong>Join Us at Any Face-to-Face Assembly Nearest to You:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'SATURDAY, 28TH MARCH 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -28,9 +58,11 @@ My Father, My God, help me to stand on the vision You have given me. Deliver me 
 
 <strong>GOD BLESS YOU.</strong>
 </p>
+
+
 `
 }, {
-    date: 'FRIDAY, 27TH MARCH 2026',
+    date: 'FRIDAY 27TH FEBRUARY 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
@@ -56,38 +88,6 @@ My Father, My God, I thank You for Your divine protection. I declare that every 
 
 <strong>GOD BLESS YOU.</strong>
 </p>
-
-
-
-`
-}, {
-    date: 'THURSDAY 26TH FEBRUARY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-<strong>TUESDAY 24TH MARCH 2026</strong><br><br>
-
-<strong>THE BLESSED</strong><br><br>
-
-<strong>Genesis 30:30</strong><br>
-“For it was little which thou hadst before I came, and it is now increased unto a multitude; and the LORD hath blessed thee since my coming…”<br><br>
-
-There is a blessing that follows a man, and there is a grace that causes supernatural increase. When that blessing rests upon you, things cannot remain small. In <strong>Genesis 30:30</strong>, Jacob made a powerful confession to Laban: “It was little before I came, but now it has increased.” This increase didn't happen by chance; it happened because Jacob was a carrier of God’s covenant blessing.<br><br>
-
-Jacob was not just an ordinary worker; he was a person God had worked upon. When you are God’s workmanship, your presence brings growth wherever you go. Businesses grow, families prosper, and lives are transformed simply because you stepped into the room. It was not Laban’s skill or strategy that caused the explosion of wealth—it was the Lord who blessed Laban because of his association with Jacob.<br><br>
-
-This is the heritage of the blessed. When the hand of God is upon you, you become an asset to any environment you find yourself in. Your arrival signals the end of scarcity and the beginning of abundance. Pray today that this mantle of increase will rest so strongly upon you that everyone around you will testify: “Since you came, things have changed for the better.”<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, I thank You for the covenant blessing of increase upon my life. Make me a carrier of Your presence such that everywhere I go, growth and favor follow. Bring great and blessed people my way, and let my life be a blessing to others in Jesus’ name. Amen.<br><br>
-
-<strong>Join Us at Any Face-to-Face Assembly Nearest to You:</strong><br>
-<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
-
-<strong>GOD BLESS YOU.</strong>
-</p>
-
 
 
 `
