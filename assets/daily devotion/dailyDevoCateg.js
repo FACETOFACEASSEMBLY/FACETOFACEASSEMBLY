@@ -1,11 +1,42 @@
 export const dailyDevotionCateg = [{
-    date: 'SUNDAY 29TH MARCH 2026',
+    date: 'TUESDAY 31ST MARCH 2026',
     prayer: `
 <p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
-<strong>SUNDAY 29TH MARCH 2026</strong><br><br>
+
+<strong>PRAISE NOT THYSELF</strong><br><br>
+
+<strong>Daniel 4:30</strong><br>
+“The king spake, and said, Is not this great Babylon, that I have built for the house of the kingdom by the might of my power, and for the honour of my majesty?”<br><br>
+
+One day, King Nebuchadnezzar boasted of his greatness and how powerful he had become by his own might. Because of this, the wrath of God was kindled against him, and seven seasons of his life passed him by in the wilderness (<strong>Daniel 4:1-35</strong>).<br><br>
+
+Never praise yourself. Scripture instructs us in <strong>Proverbs 27:2</strong>, “Let another man praise thee, and not thine own mouth; a stranger, and not thine own lips.” Every time you praise yourself, you are taking the glory that belongs to God. Remember, God does not share His glory with any man.<br><br>
+
+We see another example in <strong>Luke 12:16-21</strong>, where a rich man boasted in his accumulated wealth. That very same night, his life was required of him. As <strong>Proverbs 16:18</strong> warns, “Pride goeth before destruction, and an haughty spirit before a fall.”<br><br>
+
+All you need to do is constantly appreciate God for every achievement, and you will see Him uplifting you even more. Note this: some will speak well of you, and some will speak ill of you, but never take it upon yourself to sing your own praises.<br><br>
+
+Even Jesus never took the glory for Himself. When a ruler called Him "Good Master," He redirected the praise, ascribing it to God Almighty as the only Good Master (<strong>Luke 18:18-19</strong>).<br><br>
+
+<strong>PRAYERS</strong><br>
+My Father, my God, deliver me from the spirit of pride and release the spirit of meekness to me in Jesus' Name. Amen.<br><br>
+
+<strong>JOIN US IN ANY FACE TO FACE ASSEMBLY NEAREST TO YOU.</strong><br>
+<strong>SUNDAYS: 1st Service 6:00 AM | 2nd Service 8:00 AM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'MONDAY, 30TH MARCH 2026',
+    prayer: `<p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+
 
 <strong>BE A PEACEMAKER</strong><br><br>
 
@@ -28,14 +59,15 @@ My Father, My God, I receive the grace to live in peace and to be a peacemaker. 
 
 <strong>GOD BLESS YOU.</strong>
 </p>
+
 `
 }, {
-    date: 'SATURDAY, 28TH MARCH 2026',
+    date: 'SUNDAY 29TH FEBRUARY 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
-<strong>SATURDAY 28TH MARCH 2026</strong><br><br>
+
 
 <strong>STANDING ON ONE VISION</strong><br><br>
 
@@ -58,37 +90,6 @@ My Father, My God, help me to stand on the vision You have given me. Deliver me 
 
 <strong>GOD BLESS YOU.</strong>
 </p>
-
-
-`
-}, {
-    date: 'FRIDAY 27TH FEBRUARY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-<strong>THURSDAY 26TH MARCH 2026</strong><br><br>
-
-<strong>HE THAT DIGGETH A PIT SHALL FALL INTO IT</strong><br><br>
-
-<strong>Proverbs 26:27</strong><br>
-“Whoso diggeth a pit shall fall therein: and he that rolleth a stone, it will return upon him.”<br><br>
-
-Beloved, there is a law in the spirit that cannot be broken: whatever a man plans for others—especially evil—will eventually return to him. God has structured life such that wickedness becomes a trap for the one who sets it. To dig a pit means to secretly plan harm, set traps, or wish for the downfall of another. But the Bible is clear: that very pit will swallow the one who dug it.<br><br>
-
-We see this clearly in the story of Haman in <strong>Esther 7:10</strong>. He built gallows intended for Mordecai, but in a divine turn of events, he was the one hanged upon them. This is a powerful lesson that evil does not travel far; it always returns home. Knowing this, you must never use your hands, words, or thoughts to plan evil against anyone. Even when hurt, leave judgment to God, for His spiritual system ensures every seed produces after its kind.<br><br>
-
-If someone is digging a pit for you today—whether in your business, family, or destiny—do not be afraid. You are under divine protection. That trap will not catch you; instead, it will return to the sender. Focus on living right, speaking right, and thinking right. Your integrity is your shield, and God’s justice is your defense.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, I thank You for Your divine protection. I declare that every pit dug for me by the enemy shall swallow the digger, and every stone rolled against my destiny shall return to the sender. I walk in safety and righteousness in Jesus’ name. Amen.<br><br>
-
-<strong>Join Us at Any Face-to-Face Assembly Nearest to You:</strong><br>
-<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
-
-<strong>GOD BLESS YOU.</strong>
-</p>
-
 
 `
 }]
