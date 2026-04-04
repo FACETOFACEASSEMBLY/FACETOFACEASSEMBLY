@@ -1,7 +1,37 @@
 export const dailyDevotionCateg = [{
-    date: 'TUESDAY 31ST MARCH 2026',
+    date: 'SATURDAY 4TH APRIL 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>FRIDAY 3RD APRIL 2026</strong><br><br>
+
+<strong>THE POWER OF EXPECTATION</strong><br><br>
+
+<strong>Proverbs 23:18</strong><br>
+“For surely there is an end; and thine expectation shall not be cut off.”<br><br>
+
+Beloved, there is a powerful force in the spirit called expectation. Before any righteous man receives his desire, there must first be expectation in his heart. Expectation is the seed of manifestation; you cannot receive what you are not expecting. God works with what you are looking forward to, not what you are careless about.<br><br>
+
+The scripture says, “thine expectation shall not be cut off.” This means God honors expectation. When your heart is full of hope, faith, and anticipation, Heaven is moved on your behalf. Many people pray, but they do not expect. They ask, but deep inside, they doubt; this is why results are delayed. Expectation is proof that you believe God is able and willing to do what He has promised.<br><br>
+
+The righteous man does not live in fear or uncertainty; he lives with a strong expectation that God will come through. Even when things look slow, his heart is fixed because he knows there is an end. Expectation keeps your faith alive. It gives strength to your prayers and aligns your spirit with God's promises.<br><br>
+
+Child of God, do not lose your expectation. Do not allow situations to kill your hope. What God has spoken concerning you will surely come to pass. Before the miracle comes, expectation must be in place; before the testimony, there must be anticipation. Hold on. Believe. Expect. Your expectation shall not be cut off.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, my expectation in this month of April shall not be cut off in Jesus' Name. Amen.<br><br>
+
+<strong>Join Us at Any Face-to-Face Assembly Nearest to You:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'FRIDAY, 3RD APRIL 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -29,9 +59,10 @@ My Father, my God, deliver me from the spirit of pride and release the spirit of
 
 <strong>GOD BLESS YOU.</strong>
 </p>
+
 `
 }, {
-    date: 'MONDAY, 30TH MARCH 2026',
+    date: 'THURSDAY 2ND APRIL 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
@@ -55,37 +86,6 @@ When you live a life of peace, you attract God’s presence, and His blessings n
 My Father, My God, I receive the grace to live in peace and to be a peacemaker. Let Your peace that passeth all understanding rest upon me and my entire household. I refuse to be an agent of confusion in Jesus' name. Amen.<br><br>
 
 <strong>Join Us at Any Face-to-Face Assembly Nearest to You:</strong><br>
-<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
-
-<strong>GOD BLESS YOU.</strong>
-</p>
-
-`
-}, {
-    date: 'SUNDAY 29TH FEBRUARY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-
-
-<strong>STANDING ON ONE VISION</strong><br><br>
-
-<strong>John 6:38</strong><br>
-“For I came down from heaven, not to do mine own will, but the will of him that sent me.”<br><br>
-
-Beloved, when you stand on a specific subject, you are standing on a vision. However, the moment you begin to divert, you are no longer standing on that vision, and you cannot succeed that way. Jesus was remarkably clear about His purpose: “For I came down from heaven… to do the will of him that sent me.” He stood on one vision and steadfastly refused to be distracted.<br><br>
-
-In <strong>John 18:37</strong>, Jesus further declared, “To this end was I born, and for this cause came I into the world…” This is the language of a man who understood exactly why he existed. He did not wander down different paths; He stayed on one divine assignment and succeeded. Many people start life well—with passion and direction—but failure often begins when they start comparing themselves to others and following distractions.<br><br>
-
-Jesus emphasized His dependence on divine focus in <strong>John 5:30</strong>: “I can of mine own self do nothing… because I seek not mine own will, but the will of the Father which hath sent me.” He only followed what God showed Him. Child of God, your success is tied to your focus. When you stay on the vision God has given you, help, strength, and results will inevitably follow.<br><br>
-
-Do not jump from one thing to another. Do not allow the noise around you to move you away from what God has whispered to your heart. Stand on your vision and follow it with discipline. Avoid the trap of double-mindedness, and you will see the hand of God lifting you to your destination.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, help me to stand on the vision You have given me. Deliver me from every distraction and spirit of double-mindedness. Grant me the grace to be focused until I see my manifestation in Jesus’ name. Amen.<br><br>
-
-<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
 <strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
 
 <strong>GOD BLESS YOU.</strong>
