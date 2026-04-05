@@ -1,7 +1,39 @@
 export const dailyDevotionCateg = [{
-    date: 'SATURDAY 4TH APRIL 2026',
+    date: 'SUNDAY 5TH APRIL 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>SUNDAY 5TH APRIL 2026</strong><br><br>
+
+<strong>HAPPY EASTER, CHRIST IS RISEN</strong><br><br>
+
+<strong>1 Corinthians 15:17</strong><br>
+“And if Christ be not raised, your faith is vain, ye are yet in your sins.”<br><br>
+
+The resurrection of Jesus is not just an event; it is the very power that gives meaning to your faith. If Jesus had died and remained in the grave, then there would be no victory, no salvation, and no hope. But glory to God, He did not stay in the grave.<br><br>
+
+He rose, and that changes everything. Scripture says in <strong>Ephesians 1:19–20</strong>, “…the exceeding greatness of his power to us-ward who believe… which he wrought in Christ, when he raised him from the dead…” This means the same power that raised Jesus from the dead is now available to you.<br><br>
+
+Beloved, you are not powerless. There is resurrection power at work in you—power to overcome sin, power to rise above challenges, and power to break free from every bondage. The grave could not hold Him, and in the same way, nothing should be able to hold you down.<br><br>
+
+Every limitation must give way. Every fear must bow. Every dead situation must come back to life. Why? Because Jesus is alive. In <strong>Romans 8:11</strong>, the Bible says, “But if the Spirit of him that raised up Jesus from the dead dwell in you… shall also quicken your mortal bodies…” That means you carry life, you carry power, and you carry victory.<br><br>
+
+This Easter, don’t just celebrate the resurrection—walk in it. Let your life show that Jesus is alive. Rise above weakness. Rise above doubt. Rise above every dead thing. You are a product of the resurrection.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, I thank You for the finished work. Let the power that raised Jesus from the dead quicken all that concerns me in Jesus' Name. Amen.<br><br>
+
+<strong>Join Us at Any Face-to-Face Assembly Nearest to You:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'SATURDAY, 4TH APRIL 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -28,9 +60,10 @@ My Father, My God, my expectation in this month of April shall not be cut off in
 
 <strong>GOD BLESS YOU.</strong>
 </p>
+
 `
 }, {
-    date: 'FRIDAY, 3RD APRIL 2026',
+    date: 'FRIDAY 3RD APRIL 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
@@ -56,37 +89,6 @@ My Father, my God, deliver me from the spirit of pride and release the spirit of
 
 <strong>JOIN US IN ANY FACE TO FACE ASSEMBLY NEAREST TO YOU.</strong><br>
 <strong>SUNDAYS: 1st Service 6:00 AM | 2nd Service 8:00 AM</strong><br><br>
-
-<strong>GOD BLESS YOU.</strong>
-</p>
-
-`
-}, {
-    date: 'THURSDAY 2ND APRIL 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-
-
-<strong>BE A PEACEMAKER</strong><br><br>
-
-<strong>Matthew 5:9</strong><br>
-“Blessed are the peacemakers: for they shall be called the children of God.”<br><br>
-
-Beloved, one of the greatest signs that God is with a man is the presence of peace. God is not the author of confusion, but of peace; wherever He is present, there is calmness, order, and rest of heart. As <strong>Psalm 85:8</strong> declares, “I will hear what God the LORD will speak: for he will speak peace unto his people.” This confirms that God’s voice brings tranquility, not trouble.<br><br>
-
-Child of God, it is not enough to speak in tongues, carry a Bible, or quote scriptures. The real question is: Are you a peacemaker? A peacemaker is someone who brings calm where there is chaos, who settles issues instead of magnifying them, and who speaks words that heal rather than words that scatter. Being a peacemaker distinguishes you from the world. Anyone can react in anger, but it takes the Spirit of God to walk in peace.<br><br>
-
-When you choose peace, you demonstrate that God truly lives inside of you. In your home, your workplace, and your relationships, choose peace over strife. Do not be the cause of confusion; instead, be the reason for unity. <strong>Philippians 4:7</strong> promises that the peace of God, which passeth all understanding, shall keep your heart and mind. This is not an ordinary peace—it is divine.<br><br>
-
-When you live a life of peace, you attract God’s presence, and His blessings naturally follow you. Decide today to be a carrier of His peace wherever you go.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, I receive the grace to live in peace and to be a peacemaker. Let Your peace that passeth all understanding rest upon me and my entire household. I refuse to be an agent of confusion in Jesus' name. Amen.<br><br>
-
-<strong>Join Us at Any Face-to-Face Assembly Nearest to You:</strong><br>
-<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
 
 <strong>GOD BLESS YOU.</strong>
 </p>
