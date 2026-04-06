@@ -1,7 +1,45 @@
 export const dailyDevotionCateg = [{
-    date: 'SUNDAY 5TH APRIL 2026',
+    date: 'MONDAY 6TH APRIL 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>MONDAY 6TH APRIL 2026</strong><br><br>
+
+<strong>OH LORD, GIVE ME JUDGMENT</strong><br><br>
+
+<strong>Daniel 7:21-22</strong><br>
+“...And he shall speak great words against the most High, and shall wear out the saints of the most High… Until the Ancient of days came, and judgment was given to the saints of the most High...”<br><br>
+
+There is a mystery many people do not understand: victory is not by strength alone, it is by judgment.<br><br>
+
+The Bible says the enemy prevailed over the saints, not because the saints were weak, not because they did not pray, but because judgment had not yet been given in their favor. But the moment judgment was given, everything changed; they possessed the kingdom.<br><br>
+
+This means your victory in life is tied to divine judgment. Judgment is when God rises to speak on your matter. Judgment is when Heaven decides your case. Judgment is when God says, “Enough is enough,” and turns things around for you.<br><br>
+
+The opposite of judgment is oppression. Where there is no judgment, the enemy will keep prevailing. Where there is no judgment, delay continues. Where there is no judgment, affliction speaks louder than your prayers.<br><br>
+
+You must cry to God, “Lord, give me judgment!”<br><br>
+
+<strong>Psalm 103:6</strong> says, “The LORD executeth righteousness and judgment for all that are oppressed.” This means God specializes in giving judgment to the oppressed. He does not ignore your pain, He does not overlook your tears, but you must call on Him to arise on your behalf.<br><br>
+
+When judgment is given, battles end suddenly, long-standing problems disappear, what resisted you begins to bow, and you step into your possession.<br><br>
+
+I pray for you that the Lord will give you judgment this day in Jesus' Name. Amen.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, give me judgment over every oppression this day in Jesus' Name. Amen.<br><br>
+
+<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'SUNDAY, 5TH APRIL 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -30,9 +68,10 @@ My Father, My God, I thank You for the finished work. Let the power that raised 
 
 <strong>GOD BLESS YOU.</strong>
 </p>
+
 `
 }, {
-    date: 'SATURDAY, 4TH APRIL 2026',
+    date: 'SATURDAY 4TH APRIL 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
@@ -60,38 +99,5 @@ My Father, My God, my expectation in this month of April shall not be cut off in
 
 <strong>GOD BLESS YOU.</strong>
 </p>
-
-`
-}, {
-    date: 'FRIDAY 3RD APRIL 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-
-<strong>PRAISE NOT THYSELF</strong><br><br>
-
-<strong>Daniel 4:30</strong><br>
-“The king spake, and said, Is not this great Babylon, that I have built for the house of the kingdom by the might of my power, and for the honour of my majesty?”<br><br>
-
-One day, King Nebuchadnezzar boasted of his greatness and how powerful he had become by his own might. Because of this, the wrath of God was kindled against him, and seven seasons of his life passed him by in the wilderness (<strong>Daniel 4:1-35</strong>).<br><br>
-
-Never praise yourself. Scripture instructs us in <strong>Proverbs 27:2</strong>, “Let another man praise thee, and not thine own mouth; a stranger, and not thine own lips.” Every time you praise yourself, you are taking the glory that belongs to God. Remember, God does not share His glory with any man.<br><br>
-
-We see another example in <strong>Luke 12:16-21</strong>, where a rich man boasted in his accumulated wealth. That very same night, his life was required of him. As <strong>Proverbs 16:18</strong> warns, “Pride goeth before destruction, and an haughty spirit before a fall.”<br><br>
-
-All you need to do is constantly appreciate God for every achievement, and you will see Him uplifting you even more. Note this: some will speak well of you, and some will speak ill of you, but never take it upon yourself to sing your own praises.<br><br>
-
-Even Jesus never took the glory for Himself. When a ruler called Him "Good Master," He redirected the praise, ascribing it to God Almighty as the only Good Master (<strong>Luke 18:18-19</strong>).<br><br>
-
-<strong>PRAYERS</strong><br>
-My Father, my God, deliver me from the spirit of pride and release the spirit of meekness to me in Jesus' Name. Amen.<br><br>
-
-<strong>JOIN US IN ANY FACE TO FACE ASSEMBLY NEAREST TO YOU.</strong><br>
-<strong>SUNDAYS: 1st Service 6:00 AM | 2nd Service 8:00 AM</strong><br><br>
-
-<strong>GOD BLESS YOU.</strong>
-</p>
-
 `
 }]
