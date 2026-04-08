@@ -5,6 +5,38 @@ export const dailyDevotionCateg = [{
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
+<strong>WEDNESDAY 8TH APRIL 2026</strong><br><br>
+
+<strong>IN TIME OF FAMINE THOU SHALL LAUGH</strong><br><br>
+
+<strong>Job 5:22</strong><br>
+“At destruction and famine thou shalt laugh...”<br><br>
+
+In life, there are seasons when things become hard. Money may be scarce, opportunities may seem few, and people around you may be complaining. This is what the Bible calls famine—not just a lack of food, but lack in every area.<br><br>
+
+But God gives a different promise to His children; He said in famine, you shall laugh. This means when others are crying, you will be rejoicing. When others are going down, you will be rising. When there is a casting down, your story will be a lifting up, because your source is not the world; your source is God.<br><br>
+
+Even in dry seasons, God can make a way. He can provide where there is no supply, and He can open doors in the middle of closed systems. Your life is not controlled by the economy, but by His covenant.<br><br>
+
+Desolation will be far from you, and trouble will not find a resting place in your life. Instead of darkness, you will see light. Instead of lack, you will experience abundance.<br><br>
+
+This is not because of your strength, but because God is faithful. So do not fear when things are shaking around you, and do not join the language of complaint. Stand on God’s Word and believe it, because your story will be different.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, in time of famine I shall laugh in Jesus' Name. Amen.<br><br>
+
+<strong>Join Us at Any Face-to-Face Assembly Nearest to You:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'SUNDAY, 5TH APRIL 2026',
+    prayer: `<p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
 <strong>MONDAY 6TH APRIL 2026</strong><br><br>
 
 <strong>OH LORD, GIVE ME JUDGMENT</strong><br><br>
@@ -36,9 +68,10 @@ My Father, My God, give me judgment over every oppression this day in Jesus' Nam
 
 <strong>GOD BLESS YOU.</strong>
 </p>
+
 `
 }, {
-    date: 'SUNDAY, 5TH APRIL 2026',
+    date: 'SATURDAY 4TH APRIL 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
@@ -65,37 +98,6 @@ My Father, My God, I thank You for the finished work. Let the power that raised 
 
 <strong>Join Us at Any Face-to-Face Assembly Nearest to You:</strong><br>
 <strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
-
-<strong>GOD BLESS YOU.</strong>
-</p>
-
-`
-}, {
-    date: 'SATURDAY 4TH APRIL 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-<strong>FRIDAY 3RD APRIL 2026</strong><br><br>
-
-<strong>THE POWER OF EXPECTATION</strong><br><br>
-
-<strong>Proverbs 23:18</strong><br>
-“For surely there is an end; and thine expectation shall not be cut off.”<br><br>
-
-Beloved, there is a powerful force in the spirit called expectation. Before any righteous man receives his desire, there must first be expectation in his heart. Expectation is the seed of manifestation; you cannot receive what you are not expecting. God works with what you are looking forward to, not what you are careless about.<br><br>
-
-The scripture says, “thine expectation shall not be cut off.” This means God honors expectation. When your heart is full of hope, faith, and anticipation, Heaven is moved on your behalf. Many people pray, but they do not expect. They ask, but deep inside, they doubt; this is why results are delayed. Expectation is proof that you believe God is able and willing to do what He has promised.<br><br>
-
-The righteous man does not live in fear or uncertainty; he lives with a strong expectation that God will come through. Even when things look slow, his heart is fixed because he knows there is an end. Expectation keeps your faith alive. It gives strength to your prayers and aligns your spirit with God's promises.<br><br>
-
-Child of God, do not lose your expectation. Do not allow situations to kill your hope. What God has spoken concerning you will surely come to pass. Before the miracle comes, expectation must be in place; before the testimony, there must be anticipation. Hold on. Believe. Expect. Your expectation shall not be cut off.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, my expectation in this month of April shall not be cut off in Jesus' Name. Amen.<br><br>
-
-<strong>Join Us at Any Face-to-Face Assembly Nearest to You:</strong><br>
-<strong>SUNDAYS: 1st Service 6:30 AM</strong><br><br>
 
 <strong>GOD BLESS YOU.</strong>
 </p>
