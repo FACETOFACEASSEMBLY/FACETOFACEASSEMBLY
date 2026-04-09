@@ -1,7 +1,41 @@
 export const dailyDevotionCateg = [{
-    date: 'MONDAY 6TH APRIL 2026',
+    date: 'THURSDAY 9TH APRIL 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>THURSDAY 9TH APRIL 2026</strong><br><br>
+
+<strong>THE POWER OF THE MIND</strong><br><br>
+
+<strong>Philemon 1:14</strong><br>
+“But without thy mind would I do nothing; that thy benefit should not be as it were of necessity, but willingly.”<br><br>
+
+In the Kingdom of God, your mind plays a powerful role. God is Almighty, yet He chooses not to force His will on you. He said, “without thy mind would I do nothing.” This means God waits for your agreement before He moves in your life.<br><br>
+
+Your mind is the place of approval; if your mind rejects something, even God will not impose it on you. This is why many people pray but do not see results—their mouth is speaking faith, but their mind is full of doubt.<br><br>
+
+God works where there is agreement. When your mind begins to align with God’s Word, His power begins to manifest in your life. If your mind believes you will fail, you will struggle. But if your mind accepts victory, you will begin to walk in it.<br><br>
+
+The Bible says, “Let this mind be in you, which was also in Christ Jesus.” This means you must carry the mindset of Christ—a mind full of faith, obedience, and confidence in God. When you think like Christ, you will live like Christ.<br><br>
+
+So the battle is first in your mind. You must train your mind to think like God: think faith, think increase, think possibility. Do not allow fear, doubt, and negativity to control your thoughts.<br><br>
+
+When your mind starts working with God, then God will start working for you. Your transformation begins from within, and your life will follow the direction of your thinking.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, renew my mind and align it with Your Word. I receive the mind of Christ, and I reject every negative thought. Let my mind agree with Heaven, and let Your power begin to work in my life, in Jesus' Name. Amen.<br><br>
+
+<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'WEDNESDAY, 8TH APRIL 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -30,9 +64,10 @@ My Father, My God, in time of famine I shall laugh in Jesus' Name. Amen.<br><br>
 
 <strong>GOD BLESS YOU.</strong>
 </p>
+
 `
 }, {
-    date: 'SUNDAY, 5TH APRIL 2026',
+    date: 'TUESDAY 7TH APRIL 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
@@ -64,39 +99,6 @@ I pray for you that the Lord will give you judgment this day in Jesus' Name. Ame
 My Father, My God, give me judgment over every oppression this day in Jesus' Name. Amen.<br><br>
 
 <strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
-<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
-
-<strong>GOD BLESS YOU.</strong>
-</p>
-
-`
-}, {
-    date: 'SATURDAY 4TH APRIL 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-<strong>SUNDAY 5TH APRIL 2026</strong><br><br>
-
-<strong>HAPPY EASTER, CHRIST IS RISEN</strong><br><br>
-
-<strong>1 Corinthians 15:17</strong><br>
-“And if Christ be not raised, your faith is vain, ye are yet in your sins.”<br><br>
-
-The resurrection of Jesus is not just an event; it is the very power that gives meaning to your faith. If Jesus had died and remained in the grave, then there would be no victory, no salvation, and no hope. But glory to God, He did not stay in the grave.<br><br>
-
-He rose, and that changes everything. Scripture says in <strong>Ephesians 1:19–20</strong>, “…the exceeding greatness of his power to us-ward who believe… which he wrought in Christ, when he raised him from the dead…” This means the same power that raised Jesus from the dead is now available to you.<br><br>
-
-Beloved, you are not powerless. There is resurrection power at work in you—power to overcome sin, power to rise above challenges, and power to break free from every bondage. The grave could not hold Him, and in the same way, nothing should be able to hold you down.<br><br>
-
-Every limitation must give way. Every fear must bow. Every dead situation must come back to life. Why? Because Jesus is alive. In <strong>Romans 8:11</strong>, the Bible says, “But if the Spirit of him that raised up Jesus from the dead dwell in you… shall also quicken your mortal bodies…” That means you carry life, you carry power, and you carry victory.<br><br>
-
-This Easter, don’t just celebrate the resurrection—walk in it. Let your life show that Jesus is alive. Rise above weakness. Rise above doubt. Rise above every dead thing. You are a product of the resurrection.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, I thank You for the finished work. Let the power that raised Jesus from the dead quicken all that concerns me in Jesus' Name. Amen.<br><br>
-
-<strong>Join Us at Any Face-to-Face Assembly Nearest to You:</strong><br>
 <strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
 
 <strong>GOD BLESS YOU.</strong>
