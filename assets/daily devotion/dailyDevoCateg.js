@@ -1,5 +1,5 @@
 export const dailyDevotionCateg = [{
-    date: 'THURSDAY 9TH APRIL 2026',
+    date: 'FRIDAY 10TH APRIL 2026',
     prayer: `
 <p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
@@ -34,7 +34,7 @@ My Father, My God, I look up to You for increase. Bless the work of my hands and
 </p>
 `
 }, {
-    date: 'WEDNESDAY, 8TH APRIL 2026',
+    date: 'THURSDAY, 9TH APRIL 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
@@ -69,7 +69,7 @@ My Father, My God, renew my mind and align it with Your Word. I receive the mind
 
 `
 }, {
-    date: 'TUESDAY 7TH APRIL 2026',
+    date: 'WEDNESDAY 8TH APRIL 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
