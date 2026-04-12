@@ -1,7 +1,39 @@
 export const dailyDevotionCateg = [{
-    date: 'FRIDAY 10TH APRIL 2026',
+    date: 'SUNDAY 12TH APRIL 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>SUNDAY 12TH APRIL 2026</strong><br><br>
+
+<strong>SEED TIME AND HARVEST TIME</strong><br><br>
+
+<strong>Genesis 8:22</strong><br>
+“While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease.”<br><br>
+
+Life operates by a simple but powerful law: seedtime and harvest. Everything you do is a seed. Every word you speak, every action you take, and every thought you allow in your heart is a seed planted into your future.<br><br>
+
+God cannot be mocked; if you sow good, you will surely reap good. If you sow evil, you will also reap it. This is a spiritual law that works for everyone.<br><br>
+
+If you sow love, joy will come back to you. If you sow kindness, you will receive kindness. But if you sow bitterness, anger, and hatred, the harvest will come in the same measure. Many people pray for a good harvest, but they are not mindful of the seeds they are sowing.<br><br>
+
+Beloved, be careful of your seeds, for your future is hidden in what you are sowing today. Every small act matters, and every word counts. If you want a life full of joy, peace, and abundance, then start sowing the right seeds now: speak good words, do good things, and think good thoughts.<br><br>
+
+Remember, harvest may take time, but it will surely come.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, help me to be mindful of every seed I sow. Teach me to sow seeds of love, joy, and righteousness, and let my life produce a good harvest in Jesus' Name. Amen.<br><br>
+
+<strong>Join Us at Any Face-to-Face Assembly Nearest to You:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'FRIDAY, 9TH APRIL 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -32,9 +64,10 @@ My Father, My God, I look up to You for increase. Bless the work of my hands and
 
 <strong>GOD BLESS YOU.</strong>
 </p>
+
 `
 }, {
-    date: 'THURSDAY, 9TH APRIL 2026',
+    date: 'THURSDAY 8TH APRIL 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
@@ -62,39 +95,6 @@ When your mind starts working with God, then God will start working for you. You
 My Father, My God, renew my mind and align it with Your Word. I receive the mind of Christ, and I reject every negative thought. Let my mind agree with Heaven, and let Your power begin to work in my life, in Jesus' Name. Amen.<br><br>
 
 <strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
-<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
-
-<strong>GOD BLESS YOU.</strong>
-</p>
-
-`
-}, {
-    date: 'WEDNESDAY 8TH APRIL 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-<strong>WEDNESDAY 8TH APRIL 2026</strong><br><br>
-
-<strong>IN TIME OF FAMINE THOU SHALL LAUGH</strong><br><br>
-
-<strong>Job 5:22</strong><br>
-“At destruction and famine thou shalt laugh...”<br><br>
-
-In life, there are seasons when things become hard. Money may be scarce, opportunities may seem few, and people around you may be complaining. This is what the Bible calls famine—not just a lack of food, but lack in every area.<br><br>
-
-But God gives a different promise to His children; He said in famine, you shall laugh. This means when others are crying, you will be rejoicing. When others are going down, you will be rising. When there is a casting down, your story will be a lifting up, because your source is not the world; your source is God.<br><br>
-
-Even in dry seasons, God can make a way. He can provide where there is no supply, and He can open doors in the middle of closed systems. Your life is not controlled by the economy, but by His covenant.<br><br>
-
-Desolation will be far from you, and trouble will not find a resting place in your life. Instead of darkness, you will see light. Instead of lack, you will experience abundance.<br><br>
-
-This is not because of your strength, but because God is faithful. So do not fear when things are shaking around you, and do not join the language of complaint. Stand on God’s Word and believe it, because your story will be different.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, in time of famine I shall laugh in Jesus' Name. Amen.<br><br>
-
-<strong>Join Us at Any Face-to-Face Assembly Nearest to You:</strong><br>
 <strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
 
 <strong>GOD BLESS YOU.</strong>
