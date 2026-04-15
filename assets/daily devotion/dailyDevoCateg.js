@@ -1,11 +1,43 @@
 export const dailyDevotionCateg = [{
-    date: 'SUNDAY 12TH APRIL 2026',
+    date: 'WEDNESDAY 15TH APRIL 2026',
     prayer: `
 <p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
-<strong>SUNDAY 12TH APRIL 2026</strong><br><br>
+<strong>WEDNESDAY 15TH APRIL 2026</strong><br><br>
+
+<strong>PENIEL – FACE TO FACE WITH GOD</strong><br><br>
+
+<strong>Genesis 32:30</strong><br>
+“And Jacob called the name of the place Peniel: for I have seen God face to face, and my life is preserved.”<br><br>
+
+In life, there are moments that change everything—not because of people, not because of opportunities, but because of an encounter with God.<br><br>
+
+Peniel is the place of encounter; it is the place where a man meets God and does not remain the same. Peniel is the place of wrestling; it is the place where your old self is broken, and a new you emerges. Sometimes, the struggles you are going through are not meant to destroy you, but to change you.<br><br>
+
+Jacob wrestled through the night. He felt the pressure, the tension, and the pain, but he refused to let go until the blessing came. That encounter changed everything about his life. His name changed, his identity changed, and his future changed.<br><br>
+
+There are seasons when you will feel like you are in a battle, when things are not easy, when the pressure is much—that may be your Peniel moment. Do not run away, do not give up; stay in the place of encounter. Hold on to God until your change comes.<br><br>
+
+After Peniel, there is a new name; after Peniel, there is a new strength; after Peniel, there is a new season. You will not leave this season the same in Jesus' Name. Amen.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, I need a face-to-face encounter that will transform my life forever in Jesus' Name. Amen.<br><br>
+
+<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'TUESDAY, 14TH APRIL 2026',
+    prayer: `<p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+
 
 <strong>SEED TIME AND HARVEST TIME</strong><br><br>
 
@@ -30,14 +62,14 @@ My Father, My God, help me to be mindful of every seed I sow. Teach me to sow se
 
 <strong>GOD BLESS YOU.</strong>
 </p>
+
 `
 }, {
-    date: 'FRIDAY, 9TH APRIL 2026',
+    date: 'MONDAY 13TH APRIL 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
-<strong>FRIDAY 10TH APRIL 2026</strong><br><br>
 
 <strong>GOD GIVES THE INCREASE</strong><br><br>
 
@@ -58,41 +90,6 @@ So trust Him. Even if it looks slow now, your increase is coming. God will cause
 
 <strong>PRAYER</strong><br>
 My Father, My God, I look up to You for increase. Bless the work of my hands and cause it to grow. Let every seed I have planted bring forth great results. I receive divine increase in every area of my life, in Jesus' Name. Amen.<br><br>
-
-<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
-<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
-
-<strong>GOD BLESS YOU.</strong>
-</p>
-
-`
-}, {
-    date: 'THURSDAY 8TH APRIL 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-<strong>THURSDAY 9TH APRIL 2026</strong><br><br>
-
-<strong>THE POWER OF THE MIND</strong><br><br>
-
-<strong>Philemon 1:14</strong><br>
-“But without thy mind would I do nothing; that thy benefit should not be as it were of necessity, but willingly.”<br><br>
-
-In the Kingdom of God, your mind plays a powerful role. God is Almighty, yet He chooses not to force His will on you. He said, “without thy mind would I do nothing.” This means God waits for your agreement before He moves in your life.<br><br>
-
-Your mind is the place of approval; if your mind rejects something, even God will not impose it on you. This is why many people pray but do not see results—their mouth is speaking faith, but their mind is full of doubt.<br><br>
-
-God works where there is agreement. When your mind begins to align with God’s Word, His power begins to manifest in your life. If your mind believes you will fail, you will struggle. But if your mind accepts victory, you will begin to walk in it.<br><br>
-
-The Bible says, “Let this mind be in you, which was also in Christ Jesus.” This means you must carry the mindset of Christ—a mind full of faith, obedience, and confidence in God. When you think like Christ, you will live like Christ.<br><br>
-
-So the battle is first in your mind. You must train your mind to think like God: think faith, think increase, think possibility. Do not allow fear, doubt, and negativity to control your thoughts.<br><br>
-
-When your mind starts working with God, then God will start working for you. Your transformation begins from within, and your life will follow the direction of your thinking.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, renew my mind and align it with Your Word. I receive the mind of Christ, and I reject every negative thought. Let my mind agree with Heaven, and let Your power begin to work in my life, in Jesus' Name. Amen.<br><br>
 
 <strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
 <strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
