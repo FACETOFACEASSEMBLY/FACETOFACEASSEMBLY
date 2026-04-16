@@ -1,7 +1,37 @@
 export const dailyDevotionCateg = [{
-    date: 'WEDNESDAY 15TH APRIL 2026',
+    date: 'THURSDAY 16TH APRIL 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>THURSDAY 16TH APRIL 2026</strong><br><br>
+
+<strong>YOUR ENEMIES WILL EITHER TURN BACK OR SINK</strong><br><br>
+
+<strong>Exodus 15:9-10</strong><br>
+“The enemy said, I will pursue, I will overtake, I will divide the spoil; my lust shall be satisfied upon them; I will draw my sword, my hand shall destroy them. Thou didst blow with thy wind, the sea covered them: they sank as lead in the mighty waters.”<br><br>
+
+Your enemy has only two options: to turn back or to sink. The enemy in this scripture spoke boldly. He said, “I will pursue, I will overtake, I will destroy.” He was confident that nothing could stop him, but he forgot that God was involved. While the enemy was still speaking, God acted.<br><br>
+
+The Bible says, “Thou didst blow with thy wind, the sea covered them.” God did not argue with the enemy, He did not struggle; He simply moved, and the enemy sank like lead. This is how God will deal with every stubborn enemy in your life. If they refuse to turn back, they will sink.<br><br>
+
+The same sea that opened for the children of God became a grave for their enemies. This means what God uses to make a way for you can also be used to fight for you.<br><br>
+
+Every power pursuing your life, your destiny, and your peace has an end; they will either turn back or they will sink. I see God defending you victoriously in Jesus' Name. Amen.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, let every enemy pursuing my life turn back or sink. Arise and fight for me, and let every evil plan against me be destroyed in Jesus' Name. Amen.<br><br>
+
+<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'WEDNESDAY, 15TH APRIL 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -30,9 +60,10 @@ My Father, My God, I need a face-to-face encounter that will transform my life f
 
 <strong>GOD BLESS YOU.</strong>
 </p>
+
 `
 }, {
-    date: 'TUESDAY, 14TH APRIL 2026',
+    date: 'TUESDAY 14TH APRIL 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
@@ -63,38 +94,5 @@ My Father, My God, help me to be mindful of every seed I sow. Teach me to sow se
 <strong>GOD BLESS YOU.</strong>
 </p>
 
-`
-}, {
-    date: 'MONDAY 13TH APRIL 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-
-<strong>GOD GIVES THE INCREASE</strong><br><br>
-
-<strong>1 Corinthians 3:6-7</strong><br>
-“I have planted, Apollos watered; but God gave the increase. So then neither is he that planteth any thing, neither he that watereth; but God that giveth the increase.”<br><br>
-
-In the journey of life, there is always a process: there is planting, there is watering, and then there is increase. Many people focus only on their effort but forget that true increase comes from God.<br><br>
-
-You can work hard, you can plan well, and you can even receive help from others, but if God does not release increase, everything will remain at the same level. This is why some people struggle so much but see little result.<br><br>
-
-The Bible makes it clear: Paul planted, Apollos watered, but God gave the increase. This means your effort is important, but it is not the final key. God is the one who makes things grow.<br><br>
-
-So do not depend only on your strength. Do your part, be diligent, be faithful, but always look up to God for the increase. When God steps in, little becomes much, and small beginnings turn into great results.<br><br>
-
-Never compare your journey with others. Some may plant, others may water, but your increase will come from God at the right time. When God blesses you, no man can stop it.<br><br>
-
-So trust Him. Even if it looks slow now, your increase is coming. God will cause growth in your life, your work, and everything that concerns you.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, I look up to You for increase. Bless the work of my hands and cause it to grow. Let every seed I have planted bring forth great results. I receive divine increase in every area of my life, in Jesus' Name. Amen.<br><br>
-
-<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
-<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
-
-<strong>GOD BLESS YOU.</strong>
-</p>
 `
 }]
