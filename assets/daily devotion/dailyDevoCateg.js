@@ -1,7 +1,41 @@
 export const dailyDevotionCateg = [{
-    date: 'THURSDAY 16TH APRIL 2026',
+    date: 'FRIDAY 17TH APRIL 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>FRIDAY 17TH APRIL 2026</strong><br><br>
+
+<strong>TASTE AND SEE THAT THE LORD IS GOOD</strong><br><br>
+
+<strong>Psalm 34:8</strong><br>
+“O taste and see that the LORD is good: blessed is the man that trusteth in him.”<br><br>
+
+In the things of God, experience is important; it is not enough to hear about God, you must taste and see for yourself that He is good.<br><br>
+
+Many people know about God, but they have not truly experienced Him. They rely on what others say, but God is inviting you into a personal encounter today.<br><br>
+
+The Bible says, “taste and see.” This means you must step in, trust Him, and allow Him to reveal Himself to you. When you truly experience God, doubt disappears and your faith becomes strong.<br><br>
+
+God’s goodness is real: He heals, He provides, He protects, and He makes a way where there is no way. But you must trust Him to experience it.<br><br>
+
+“Blessed is the man that trusteth in him.” Your blessing is connected to your trust. When you put your full confidence in God, you will see His goodness in your life.<br><br>
+
+Do not stay at a distance. Draw closer to God, trust Him in your situation, and you will have your own testimony. When you taste Him, you will know that He is good.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, I choose to trust You with all my heart. Help me to experience Your goodness in my life. Let me see Your hand in everything that concerns me in Jesus' Name. Amen.<br><br>
+
+<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'THURSDAY, 16TH APRIL 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -28,9 +62,10 @@ My Father, My God, let every enemy pursuing my life turn back or sink. Arise and
 
 <strong>GOD BLESS YOU.</strong>
 </p>
+
 `
 }, {
-    date: 'WEDNESDAY, 15TH APRIL 2026',
+    date: 'WEDNESDAY 15TH APRIL 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
@@ -56,39 +91,6 @@ After Peniel, there is a new name; after Peniel, there is a new strength; after 
 My Father, My God, I need a face-to-face encounter that will transform my life forever in Jesus' Name. Amen.<br><br>
 
 <strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
-<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
-
-<strong>GOD BLESS YOU.</strong>
-</p>
-
-`
-}, {
-    date: 'TUESDAY 14TH APRIL 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-
-
-<strong>SEED TIME AND HARVEST TIME</strong><br><br>
-
-<strong>Genesis 8:22</strong><br>
-“While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease.”<br><br>
-
-Life operates by a simple but powerful law: seedtime and harvest. Everything you do is a seed. Every word you speak, every action you take, and every thought you allow in your heart is a seed planted into your future.<br><br>
-
-God cannot be mocked; if you sow good, you will surely reap good. If you sow evil, you will also reap it. This is a spiritual law that works for everyone.<br><br>
-
-If you sow love, joy will come back to you. If you sow kindness, you will receive kindness. But if you sow bitterness, anger, and hatred, the harvest will come in the same measure. Many people pray for a good harvest, but they are not mindful of the seeds they are sowing.<br><br>
-
-Beloved, be careful of your seeds, for your future is hidden in what you are sowing today. Every small act matters, and every word counts. If you want a life full of joy, peace, and abundance, then start sowing the right seeds now: speak good words, do good things, and think good thoughts.<br><br>
-
-Remember, harvest may take time, but it will surely come.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, help me to be mindful of every seed I sow. Teach me to sow seeds of love, joy, and righteousness, and let my life produce a good harvest in Jesus' Name. Amen.<br><br>
-
-<strong>Join Us at Any Face-to-Face Assembly Nearest to You:</strong><br>
 <strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
 
 <strong>GOD BLESS YOU.</strong>
