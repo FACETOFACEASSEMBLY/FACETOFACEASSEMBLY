@@ -1,7 +1,47 @@
 export const dailyDevotionCateg = [{
-    date: 'FRIDAY 17TH APRIL 2026',
+    date: 'SATURDAY 18TH APRIL 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>SATURDAY 18TH APRIL 2026</strong><br><br>
+
+<strong>WHAT KILLS A PRAYER LIFE</strong><br><br>
+
+<strong>Luke 18:1</strong><br>
+“And he spake a parable to this end, that men ought always to pray, and not to faint.”<br><br>
+
+As believers, prayer is our lifeline, but many people struggle in their prayer life, not because prayer does not work, but because certain things weaken it.<br><br>
+
+One of the major enemies of prayer is inconsistency. When you pray only when you feel like it or when you are in trouble, your prayer life becomes weak. A strong prayer life is built daily, not occasionally.<br><br>
+
+Another danger is unforgiveness. The Bible makes it clear that when you hold grudges, it affects your connection with God. A heart that refuses to forgive cannot flow freely in prayer.<br><br>
+
+Distractions also weaken prayer. When your mind is everywhere, it becomes difficult to connect deeply with God. Prayer requires focus and attention.<br><br>
+
+Sin that is ignored or justified will also kill your prayer life. Sin creates a separation and reduces your spiritual sensitivity. Over time, it weakens your ability to pray effectively.<br><br>
+
+Doubt is another enemy. When you pray without faith, your prayers lose strength. You must believe that God hears you and will answer you.<br><br>
+
+Also, when you neglect God’s Word, your faith becomes weak. The Word of God is what strengthens your prayer life and gives you confidence.<br><br>
+
+Lastly, spiritual laziness can destroy your prayer life. When you keep postponing prayer, you gradually grow distant from God.<br><br>
+
+If you want a strong prayer life, you must deal with these things. Be consistent, forgive quickly, stay focused, live right, believe God, study His Word, and be disciplined. Your prayer life is your strength; guard it.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, help me to build a strong and consistent prayer life. Remove every obstacle that weakens my prayer. Give me the grace to be disciplined, focused, and full of faith in Jesus' Name. Amen.<br><br>
+
+<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'FRIDAY 17TH APRIL 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -32,9 +72,10 @@ My Father, My God, I choose to trust You with all my heart. Help me to experienc
 
 <strong>GOD BLESS YOU.</strong>
 </p>
+
 `
 }, {
-    date: 'THURSDAY, 16TH APRIL 2026',
+    date: 'THURSDAY 16TH APRIL 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
@@ -56,39 +97,6 @@ Every power pursuing your life, your destiny, and your peace has an end; they wi
 
 <strong>PRAYER</strong><br>
 My Father, My God, let every enemy pursuing my life turn back or sink. Arise and fight for me, and let every evil plan against me be destroyed in Jesus' Name. Amen.<br><br>
-
-<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
-<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
-
-<strong>GOD BLESS YOU.</strong>
-</p>
-
-`
-}, {
-    date: 'WEDNESDAY 15TH APRIL 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-<strong>WEDNESDAY 15TH APRIL 2026</strong><br><br>
-
-<strong>PENIEL – FACE TO FACE WITH GOD</strong><br><br>
-
-<strong>Genesis 32:30</strong><br>
-“And Jacob called the name of the place Peniel: for I have seen God face to face, and my life is preserved.”<br><br>
-
-In life, there are moments that change everything—not because of people, not because of opportunities, but because of an encounter with God.<br><br>
-
-Peniel is the place of encounter; it is the place where a man meets God and does not remain the same. Peniel is the place of wrestling; it is the place where your old self is broken, and a new you emerges. Sometimes, the struggles you are going through are not meant to destroy you, but to change you.<br><br>
-
-Jacob wrestled through the night. He felt the pressure, the tension, and the pain, but he refused to let go until the blessing came. That encounter changed everything about his life. His name changed, his identity changed, and his future changed.<br><br>
-
-There are seasons when you will feel like you are in a battle, when things are not easy, when the pressure is much—that may be your Peniel moment. Do not run away, do not give up; stay in the place of encounter. Hold on to God until your change comes.<br><br>
-
-After Peniel, there is a new name; after Peniel, there is a new strength; after Peniel, there is a new season. You will not leave this season the same in Jesus' Name. Amen.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, I need a face-to-face encounter that will transform my life forever in Jesus' Name. Amen.<br><br>
 
 <strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
 <strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
