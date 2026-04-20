@@ -1,7 +1,45 @@
 export const dailyDevotionCateg = [{
-    date: 'SATURDAY 18TH APRIL 2026',
+    date: 'MONDAY 20TH APRIL 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>MONDAY 20TH APRIL 2026</strong><br><br>
+
+<strong>EVERYTHING GOD MADE WAS VERY GOOD</strong><br><br>
+
+<strong>Genesis 1:31</strong><br>
+“And God saw every thing that He had made, and, behold, it was very good…”<br><br>
+
+From the beginning of creation, God stamped one truth into the foundation of the earth: God does not make mistakes.<br><br>
+
+Before man fell, before sin entered, before corruption touched the world, every single thing God made was very good, complete, and without defect. This was not just a statement about creation; it was a prophecy about you.<br><br>
+
+You are God’s idea. You are God’s workmanship. You are God’s design. And when God finished forming you, He looked at you and said, VERY GOOD.<br><br>
+
+The world may label you wrongly… People may misunderstand you… Circumstances may try to redefine you… But the original verdict of God over your life is GOOD.<br><br>
+
+Even when life becomes hard, it does not cancel what God declared. Even when you feel broken, it does not erase what God designed. Even when you make mistakes, it does not change your value in His eyes.<br><br>
+
+The enemy fights your identity because he knows God called you good even before you saw the light of day. So he sends shame, rejection, failure, and fear to make you doubt your original design.<br><br>
+
+Your beginning was good, your journey is intentional, and your ending will be glorious. God never starts what He cannot finish, and He never creates what He cannot bless.<br><br>
+
+If God saw it as “very good,” then that goodness is still inside you, waiting to manifest, unfold, and arise. Stop agreeing with the lies that say you are not enough. Stop measuring yourself by people who do not know your purpose. Stand on the truth that the God who made you has never made a mistake.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, thank You for creating me with intention and calling me very good. Help me to see myself the way You see me. Let every area of my life reflect Your goodness—my thoughts, my choices, my relationships, and my destiny in Jesus' name. Amen.<br><br>
+
+<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'SATURDAY 18TH APRIL 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -38,6 +76,7 @@ My Father, My God, help me to build a strong and consistent prayer life. Remove 
 
 <strong>GOD BLESS YOU.</strong>
 </p>
+
 `
 }, {
     date: 'FRIDAY 17TH APRIL 2026',
@@ -66,37 +105,6 @@ Do not stay at a distance. Draw closer to God, trust Him in your situation, and 
 
 <strong>PRAYER</strong><br>
 My Father, My God, I choose to trust You with all my heart. Help me to experience Your goodness in my life. Let me see Your hand in everything that concerns me in Jesus' Name. Amen.<br><br>
-
-<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
-<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
-
-<strong>GOD BLESS YOU.</strong>
-</p>
-
-`
-}, {
-    date: 'THURSDAY 16TH APRIL 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-<strong>THURSDAY 16TH APRIL 2026</strong><br><br>
-
-<strong>YOUR ENEMIES WILL EITHER TURN BACK OR SINK</strong><br><br>
-
-<strong>Exodus 15:9-10</strong><br>
-“The enemy said, I will pursue, I will overtake, I will divide the spoil; my lust shall be satisfied upon them; I will draw my sword, my hand shall destroy them. Thou didst blow with thy wind, the sea covered them: they sank as lead in the mighty waters.”<br><br>
-
-Your enemy has only two options: to turn back or to sink. The enemy in this scripture spoke boldly. He said, “I will pursue, I will overtake, I will destroy.” He was confident that nothing could stop him, but he forgot that God was involved. While the enemy was still speaking, God acted.<br><br>
-
-The Bible says, “Thou didst blow with thy wind, the sea covered them.” God did not argue with the enemy, He did not struggle; He simply moved, and the enemy sank like lead. This is how God will deal with every stubborn enemy in your life. If they refuse to turn back, they will sink.<br><br>
-
-The same sea that opened for the children of God became a grave for their enemies. This means what God uses to make a way for you can also be used to fight for you.<br><br>
-
-Every power pursuing your life, your destiny, and your peace has an end; they will either turn back or they will sink. I see God defending you victoriously in Jesus' Name. Amen.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, let every enemy pursuing my life turn back or sink. Arise and fight for me, and let every evil plan against me be destroyed in Jesus' Name. Amen.<br><br>
 
 <strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
 <strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
