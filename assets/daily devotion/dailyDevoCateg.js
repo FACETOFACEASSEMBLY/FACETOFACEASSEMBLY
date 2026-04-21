@@ -1,7 +1,41 @@
 export const dailyDevotionCateg = [{
-    date: 'MONDAY 20TH APRIL 2026',
+    date: 'TUESDAY 21ST APRIL 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>TUESDAY 21ST APRIL 2026</strong><br><br>
+
+<strong>PUT AWAY CHILDISH THINGS</strong><br><br>
+
+<strong>1 Corinthians 13:11</strong><br>
+“When I was a child, I spake as a child, I understood as a child, I thought as a child: but when I became a man, I put away childish things.”<br><br>
+
+In the journey of life, growth is expected; God does not want you to remain at the same level. There is a time to be a child, and there is a time to grow into maturity.<br><br>
+
+The Bible says, “when I became a man, I put away childish things.” This means growth is a decision; there are attitudes, thoughts, and behaviors that must be left behind if you want to move forward.<br><br>
+
+Childish thinking limits progress; it focuses on emotions, excuses, and temporary feelings. But maturity focuses on responsibility, discipline, and purpose.<br><br>
+
+In your spiritual life, you must grow. You cannot continue to behave the same way, think the same way, and expect different results. There must be a change in how you speak, how you think, and how you respond to situations.<br><br>
+
+Growth also requires letting go—let go of offense, let go of excuses, and let go of habits that do not help your walk with God. As you grow, your understanding will deepen, and your life will reflect it.<br><br>
+
+God is calling you to a higher level. Do not remain where you started; make a decision today to put away childish things and step into maturity.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, help me to grow and mature in every area of my life. Give me the grace to put away every childish way of thinking and living. Let my life reflect growth and understanding in Jesus' Name. Amen.<br><br>
+
+<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'MONDAY 20TH APRIL 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -36,9 +70,10 @@ My Father, My God, thank You for creating me with intention and calling me very 
 
 <strong>GOD BLESS YOU.</strong>
 </p>
+
 `
 }, {
-    date: 'SATURDAY 18TH APRIL 2026',
+    date: 'SUNDAY 19TH APRIL 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
@@ -70,41 +105,6 @@ If you want a strong prayer life, you must deal with these things. Be consistent
 
 <strong>PRAYER</strong><br>
 My Father, My God, help me to build a strong and consistent prayer life. Remove every obstacle that weakens my prayer. Give me the grace to be disciplined, focused, and full of faith in Jesus' Name. Amen.<br><br>
-
-<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
-<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
-
-<strong>GOD BLESS YOU.</strong>
-</p>
-
-`
-}, {
-    date: 'FRIDAY 17TH APRIL 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-<strong>FRIDAY 17TH APRIL 2026</strong><br><br>
-
-<strong>TASTE AND SEE THAT THE LORD IS GOOD</strong><br><br>
-
-<strong>Psalm 34:8</strong><br>
-“O taste and see that the LORD is good: blessed is the man that trusteth in him.”<br><br>
-
-In the things of God, experience is important; it is not enough to hear about God, you must taste and see for yourself that He is good.<br><br>
-
-Many people know about God, but they have not truly experienced Him. They rely on what others say, but God is inviting you into a personal encounter today.<br><br>
-
-The Bible says, “taste and see.” This means you must step in, trust Him, and allow Him to reveal Himself to you. When you truly experience God, doubt disappears and your faith becomes strong.<br><br>
-
-God’s goodness is real: He heals, He provides, He protects, and He makes a way where there is no way. But you must trust Him to experience it.<br><br>
-
-“Blessed is the man that trusteth in him.” Your blessing is connected to your trust. When you put your full confidence in God, you will see His goodness in your life.<br><br>
-
-Do not stay at a distance. Draw closer to God, trust Him in your situation, and you will have your own testimony. When you taste Him, you will know that He is good.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, I choose to trust You with all my heart. Help me to experience Your goodness in my life. Let me see Your hand in everything that concerns me in Jesus' Name. Amen.<br><br>
 
 <strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
 <strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
