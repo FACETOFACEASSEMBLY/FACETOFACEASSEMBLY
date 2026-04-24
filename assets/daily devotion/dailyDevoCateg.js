@@ -1,11 +1,44 @@
 export const dailyDevotionCateg = [{
-    date: 'TUESDAY 21ST APRIL 2026',
+    date: 'FRIDAY 24TH APRIL 2026',
     prayer: `
 <p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
-<strong>TUESDAY 21ST APRIL 2026</strong><br><br>
+<strong>FRIDAY 24TH APRIL 2026</strong><br><br>
+
+<strong>GOD IS LOVE</strong><br><br>
+
+<strong>1 Corinthians 13:1-8</strong><br>
+“Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass… Charity suffereth long, and is kind… Beareth all things, believeth all things, hopeth all things, endureth all things. Charity never faileth…”<br><br>
+
+<strong>1 John 4:8</strong><br>
+“He that loveth not knoweth not God; for God is love.”<br><br>
+
+Love is not just something God does; love is who God is. The Bible says, “God is love.” This means everything about God flows from love.<br><br>
+
+In 1 Corinthians 13, we can see the true nature of love. It is patient, it is kind, it does not envy, it is not proud, and it does not seek its own. This is the character of God. No matter what you have, without love, it has no value. You can pray, give, and even serve, but if love is missing, it is empty before God.<br><br>
+
+Love never fails. Everything else may pass away, but love remains. This is why God wants His children to walk in love at all times. When you love, you reflect God; when you forgive, you reflect God. When you show kindness and patience, you are showing His nature.<br><br>
+
+Check your heart today and remove bitterness, anger, and pride. Choose to walk in love, because that is who God is. Remember, when love is present, God is present.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, fill me with Your love. Remove every wrong attitude from my heart and help me to reflect Your nature daily in Jesus' Name. Amen.<br><br>
+
+<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'THURSDAY 23RD APRIL 2026',
+    prayer: `<p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+
 
 <strong>PUT AWAY CHILDISH THINGS</strong><br><br>
 
@@ -32,14 +65,15 @@ My Father, My God, help me to grow and mature in every area of my life. Give me 
 
 <strong>GOD BLESS YOU.</strong>
 </p>
+
 `
 }, {
-    date: 'MONDAY 20TH APRIL 2026',
+    date: 'WEDNESDAY 22ND APRIL 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
-<strong>MONDAY 20TH APRIL 2026</strong><br><br>
+
 
 <strong>EVERYTHING GOD MADE WAS VERY GOOD</strong><br><br>
 
@@ -64,47 +98,6 @@ If God saw it as “very good,” then that goodness is still inside you, waitin
 
 <strong>PRAYER</strong><br>
 My Father, My God, thank You for creating me with intention and calling me very good. Help me to see myself the way You see me. Let every area of my life reflect Your goodness—my thoughts, my choices, my relationships, and my destiny in Jesus' name. Amen.<br><br>
-
-<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
-<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
-
-<strong>GOD BLESS YOU.</strong>
-</p>
-
-`
-}, {
-    date: 'SUNDAY 19TH APRIL 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-<strong>SATURDAY 18TH APRIL 2026</strong><br><br>
-
-<strong>WHAT KILLS A PRAYER LIFE</strong><br><br>
-
-<strong>Luke 18:1</strong><br>
-“And he spake a parable to this end, that men ought always to pray, and not to faint.”<br><br>
-
-As believers, prayer is our lifeline, but many people struggle in their prayer life, not because prayer does not work, but because certain things weaken it.<br><br>
-
-One of the major enemies of prayer is inconsistency. When you pray only when you feel like it or when you are in trouble, your prayer life becomes weak. A strong prayer life is built daily, not occasionally.<br><br>
-
-Another danger is unforgiveness. The Bible makes it clear that when you hold grudges, it affects your connection with God. A heart that refuses to forgive cannot flow freely in prayer.<br><br>
-
-Distractions also weaken prayer. When your mind is everywhere, it becomes difficult to connect deeply with God. Prayer requires focus and attention.<br><br>
-
-Sin that is ignored or justified will also kill your prayer life. Sin creates a separation and reduces your spiritual sensitivity. Over time, it weakens your ability to pray effectively.<br><br>
-
-Doubt is another enemy. When you pray without faith, your prayers lose strength. You must believe that God hears you and will answer you.<br><br>
-
-Also, when you neglect God’s Word, your faith becomes weak. The Word of God is what strengthens your prayer life and gives you confidence.<br><br>
-
-Lastly, spiritual laziness can destroy your prayer life. When you keep postponing prayer, you gradually grow distant from God.<br><br>
-
-If you want a strong prayer life, you must deal with these things. Be consistent, forgive quickly, stay focused, live right, believe God, study His Word, and be disciplined. Your prayer life is your strength; guard it.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, help me to build a strong and consistent prayer life. Remove every obstacle that weakens my prayer. Give me the grace to be disciplined, focused, and full of faith in Jesus' Name. Amen.<br><br>
 
 <strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
 <strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
