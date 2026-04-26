@@ -1,11 +1,45 @@
 export const dailyDevotionCateg = [{
-    date: 'FRIDAY 24TH APRIL 2026',
+    date: 'SUNDAY 26TH APRIL 2026',
     prayer: `
 <p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
-<strong>FRIDAY 24TH APRIL 2026</strong><br><br>
+<strong>SUNDAY 26TH APRIL 2026</strong><br><br>
+
+<strong>ESCAPING THE WILL OF THE ENEMY</strong><br><br>
+
+<strong>John 10:10</strong><br>
+“The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly.”<br><br>
+
+In life, there are two wills at work: the will of God and the will of the enemy. The enemy’s mission is clear—to steal, to kill, and to destroy—but God has made a way for you to escape every plan of the enemy.<br><br>
+
+The first step to escaping the will of the enemy is to accept Jesus Christ. When you receive Jesus, you move from darkness into light; your life is no longer under the control of the enemy.<br><br>
+
+Secondly, you must be prayerful. Prayer keeps you connected to God and strengthens your spirit. A prayerful life is a protected life. When you pray, you rise above the plans of the enemy.<br><br>
+
+Thirdly, you must give to the poor. Scripture says in <strong>Psalm 41:1-2</strong>, “Blessed is he that considereth the poor: the LORD will deliver him in time of trouble… and thou wilt not deliver him unto the will of his enemies.”<br><br>
+
+This means when you give to the poor, God steps in to deliver you and will not hand you over to the will of your enemies. Your giving becomes a shield of preservation over your life.<br><br>
+
+These are keys to living above the will of the enemy: stay in Christ, stay in prayer, and live a life of giving. The enemy may have a plan, but God will not deliver you into his hands.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, deliver me from the will of the enemy in Jesus' Name. Amen.<br><br>
+
+<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'SATURDAY 24TH APRIL 2026',
+    prayer: `<p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+
 
 <strong>GOD IS LOVE</strong><br><br>
 
@@ -31,9 +65,10 @@ My Father, My God, fill me with Your love. Remove every wrong attitude from my h
 
 <strong>GOD BLESS YOU.</strong>
 </p>
+
 `
 }, {
-    date: 'THURSDAY 23RD APRIL 2026',
+    date: 'FRIDAY 23RD APRIL 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
@@ -59,45 +94,6 @@ God is calling you to a higher level. Do not remain where you started; make a de
 
 <strong>PRAYER</strong><br>
 My Father, My God, help me to grow and mature in every area of my life. Give me the grace to put away every childish way of thinking and living. Let my life reflect growth and understanding in Jesus' Name. Amen.<br><br>
-
-<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
-<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
-
-<strong>GOD BLESS YOU.</strong>
-</p>
-
-`
-}, {
-    date: 'WEDNESDAY 22ND APRIL 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-
-
-<strong>EVERYTHING GOD MADE WAS VERY GOOD</strong><br><br>
-
-<strong>Genesis 1:31</strong><br>
-“And God saw every thing that He had made, and, behold, it was very good…”<br><br>
-
-From the beginning of creation, God stamped one truth into the foundation of the earth: God does not make mistakes.<br><br>
-
-Before man fell, before sin entered, before corruption touched the world, every single thing God made was very good, complete, and without defect. This was not just a statement about creation; it was a prophecy about you.<br><br>
-
-You are God’s idea. You are God’s workmanship. You are God’s design. And when God finished forming you, He looked at you and said, VERY GOOD.<br><br>
-
-The world may label you wrongly… People may misunderstand you… Circumstances may try to redefine you… But the original verdict of God over your life is GOOD.<br><br>
-
-Even when life becomes hard, it does not cancel what God declared. Even when you feel broken, it does not erase what God designed. Even when you make mistakes, it does not change your value in His eyes.<br><br>
-
-The enemy fights your identity because he knows God called you good even before you saw the light of day. So he sends shame, rejection, failure, and fear to make you doubt your original design.<br><br>
-
-Your beginning was good, your journey is intentional, and your ending will be glorious. God never starts what He cannot finish, and He never creates what He cannot bless.<br><br>
-
-If God saw it as “very good,” then that goodness is still inside you, waiting to manifest, unfold, and arise. Stop agreeing with the lies that say you are not enough. Stop measuring yourself by people who do not know your purpose. Stand on the truth that the God who made you has never made a mistake.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, thank You for creating me with intention and calling me very good. Help me to see myself the way You see me. Let every area of my life reflect Your goodness—my thoughts, my choices, my relationships, and my destiny in Jesus' name. Amen.<br><br>
 
 <strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
 <strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
