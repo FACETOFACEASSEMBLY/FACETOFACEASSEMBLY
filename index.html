@@ -117,7 +117,7 @@
       <div id="dailyDev-js" class="grid-three">
         
       </div>
-    </section>
+    </section>?:>
         
 
     <!-- 📍 Church Map Section -->
@@ -129,6 +129,10 @@
         </iframe>
       </div>
     </section>
+<!-- Floating Button: Go to Alleluia Service -->
+<button id="goToServiceBtn" class="go-to-service-btn">
+  Go to Alleluia Service
+</button>
 
     <!-- ✅ Facebook Live Stream Section -->
 <section class="live-service container">
@@ -157,9 +161,7 @@
   </div>
   
 </section>
-<button id="installBtn" class="button-install" >
-  Install App
-</button>
+
 
 
   </main>
@@ -425,6 +427,14 @@ if (/iphone|ipad|ipod/i.test(navigator.userAgent)) {
   });
 
 })();
+</script>
+<script>
+  // Smooth scroll to live service
+  document.getElementById("goToServiceBtn").addEventListener("click", function () {
+    document.querySelector(".live-service").scrollIntoView({
+      behavior: "smooth"
+    });
+  });
 </script>
 
 </body>

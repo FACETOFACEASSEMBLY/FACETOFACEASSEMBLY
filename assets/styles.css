@@ -1691,6 +1691,8 @@ iframe:fullscreen {
   right: 20px;
   left: auto;
   transform: translateZ(0);
+  display: none;
+  opacity: 0;
 }
 /* ============================
    OVERLAY
@@ -1825,6 +1827,9 @@ iframe:fullscreen {
 
 /* Responsive */
 @media (max-width: 420px) {
+  .lyrics-text {
+    font-size: 10px;
+  }
   .pwa-card {
     grid-template-columns: 58px 1fr;
   }
@@ -1843,7 +1848,7 @@ iframe:fullscreen {
   color: #ffffff;
   border: none;
   border-radius: 12px;
-
+  display: none;
   font-size: 16px;
   font-weight: 600;
   letter-spacing: 0.3px;
@@ -1868,5 +1873,73 @@ iframe:fullscreen {
 
 .button-install:active {
   transform: scale(0.97) translateZ(0);
+  display: none;
 }
+.go-to-service-btn {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: #d91c1c; 
+  color: white;
+  border: none;
+  padding: 15px 20px;
+  border-radius: 50px;
+  font-size: 14px;
+  cursor: pointer;
+  z-index: 9999;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+  transition: 0.3s ease;
+}
+
+.go-to-service-btn:hover {
+  background: #b50f0f;
+  transform: scale(1.05);
+}
+/* 🔥 Beautiful Red Lyrics Section */
+.lyrics-section {
+  background: #25c8dd;
+  padding: 40px 20px;
+  border-radius: 14px;
+  margin: 50px auto;
+  width: 95%;
+  max-width: 900px;
+  color: white;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.25);
+  animation: fadeIn 1.2s ease-in-out;
+  font-size: 40px;
+}
+
+.lyrics-title {
+  text-align: center;
+  font-size: 40px;
+  margin-bottom: 20px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.lyrics-box {
+  background: rgba(255,255,255,0.1);
+  padding: 25px;
+  border-radius: 12px;
+  backdrop-filter: blur(4px);
+  white-space: pre-wrap;
+  line-height: 1.7;
+  font-size: 20px;
+  overflow-x: auto;
+}
+
+.lyrics-text {
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  margin: 0;
+}
+
+/* Smooth Fade Animation */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
 

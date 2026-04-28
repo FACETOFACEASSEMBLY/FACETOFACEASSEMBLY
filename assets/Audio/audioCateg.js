@@ -89,5 +89,13 @@ export const audioCateg = [{
 }, {
     name: `Prayer for your Soul`,
     audio: 'podcasts/teaching new prayer.mp3',
+    new: `<span style = "display: none; class="new-badge"></span>`
+}, {
+    name: `Divine Healing`,
+    audio: 'podcasts/teaching new pem.mp3',
+    new: `<span class="new-badge">NEW</span>`
+}, {
+    name: `God will Favour You`,
+    audio: 'podcasts/teaching new boy.mp3',
     new: `<span class="new-badge">NEW</span>`
 }]
