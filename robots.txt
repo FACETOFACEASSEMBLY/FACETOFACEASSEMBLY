@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # robots.txt for Face to Face Assembly, Sapele
 
 User-agent: *
@@ -11,3 +12,18 @@ Allow: /
 
 # Sitemap location
 Sitemap: https://facetofaceassembly.com/sitemap.xml
+=======
+# robots.txt for Face to Face Assembly, Sapele
+
+User-agent: *
+Allow: /
+
+# Disallow crawling of sensitive or unnecessary pages (uncomment if needed)
+# Disallow: /admin/
+# Disallow: /login/
+# Disallow: /tmp/
+# Disallow: /test/
+
+# Sitemap location
+Sitemap: https://facetofaceassembly.com/sitemap.xml
+>>>>>>> 75222faff23f9a7584219e30e9320fbb8bc55053

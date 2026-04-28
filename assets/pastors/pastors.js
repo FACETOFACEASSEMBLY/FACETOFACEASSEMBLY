@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { pastorCateg } from "./pastorCateg.js";
 
 let pastorCategHTML = '';
@@ -21,3 +22,28 @@ pastorCateg.forEach((pastorItem) => {
     `
     document.querySelector('.js-pastor-container').innerHTML = pastorCategHTML;
 });
+=======
+import { pastorCateg } from "./pastorCateg.js";
+
+let pastorCategHTML = '';
+
+pastorCateg.forEach((pastorItem) => {
+    const pastorNAME = pastorItem.name;
+    const pastorROLE = pastorItem.role;
+    const pastorIMAGE = pastorItem.img;
+    const pastorDESCRIPTION = pastorItem.decription;
+
+    pastorCategHTML += `
+        <article class="pastor-profile">
+        <img src="${pastorIMAGE}" alt="Pastor Happy Overah">
+        
+        <div class="pastor-info">
+          <h3>${pastorNAME}</h3>
+          <p class="role">${pastorROLE}</p>
+          <p>${pastorDESCRIPTION}.</p>
+        </div>
+      </article>
+    `
+    document.querySelector('.js-pastor-container').innerHTML = pastorCategHTML;
+});
+>>>>>>> 75222faff23f9a7584219e30e9320fbb8bc55053
