@@ -1,11 +1,46 @@
 export const dailyDevotionCateg = [{
-    date: 'WEDNESDAY 29TH APRIL 2026',
+    date: 'FRIDAY 1ST MAY 2026',
     prayer: `
-<p>
+KINGDOM MYSTERIES DAILY DEVOTIONAL BY TEACHER OF GOD'S WORD, HAPPY OVERAH
+
+FRIDAY, 1ST MAY 2026
+
+THE KINGDOM OF GOD
+
+“For the kingdom of God is not meat and drink; but righteousness, and peace, and joy in the Holy Ghost.” Romans 14:17
+
+There are two kinds of kingdoms, the kingdom of God and the kingdom of the world, the kingdom of the world is powered by human effort, human systems, and human strength. But the kingdom of God is powered by the zeal and authority of God himself.
+
+The bible makes it clear that God’s kingdom is not about physical things, “not meat and drink,” but about spiritual realities, righteousness, peace, and joy in the Holy Ghost.
+
+This means when you operate in God’s kingdom, your life is controlled by a higher system, you walk in righteousness, you live in peace, and you experience joy that cannot be taken away.
+
+The scripture in Isaiah says, of the increase of his government and peace there shall be no end. This means God’s kingdom is ever increasing, it does not reduce, it does not fail, it continues to grow and expand. Isaiah 9:7
+
+In this kingdom, there is no darkness, there is no sickness, there is no failure. Everything about God’s kingdom brings life, light, and increase.
+
+You must choose which kingdom you will operate in, when you align with God, you begin to experience the benefits of his kingdom in your life.
+
+As we enter this month of May, set your heart on God’s kingdom, desire his righteousness, receive his peace, and walk in his joy.
+
+PRAYER
+My Father My God, in this month of May, I declare that I will enjoy the realities of your kingdom in Jesus Name Amen
+
+Join Us at Any Face-to-Face Assembly Nearest to You
+
+SUNDAYS
+First Service: 6:30 AM
+
+Second Service: 8:30 AM
+
+GOD BLESS YOU.
+`
+}, {
+    date: 'THURSDAY 30TH APRIL 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
-<strong>WEDNESDAY 29TH APRIL 2026</strong><br><br>
 
 <strong>THE POWER OF FAITH</strong><br><br>
 
@@ -30,9 +65,10 @@ My Father, My God, strengthen my faith in You. Help me to believe Your Word no m
 
 <strong>GOD BLESS YOU.</strong>
 </p>
+
 `
 }, {
-    date: 'TUESDAY 28TH APRIL 2026',
+    date: 'WEDNESDAY 29TH APRIL 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
@@ -64,40 +100,5 @@ My Father, My God, deliver me from the will of the enemy in Jesus' Name. Amen.<b
 
 <strong>GOD BLESS YOU.</strong>
 </p>
-
-`
-}, {
-    date: 'MONDAY 27TH APRIL 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-
-
-<strong>GOD IS LOVE</strong><br><br>
-
-<strong>1 Corinthians 13:1-8</strong><br>
-“Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass… Charity suffereth long, and is kind… Beareth all things, believeth all things, hopeth all things, endureth all things. Charity never faileth…”<br><br>
-
-<strong>1 John 4:8</strong><br>
-“He that loveth not knoweth not God; for God is love.”<br><br>
-
-Love is not just something God does; love is who God is. The Bible says, “God is love.” This means everything about God flows from love.<br><br>
-
-In 1 Corinthians 13, we can see the true nature of love. It is patient, it is kind, it does not envy, it is not proud, and it does not seek its own. This is the character of God. No matter what you have, without love, it has no value. You can pray, give, and even serve, but if love is missing, it is empty before God.<br><br>
-
-Love never fails. Everything else may pass away, but love remains. This is why God wants His children to walk in love at all times. When you love, you reflect God; when you forgive, you reflect God. When you show kindness and patience, you are showing His nature.<br><br>
-
-Check your heart today and remove bitterness, anger, and pride. Choose to walk in love, because that is who God is. Remember, when love is present, God is present.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, fill me with Your love. Remove every wrong attitude from my heart and help me to reflect Your nature daily in Jesus' Name. Amen.<br><br>
-
-<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
-<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
-
-<strong>GOD BLESS YOU.</strong>
-</p>
-
 `
 }]
