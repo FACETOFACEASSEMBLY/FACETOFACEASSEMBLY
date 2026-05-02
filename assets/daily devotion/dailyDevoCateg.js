@@ -1,6 +1,42 @@
 export const dailyDevotionCateg = [{
-    date: 'FRIDAY 1ST MAY 2026',
+    date: 'SATURDAY 2ND MAY 2026',
     prayer: `
+<p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>SATURDAY 2ND MAY 2026</strong><br><br>
+
+<strong>STAND FAST IN LIBERTY</strong><br><br>
+
+<strong>Galatians 5:1</strong><br>
+“Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.”<br><br>
+
+In Christ, you have been made free; freedom is not something you are trying to get, it is something that has already been given to you through Jesus.<br><br>
+
+The Bible says, “stand fast… and be not entangled again.” This means freedom must be maintained. It is possible to be free and still return to bondage if you are not careful.<br><br>
+
+Bondage can come in many forms: sin, fear, wrong habits, negative thinking, and spiritual oppression. But God is calling you to stand firm and refuse anything that wants to take you back.<br><br>
+
+You must guard your freedom, do not go back to what God has delivered you from, and do not allow the enemy to trap you again.<br><br>
+
+Christ has paid the price for your liberty; you are no longer a slave, you are free to live, free to grow, and free to walk in God’s purpose.<br><br>
+
+Stand strong, hold on to your freedom, and refuse every form of bondage. You are free indeed.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, I thank You for the freedom I have in Christ. Help me to stand firm and not return to any form of bondage in Jesus' Name. Amen.<br><br>
+
+<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'FRIDAY 1ST MAY 2026',
+    prayer: `<p>
+
 KINGDOM MYSTERIES DAILY DEVOTIONAL BY TEACHER OF GOD'S WORD, HAPPY OVERAH
 
 FRIDAY, 1ST MAY 2026
@@ -34,6 +70,8 @@ First Service: 6:30 AM
 Second Service: 8:30 AM
 
 GOD BLESS YOU.
+</p>
+
 `
 }, {
     date: 'THURSDAY 30TH APRIL 2026',
@@ -59,41 +97,6 @@ When you walk by faith, you will not be controlled by fear; you will speak with 
 
 <strong>PRAYER</strong><br>
 My Father, My God, strengthen my faith in You. Help me to believe Your Word no matter what I see in Jesus' Name. Amen.<br><br>
-
-<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
-<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
-
-<strong>GOD BLESS YOU.</strong>
-</p>
-
-`
-}, {
-    date: 'WEDNESDAY 29TH APRIL 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-
-
-<strong>ESCAPING THE WILL OF THE ENEMY</strong><br><br>
-
-<strong>John 10:10</strong><br>
-“The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly.”<br><br>
-
-In life, there are two wills at work: the will of God and the will of the enemy. The enemy’s mission is clear—to steal, to kill, and to destroy—but God has made a way for you to escape every plan of the enemy.<br><br>
-
-The first step to escaping the will of the enemy is to accept Jesus Christ. When you receive Jesus, you move from darkness into light; your life is no longer under the control of the enemy.<br><br>
-
-Secondly, you must be prayerful. Prayer keeps you connected to God and strengthens your spirit. A prayerful life is a protected life. When you pray, you rise above the plans of the enemy.<br><br>
-
-Thirdly, you must give to the poor. Scripture says in <strong>Psalm 41:1-2</strong>, “Blessed is he that considereth the poor: the LORD will deliver him in time of trouble… and thou wilt not deliver him unto the will of his enemies.”<br><br>
-
-This means when you give to the poor, God steps in to deliver you and will not hand you over to the will of your enemies. Your giving becomes a shield of preservation over your life.<br><br>
-
-These are keys to living above the will of the enemy: stay in Christ, stay in prayer, and live a life of giving. The enemy may have a plan, but God will not deliver you into his hands.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, deliver me from the will of the enemy in Jesus' Name. Amen.<br><br>
 
 <strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
 <strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
