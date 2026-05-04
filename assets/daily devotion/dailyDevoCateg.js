@@ -1,11 +1,45 @@
 export const dailyDevotionCateg = [{
-    date: 'SATURDAY 2ND MAY 2026',
+    date: 'MONDAY 4TH MAY 2026',
     prayer: `
 <p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
-<strong>SATURDAY 2ND MAY 2026</strong><br><br>
+<strong>MONDAY 4TH MAY 2026</strong><br><br>
+
+<strong>WONDERS WITHOUT NUMBER</strong><br><br>
+
+<strong>Job 9:10</strong><br>
+“Which doeth great things past finding out; yea, and wonders without number.”<br><br>
+
+God is a God of wonders; His works are beyond human understanding, and His power has no limit. The Bible says He does “wonders without number.” This means His blessings and miracles cannot be counted or measured.<br><br>
+
+Many people limit God by their thinking; they expect little because they see little. But God is not limited by what you see; He is able to do great things past finding out.<br><br>
+
+When God begins to move in your life, His works will go beyond explanation, and doors will open in ways you cannot understand.<br><br>
+
+Help will come from places you did not expect. Do not limit God. Expand your expectation, and believe Him for greater things; what He is about to do in your life will not be small.<br><br>
+
+Your testimony will not be one or two; it will be many—wonders without number.<br><br>
+
+God is ready to show His power in your life; just believe.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, do great and mighty things in my life that cannot be counted. I receive wonders without number in Jesus' Name. Amen.<br><br>
+
+<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'SUNDAY 3RD MAY 2026',
+    prayer: `<p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+
 
 <strong>STAND FAST IN LIBERTY</strong><br><br>
 
@@ -32,14 +66,15 @@ My Father, My God, I thank You for the freedom I have in Christ. Help me to stan
 
 <strong>GOD BLESS YOU.</strong>
 </p>
+
 `
 }, {
-    date: 'FRIDAY 1ST MAY 2026',
+    date: 'SATURDAY 2ND MAY 2026',
     prayer: `<p>
 
 KINGDOM MYSTERIES DAILY DEVOTIONAL BY TEACHER OF GOD'S WORD, HAPPY OVERAH
 
-FRIDAY, 1ST MAY 2026
+
 
 THE KINGDOM OF GOD
 
@@ -70,38 +105,6 @@ First Service: 6:30 AM
 Second Service: 8:30 AM
 
 GOD BLESS YOU.
-</p>
-
-`
-}, {
-    date: 'THURSDAY 30TH APRIL 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-
-<strong>THE POWER OF FAITH</strong><br><br>
-
-<strong>Hebrews 11:1</strong><br>
-“Now faith is the substance of things hoped for, the evidence of things not seen.”<br><br>
-
-Faith is the foundation of the Christian life; without faith, it is impossible to walk with God or please Him. Faith is believing even when you have not yet seen.<br><br>
-
-The Bible says faith is the substance of things hoped for; this means faith gives reality to your expectation. It turns your hope into something real.<br><br>
-
-Faith does not depend on what your eyes can see, it depends on what God has said. Even when the situation looks opposite, faith holds on to God’s Word.<br><br>
-
-Many people lose their breakthrough because they allow doubt to enter. Your faith must be strong and steady. You must believe that God is able, and that He will do what He has promised.<br><br>
-
-When you walk by faith, you will not be controlled by fear; you will speak with confidence and act with boldness.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, strengthen my faith in You. Help me to believe Your Word no matter what I see in Jesus' Name. Amen.<br><br>
-
-<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
-<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
-
-<strong>GOD BLESS YOU.</strong>
 </p>
 `
 }]
