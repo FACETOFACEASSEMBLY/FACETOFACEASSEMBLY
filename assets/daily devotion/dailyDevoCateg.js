@@ -1,7 +1,41 @@
 export const dailyDevotionCateg = [{
-    date: 'MONDAY 4TH MAY 2026',
+    date: 'TUESDAY 5TH MAY 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>TUESDAY 5TH MAY 2026</strong><br><br>
+
+<strong>CAST YOUR CARES ON HIM</strong><br><br>
+
+<strong>1 Peter 5:7</strong><br>
+“Casting all your care upon him; for he careth for you.”<br><br>
+
+In life, there are many things that can weigh your heart down: worries about the future, challenges in your present, and burdens you cannot share with others. But God is giving you an instruction: cast your cares on Him.<br><br>
+
+God never intended for you to carry your burdens alone. He cares deeply about you, and He wants you to bring everything to Him.<br><br>
+
+The Bible says, "casting all your care." This means nothing is too small or too big to give to God. Whatever is troubling you, He is ready to take it.<br><br>
+
+Many people hold on to their worries, thinking they can handle it. The more you carry it, the heavier it becomes; peace comes when you release it to God.<br><br>
+
+When you cast your cares on Him, you are saying, "Lord, I trust You; I believe You can handle this better than I can."<br><br>
+
+God’s care for you is real. He sees you, He knows your situation, and He is working behind the scenes for your good. Let go of worry, let go of fear, and see God moving in your favour.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, I cast all my cares upon You today. Every worry, every fear, and every burden, I release them into Your hands. Fill my heart with Your peace and help me to trust You completely in Jesus' Name. Amen.<br><br>
+
+<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'MONDAY 4TH MAY 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -32,6 +66,7 @@ My Father, My God, do great and mighty things in my life that cannot be counted.
 
 <strong>GOD BLESS YOU.</strong>
 </p>
+
 `
 }, {
     date: 'SUNDAY 3RD MAY 2026',
@@ -65,46 +100,6 @@ My Father, My God, I thank You for the freedom I have in Christ. Help me to stan
 <strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
 
 <strong>GOD BLESS YOU.</strong>
-</p>
-
-`
-}, {
-    date: 'SATURDAY 2ND MAY 2026',
-    prayer: `<p>
-
-KINGDOM MYSTERIES DAILY DEVOTIONAL BY TEACHER OF GOD'S WORD, HAPPY OVERAH
-
-
-
-THE KINGDOM OF GOD
-
-“For the kingdom of God is not meat and drink; but righteousness, and peace, and joy in the Holy Ghost.” Romans 14:17
-
-There are two kinds of kingdoms, the kingdom of God and the kingdom of the world, the kingdom of the world is powered by human effort, human systems, and human strength. But the kingdom of God is powered by the zeal and authority of God himself.
-
-The bible makes it clear that God’s kingdom is not about physical things, “not meat and drink,” but about spiritual realities, righteousness, peace, and joy in the Holy Ghost.
-
-This means when you operate in God’s kingdom, your life is controlled by a higher system, you walk in righteousness, you live in peace, and you experience joy that cannot be taken away.
-
-The scripture in Isaiah says, of the increase of his government and peace there shall be no end. This means God’s kingdom is ever increasing, it does not reduce, it does not fail, it continues to grow and expand. Isaiah 9:7
-
-In this kingdom, there is no darkness, there is no sickness, there is no failure. Everything about God’s kingdom brings life, light, and increase.
-
-You must choose which kingdom you will operate in, when you align with God, you begin to experience the benefits of his kingdom in your life.
-
-As we enter this month of May, set your heart on God’s kingdom, desire his righteousness, receive his peace, and walk in his joy.
-
-PRAYER
-My Father My God, in this month of May, I declare that I will enjoy the realities of your kingdom in Jesus Name Amen
-
-Join Us at Any Face-to-Face Assembly Nearest to You
-
-SUNDAYS
-First Service: 6:30 AM
-
-Second Service: 8:30 AM
-
-GOD BLESS YOU.
 </p>
 `
 }]
