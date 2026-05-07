@@ -1,11 +1,45 @@
 export const dailyDevotionCateg = [{
-    date: 'TUESDAY 5TH MAY 2026',
+    date: 'THURSDAY 7TH MAY 2026',
     prayer: `
 <p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
-<strong>TUESDAY 5TH MAY 2026</strong><br><br>
+<strong>THURSDAY 7TH MAY 2026</strong><br><br>
+
+<strong>LET GOD BE GLORIFIED IN YOUR LIFE</strong><br><br>
+
+<strong>Galatians 1:24</strong><br>
+“And they glorified God in me.”<br><br>
+
+The greatest testimony a believer can have is a life that brings glory to God. The Bible says, “they glorified God in me.” This means when people looked at Paul’s life, they saw the hand of God.<br><br>
+
+Jesus also said, “let your light so shine before men.” This means your life should reflect God’s goodness everywhere you go; your words, your actions, and your character should point people to God.<br><br>
+
+Paul was once a man who persecuted the church, but after his encounter with Christ, his life changed completely. His transformation became a testimony, and people glorified God because of him.<br><br>
+
+God can change any life. No matter your past, no matter your mistakes, God is able to turn your story around for His glory.<br><br>
+
+When God begins to work in you, people will see the difference; they will see His grace, His favor, and His power upon your life.<br><br>
+
+Do not hide your light. Live in a way that honors God, let your good works speak for you, and let your life become evidence that God is real. May your life shine so brightly that men will glorify God because of you.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, let my light shine before men and bring glory to Your name in Jesus' Name. Amen.<br><br>
+
+<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'WEDNESDAY 6TH MAY 2026',
+    prayer: `<p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+
 
 <strong>CAST YOUR CARES ON HIM</strong><br><br>
 
@@ -32,14 +66,15 @@ My Father, My God, I cast all my cares upon You today. Every worry, every fear, 
 
 <strong>GOD BLESS YOU.</strong>
 </p>
+
 `
 }, {
-    date: 'MONDAY 4TH MAY 2026',
+    date: 'TUESDAY 5TH MAY 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
-<strong>MONDAY 4TH MAY 2026</strong><br><br>
+
 
 <strong>WONDERS WITHOUT NUMBER</strong><br><br>
 
@@ -60,41 +95,6 @@ God is ready to show His power in your life; just believe.<br><br>
 
 <strong>PRAYER</strong><br>
 My Father, My God, do great and mighty things in my life that cannot be counted. I receive wonders without number in Jesus' Name. Amen.<br><br>
-
-<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
-<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
-
-<strong>GOD BLESS YOU.</strong>
-</p>
-
-`
-}, {
-    date: 'SUNDAY 3RD MAY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-
-
-<strong>STAND FAST IN LIBERTY</strong><br><br>
-
-<strong>Galatians 5:1</strong><br>
-“Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.”<br><br>
-
-In Christ, you have been made free; freedom is not something you are trying to get, it is something that has already been given to you through Jesus.<br><br>
-
-The Bible says, “stand fast… and be not entangled again.” This means freedom must be maintained. It is possible to be free and still return to bondage if you are not careful.<br><br>
-
-Bondage can come in many forms: sin, fear, wrong habits, negative thinking, and spiritual oppression. But God is calling you to stand firm and refuse anything that wants to take you back.<br><br>
-
-You must guard your freedom, do not go back to what God has delivered you from, and do not allow the enemy to trap you again.<br><br>
-
-Christ has paid the price for your liberty; you are no longer a slave, you are free to live, free to grow, and free to walk in God’s purpose.<br><br>
-
-Stand strong, hold on to your freedom, and refuse every form of bondage. You are free indeed.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, I thank You for the freedom I have in Christ. Help me to stand firm and not return to any form of bondage in Jesus' Name. Amen.<br><br>
 
 <strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
 <strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
