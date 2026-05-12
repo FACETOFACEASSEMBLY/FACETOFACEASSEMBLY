@@ -1,11 +1,46 @@
 export const dailyDevotionCateg = [{
-    date: 'THURSDAY 7TH MAY 2026',
+    date: 'TUESDAY 12TH MAY 2026',
     prayer: `
 <p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
-<strong>THURSDAY 7TH MAY 2026</strong><br><br>
+<strong>TUESDAY 12TH MAY 2026</strong><br><br>
+
+<strong>BE A DOER OF GOD’S WORD</strong><br><br>
+
+<strong>Romans 2:13</strong><br>
+“For not the hearers of the law are just before God, but the doers of the law shall be justified.”<br><br>
+
+There are two kinds of people: hearers and doers. Many people hear the word of God daily, but only few practice what they hear.<br><br>
+
+Hearing the word alone is not enough; God wants you to become a doer of His word. The blessing is not only in knowing, the blessing is in doing.<br><br>
+
+The Bible says it is the doers that shall be justified. This means obedience brings results. When you act on God’s Word, your life begins to change.<br><br>
+
+Jesus also said, "happy are ye if ye do them." Happiness, joy, and fulfillment come when you obey what God has spoken (<strong>John 13:17</strong>).<br><br>
+
+Many people know what is right, but they do not do it. They hear messages, read scriptures, and receive instructions, yet they remain unchanged because they refuse to act.<br><br>
+
+There is a place for action in the Kingdom. Faith must be practiced, love must be shown, prayer must be done, and forgiveness must be lived out.<br><br>
+
+Do not stop at hearing alone. Let the Word of God reflect in your lifestyle, your character, and your actions. Remember, a doer will always see results.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, help me not to be a hearer only, but a doer of Your word. Give me the grace to obey and practice what I'm taught in Jesus' Name. Amen.<br><br>
+
+<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'MONDAY 11TH MAY 2026',
+    prayer: `<p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
 
 <strong>LET GOD BE GLORIFIED IN YOUR LIFE</strong><br><br>
 
@@ -32,9 +67,10 @@ My Father, My God, let my light shine before men and bring glory to Your name in
 
 <strong>GOD BLESS YOU.</strong>
 </p>
+
 `
 }, {
-    date: 'WEDNESDAY 6TH MAY 2026',
+    date: 'SUNDAY 10TH MAY 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
@@ -60,41 +96,6 @@ God’s care for you is real. He sees you, He knows your situation, and He is wo
 
 <strong>PRAYER</strong><br>
 My Father, My God, I cast all my cares upon You today. Every worry, every fear, and every burden, I release them into Your hands. Fill my heart with Your peace and help me to trust You completely in Jesus' Name. Amen.<br><br>
-
-<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
-<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
-
-<strong>GOD BLESS YOU.</strong>
-</p>
-
-`
-}, {
-    date: 'TUESDAY 5TH MAY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-
-
-<strong>WONDERS WITHOUT NUMBER</strong><br><br>
-
-<strong>Job 9:10</strong><br>
-“Which doeth great things past finding out; yea, and wonders without number.”<br><br>
-
-God is a God of wonders; His works are beyond human understanding, and His power has no limit. The Bible says He does “wonders without number.” This means His blessings and miracles cannot be counted or measured.<br><br>
-
-Many people limit God by their thinking; they expect little because they see little. But God is not limited by what you see; He is able to do great things past finding out.<br><br>
-
-When God begins to move in your life, His works will go beyond explanation, and doors will open in ways you cannot understand.<br><br>
-
-Help will come from places you did not expect. Do not limit God. Expand your expectation, and believe Him for greater things; what He is about to do in your life will not be small.<br><br>
-
-Your testimony will not be one or two; it will be many—wonders without number.<br><br>
-
-God is ready to show His power in your life; just believe.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, do great and mighty things in my life that cannot be counted. I receive wonders without number in Jesus' Name. Amen.<br><br>
 
 <strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
 <strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
