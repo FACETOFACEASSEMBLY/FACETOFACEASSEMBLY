@@ -1,11 +1,47 @@
 export const dailyDevotionCateg = [{
-    date: 'TUESDAY 12TH MAY 2026',
+    date: 'THURSDAY 14TH MAY 2026',
     prayer: `
 <p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
-<strong>TUESDAY 12TH MAY 2026</strong><br><br>
+<strong>THURSDAY 14TH MAY 2026</strong><br><br>
+
+<strong>GOD WILL MAKE A WAY OF ESCAPE</strong><br><br>
+
+<strong>1 Corinthians 10:13</strong><br>
+“There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape…”<br><br>
+
+Life comes with trials, temptations, and difficult moments. Sometimes the pressure may feel too heavy, and you may think you cannot continue, but God has given you a promise: He will always make a way of escape.<br><br>
+
+The Bible says God is faithful. This means He knows your strength, your limits, and your battles. He will never allow you to face more than you can bear.<br><br>
+
+Every temptation has an escape route; every trial has a solution in God. The enemy may try to trap you, but God already has a way out prepared for you.<br><br>
+
+Do not give up in the middle of the battle, and do not allow pressure to push you away from God. Instead, look unto Him because your help comes from Him.<br><br>
+
+The escape may come through prayer, wisdom, patience, or divine direction, but one thing is certain: God will not leave nor forsake you (<strong>Hebrews 13:5-6</strong>).<br><br>
+
+You are not alone in your struggle; God is with you, and He will bring you through victoriously.<br><br>
+
+No temptation will destroy you, no trial will consume you; God will make a way of escape.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, in every trial and temptation, show me the way of escape. Strengthen me to overcome every challenge and help me to remain standing in You in Jesus' Name. Amen.<br><br>
+
+<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'WEDNESDAY 13TH MAY 2026',
+    prayer: `<p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+
 
 <strong>BE A DOER OF GOD’S WORD</strong><br><br>
 
@@ -34,9 +70,10 @@ My Father, My God, help me not to be a hearer only, but a doer of Your word. Giv
 
 <strong>GOD BLESS YOU.</strong>
 </p>
+
 `
 }, {
-    date: 'MONDAY 11TH MAY 2026',
+    date: 'TUESDAY 11TH MAY 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
@@ -61,41 +98,6 @@ Do not hide your light. Live in a way that honors God, let your good works speak
 
 <strong>PRAYER</strong><br>
 My Father, My God, let my light shine before men and bring glory to Your name in Jesus' Name. Amen.<br><br>
-
-<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
-<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
-
-<strong>GOD BLESS YOU.</strong>
-</p>
-
-`
-}, {
-    date: 'SUNDAY 10TH MAY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-
-
-<strong>CAST YOUR CARES ON HIM</strong><br><br>
-
-<strong>1 Peter 5:7</strong><br>
-“Casting all your care upon him; for he careth for you.”<br><br>
-
-In life, there are many things that can weigh your heart down: worries about the future, challenges in your present, and burdens you cannot share with others. But God is giving you an instruction: cast your cares on Him.<br><br>
-
-God never intended for you to carry your burdens alone. He cares deeply about you, and He wants you to bring everything to Him.<br><br>
-
-The Bible says, "casting all your care." This means nothing is too small or too big to give to God. Whatever is troubling you, He is ready to take it.<br><br>
-
-Many people hold on to their worries, thinking they can handle it. The more you carry it, the heavier it becomes; peace comes when you release it to God.<br><br>
-
-When you cast your cares on Him, you are saying, "Lord, I trust You; I believe You can handle this better than I can."<br><br>
-
-God’s care for you is real. He sees you, He knows your situation, and He is working behind the scenes for your good. Let go of worry, let go of fear, and see God moving in your favour.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, I cast all my cares upon You today. Every worry, every fear, and every burden, I release them into Your hands. Fill my heart with Your peace and help me to trust You completely in Jesus' Name. Amen.<br><br>
 
 <strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
 <strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
