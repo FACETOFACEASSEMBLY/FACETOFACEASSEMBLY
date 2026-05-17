@@ -1,11 +1,47 @@
 export const dailyDevotionCateg = [{
-    date: 'THURSDAY 14TH MAY 2026',
+    date: 'SUNDAY 17TH MAY 2026',
     prayer: `
 <p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
-<strong>THURSDAY 14TH MAY 2026</strong><br><br>
+<strong>SUNDAY 17TH MAY 2026</strong><br><br>
+
+<strong>GO FORTH AND SHOW YOURSELF</strong><br><br>
+
+<strong>Isaiah 49:9</strong><br>
+“That thou mayest say to the prisoners, Go forth; to them that are in darkness, Shew yourselves…”<br><br>
+
+A prisoner is someone that is chained, kept in a cage, prison house, or in holes; a prisoner is limited and unable to move freely. Instead of going forward, the person remains trapped in one place.<br><br>
+
+Spiritually, many people are alive but imprisoned. Some are trapped in fear, delay, stagnation, rejection, sin, sickness, and disappointment; their lives are tied down and covered with darkness.<br><br>
+
+But God is speaking today. The Bible says, “say to the prisoners, Go forth; to them that are in darkness, Shew yourselves.” This means every area of your life that has been trapped must come out into freedom and light.<br><br>
+
+Scripture also says, “the people which sat in darkness saw great light” (<strong>Matthew 4:16</strong>).<br><br>
+
+When light comes, bondage breaks; when light comes, hidden things are revealed. Darkness cannot remain where the light of God appears.<br><br>
+
+Today, you must declare freedom over your life; every imprisoned area of your destiny must go forth, and every hidden glory covered in darkness must show itself.<br><br>
+
+No part of your life will remain buried, no part of your destiny will remain hidden. This is your season of manifestation; you must go forth and shine forth.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, every part of my life that is in prison, I command it to go forth; every area of my life covered in darkness, show yourself by the power of God in Jesus' Name. Amen.<br><br>
+
+<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'SATURDAY 16TH MAY 2026',
+    prayer: `<p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+
 
 <strong>GOD WILL MAKE A WAY OF ESCAPE</strong><br><br>
 
@@ -34,9 +70,10 @@ My Father, My God, in every trial and temptation, show me the way of escape. Str
 
 <strong>GOD BLESS YOU.</strong>
 </p>
+
 `
 }, {
-    date: 'WEDNESDAY 13TH MAY 2026',
+    date: 'FRIDAY 11TH MAY 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
@@ -64,40 +101,6 @@ Do not stop at hearing alone. Let the Word of God reflect in your lifestyle, you
 
 <strong>PRAYER</strong><br>
 My Father, My God, help me not to be a hearer only, but a doer of Your word. Give me the grace to obey and practice what I'm taught in Jesus' Name. Amen.<br><br>
-
-<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
-<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
-
-<strong>GOD BLESS YOU.</strong>
-</p>
-
-`
-}, {
-    date: 'TUESDAY 11TH MAY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-
-<strong>LET GOD BE GLORIFIED IN YOUR LIFE</strong><br><br>
-
-<strong>Galatians 1:24</strong><br>
-“And they glorified God in me.”<br><br>
-
-The greatest testimony a believer can have is a life that brings glory to God. The Bible says, “they glorified God in me.” This means when people looked at Paul’s life, they saw the hand of God.<br><br>
-
-Jesus also said, “let your light so shine before men.” This means your life should reflect God’s goodness everywhere you go; your words, your actions, and your character should point people to God.<br><br>
-
-Paul was once a man who persecuted the church, but after his encounter with Christ, his life changed completely. His transformation became a testimony, and people glorified God because of him.<br><br>
-
-God can change any life. No matter your past, no matter your mistakes, God is able to turn your story around for His glory.<br><br>
-
-When God begins to work in you, people will see the difference; they will see His grace, His favor, and His power upon your life.<br><br>
-
-Do not hide your light. Live in a way that honors God, let your good works speak for you, and let your life become evidence that God is real. May your life shine so brightly that men will glorify God because of you.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, let my light shine before men and bring glory to Your name in Jesus' Name. Amen.<br><br>
 
 <strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
 <strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
