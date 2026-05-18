@@ -1,7 +1,37 @@
 export const dailyDevotionCateg = [{
-    date: 'SUNDAY 17TH MAY 2026',
+    date: 'MONDAY 18TH MAY 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>MONDAY 18TH MAY 2026</strong><br><br>
+
+<strong>THE POWER OF CHOICE</strong><br><br>
+
+<strong>Deuteronomy 30:19</strong><br>
+“I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing, therefore choose life…”<br><br>
+
+Life is full of choices. Every day, you choose the direction your life will take; your choices affect your future, your destiny, and your relationship with God. God created man with the power to choose. He placed before man life and death, blessing and cursing, then He said, “choose life.”<br><br>
+
+This means your decisions matter. The choices you make today can either bring progress or destruction, peace or trouble, blessing or pain. Many people blame others for where they are in life, but sometimes the problem is wrong choices. Wrong friends, wrong habits, wrong decisions, and wrong paths can lead a person away from God’s purpose.<br><br>
+
+Good choices produce good results. When you choose God, righteousness, obedience, and wisdom, your life begins to move in the right direction. Even salvation is a choice, serving God is a choice, and walking in love, faith, and holiness is also a choice.<br><br>
+
+Do not allow emotions or pressure to control your decisions; let God’s Word guide your choices. Today, choose life, choose peace, choose righteousness, and choose God. The power of choice is in your hands.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, help me to make wise and godly choices. Lead me away from every wrong path and help me to choose life, righteousness, and obedience. Let my decisions align with Your will for my life in Jesus' Name. Amen.<br><br>
+
+<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'SUNDAY 17TH MAY 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -34,9 +64,10 @@ My Father, My God, every part of my life that is in prison, I command it to go f
 
 <strong>GOD BLESS YOU.</strong>
 </p>
+
 `
 }, {
-    date: 'SATURDAY 16TH MAY 2026',
+    date: 'SATURDAY 11TH MAY 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
@@ -64,43 +95,6 @@ No temptation will destroy you, no trial will consume you; God will make a way o
 
 <strong>PRAYER</strong><br>
 My Father, My God, in every trial and temptation, show me the way of escape. Strengthen me to overcome every challenge and help me to remain standing in You in Jesus' Name. Amen.<br><br>
-
-<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
-<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
-
-<strong>GOD BLESS YOU.</strong>
-</p>
-
-`
-}, {
-    date: 'FRIDAY 11TH MAY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-
-
-<strong>BE A DOER OF GOD’S WORD</strong><br><br>
-
-<strong>Romans 2:13</strong><br>
-“For not the hearers of the law are just before God, but the doers of the law shall be justified.”<br><br>
-
-There are two kinds of people: hearers and doers. Many people hear the word of God daily, but only few practice what they hear.<br><br>
-
-Hearing the word alone is not enough; God wants you to become a doer of His word. The blessing is not only in knowing, the blessing is in doing.<br><br>
-
-The Bible says it is the doers that shall be justified. This means obedience brings results. When you act on God’s Word, your life begins to change.<br><br>
-
-Jesus also said, "happy are ye if ye do them." Happiness, joy, and fulfillment come when you obey what God has spoken (<strong>John 13:17</strong>).<br><br>
-
-Many people know what is right, but they do not do it. They hear messages, read scriptures, and receive instructions, yet they remain unchanged because they refuse to act.<br><br>
-
-There is a place for action in the Kingdom. Faith must be practiced, love must be shown, prayer must be done, and forgiveness must be lived out.<br><br>
-
-Do not stop at hearing alone. Let the Word of God reflect in your lifestyle, your character, and your actions. Remember, a doer will always see results.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, help me not to be a hearer only, but a doer of Your word. Give me the grace to obey and practice what I'm taught in Jesus' Name. Amen.<br><br>
 
 <strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
 <strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
