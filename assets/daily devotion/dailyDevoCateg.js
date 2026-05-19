@@ -1,7 +1,37 @@
 export const dailyDevotionCateg = [{
-    date: 'MONDAY 18TH MAY 2026',
+    date: 'TUESDAY 19TH MAY 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>TUESDAY 19TH MAY 2026</strong><br><br>
+
+<strong>GIVE GLORY TO GOD BEFORE DARKNESS COMES</strong><br><br>
+
+<strong>Jeremiah 13:16</strong><br>
+“Give glory to the Lord your God, before he cause darkness, and before your feet stumble upon the dark mountains…”<br><br>
+
+Giving glory to God is not something you do only when things are good; it is a lifestyle of honoring God, appreciating Him, and recognizing His hand in your life.<br><br>
+
+The scripture says, “Give glory to the Lord your God, before he cause darkness.” This means there is danger in ignoring God and living without acknowledging Him. Many people remember God only in times of trouble, but forget Him when things are going well; but a wise person gives glory to God at all times.<br><br>
+
+Darkness represents confusion, sorrow, trouble, and stumbling. When a man walks away from God, he begins to walk into darkness. Giving glory to God keeps your heart connected to Him. It brings humility, gratitude, and dependence on God.<br><br>
+
+A life that gives glory to God will not walk in darkness. Let your life continually reflect thanksgiving, worship, and reverence for God.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, I give You all the glory for everything You have done in my life. Let my life remain in Your light, and keep me from every form of darkness and stumbling, in Jesus' Name. Amen.<br><br>
+
+<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'MONDAY 18TH MAY 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -28,6 +58,7 @@ My Father, My God, help me to make wise and godly choices. Lead me away from eve
 
 <strong>GOD BLESS YOU.</strong>
 </p>
+
 `
 }, {
     date: 'SUNDAY 17TH MAY 2026',
@@ -58,43 +89,6 @@ No part of your life will remain buried, no part of your destiny will remain hid
 
 <strong>PRAYER</strong><br>
 My Father, My God, every part of my life that is in prison, I command it to go forth; every area of my life covered in darkness, show yourself by the power of God in Jesus' Name. Amen.<br><br>
-
-<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
-<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
-
-<strong>GOD BLESS YOU.</strong>
-</p>
-
-`
-}, {
-    date: 'SATURDAY 11TH MAY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-
-
-<strong>GOD WILL MAKE A WAY OF ESCAPE</strong><br><br>
-
-<strong>1 Corinthians 10:13</strong><br>
-“There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape…”<br><br>
-
-Life comes with trials, temptations, and difficult moments. Sometimes the pressure may feel too heavy, and you may think you cannot continue, but God has given you a promise: He will always make a way of escape.<br><br>
-
-The Bible says God is faithful. This means He knows your strength, your limits, and your battles. He will never allow you to face more than you can bear.<br><br>
-
-Every temptation has an escape route; every trial has a solution in God. The enemy may try to trap you, but God already has a way out prepared for you.<br><br>
-
-Do not give up in the middle of the battle, and do not allow pressure to push you away from God. Instead, look unto Him because your help comes from Him.<br><br>
-
-The escape may come through prayer, wisdom, patience, or divine direction, but one thing is certain: God will not leave nor forsake you (<strong>Hebrews 13:5-6</strong>).<br><br>
-
-You are not alone in your struggle; God is with you, and He will bring you through victoriously.<br><br>
-
-No temptation will destroy you, no trial will consume you; God will make a way of escape.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, in every trial and temptation, show me the way of escape. Strengthen me to overcome every challenge and help me to remain standing in You in Jesus' Name. Amen.<br><br>
 
 <strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
 <strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
