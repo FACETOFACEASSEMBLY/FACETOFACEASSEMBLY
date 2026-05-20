@@ -1,11 +1,47 @@
 export const dailyDevotionCateg = [{
-    date: 'TUESDAY 19TH MAY 2026',
+    date: 'WEDNESDAY 20TH MAY 2026',
     prayer: `
 <p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
-<strong>TUESDAY 19TH MAY 2026</strong><br><br>
+<strong>WEDNESDAY 20TH MAY 2026</strong><br><br>
+
+<strong>LORD, TEACH ME WHAT I KNOW NOT</strong><br><br>
+
+<strong>Job 34:32</strong><br>
+“That which I see not teach thou me: if I have done iniquity, I will do no more.”<br><br>
+
+Many people suffer from battles they know nothing about; some problems continue for years because the root cause has not been revealed.<br><br>
+
+There was a young boy who became sick unto death, yet he was not recovering. Different efforts were made, but nothing changed because the hidden cause of the affliction was unknown to him.<br><br>
+
+Then prayer was made with this scripture, “That which I see not teach thou me.” The young boy asked God to reveal what was wrong with him and show him what he did not know. As prayer continued, light came, and it was discovered that the sickness was connected to a wrong soul tie with a friend who died a few months ago.<br><br>
+
+Many times, people focus only on physical symptoms while the real battle is spiritual and hidden, but God is able to reveal secret things.<br><br>
+
+The scripture says, “that which I see not teach thou me.” This should be the prayer of every believer because there are things you may not know about yourself, your environment, or the battles around you, but God sees all things.<br><br>
+
+When God reveals hidden matters, deliverance becomes easy. Light destroys darkness, and revelation brings freedom. Do not walk in ignorance; ask God for spiritual understanding and divine revelation.<br><br>
+
+What you do not know may continue to trouble you, but when God opens your eyes, your freedom begins.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, that which I see not, teach Thou me. Reveal every hidden thing affecting my life and destiny, open my eyes to know what I need to know, and deliver me from every secret battle, in Jesus' Name. Amen.<br><br>
+
+<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'TUESDAY 19TH MAY 2026',
+    prayer: `<p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>WEDNESDAY 20TH MAY 2026</strong><br><br>
 
 <strong>GIVE GLORY TO GOD BEFORE DARKNESS COMES</strong><br><br>
 
@@ -28,9 +64,10 @@ My Father, My God, I give You all the glory for everything You have done in my l
 
 <strong>GOD BLESS YOU.</strong>
 </p>
+
 `
 }, {
-    date: 'MONDAY 18TH MAY 2026',
+    date: 'SUNDAY 17TH MAY 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
@@ -52,43 +89,6 @@ Do not allow emotions or pressure to control your decisions; let God’s Word gu
 
 <strong>PRAYER</strong><br>
 My Father, My God, help me to make wise and godly choices. Lead me away from every wrong path and help me to choose life, righteousness, and obedience. Let my decisions align with Your will for my life in Jesus' Name. Amen.<br><br>
-
-<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
-<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
-
-<strong>GOD BLESS YOU.</strong>
-</p>
-
-`
-}, {
-    date: 'SUNDAY 17TH MAY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-<strong>SUNDAY 17TH MAY 2026</strong><br><br>
-
-<strong>GO FORTH AND SHOW YOURSELF</strong><br><br>
-
-<strong>Isaiah 49:9</strong><br>
-“That thou mayest say to the prisoners, Go forth; to them that are in darkness, Shew yourselves…”<br><br>
-
-A prisoner is someone that is chained, kept in a cage, prison house, or in holes; a prisoner is limited and unable to move freely. Instead of going forward, the person remains trapped in one place.<br><br>
-
-Spiritually, many people are alive but imprisoned. Some are trapped in fear, delay, stagnation, rejection, sin, sickness, and disappointment; their lives are tied down and covered with darkness.<br><br>
-
-But God is speaking today. The Bible says, “say to the prisoners, Go forth; to them that are in darkness, Shew yourselves.” This means every area of your life that has been trapped must come out into freedom and light.<br><br>
-
-Scripture also says, “the people which sat in darkness saw great light” (<strong>Matthew 4:16</strong>).<br><br>
-
-When light comes, bondage breaks; when light comes, hidden things are revealed. Darkness cannot remain where the light of God appears.<br><br>
-
-Today, you must declare freedom over your life; every imprisoned area of your destiny must go forth, and every hidden glory covered in darkness must show itself.<br><br>
-
-No part of your life will remain buried, no part of your destiny will remain hidden. This is your season of manifestation; you must go forth and shine forth.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, every part of my life that is in prison, I command it to go forth; every area of my life covered in darkness, show yourself by the power of God in Jesus' Name. Amen.<br><br>
 
 <strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
 <strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
