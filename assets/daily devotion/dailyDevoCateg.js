@@ -1,11 +1,48 @@
 export const dailyDevotionCateg = [{
-    date: 'WEDNESDAY 20TH MAY 2026',
+    date: 'FRIDAY 22ND MAY 2026',
     prayer: `
 <p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
-<strong>WEDNESDAY 20TH MAY 2026</strong><br><br>
+<strong>FRIDAY 22ND MAY 2026</strong><br><br>
+
+<strong>HIS MERCY ENDURETH FOR EVER</strong><br><br>
+
+<strong>Psalm 136:1</strong><br>
+“O give thanks unto the Lord; for he is good: for his mercy endureth for ever.”<br><br>
+
+In Psalms 136:1-26, the psalmist continually repeated the words, “for his mercy endureth for ever.” After mentioning the wondrous works of God, he kept declaring, “for his mercy endureth for ever.”<br><br>
+
+This shows that the mercy of God never expires. Whenever you declare, “for his mercy endureth for ever,” you are asking God to continue His good works in your life. You are saying: Lord, continue Your healing; Lord, continue Your protection; Lord, continue Your favour; Lord, continue Your goodness in my life.<br><br>
+
+There was a man who went into a coma for three days, and I was called upon to pray for him. I prayed over him and declared God’s Word upon his body, and I also kept saying, “for his mercy endureth for ever.”<br><br>
+
+In other words, I was saying: Lord, continue Your goodness in this man’s life; Lord, let Your mercy keep speaking for him.<br><br>
+
+After praying, I told the wife, “Do not worry, before tomorrow he will wake up.” That same night, the man woke up from the coma.<br><br>
+
+The mercy of God can change impossible situations. His mercy can restore life, bring healing, and turn captivity around.<br><br>
+
+Today, begin to declare what you want to see in your life. Speak healing, favor, breakthrough, and restoration, then boldly declare, “for his mercy endureth for ever.”<br><br>
+
+As you do, God's mercy will be evident in your life in Jesus' Name. Amen.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, I thank You because Your mercy endureth for ever. Let Your mercy continue to speak over my life, my family, and my destiny in Jesus' Name. Amen.<br><br>
+
+<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'THURSDAY 21ST MAY 2026',
+    prayer: `<p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
 
 <strong>LORD, TEACH ME WHAT I KNOW NOT</strong><br><br>
 
@@ -36,7 +73,7 @@ My Father, My God, that which I see not, teach Thou me. Reveal every hidden thin
 </p>
 `
 }, {
-    date: 'TUESDAY 19TH MAY 2026',
+    date: 'WEDNESDAY 20TH MAY 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
@@ -58,37 +95,6 @@ A life that gives glory to God will not walk in darkness. Let your life continua
 
 <strong>PRAYER</strong><br>
 My Father, My God, I give You all the glory for everything You have done in my life. Let my life remain in Your light, and keep me from every form of darkness and stumbling, in Jesus' Name. Amen.<br><br>
-
-<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
-<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
-
-<strong>GOD BLESS YOU.</strong>
-</p>
-
-`
-}, {
-    date: 'SUNDAY 17TH MAY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-<strong>MONDAY 18TH MAY 2026</strong><br><br>
-
-<strong>THE POWER OF CHOICE</strong><br><br>
-
-<strong>Deuteronomy 30:19</strong><br>
-“I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing, therefore choose life…”<br><br>
-
-Life is full of choices. Every day, you choose the direction your life will take; your choices affect your future, your destiny, and your relationship with God. God created man with the power to choose. He placed before man life and death, blessing and cursing, then He said, “choose life.”<br><br>
-
-This means your decisions matter. The choices you make today can either bring progress or destruction, peace or trouble, blessing or pain. Many people blame others for where they are in life, but sometimes the problem is wrong choices. Wrong friends, wrong habits, wrong decisions, and wrong paths can lead a person away from God’s purpose.<br><br>
-
-Good choices produce good results. When you choose God, righteousness, obedience, and wisdom, your life begins to move in the right direction. Even salvation is a choice, serving God is a choice, and walking in love, faith, and holiness is also a choice.<br><br>
-
-Do not allow emotions or pressure to control your decisions; let God’s Word guide your choices. Today, choose life, choose peace, choose righteousness, and choose God. The power of choice is in your hands.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, help me to make wise and godly choices. Lead me away from every wrong path and help me to choose life, righteousness, and obedience. Let my decisions align with Your will for my life in Jesus' Name. Amen.<br><br>
 
 <strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
 <strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
