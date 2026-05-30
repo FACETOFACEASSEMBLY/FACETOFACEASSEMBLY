@@ -1,11 +1,49 @@
 export const dailyDevotionCateg = [{
-    date: 'FRIDAY 22ND MAY 2026',
+    date: 'SATURDAY 30TH MAY 2026',
     prayer: `
 <p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
-<strong>FRIDAY 22ND MAY 2026</strong><br><br>
+<strong>SATURDAY 30TH MAY 2026</strong><br><br>
+
+<strong>THE DAY IS THINE, THE NIGHT ALSO IS THINE</strong><br><br>
+
+<strong>Psalm 74:16</strong><br>
+“The day is thine, the night also is thine...”<br><br>
+
+God is the owner of both the day and the night; nothing happens outside His control. As a believer, you must understand that both the day and the night carry spiritual opportunities.<br><br>
+
+Many people only pray during the day and ignore the night season, but the Bible shows that God works both day and night.<br><br>
+
+Jesus said, “Are there not twelve hours in the day?” (<strong>John 11:9</strong>).<br><br>
+
+If there are twelve hours in the day, then there are also twelve hours in the night; this means every hour carries opportunities for prayer, declaration, and divine operation.<br><br>
+
+“Therefore thy gates shall be open continually; they shall not be shut day nor night…” (<strong>Isaiah 60:11</strong>).<br><br>
+
+This means your blessings, favor, opportunities, and breakthroughs are not limited to daytime alone; God can move for you both day and night.<br><br>
+
+Go to the market of the day and night spiritually through prayer and declarations. Speak favor into your day, speak protection into your night, and speak blessings over your destiny continually.<br><br>
+
+Do not allow your day or night to remain empty. Fill them with prayer, worship, and God’s Word; the day is yours, and the night also is yours through Christ.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, I declare that my day and my night are blessed. Let my gates remain open continually day and night, in Jesus' Name. Amen.<br><br>
+
+<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'FRIDAY 29TH MAY 2026',
+    prayer: `<p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>FRIDAY 29TH MAY 2026</strong><br><br>
 
 <strong>HIS MERCY ENDURETH FOR EVER</strong><br><br>
 
@@ -38,7 +76,7 @@ My Father, My God, I thank You because Your mercy endureth for ever. Let Your me
 </p>
 `
 }, {
-    date: 'THURSDAY 21ST MAY 2026',
+    date: 'THURSDAY 28TH MAY 2026',
     prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
@@ -65,36 +103,6 @@ What you do not know may continue to trouble you, but when God opens your eyes, 
 
 <strong>PRAYER</strong><br>
 My Father, My God, that which I see not, teach Thou me. Reveal every hidden thing affecting my life and destiny, open my eyes to know what I need to know, and deliver me from every secret battle, in Jesus' Name. Amen.<br><br>
-
-<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
-<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
-
-<strong>GOD BLESS YOU.</strong>
-</p>
-`
-}, {
-    date: 'WEDNESDAY 20TH MAY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-<strong>WEDNESDAY 20TH MAY 2026</strong><br><br>
-
-<strong>GIVE GLORY TO GOD BEFORE DARKNESS COMES</strong><br><br>
-
-<strong>Jeremiah 13:16</strong><br>
-“Give glory to the Lord your God, before he cause darkness, and before your feet stumble upon the dark mountains…”<br><br>
-
-Giving glory to God is not something you do only when things are good; it is a lifestyle of honoring God, appreciating Him, and recognizing His hand in your life.<br><br>
-
-The scripture says, “Give glory to the Lord your God, before he cause darkness.” This means there is danger in ignoring God and living without acknowledging Him. Many people remember God only in times of trouble, but forget Him when things are going well; but a wise person gives glory to God at all times.<br><br>
-
-Darkness represents confusion, sorrow, trouble, and stumbling. When a man walks away from God, he begins to walk into darkness. Giving glory to God keeps your heart connected to Him. It brings humility, gratitude, and dependence on God.<br><br>
-
-A life that gives glory to God will not walk in darkness. Let your life continually reflect thanksgiving, worship, and reverence for God.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, I give You all the glory for everything You have done in my life. Let my life remain in Your light, and keep me from every form of darkness and stumbling, in Jesus' Name. Amen.<br><br>
 
 <strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
 <strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
