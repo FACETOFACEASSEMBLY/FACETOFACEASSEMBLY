@@ -1,7 +1,47 @@
 export const dailyDevotionCateg = [{
-    date: 'SUNDAY 31ST MAY 2026',
+    date: 'MONDAY 1ST JUNE 2026',
     prayer: `
 <p>
+<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
+<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
+
+<strong>SUNDAY 31ST MAY 2026</strong><br><br>
+
+<strong>THANK GOD FOR HIS GOODNESS</strong><br><br>
+
+<strong>Psalm 107:8</strong><br>
+“Oh that men would praise the Lord for his goodness, and for his wonderful works to the children of men!”<br><br>
+
+Today marks the end of the month of May; it is a good time to pause and thank God for His goodness and His wonderful works in our lives.<br><br>
+
+From the beginning of May until this very day, God has been faithful. He has protected us, preserved us, provided for us, and sustained us by His mercy.<br><br>
+
+Many battles were fought without our knowledge, yet God gave us victory. Many dangers were avoided because His hand was upon us, many prayers were answered, and even those yet to be answered are in His hands.<br><br>
+
+The Bible says, “Oh that men would praise the Lord for his goodness.” This means the goodness of God deserves our thanksgiving.<br><br>
+
+Sometimes we focus so much on what has not happened that we forget to thank God for what He has already done; a thankful heart attracts more of God's blessings.<br><br>
+
+If you can breathe, thank God; if you can walk, thank God; if you can sleep and wake up, thank God; if you are still standing despite the battles of life, thank God.<br><br>
+
+The month may not have gone exactly as you planned, but God has remained faithful throughout it all.<br><br>
+
+As May comes to an end, let thanksgiving fill your heart. Remember His goodness, His mercy, His protection, His provision, and His wonderful works.<br><br>
+
+Enter the new month with gratitude, and watch God do even greater things.<br><br>
+
+<strong>PRAYER</strong><br>
+My Father, My God, I thank You for Your goodness from the beginning of May until the end of May. Thank You for Your protection, provision, mercy, favor, and faithfulness. As I enter a new month, let Your goodness continue in my life, for Your mercy endureth for ever, in Jesus' Name. Amen.<br><br>
+
+<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
+
+<strong>GOD BLESS YOU.</strong>
+</p>
+`
+}, {
+    date: 'SUNDAY 31ST MAY 2026',
+    prayer: `<p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
 
@@ -70,44 +110,6 @@ Do not allow your day or night to remain empty. Fill them with prayer, worship, 
 
 <strong>PRAYER</strong><br>
 My Father, My God, I declare that my day and my night are blessed. Let my gates remain open continually day and night, in Jesus' Name. Amen.<br><br>
-
-<strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
-<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
-
-<strong>GOD BLESS YOU.</strong>
-</p>
-`
-}, {
-    date: 'FRIDAY 29TH MAY 2026',
-    prayer: `<p>
-<strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD’S WORD, HAPPY OVERAH</strong><br><br>
-
-<strong>FRIDAY 29TH MAY 2026</strong><br><br>
-
-<strong>HIS MERCY ENDURETH FOR EVER</strong><br><br>
-
-<strong>Psalm 136:1</strong><br>
-“O give thanks unto the Lord; for he is good: for his mercy endureth for ever.”<br><br>
-
-In Psalms 136:1-26, the psalmist continually repeated the words, “for his mercy endureth for ever.” After mentioning the wondrous works of God, he kept declaring, “for his mercy endureth for ever.”<br><br>
-
-This shows that the mercy of God never expires. Whenever you declare, “for his mercy endureth for ever,” you are asking God to continue His good works in your life. You are saying: Lord, continue Your healing; Lord, continue Your protection; Lord, continue Your favour; Lord, continue Your goodness in my life.<br><br>
-
-There was a man who went into a coma for three days, and I was called upon to pray for him. I prayed over him and declared God’s Word upon his body, and I also kept saying, “for his mercy endureth for ever.”<br><br>
-
-In other words, I was saying: Lord, continue Your goodness in this man’s life; Lord, let Your mercy keep speaking for him.<br><br>
-
-After praying, I told the wife, “Do not worry, before tomorrow he will wake up.” That same night, the man woke up from the coma.<br><br>
-
-The mercy of God can change impossible situations. His mercy can restore life, bring healing, and turn captivity around.<br><br>
-
-Today, begin to declare what you want to see in your life. Speak healing, favor, breakthrough, and restoration, then boldly declare, “for his mercy endureth for ever.”<br><br>
-
-As you do, God's mercy will be evident in your life in Jesus' Name. Amen.<br><br>
-
-<strong>PRAYER</strong><br>
-My Father, My God, I thank You because Your mercy endureth for ever. Let Your mercy continue to speak over my life, my family, and my destiny in Jesus' Name. Amen.<br><br>
 
 <strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
 <strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
