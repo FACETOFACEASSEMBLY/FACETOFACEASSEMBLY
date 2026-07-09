@@ -3,29 +3,34 @@ export const dailyDevotionCateg = [{
     prayer: `
 <p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
-<strong>BY TEACHER OF GOD'S WORD</strong><br>
+<strong>BY THE TEACHER OF GOD'S WORD</strong><br>
 <strong>APOSTLE HAPPY OVERAH</strong><br><br>
 
-<strong>TUESDAY, 7TH JULY 2026</strong><br><br>
+<strong>THURSDAY, 9TH JULY 2026</strong><br><br>
 
-<strong>BE FAR FROM OPPRESSION</strong><br><br>
+<strong>LOVE BRINGS DISCIPLINE</strong><br><br>
 
 <strong>Quote:</strong><br>
-“God did not create you to live under oppression but to walk in freedom through Christ.”<br><br>
+“Discipline is not a sign of hatred; it is an expression of love that prepares a child for a better future.”<br><br>
 
-Oppression is the root of hardship, frustration, delay, and captivity. It is the work of the devil, but Jesus came to destroy every yoke and set the oppressed free (<strong>Acts 10:38; Deuteronomy 28:41</strong>).<br><br>
+Discipline is one of the greatest expressions of love. A parent who desires a good future for a child must be willing to correct and guide that child. Discipline helps children avoid destructive paths and builds good character (<strong>Proverbs 3:12</strong>).<br><br>
 
-Oppression can delay destiny and bring sorrow, but it was never God's plan for His children. Every work of the enemy can be overturned by the power of God (<strong>Ecclesiastes 7:7; Matthew 13:28</strong>).<br><br>
+God our Father corrects those He loves. In the same way, parents should discipline their children with love, wisdom, and patience. The purpose of discipline is correction and not punishment (<strong>Hebrews 12:6</strong>).<br><br>
 
-God has promised that you shall be far from oppression. Through the free Spirit of Christ, every chain is broken, and whom the Son sets free is free indeed (<strong>Isaiah 54:14; John 8:36; Romans 8:2; Psalm 51:12</strong>).<br><br>
+Children are precious seeds from God. They are our future and the reflection of the values we teach them today. When correction is applied with love, foolishness is removed and wisdom is developed in their lives (<strong>Proverbs 22:15</strong>).<br><br>
 
-<strong>PRAYER</strong><br>
-My Father, my God, as long as the sun and moon endure, oppression shall be far from me, in Jesus' name. Amen (<strong>Psalm 72:5</strong>).<br><br>
+The Bible calls it the rod of correction and not the rod of punishment. Discipline should be done to restore, train, and bring out the best in a child. When correction is neglected, wrong habits can grow (<strong>Proverbs 29:15</strong>).<br><br>
+
+Your children are your seeds, your future, and your heritage; discipline them, teach them, and pray for them.<br><br>
+
+<strong>PRAYER:</strong><br>
+* My Father, my God, give me wisdom to raise my children according to Your will in Jesus' name. Amen.<br>
+* Let my children be better than me in Jesus' name. Amen.<br><br>
 
 <strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
 <strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
 
-<strong>GOD BLESS YOU.</strong>
+<strong>THE LORD IS THERE!</strong>
 </p>
 `
 }]
