@@ -1,5 +1,5 @@
 export const dailyDevotionCateg = [{
-    date: 'TUESDAY 7TH JULY 2026',
+    date: 'WEDNESDAY 9TH JULY 2026',
     prayer: `
 <p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
