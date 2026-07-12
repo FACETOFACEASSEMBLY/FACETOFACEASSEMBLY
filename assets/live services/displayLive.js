@@ -1,29 +1,25 @@
 import { liveLink } from "./displayLiveLink.js";
 
-let linkHTML = '';
+const liveWrapper = document.getElementById('liveWrapper');
 
-liveLink.forEach((linkItem) => {
-    const link = linkItem.link;
-    
-    linkHTML = `
-        ${link}
-    `
-    document.getElementById('liveWrapper').innerHTML = linkHTML;
-});
+if (liveWrapper) {
+    liveLink.forEach((linkItem) => {
+        liveWrapper.innerHTML = linkItem.link;
+    });
+}
+
 const frame = document.getElementById("liveFrame");
-  const fallback = document.getElementById("liveFallback");
+const fallback = document.getElementById("liveFallback");
 
-  
-  setTimeout(() => {
-    if (!frame.contentWindow || frame.contentWindow.length === 0) {
-      frame.style.display = "none";
-      fallback.style.display = "block";
-    }
-  }, 5000);
+if (frame && fallback) {
+    frame.addEventListener("load", () => {
+        frame.style.display = "block";
+        fallback.style.display = "none";
+    });
 
- 
-  frame.onerror = function () {
-    frame.style.display = "none";
-    fallback.style.display = "block";
-  };
+    frame.addEventListener("error", () => {
+        frame.style.display = "none";
+        fallback.style.display = "block";
+    });
+}
 
