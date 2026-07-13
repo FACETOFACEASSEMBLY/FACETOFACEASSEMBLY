@@ -1,26 +1,26 @@
 export const dailyDevotionCateg = [{
-    date: 'SUNDAY 12TH JULY 2026',
+    date: 'MONDAY 13TH JULY 2026',
     prayer: `
 <p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY THE TEACHER OF GOD'S WORD</strong><br>
 <strong>APOSTLE HAPPY OVERAH</strong><br><br>
 
-<strong>SUNDAY, 12TH JULY 2026</strong><br><br>
+<strong>MONDAY, 13TH JULY 2026</strong><br><br>
 
-<strong>TOPIC: THE GOD THAT PROSPERS PEOPLE</strong><br><br>
+<strong>TOPIC: THE GOD WHO PARDONS INIQUITY</strong><br><br>
 
 <strong>Quote:</strong><br>
-“When God becomes your source, prosperity becomes your testimony.”<br><br>
+“God forgives not just the sins we commit, but the iniquity behind them—cleansing us fully, inside and out.”<br><br>
 
-<strong>R:</strong> The God of heaven is the author of true prosperity. He prospered Joseph even in the land of Egypt, proving that His blessing is not limited by location or circumstance. Everyone who delights in His Word and walks in obedience will experience His divine increase (<strong>Nehemiah 2:20</strong>).<br><br>
+<strong>R:</strong> Iniquity means more than just doing wrong things—it's the sinful nature inside a person that keeps pulling them toward disobedience against God. But God is merciful. Instead of punishing us for our sins, He chooses to forgive anyone who is truly sorry (<strong>Micah 7:18–19</strong>).<br><br>
 
-<strong>I:</strong> Divine prosperity is the manifestation of God's favour, presence, and blessing upon a life that trusts and obeys Him. Just as the Lord was with Joseph and made all that he did to prosper, His presence still brings success and fruitfulness today (<strong>Genesis 39:3</strong>).<br><br>
+<strong>I:</strong> God's mercy never runs out. Every day is a new chance to be forgiven and to start fresh. No matter how messed up your life may seem, God can clean you up, forgive you, and make you whole again—if you come to Him with a sincere heart (<strong>Lamentations 3:22–23; Isaiah 1:18</strong>).<br><br>
 
-<strong>A:</strong> Trust God as your only source, delight in His Word, and remain obedient to His instructions. As you stay rooted in Him, your life will flourish and whatever you do shall prosper (<strong>Psalm 1:3</strong>).<br><br>
+<strong>A:</strong> Take time to look into your heart and be honest with God about your sins. Don't let guilt keep you away from Him. Trust Him to forgive you, live a holy life, and show the same kindness to others that God has shown you (<strong>Micah 7:18–19; Isaiah 1:18</strong>).<br><br>
 
 <strong>PRAYER:</strong><br>
-My Father, my God, prosper me by Your mighty hand. Let Your favour distinguish me and establish the work of my hands in Jesus' name. Amen.<br><br>
+My Father, my God, forgive my sins and cleanse my heart from every iniquity, in Jesus' name. Amen.<br><br>
 
 <strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
 <strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
