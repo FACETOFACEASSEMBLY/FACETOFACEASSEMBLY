@@ -1,29 +1,29 @@
 export const dailyDevotionCateg = [{
-    date: 'WEDNESDAY 22ND JULY 2026',
+    date: 'FRIDAY 23RD JULY 2026',
     prayer: `
 <p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY THE TEACHER OF GOD'S WORD</strong><br>
 <strong>APOSTLE HAPPY OVERAH</strong><br><br>
 
-<strong>WEDNESDAY, 22ND JULY 2026</strong><br><br>
+<strong>FRIDAY, 24TH JULY 2026</strong><br><br>
 
-<strong>COMMANDING FOLLOWERSHIP THROUGH LOVE</strong><br><br>
+<strong>WE ARE KINGS AND PRIESTS</strong><br><br>
 
 <strong>Quote:</strong><br>
-“People may admire your position, but they will follow your love.”<br><br>
+“God did not save you to live an ordinary life; He made you a king to lead and a priest to stand before Him.”<br><br>
 
-<strong>R:</strong> Love is the foundation of true leadership. People willingly follow those who genuinely care for them. God demonstrated the greatest example of leadership through His love in giving Jesus Christ for the world (<strong>John 3:16</strong>).<br><br>
+<strong>R:</strong> God has made every believer a king and a priest. A king makes godly decisions, leads with wisdom, and exercises God's authority (<strong>Revelation 5:10; Proverbs 16:10</strong>).<br><br>
 
-<strong>I:</strong> Love is patient, kind, and enduring. Without love, every gift, achievement, or position loses its true value. Genuine love builds trust, loyalty, and lasting influence (<strong>1 Corinthians 13:1–8</strong>).<br><br>
+<strong>I:</strong> A priest stands before God in prayer for others. In every home, someone must keep the altar of prayer burning. Abraham, Job, and Cornelius were examples of men who led their households spiritually (<strong>Genesis 12:7–8; Job 1:5; Acts 10:1–2; 1 Peter 2:9</strong>).<br><br>
 
-<strong>A:</strong> If you desire people to follow you, let love guide your words, actions, and decisions. A leader who loves sincerely will always command willing followership (<strong>1 Peter 4:8</strong>).<br><br>
+<strong>A:</strong> Live as both a king and a priest by leading wisely and keeping the fire of prayer burning in your home (<strong>Joshua 24:15; 1 Thessalonians 5:17</strong>).<br><br>
 
 <strong>PRAYER:</strong><br>
-My Father, my God, fill me with Your love and make me a leader people are willing to follow, in Jesus' name. Amen.<br><br>
+Father, thank You for making me a king and a priest. Help me to lead with wisdom and keep the fire of prayer burning in my family, in Jesus' name. Amen.<br><br>
 
 <strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
-<strong>SUNDAYS: 1st Service 6:00 AM | 2nd Service 8:00 AM</strong><br><br>
+<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
 
 <strong>GOD BLESS YOU.</strong>
 </p>
