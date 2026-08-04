@@ -1,26 +1,22 @@
 export const dailyDevotionCateg = [{
-    date: 'MONDAY 3RD AUGUST 2026',
+    date: 'TUESDAY 4TH AUGUST 2026',
     prayer: `
 <p>
 <strong>KINGDOM MYSTERIES DAILY DEVOTIONAL</strong><br>
 <strong>BY THE TEACHER OF GOD'S WORD</strong><br>
 <strong>APOSTLE HAPPY OVERAH</strong><br><br>
 
-<strong>MONDAY, 3RD AUGUST 2026</strong><br><br>
+<strong>TUESDAY, 4TH AUGUST 2026</strong><br><br>
 
-<strong>THE SECRET OF FRUITFUL LABOUR</strong><br><br>
+<strong>WARFARE PRAYERS</strong><br><br>
 
-<strong>Quote:</strong><br>
-“When God is your partner, your labour will never be wasted.”<br><br>
-
-<strong>R:</strong> Peter laboured all night without success until Jesus intervened. It is not by power nor by might, but by the Spirit of God that brings lasting results (<strong>Luke 5:5; John 21:3–6; Zechariah 4:6</strong>).<br><br>
-
-<strong>I:</strong> Hard work alone does not guarantee success. It is God's mercy that makes the difference. God shows mercy to whom He chooses, and His mercy turns labour into fruitfulness (<strong>Romans 9:15</strong>).<br><br>
-
-<strong>A:</strong> Trust God's mercy more than your strength. When God is involved, your labour will never be in vain.<br><br>
-
-<strong>PRAYER:</strong><br>
-Father, let Your mercy speak for me and make every labour of my hands fruitful, in Jesus' name. Amen.<br><br>
+<strong>PRAYERS:</strong><br>
+• Today I break all fellowship with the devils through sin, flesh, or sacrifice, in the name of Jesus (<strong>1 Corinthians 10:20</strong>).<br>
+• By the blood of Jesus, let every hidden snare on my feet be exposed, in the name of Jesus (<strong>Jeremiah 18:22</strong>).<br>
+• I will not come into the condemnation of the devil over my life, in the name of Jesus (<strong>1 Timothy 3:6</strong>).<br>
+• I reject the mouth of vanity and the right hand of falsehood, in the name of Jesus (<strong>Psalm 144:8</strong>).<br>
+• Expose all false brethren to me before the end of the year, in the name of Jesus (<strong>2 Corinthians 11:26</strong>).<br>
+• Give me strength to bring forth my destiny, in the name of Jesus (<strong>Isaiah 66:9</strong>).<br><br>
 
 <strong>SEPTEMBER TO REMEMBER 2026</strong><br>
 <strong>Date:</strong> Sunday, 6th September 2026 @ Sapele Township Stadium.<br><br>
