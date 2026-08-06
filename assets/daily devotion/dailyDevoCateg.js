@@ -22,7 +22,7 @@ export const dailyDevotionCateg = [{
 <strong>Date:</strong> Sunday, 6th September 2026 @ Sapele Township Stadium.<br><br>
 
 <strong>JOIN US AT ANY FACE-TO-FACE ASSEMBLY NEAREST TO YOU:</strong><br>
-<strong>SUNDAYS: 1st Service 6:30 AM | 2nd Service 8:30 AM</strong><br><br>
+<strong>SUNDAYS: 1st Service 6:30  AM | 2nd Service 8:30 AM</strong><br><br>
 
 <strong>GOD BLESS YOU.</strong>
 </p>
